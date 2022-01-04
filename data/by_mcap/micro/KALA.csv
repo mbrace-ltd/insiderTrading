@@ -1,0 +1,29 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-10-28 20:06:52,2021-10-26,KALA,Chen Hongming,Chief Scientific Officer,S - Sale,$1.81,-30500,204515,-13%,"-$55,321",,,,,KALA
+1,,2021-10-28 20:05:32,2021-10-26,KALA,Trachtenberg Eric,See Remarks,S - Sale,$1.80,-9449,116666,-7%,"-$17,008",,,,,KALA
+2,,2021-10-28 20:04:51,2021-10-26,KALA,Reumuth Mary,CFO,S - Sale,$1.80,-9449,136058,-6%,"-$17,008",,,,,KALA
+3,,2021-10-28 20:03:46,2021-10-26,KALA,Bazemore Todd,COO,S - Sale,$1.80,-12544,122087,-9%,"-$22,579",,,,,KALA
+4,,2021-10-28 20:02:50,2021-10-26,KALA,Brazzell Romulus K,Chief Medical Officer,S - Sale,$1.80,-12757,291849,-4%,"-$22,963",,,,,KALA
+5,,2021-10-28 20:01:53,2021-10-26,KALA,Iwicki Mark T,CEO,S - Sale,$1.80,-27598,268676,-9%,"-$49,676",,,,,KALA
+6,,2021-06-30 17:30:19,2021-06-29,KALA,Chen Hongming,Chief Scientific Officer,S - Sale,$5.56,-5548,235015,-2%,"-$30,847",,,,,KALA
+7,,2021-06-29 17:26:28,2021-06-28,KALA,Chen Hongming,Chief Scientific Officer,S - Sale,$5.77,-2452,240563,-1%,"-$14,148",,,,,KALA
+8,,2021-06-29 17:26:21,2021-06-28,KALA,Brazzell Romulus K,Chief Medical Officer,S - Sale,$5.77,-3034,300962,-1%,"-$17,506",,,,,KALA
+9,,2021-06-29 17:26:15,2021-06-28,KALA,Trachtenberg Eric,See Remarks,S - Sale,$5.77,-2452,126115,-2%,"-$14,148",,,,,KALA
+10,,2021-06-29 17:26:10,2021-06-28,KALA,Reumuth Mary,CFO,S - Sale,$5.77,-2452,145507,-2%,"-$14,148",,,,,KALA
+11,,2021-06-29 17:25:55,2021-06-28,KALA,Bazemore Todd,COO,S - Sale,$5.77,-2911,42,-99%,"-$16,796",,,,,KALA
+12,,2021-06-29 17:25:28,2021-06-28,KALA,Iwicki Mark T,CEO,S - Sale,$5.77,-7586,296274,-2%,"-$43,771",,,,,KALA
+13,M,2020-10-28 20:36:24,2020-06-05,KALA,Bazemore Todd,COO,P - Purchase,$7.88,+42,110042,0%,+$331,,,,,KALA
+14,,2020-03-17 17:46:13,2020-03-16,KALA,Bazemore Todd,COO,P - Purchase,$5.75,"+10,000",10000,New,"+$57,500",,,,,KALA
+15,,2020-03-16 07:59:59,2020-03-13,KALA,Grunberg Gregory,Dir,P - Purchase,$7.89,"+2,534,854",5411860,+88%,"+$19,999,998",,,,,KALA
+16,,2020-03-13 18:47:07,2020-03-13,KALA,Shah Rajeev M.,"Dir, 10%",P - Purchase,$7.89,"+6,337,135",10874613,+140%,"+$49,999,995",,,,,KALA
+17,,2020-03-13 18:45:51,2020-03-13,KALA,"Ra Capital Management, L.P.","Dir, 10%",P - Purchase,$7.89,"+6,337,135",10874613,+140%,"+$49,999,995",,,,,KALA
+18,,2019-06-03 10:41:18,2019-05-30,KALA,Rosen Howard B,Dir,P - Purchase,$5.42,"+5,000",8240,+154%,"+$27,100",,,,,KALA
+19,,2018-10-09 16:46:17,2018-10-05,KALA,Grunberg Gregory,Dir,P - Purchase,$8.25,"+606,060",2877006,+27%,"+$4,999,995",,,,,KALA
+20,,2018-10-05 16:34:07,2018-10-03,KALA,Shah Rajeev M.,"Dir, 10%",P - Purchase,$8.25,"+2,424,242",4537478,+115%,"+$19,999,997",,,,,KALA
+21,,2018-10-05 16:33:01,2018-10-03,KALA,"Ra Capital Management, LLC","Dir, 10%",P - Purchase,$8.25,"+2,424,242",4537478,+115%,"+$19,999,997",,,,,KALA
+22,,2018-02-12 16:35:54,2018-02-08,KALA,Orbimed Advisors LLC,10%,P - Purchase,$12.93,"+25,000",3447840,+1%,"+$323,250",,,,,KALA
+23,,2018-02-06 17:05:59,2018-02-02,KALA,Orbimed Advisors LLC,10%,P - Purchase,$14.73,"+37,840",3422840,+1%,"+$557,383",,,,,KALA
+24,M,2018-02-02 17:45:14,2018-01-31,KALA,Orbimed Advisors LLC,10%,P - Purchase,$15.00,"+362,240",3385000,+12%,"+$5,433,372",,,,,KALA
+25,M,2018-01-30 15:34:19,2018-01-26,KALA,Orbimed Advisors LLC,10%,P - Purchase,$14.97,"+72,760",3022760,+2%,"+$1,089,307",,,,,KALA
+26,M,2018-01-24 20:59:16,2018-01-12,KALA,Orbimed Advisors LLC,10%,P - Purchase,$14.88,"+257,285",2950000,+10%,"+$3,828,990",,,,,KALA
+27,M,2018-01-12 17:29:55,2018-01-10,KALA,Orbimed Advisors LLC,10%,P - Purchase,$13.28,"+240,484",2692715,+10%,"+$3,192,710",,,,,KALA

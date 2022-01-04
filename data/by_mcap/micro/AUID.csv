@@ -1,0 +1,14 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,DM,2021-12-15 17:00:36,2021-12-15,AUID,Stoller Stuart,CFO,S - Sale+OE,$15.80,-95000,126176,-43%,"-$1,500,774",,,,,AUID
+1,D,2021-08-30 08:01:56,2021-08-26,AUID,Thimot Thomas L,CEO,P - Purchase,$7.00,"+71,426",71426,New,"+$499,982",,,,,AUID
+2,D,2021-08-30 08:01:03,2021-08-26,AUID,Broenniman Philip R,Dir,P - Purchase,$7.00,"+35,700",513579,+7%,"+$249,900",,,,,AUID
+3,D,2021-08-27 16:56:19,2021-08-26,AUID,Smith Cecil N III,"Pres, CTO",P - Purchase,$7.00,"+7,142",7142,New,"+$49,994",,,,,AUID
+4,D,2021-08-27 16:55:42,2021-08-26,AUID,Kumnick Phillip L,Dir,P - Purchase,$7.00,"+71,425",121425,+143%,"+$499,975",,,,,AUID
+5,D,2021-08-27 16:53:32,2021-08-26,AUID,Koehneman Michael L,Dir,P - Purchase,$7.00,"+2,000",4000,+100%,"+$14,000",,,,,AUID
+6,D,2020-07-02 16:19:03,2020-06-30,IDTY,Broenniman Philip R,"Pres, COO",P - Purchase,$0.07,"+714,285",13622096,+6%,"+$50,000",,,,,AUID
+7,D,2019-06-24 16:11:29,2019-06-20,IDTY,Selzer Herbert M.,Dir,P - Purchase,$0.08,"+625,000",6901723,+10%,"+$50,000",,,,,AUID
+8,D,2019-06-21 16:08:08,2019-06-19,IDTY,Stoller Stuart,CFO,P - Purchase,$0.08,"+312,500",5312500,+6%,"+$25,000",,,,,AUID
+9,D,2019-06-21 16:06:55,2019-06-19,IDTY,Beck Philip D,"CEO, Pres, COB, 10%",P - Purchase,$0.08,"+625,000",17125000,+4%,"+$50,000",,,,,AUID
+10,D,2018-11-29 09:39:23,2018-11-29,IDTY,Beck Philip D,"CEO, Pres, COB, 10%",P - Purchase,$0.11,"+500,000",16500000,+3%,"+$55,000",,,,,AUID
+11,D,2018-06-01 16:30:49,2018-05-31,IDTY,Szoke Thomas Robert,CTO,S - Sale+OE,$0.19,-3125483,22083318,-12%,"-$593,842",,,,,AUID
+12,D,2017-12-20 16:35:55,2017-12-19,IDGS,Stern Theodore,Dir,P - Purchase,$0.13,"+2,000,000",15495890,+15%,"+$260,000",,,,,AUID

@@ -1,0 +1,39 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,DM,2021-11-18 17:06:59,2021-11-16,DVAX,Janssen Robert,SVP,S - Sale+OE,$17.11,-89405,8276,-92%,"-$1,529,771",,,,,DVAX
+1,,2021-11-02 17:30:40,2021-11-01,DVAX,Novack David F,"Pres, COO",S - Sale,$20.12,-20000,44066,-31%,"-$402,400",,,,,DVAX
+2,,2021-10-08 17:59:27,2021-10-07,DVAX,Novack David F,"Pres, COO",S - Sale,$18.00,-3000,64066,-4%,"-$54,000",,,,,DVAX
+3,,2021-10-05 19:04:55,2021-10-01,DVAX,Novack David F,"Pres, COO",S - Sale,$18.23,-17000,67066,-20%,"-$309,844",,,,,DVAX
+4,,2021-09-03 17:00:47,2021-09-01,DVAX,Novack David F,"Pres, COO",S - Sale,$19.99,-20000,84066,-19%,"-$399,770",,,,,DVAX
+5,D,2021-09-03 17:00:24,2021-09-01,DVAX,Janssen Robert,SVP,S - Sale+OE,$20.15,-900,8276,-10%,"-$18,135",,,,,DVAX
+6,D,2021-09-03 17:00:16,2021-09-01,DVAX,Burgess Justin,Principal Accounting Officer,S - Sale+OE,$20.00,-20000,3721,-84%,"-$400,000",,,,,DVAX
+7,D,2021-08-27 20:07:00,2021-08-27,DVAX,Hack Andrew A. F.,Dir,S - Sale+OE,$16.22,-2000000,8415000,-19%,"-$32,440,000",,,,,DVAX
+8,D,2021-08-25 19:35:17,2021-08-24,DVAX,Novack David F,"Pres, COO",S - Sale+OE,$14.00,-10000,104066,-9%,"-$140,000",,,,,DVAX
+9,,2021-08-25 19:32:07,2021-08-24,DVAX,Burgess Justin,Principal Accounting Officer,S - Sale,$15.00,-5768,3721,-61%,"-$86,520",,,,,DVAX
+10,D,2021-08-18 19:11:32,2021-08-16,DVAX,Janssen Robert,SVP,S - Sale+OE,$12.36,-2917,8276,-26%,"-$36,054",,,,,DVAX
+11,,2021-08-13 18:59:58,2021-08-11,DVAX,Novack David F,"Pres, COO",S - Sale,$12.00,-10000,107399,-9%,"-$120,000",,,,,DVAX
+12,D,2021-08-13 18:58:40,2021-08-11,DVAX,Janssen Robert,SVP,S - Sale+OE,$12.06,-49583,6861,-88%,"-$597,971",,,,,DVAX
+13,D,2021-08-11 18:26:56,2021-08-09,DVAX,Hack Andrew A. F.,Dir,S - Sale+OE,$10.80,-2250000,8524000,-21%,"-$24,300,000",,,,,DVAX
+14,,2021-08-10 18:57:53,2021-08-06,DVAX,Janssen Robert,SVP,S - Sale,$10.75,-80000,6861,-92%,"-$860,000",,,,,DVAX
+15,,2021-04-02 18:00:55,2021-04-01,DVAX,Novack David F,"Pres, COO",S - Sale,$9.92,-20000,117399,-15%,"-$198,400",,,,,DVAX
+16,ADM,2021-03-26 18:46:52,2021-03-01,DVAX,Burgess Justin,Principal Accounting Officer,S - Sale+OE,$8.86,-4144,6989,-37%,"-$36,728",,,,,DVAX
+17,DM,2021-03-02 19:52:58,2021-03-01,DVAX,Burgess Justin,Principal Accounting Officer,S - Sale+OE,$8.86,-4123,7010,-37%,"-$36,542",,,,,DVAX
+18,,2021-02-03 18:28:32,2021-02-01,DVAX,Janssen Robert,SVP,S - Sale,$10.64,-42155,86485,-33%,"-$448,529",,,,,DVAX
+19,,2020-07-20 19:42:49,2020-07-17,DVAX,Janssen Robert,SVP,S - Sale,$11.09,-50000,127266,-28%,"-$554,500",,,,,DVAX
+20,,2020-05-28 17:13:10,2020-05-27,DVAX,Hack Andrew A. F.,Dir,P - Purchase,$5.00,"+1,000,000",8525000,+13%,"+$5,000,000",,,,,DVAX
+21,,2020-05-19 19:05:22,2020-05-19,DVAX,Janssen Robert,SVP,S - Sale,$6.33,-15000,177266,-8%,"-$94,950",,,,,DVAX
+22,M,2020-05-07 18:37:39,2020-05-05,DVAX,Janssen Robert,SVP,S - Sale,$4.50,-37000,192266,-16%,"-$166,430",,,,,DVAX
+23,D,2019-08-12 19:27:27,2019-08-12,DVAX,Phillips Peggy V,Dir,P - Purchase,$3.00,"+16,666",30468,+121%,"+$49,998",,,,,DVAX
+24,D,2019-08-12 19:24:43,2019-08-12,DVAX,Cano Francis,Dir,P - Purchase,$3.00,"+16,667",16667,New,"+$50,001",,,,,DVAX
+25,D,2019-08-12 19:23:10,2019-08-12,DVAX,Novack David F,"Co-Pres, SVP",P - Purchase,$3.00,"+16,667",118484,+16%,"+$50,001",,,,,DVAX
+26,D,2019-06-04 19:07:33,2019-06-04,DVAX,Coffman Robert,SVP,S - Sale+OE,$4.58,-32218,77768,-29%,"-$147,687",,,,,DVAX
+27,AD,2019-06-04 19:01:51,2019-02-28,DVAX,Ostrach Michael S,SVP,S - Sale+OE,$8.94,-35444,81800,-30%,"-$316,764",,,,,DVAX
+28,,2019-03-01 20:01:00,2019-02-28,DVAX,Johnson David Louis,VP,S - Sale,$9.03,-20765,32021,-39%,"-$187,508",,,,,DVAX
+29,,2019-03-01 19:57:51,2019-02-28,DVAX,Coffman Robert,SVP,S - Sale,$9.03,-63202,77768,-45%,"-$570,714",,,,,DVAX
+30,D,2019-03-01 19:55:07,2019-02-28,DVAX,Ostrach Michael S,SVP,S - Sale+OE,$8.94,-35444,86772,-29%,"-$316,764",,,,,DVAX
+31,,2018-12-07 19:23:56,2018-12-06,DVAX,Cano Francis,Dir,S - Sale,$10.47,-2000,0,-100%,"-$20,942",,,,,DVAX
+32,,2018-06-08 19:37:04,2018-06-08,DVAX,Ostrach Michael S,SVP,S - Sale,$15.53,-4000,76554,-5%,"-$62,100",,,,,DVAX
+33,,2018-03-16 16:40:22,2018-03-15,DVAX,Novack David F,SVP,S - Sale,$16.30,-16109,0,-100%,"-$262,604",,,,,DVAX
+34,,2018-03-15 19:45:22,2018-03-13,DVAX,Novack David F,SVP,S - Sale,$16.52,-34214,16109,-68%,"-$565,105",,,,,DVAX
+35,,2018-03-13 18:56:44,2018-03-09,DVAX,Novack David F,SVP,S - Sale,$17.97,-2121,75521,-3%,"-$38,111",,,,,DVAX
+36,A,2018-02-23 20:02:05,2018-01-04,DVAX,Johnson David Louis,VP,S - Sale,$18.60,-3092,2636,-54%,"-$57,511",,,,,DVAX
+37,,2018-01-05 16:35:50,2018-01-04,DVAX,Johnson David Louis,VP,S - Sale,$18.60,-3092,4718,-40%,"-$57,511",,,,,DVAX

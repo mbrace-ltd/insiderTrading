@@ -1,0 +1,52 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-09 11:45:56,2021-08-04,AON,Knight Lester B,Dir,P - Purchase,$263.96,10000,256349,+4%,"+$2,639,545",,,,,AON
+1,DM,2021-02-17 19:01:13,2021-02-12,AON,Davies Christa,CFO,S - Sale+OE,$227.54,-48419,199571,-20%,"-$11,017,358",,,,,AON
+2,,2020-11-12 17:03:39,2020-11-10,AON,Andersen Eric,Pres,S - Sale,$197.46,-5000,96467,-5%,"-$987,295",,,,,AON
+3,,2020-11-10 19:28:41,2020-11-06,AON,Bruno John G,COO,P - Purchase,$186.46,1000,69685,+1%,"+$186,460",,,,,AON
+4,,2020-11-09 18:03:30,2020-11-05,AON,Knight Lester B,Dir,P - Purchase,$186.55,10000,244629,+4%,"+$1,865,526",,,,,AON
+5,,2020-06-01 16:54:40,2020-05-28,AON,Andersen Eric,Pres,S - Sale,$199.13,-1500,101424,-1%,"-$298,695",,,,,AON
+6,,2020-05-29 17:09:45,2020-05-27,AON,Woo Carolyn Y,Dir,S - Sale,$197.80,-600,25687,-2%,"-$118,679",,,,,AON
+7,,2020-05-18 19:45:17,2020-05-14,AON,Neller Michael,Principal Accounting Officer,S - Sale,$190.50,-750,3459,-18%,"-$142,875",,,,,AON
+8,,2020-05-15 17:16:51,2020-05-13,AON,Knight Lester B,Dir,P - Purchase,$195.00,70000,287482,+32%,"+$13,650,000",,,,,AON
+9,D,2020-03-17 19:30:19,2020-03-16,AON,Neller Michael,Principal Accounting Officer,S - Sale+OE,$160.68,-1250,4209,-23%,"-$200,850",,,,,AON
+10,,2020-02-20 21:21:58,2020-02-18,AON,O'Connor Michael J,Co-Pres,S - Sale,$234.59,-25250,123885,-17%,"-$5,923,423",,,,,AON
+11,,2020-02-19 19:19:42,2020-02-18,AON,Davies Christa,CFO,S - Sale,$233.77,-2354,219571,-1%,"-$550,286",,,,,AON
+12,,2020-02-19 19:10:54,2020-02-18,AON,Goland Anthony R,Chief Innovation Officer,S - Sale,$235.00,-15040,16757,-47%,"-$3,534,400",,,,,AON
+13,D,2020-02-18 17:01:59,2020-02-14,AON,Davies Christa,CFO,S - Sale+OE,$235.06,-32762,221925,-13%,"-$7,701,116",,,,,AON
+14,,2019-11-07 16:48:16,2019-11-06,AON,Losh J Michael,Dir,S - Sale,$193.60,-5000,34569,-13%,"-$968,000",,,,,AON
+15,,2019-11-07 16:38:58,2019-11-05,AON,Goland Anthony R,Chief Innovation Officer,S - Sale,$194.79,-1703,15589,-10%,"-$331,727",,,,,AON
+16,,2019-09-05 17:34:49,2019-09-03,AON,Neller Michael,Principal Accounting Officer,S - Sale,$193.29,-750,2192,-25%,"-$144,968",,,,,AON
+17,M,2019-09-03 16:32:28,2019-08-29,AON,Bruno John G,COO,S - Sale,$192.30,-7600,45152,-14%,"-$1,461,468",,,,,AON
+18,,2019-06-04 17:37:08,2019-05-31,AON,Lieb Peter M,GC,S - Sale,$180.69,-11645,1,-100%,"-$2,104,090",,,,,AON
+19,,2019-05-09 17:23:20,2019-05-09,AON,Andersen Eric,Co-Pres,S - Sale,$178.50,-7500,80941,-8%,"-$1,338,750",,,,,AON
+20,,2019-05-01 17:02:04,2019-04-30,AON,Lieb Peter M,GC,S - Sale,$178.39,-5200,11646,-31%,"-$927,613",,,,,AON
+21,,2019-02-21 16:47:20,2019-02-19,AON,Lieb Peter M,GC,S - Sale,$172.77,-15068,16846,-47%,"-$2,603,282",,,,,AON
+22,AM,2019-02-21 16:40:20,2019-02-14,AON,Davies Christa,CFO,S - Sale,$171.57,-12482,219571,-5%,"-$2,141,472",,,,,AON
+23,DM,2019-02-20 08:34:52,2019-02-14,AON,Davies Christa,CFO,S - Sale+OE,$170.91,-58152,210571,-22%,"-$9,938,466",,,,,AON
+24,D,2019-02-19 21:19:41,2018-05-24,AON,Andersen Eric,Co-Pres,S - Sale+OE,$142.39,-5000,88441,-5%,"-$711,950",,,,,AON
+25,D,2019-02-19 21:13:28,2019-02-19,AON,Neller Michael,Principal Accounting Officer,S - Sale+OE,$171.66,-1250,2626,-32%,"-$214,575",,,,,AON
+26,,2018-11-09 16:12:55,2018-11-07,AON,Grace Caroline,"CEO, Global Retirement, Inves",S - Sale,$160.00,-4000,41796,-9%,"-$640,000",,,,,AON
+27,,2018-09-21 16:31:05,2018-09-19,AON,Grace Caroline,"CEO, Global Retirement, Inves",S - Sale,$155.00,-4000,45796,-8%,"-$620,000",,,,,AON
+28,,2018-09-10 16:39:29,2018-09-06,AON,Grace Caroline,"CEO, Global Retirement, Inves",S - Sale,$150.00,-4000,49796,-7%,"-$600,000",,,,,AON
+29,,2018-08-22 17:43:12,2018-08-20,AON,Neller Michael,Principal Accounting Officer,S - Sale,$143.58,-750,787,-49%,"-$107,683",,,,,AON
+30,,2018-08-08 17:26:32,2018-08-06,AON,Campbell Jeffrey C,Dir,P - Purchase,$143.84,5550,7084,+362%,"+$798,290",,,,,AON
+31,,2018-05-18 16:03:42,2018-05-16,AON,Neller Michael,Principal Accounting Officer,S - Sale,$140.93,-1000,1217,-45%,"-$140,930",,,,,AON
+32,,2018-03-13 16:37:50,2018-03-09,AON,Lieb Peter M,GC,S - Sale,$145.00,-14772,15973,-48%,"-$2,141,940",,,,,AON
+33,,2018-03-13 16:30:04,2018-03-09,AON,O'Connor Michael J,"CEO, Aon Risk Solutions",S - Sale,$145.00,-9855,123660,-7%,"-$1,428,975",,,,,AON
+34,,2018-03-05 16:25:02,2018-03-01,AON,Neller Michael,Principal Accounting Officer,S - Sale,$140.12,-1500,1876,-44%,"-$210,180",,,,,AON
+35,,2018-02-22 18:06:40,2018-02-20,AON,O'Connor Michael J,"CEO, Aon Risk Solutions",S - Sale,$140.23,-1411,133515,-1%,"-$197,865",,,,,AON
+36,,2018-02-22 18:02:53,2018-02-20,AON,Meissner Laurel G.,Global Controller,S - Sale,$140.23,-7940,12314,-39%,"-$1,113,426",,,,,AON
+37,,2018-02-22 17:47:13,2018-02-20,AON,Davies Christa,CFO,S - Sale,$140.99,-3237,231687,-1%,"-$456,372",,,,,AON
+38,,2018-02-22 17:40:27,2018-02-21,AON,Goland Anthony R,CHRO,S - Sale,$141.16,-2124,261,-89%,"-$299,824",,,,,AON
+39,M,2018-02-22 17:37:39,2018-02-20,AON,Lieb Peter M,GC,S - Sale,$141.24,-1611,30933,-5%,"-$227,536",,,,,AON
+40,D,2018-02-20 21:00:11,2018-02-16,AON,Davies Christa,CFO,S - Sale+OE,$140.92,-96570,234924,-29%,"-$13,608,393",,,,,AON
+41,,2018-02-08 17:00:51,2018-02-06,AON,Knight Lester B,Dir,P - Purchase,$138.42,60000,403556,+17%,"+$8,305,300",,,,,AON
+42,,2018-02-06 18:51:07,2018-02-02,AON,Zern John,"CEO, Aon Global Health",S - Sale,$147.00,-14747,12948,-53%,"-$2,167,809",,,,,AON
+43,D,2018-02-06 18:25:31,2018-02-02,AON,O'Connor Michael J,"CEO, ARS",S - Sale+OE,$145.00,-12824,113805,-10%,"-$1,859,480",,,,,AON
+44,,2018-02-02 16:37:51,2018-01-31,AON,Lieb Peter M,"EVP, GC",S - Sale,$141.39,-4200,16161,-21%,"-$593,838",,,,,AON
+45,,2017-12-04 17:35:35,2017-11-30,AON,Zern John,"CEO, Global Health, Benefits",S - Sale,$139.79,-17680,27695,-39%,"-$2,471,487",,,,,AON
+46,,2017-12-04 17:27:44,2017-11-30,AON,Meissner Laurel G.,"SVP, Global Controller",S - Sale,$141.20,-4000,12314,-25%,"-$564,800",,,,,AON
+47,,2017-11-16 16:17:34,2017-11-14,AON,Andersen Eric,"CEO, Aon Benfield",S - Sale,$143.52,-10000,51741,-16%,"-$1,435,200",,,,,AON
+48,,2017-11-13 16:33:07,2017-11-09,AON,Bruno John G,"EVP, CIO",S - Sale,$143.24,-10000,10471,-49%,"-$1,432,400",,,,,AON
+49,D,2017-09-21 17:17:07,2017-09-19,AON,O'Connor Michael J,"CEO, ARS",S - Sale+OE,$145.00,-10000,113805,-8%,"-$1,450,000",,,,,AON
+50,D,2017-09-08 16:30:50,2017-09-06,AON,O'Connor Michael J,"CEO, ARS",S - Sale+OE,$140.28,-10000,113805,-8%,"-$1,402,800",,,,,AON

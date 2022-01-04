@@ -1,0 +1,29 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-18 08:37:37,2021-03-17,VIVO,Kenny John P.,CEO,S - Sale,$25.00,-30000,208659,-13%,"-$750,000",,,,,VIVO
+1,,2021-03-11 16:29:06,2021-03-10,VIVO,Kenny John P.,CEO,S - Sale,$25.00,-10000,238659,-4%,"-$250,000",,,,,VIVO
+2,D,2021-02-17 10:14:51,2021-02-16,VIVO,Kenny John P.,CEO,S - Sale+OE,$30.35,-2359,248659,-1%,"-$71,604",,,,,VIVO
+3,DM,2021-02-16 08:45:00,2021-02-11,VIVO,Kenny John P.,CEO,S - Sale+OE,$30.13,-27501,248936,-10%,"-$828,686",,,,,VIVO
+4,D,2021-02-10 13:22:10,2021-02-08,VIVO,Kenny John P.,CEO,S - Sale+OE,$29.86,-68288,252176,-21%,"-$2,039,114",,,,,VIVO
+5,D,2021-02-09 15:02:45,2021-02-08,VIVO,Rice John McCune Jr.,Dir,S - Sale+OE,$28.16,-16480,24437,-40%,"-$464,008",,,,,VIVO
+6,D,2021-02-09 13:26:35,2021-02-08,VIVO,Baldasare Bryan T,"EVP, CFO",S - Sale+OE,$30.00,-6254,56128,-10%,"-$187,620",,,,,VIVO
+7,D,2021-02-08 10:21:28,2021-02-05,VIVO,Baldasare Bryan T,"EVP, CFO",S - Sale+OE,$26.61,-14250,58632,-20%,"-$379,126",,,,,VIVO
+8,,2021-02-08 10:18:49,2021-02-05,VIVO,Kenny John P.,CEO,S - Sale,$25.00,-40000,254330,-14%,"-$1,000,000",,,,,VIVO
+9,,2020-11-30 10:47:30,2020-11-25,VIVO,Bihl Anthony P III,Dir,P - Purchase,$17.65,"+5,000",10851,+85%,"+$88,266",,,,,VIVO
+10,AD,2020-08-12 16:36:30,2020-08-11,VIVO,Bihl Anthony P III,Dir,P - Purchase,$17.99,"+5,000",5851,+588%,"+$89,950",,,,,VIVO
+11,,2020-03-17 13:55:10,2020-03-16,VIVO,Williams Felicia,Dir,P - Purchase,$6.02,"+1,550",5717,+37%,"+$9,331",,,,,VIVO
+12,,2020-03-13 09:05:05,2020-03-12,VIVO,Kenny John P.,CEO,P - Purchase,$5.78,"+30,000",238324,+14%,"+$173,541",,,,,VIVO
+13,,2020-03-11 13:47:25,2020-03-10,VIVO,Baldasare Bryan T,"EVP, CFO",P - Purchase,$6.97,"+2,000",52637,+4%,"+$13,936",,,,,VIVO
+14,,2020-02-26 09:01:06,2020-02-25,VIVO,McIlwraith John,Dir,P - Purchase,$7.59,"+5,000",17167,+41%,"+$37,950",,,,,VIVO
+15,,2020-02-26 08:51:55,2020-02-24,VIVO,Rice John McCune Jr.,Dir,P - Purchase,$7.52,"+3,000",12167,+33%,"+$22,547",,,,,VIVO
+16,,2020-02-24 11:01:11,2020-02-21,VIVO,Kenny John P.,CEO,P - Purchase,$7.65,"+10,000",208324,+5%,"+$76,546",,,,,VIVO
+17,,2019-11-13 10:49:17,2019-11-12,VIVO,Phillips David,Dir,P - Purchase,$8.06,"+10,000",54107,+23%,"+$80,626",,,,,VIVO
+18,,2019-11-12 08:08:48,2019-11-08,VIVO,Kenny John P.,CEO,P - Purchase,$7.73,"+20,000",198324,+11%,"+$154,588",,,,,VIVO
+19,,2019-05-23 12:59:02,2019-05-22,VIVO,Rice John McCune Jr.,Dir,P - Purchase,$11.26,"+2,000",5981,+50%,"+$22,516",,,,,VIVO
+20,,2019-05-20 14:05:57,2019-05-16,VIVO,Anderson James M.,Dir,P - Purchase,$11.37,"+5,000",16981,+42%,"+$56,855",,,,,VIVO
+21,,2019-05-13 15:54:11,2019-05-13,VIVO,Phillips David,Dir,P - Purchase,$11.40,"+5,000",44107,+13%,"+$57,015",,,,,VIVO
+22,,2019-05-09 12:40:45,2019-05-08,VIVO,Kenny John P.,CEO,P - Purchase,$11.49,"+20,000",83000,+32%,"+$229,744",,,,,VIVO
+23,M,2019-02-25 09:36:13,2015-02-10,VIVO,Ellingwood Dwight E,Dir,P - Purchase,$16.51,+566,9547,+6%,"+$9,344",,,,,VIVO
+24,M,2018-11-14 09:52:55,2018-11-12,VIVO,Baldini Lawrence,"EVP, Global Operations",S - Sale,$19.41,-35101,66253,-35%,"-$681,229",,,,,VIVO
+25,,2018-08-28 11:34:29,2018-08-24,VIVO,McIlwraith John,Dir,P - Purchase,$15.63,"+2,000",6000,+50%,"+$31,250",,,,,VIVO
+26,,2018-02-26 10:50:53,2018-02-23,VIVO,McIlwraith John,Dir,P - Purchase,$14.03,"+1,000",4000,+33%,"+$14,034",,,,,VIVO
+27,,2018-02-07 15:57:53,2018-02-07,VIVO,Rice John McCune Jr.,Dir,P - Purchase,$14.75,"+1,000",1000,New,"+$14,750",,,,,VIVO

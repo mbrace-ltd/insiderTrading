@@ -1,0 +1,113 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-04 13:20:28,2021-08-02,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$178.48,-5500,106500,-5%,"-$981,630",,,,,HSY
+1,D,2021-08-04 11:55:52,2021-08-02,HSY,Hershey Trust Co,10%,S - Sale+OE,$178.48,-5500,106500,-5%,"-$981,630",,,,,HSY
+2,,2021-07-12 08:41:58,2021-07-08,HSY,Arway Pamela M,Dir,S - Sale,$175.88,-319,15861,-2%,"-$56,106",,,,,HSY
+3,,2021-06-29 11:38:07,2021-06-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$175.15,-2500,180497,-1%,"-$437,875",,,,,HSY
+4,,2021-06-03 09:31:34,2021-06-01,HSY,McCalman Jennifer,"VP, Chief Accounting Officer",S - Sale,$173.66,-377,1818,-17%,"-$65,470",,,,,HSY
+5,,2021-06-01 15:18:06,2021-05-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$173.52,-2500,182997,-1%,"-$433,800",,,,,HSY
+6,D,2021-05-21 09:22:33,2021-05-20,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$173.09,-11600,112000,-9%,"-$2,007,892",,,,,HSY
+7,D,2021-05-21 09:09:21,2021-05-20,HSY,Hershey Trust Co,10%,S - Sale+OE,$173.09,-11600,112000,-9%,"-$2,007,892",,,,,HSY
+8,,2021-04-29 13:40:28,2021-04-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$159.26,-2500,185497,-1%,"-$398,150",,,,,HSY
+9,,2021-04-12 09:04:57,2021-04-08,HSY,Arway Pamela M,Dir,S - Sale,$160.50,-305,15945,-2%,"-$48,953",,,,,HSY
+10,,2021-03-31 11:30:57,2021-03-29,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$158.80,-2500,187997,-1%,"-$397,000",,,,,HSY
+11,D,2021-03-18 09:29:59,2021-03-17,HSY,Scalia Christopher M,"SVP, CHRO",S - Sale+OE,$155.47,-3100,7318,-30%,"-$481,957",,,,,HSY
+12,D,2021-03-16 08:41:55,2021-03-12,HSY,Scalia Christopher M,"SVP, CHRO",S - Sale+OE,$152.47,-8021,7318,-52%,"-$1,222,966",,,,,HSY
+13,,2021-03-02 12:02:41,2021-03-01,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$146.06,-2500,192331,-1%,"-$365,150",,,,,HSY
+14,,2021-01-29 13:27:55,2021-01-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$146.41,-2500,155121,-2%,"-$366,025",,,,,HSY
+15,,2021-01-12 08:58:26,2021-01-08,HSY,Arway Pamela M,Dir,S - Sale,$151.46,-278,15994,-2%,"-$42,106",,,,,HSY
+16,,2020-12-29 09:59:58,2020-12-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$151.05,-2500,157621,-2%,"-$377,625",,,,,HSY
+17,,2020-12-01 11:39:17,2020-11-30,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$147.40,-2500,160121,-2%,"-$368,500",,,,,HSY
+18,,2020-10-29 11:38:33,2020-10-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$140.62,-2500,162621,-2%,"-$351,550",,,,,HSY
+19,,2020-10-08 13:21:15,2020-10-07,HSY,Arway Pamela M,Dir,S - Sale,$142.02,-256,16002,-2%,"-$36,357",,,,,HSY
+20,,2020-09-29 15:04:18,2020-09-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$140.31,-2500,165121,-1%,"-$350,775",,,,,HSY
+21,D,2020-08-31 14:33:19,2020-08-28,HSY,Buck Michele,"COB, Pres, CEO",S - Sale+OE,$149.04,-13996,167621,-8%,"-$2,085,964",,,,,HSY
+22,,2020-07-09 15:18:01,2020-07-08,HSY,Arway Pamela M,Dir,S - Sale,$128.98,-294,15970,-2%,"-$37,920",,,,,HSY
+23,,2020-04-14 11:04:00,2020-04-13,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$143.20,-1500,170121,-1%,"-$214,800",,,,,HSY
+24,,2020-04-08 09:18:25,2020-04-07,HSY,Arway Pamela M,Dir,S - Sale,$142.37,-347,15945,-2%,"-$49,402",,,,,HSY
+25,,2020-03-11 13:26:08,2020-03-10,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$152.97,-1500,174428,-1%,"-$229,455",,,,,HSY
+26,D,2020-02-19 13:09:28,2020-02-18,HSY,Buck Michele,"COB, Pres, CEO",S - Sale+OE,$159.92,-3832,147929,-3%,"-$612,813",,,,,HSY
+27,,2020-02-12 13:19:44,2020-02-10,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$156.60,-1500,147929,-1%,"-$234,900",,,,,HSY
+28,D,2020-02-05 09:19:03,2020-02-03,HSY,Buck Michele,"COB, Pres, CEO",S - Sale+OE,$155.83,-3832,149429,-3%,"-$597,141",,,,,HSY
+29,D,2020-01-29 11:13:40,2020-01-27,HSY,Reiman Jason,SVP Chief Supply Chain Officer,S - Sale+OE,$155.00,-2905,6700,-30%,"-$450,275",,,,,HSY
+30,D,2020-01-21 13:12:50,2020-01-17,HSY,Buck Michele,"COB, Pres, CEO",S - Sale+OE,$150.00,-3832,153261,-2%,"-$574,800",,,,,HSY
+31,DM,2020-01-14 14:19:47,2020-01-10,HSY,Buck Michele,"COB, Pres, CEO",S - Sale+OE,$149.11,-5332,149429,-3%,"-$795,045",,,,,HSY
+32,,2020-01-09 08:58:43,2020-01-08,HSY,Arway Pamela M,Dir,S - Sale,$145.48,-371,15986,-2%,"-$53,973",,,,,HSY
+33,,2019-12-11 13:07:35,2019-12-10,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$149.62,-1500,150929,-1%,"-$224,430",,,,,HSY
+34,,2019-12-05 14:43:43,2019-12-04,HSY,Walling Kevin R,SVP CHRO,S - Sale,$148.54,-2500,31957,-7%,"-$371,350",,,,,HSY
+35,D,2019-12-05 14:42:12,2019-12-03,HSY,Buck Michele,"COB, Pres, CEO",S - Sale+OE,$150.00,-3832,152429,-2%,"-$574,800",,,,,HSY
+36,D,2019-12-04 16:16:46,2019-12-02,HSY,Stone West Mary E,"SVP, Chief Growth Officer",S - Sale+OE,$148.03,-25563,36976,-41%,"-$3,784,111",,,,,HSY
+37,D,2019-11-15 14:03:27,2019-11-13,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$145.06,-6800,123600,-5%,"-$986,409",,,,,HSY
+38,D,2019-11-15 13:50:21,2019-11-13,HSY,Hershey Trust Co,10%,S - Sale+OE,$145.06,-6800,123600,-5%,"-$986,409",,,,,HSY
+39,,2019-11-14 13:52:26,2019-11-13,HSY,Walling Kevin R,SVP CHRO,S - Sale,$145.00,-2500,34457,-7%,"-$362,500",,,,,HSY
+40,,2019-11-13 10:11:52,2019-11-11,HSY,Buck Michele,"COB, Pres, CEO",S - Sale,$141.15,-1500,152429,-1%,"-$211,725",,,,,HSY
+41,D,2019-10-18 09:30:02,2019-10-16,HSY,Buck Michele,"COB, Pres, CEO",S - Sale+OE,$152.04,-3832,153929,-2%,"-$582,617",,,,,HSY
+42,,2019-10-15 08:55:07,2019-10-10,HSY,Buck Michele,"Pres, CEO",S - Sale,$155.85,-1500,153929,-1%,"-$233,775",,,,,HSY
+43,D,2019-10-03 15:12:49,2019-10-01,HSY,Walling Kevin R,SVP CHRO,S - Sale+OE,$154.23,-17745,36957,-32%,"-$2,736,855",,,,,HSY
+44,D,2019-10-03 09:16:19,2019-10-01,HSY,Buck Michele,"Pres, CEO",S - Sale+OE,$154.79,-3832,155429,-2%,"-$593,155",,,,,HSY
+45,,2019-09-11 13:25:44,2019-09-10,HSY,Buck Michele,"Pres, CEO",S - Sale,$155.13,-1500,155429,-1%,"-$232,695",,,,,HSY
+46,D,2019-08-28 09:08:24,2019-08-26,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$158.38,-3100,130400,-2%,"-$490,970",,,,,HSY
+47,D,2019-08-28 08:47:09,2019-08-26,HSY,Hershey Trust Co,10%,S - Sale+OE,$158.38,-3100,130400,-2%,"-$490,970",,,,,HSY
+48,,2019-08-13 14:35:27,2019-08-12,HSY,Buck Michele,"Pres, CEO",S - Sale,$155.56,-1500,156929,-1%,"-$233,340",,,,,HSY
+49,D,2019-08-05 12:21:28,2019-08-01,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$153.05,-6000,133500,-4%,"-$918,270",,,,,HSY
+50,D,2019-08-05 11:43:22,2019-08-01,HSY,Hershey Trust Co,10%,S - Sale+OE,$153.05,-6000,133500,-4%,"-$918,270",,,,,HSY
+51,AD,2019-08-01 11:44:53,2019-07-30,HSY,Hershey Trust Co,10%,S - Sale+OE,$152.82,-10000,139500,-7%,"-$1,528,154",,,,,HSY
+52,D,2019-08-01 11:14:12,2019-07-30,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$152.82,-10000,139500,-7%,"-$1,528,154",,,,,HSY
+53,D,2019-08-01 10:30:27,2019-07-30,HSY,Hershey Trust Co,10%,S - Sale+OE,$152.82,-10000,139500,-7%,"-$1,528,154",,,,,HSY
+54,,2019-07-11 10:35:42,2019-07-10,HSY,Buck Michele,"Pres, CEO",S - Sale,$138.57,-1500,158429,-1%,"-$207,855",,,,,HSY
+55,D,2019-06-18 15:29:39,2019-06-17,HSY,O'Day Terence L,"SVP Chief Tech Off, Data Off",S - Sale+OE,$137.30,-69444,26608,-72%,"-$9,534,745",,,,,HSY
+56,,2019-06-11 11:06:21,2019-06-10,HSY,Buck Michele,"Pres, CEO",S - Sale,$138.01,-1500,159929,-1%,"-$207,015",,,,,HSY
+57,D,2019-06-06 13:39:31,2019-06-05,HSY,Walling Kevin R,SVP CHRO,S - Sale+OE,$135.17,-36132,42957,-46%,"-$4,883,954",,,,,HSY
+58,D,2019-06-03 13:39:41,2019-05-31,HSY,Buck Michele,"Pres, CEO",S - Sale+OE,$129.14,-6000,161429,-4%,"-$774,840",,,,,HSY
+59,,2019-05-31 12:59:14,2019-05-31,HSY,Voskuil Steven E,"SVP, CFO",P - Purchase,$129.14,1000,1000,New,"+$129,140",,,,,HSY
+60,,2019-05-31 09:25:55,2019-05-30,HSY,Atkins Damien,"SVP, GC, Secretary",P - Purchase,$130.10,100,4761,+2%,"+$13,010",,,,,HSY
+61,,2019-05-30 14:01:40,2019-05-30,HSY,Tillemans Todd W,"Pres, U.S.",P - Purchase,$129.92,2000,15773,+15%,"+$259,840",,,,,HSY
+62,,2019-05-24 09:04:08,2019-05-23,HSY,Palmer Anthony J.,Dir,S - Sale,$130.43,-5000,10014,-33%,"-$652,150",,,,,HSY
+63,D,2019-05-23 08:28:50,2019-05-21,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$130.01,-236780,149500,-61%,"-$30,782,844",,,,,HSY
+64,DM,2019-05-21 12:15:58,2019-05-17,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$129.14,-524260,386280,-58%,"-$67,703,121",,,,,HSY
+65,DM,2019-05-16 16:49:05,2019-05-15,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$128.09,-617613,910540,-40%,"-$79,109,986",,,,,HSY
+66,DM,2019-05-15 12:12:57,2019-05-13,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$127.00,-583012,1528153,-28%,"-$74,039,804",,,,,HSY
+67,ADM,2019-05-13 09:19:26,2019-05-07,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$124.22,-556917,2575021,-18%,"-$69,180,014",,,,,HSY
+68,DM,2019-05-13 09:11:22,2019-05-09,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$125.49,-463856,2111165,-18%,"-$58,208,618",,,,,HSY
+69,D,2019-05-09 14:32:13,2019-05-08,HSY,Idrovo Javier H,"VP, Chief Accounting Officer",S - Sale+OE,$125.00,-40252,25951,-61%,"-$5,031,500",,,,,HSY
+70,DM,2019-05-09 08:53:23,2019-05-07,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$124.22,-556917,2575021,-18%,"-$69,180,014",,,,,HSY
+71,DM,2019-05-07 08:51:25,2019-05-03,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$122.77,-410468,3131938,-12%,"-$50,392,467",,,,,HSY
+72,DM,2019-05-03 09:13:26,2019-05-01,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$123.09,-360715,3542406,-9%,"-$44,400,053",,,,,HSY
+73,D,2019-04-26 15:13:29,2019-04-25,HSY,Idrovo Javier H,"VP, Chief Accounting Officer",S - Sale+OE,$120.00,-7385,25951,-22%,"-$886,200",,,,,HSY
+74,,2019-04-23 10:45:33,2019-04-22,HSY,Buck Michele,"Pres, CEO",S - Sale,$117.00,-1500,161429,-1%,"-$175,500",,,,,HSY
+75,D,2019-04-16 15:24:14,2019-04-15,HSY,Little Patricia A,"SVP, CFO",S - Sale+OE,$116.25,-7208,49158,-13%,"-$837,930",,,,,HSY
+76,D,2019-04-02 10:27:46,2019-03-29,HSY,Little Patricia A,"SVP, CFO",S - Sale+OE,$114.62,-5433,49158,-10%,"-$622,730",,,,,HSY
+77,,2019-03-22 15:31:19,2019-03-20,HSY,Buck Michele,"Pres, CEO",S - Sale,$109.52,-1500,162929,-1%,"-$164,280",,,,,HSY
+78,D,2019-02-26 13:12:45,2019-02-25,HSY,Little Patricia A,"SVP, CFO",S - Sale+OE,$109.30,-19779,36049,-35%,"-$2,161,754",,,,,HSY
+79,,2019-02-21 13:29:32,2019-02-20,HSY,Buck Michele,"Pres, CEO",S - Sale,$109.59,-1500,141662,-1%,"-$164,385",,,,,HSY
+80,D,2019-02-21 13:26:28,2019-02-20,HSY,Idrovo Javier H,"VP, Chief Accounting Officer",S - Sale+OE,$110.00,-4873,21436,-19%,"-$536,030",,,,,HSY
+81,,2019-01-23 16:11:58,2019-01-22,HSY,Buck Michele,"Pres, CEO",S - Sale,$108.19,-1500,166394,-1%,"-$162,285",,,,,HSY
+82,,2018-12-21 09:40:46,2018-12-20,HSY,Buck Michele,"Pres, CEO",S - Sale,$106.68,-1500,167894,-1%,"-$160,020",,,,,HSY
+83,,2018-11-21 08:21:08,2018-11-20,HSY,Buck Michele,"Pres, CEO",S - Sale,$107.86,-1500,169394,-1%,"-$161,790",,,,,HSY
+84,D,2018-11-08 12:12:01,2018-11-07,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$106.30,-4500000,3903121,-54%,"-$478,350,000",,,,,HSY
+85,D,2018-11-08 11:50:28,2018-11-07,HSY,Hershey Trust Co,10%,S - Sale+OE,$106.30,-4500000,3903121,-54%,"-$478,350,000",,,,,HSY
+86,,2018-11-07 12:11:40,2018-11-06,HSY,Tillemans Todd W,"Pres, U.S.",P - Purchase,$107.32,2000,10878,+23%,"+$214,640",,,,,HSY
+87,D,2018-10-30 09:51:05,2018-10-29,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,P - Purchase,$106.00,47170,8403121,+1%,"+$5,000,020",,,,,HSY
+88,D,2018-10-30 09:51:05,2018-10-29,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$106.00,-47170,8403121,-1%,"-$5,000,020",,,,,HSY
+89,D,2018-10-30 09:31:54,2018-10-29,HSY,Hershey Trust Co,10%,P - Purchase,$106.00,47170,8403121,+1%,"+$5,000,020",,,,,HSY
+90,D,2018-10-30 09:31:54,2018-10-29,HSY,Hershey Trust Co,10%,S - Sale+OE,$106.00,-47170,8403121,-1%,"-$5,000,020",,,,,HSY
+91,,2018-10-24 15:28:18,2018-10-22,HSY,Buck Michele,"Pres, CEO",S - Sale,$106.61,-1500,170894,-1%,"-$159,915",,,,,HSY
+92,D,2018-10-10 10:49:46,2018-10-08,HSY,Little Patricia A,"SVP, CFO",S - Sale+OE,$106.00,-21622,37086,-37%,"-$2,291,932",,,,,HSY
+93,D,2018-09-26 13:12:51,2018-09-24,HSY,Little Patricia A,"SVP, CFO",S - Sale+OE,$103.00,-17589,37086,-32%,"-$1,811,667",,,,,HSY
+94,,2018-09-21 10:17:08,2018-09-20,HSY,Buck Michele,"Pres, CEO",S - Sale,$102.82,-1500,172573,-1%,"-$154,230",,,,,HSY
+95,,2018-08-21 15:44:23,2018-08-20,HSY,Buck Michele,"Pres, CEO",S - Sale,$101.90,-1500,174073,-1%,"-$152,850",,,,,HSY
+96,D,2018-08-21 11:00:47,2018-08-17,HSY,Walling Kevin R,SVP CHRO,S - Sale+OE,$101.18,-30835,35346,-47%,"-$3,119,971",,,,,HSY
+97,,2018-07-23 14:40:56,2018-07-20,HSY,Buck Michele,"Pres, CEO",S - Sale,$92.26,-1500,175573,-1%,"-$138,390",,,,,HSY
+98,,2018-05-29 15:21:43,2018-05-24,HSY,Shedlarz David L,Dir,S - Sale,$91.25,-5450,11723,-32%,"-$497,313",,,,,HSY
+99,,2018-01-29 14:19:35,2018-01-26,HSY,Buck Michele,"Pres, CEO",S - Sale,$111.55,-400,163873,0%,"-$44,620",,,,,HSY
+100,,2017-12-28 12:43:45,2017-12-26,HSY,Buck Michele,"Pres, CEO",S - Sale,$114.95,-400,164272,0%,"-$45,980",,,,,HSY
+101,,2017-11-28 14:07:56,2017-11-27,HSY,Buck Michele,"Pres, CEO",S - Sale,$108.00,-400,164672,0%,"-$43,200",,,,,HSY
+102,D,2017-11-14 16:25:24,2017-11-13,HSY,Wege D Michael,"SVP, Chief Admin Officer",S - Sale+OE,$108.18,-15517,18066,-46%,"-$1,678,605",,,,,HSY
+103,,2017-11-13 10:24:00,2017-11-09,HSY,Buck Michele,"Pres, CEO",S - Sale,$108.00,-400,165072,0%,"-$43,200",,,,,HSY
+104,D,2017-10-18 11:08:00,2017-10-16,HSY,Wege D Michael,"SVP, Chief Admin Officer",S - Sale+OE,$110.26,-1100,28461,-4%,"-$121,286",,,,,HSY
+105,,2017-10-13 10:51:45,2017-10-11,HSY,Idrovo Javier H,"VP, Chief Accounting Officer",S - Sale,$110.04,-15132,15878,-49%,"-$1,665,095",,,,,HSY
+106,,2017-09-28 10:38:42,2017-09-27,HSY,Buck Michele,"Pres, CEO",S - Sale,$108.00,-400,165472,0%,"-$43,200",,,,,HSY
+107,D,2017-09-19 13:09:49,2017-09-15,HSY,Wege D Michael,"SVP, Chief Admin Officer",S - Sale+OE,$109.43,-1100,28556,-4%,"-$120,373",,,,,HSY
+108,,2017-09-11 11:01:46,2017-09-07,HSY,Buck Michele,"Pres, CEO",S - Sale,$108.00,-400,165872,0%,"-$43,200",,,,,HSY
+109,D,2017-08-25 14:53:36,2017-08-24,HSY,Hershey Trust Co,10%,S - Sale+OE,$106.01,-4500000,8403021,-35%,"-$477,045,000",,,,,HSY
+110,D,2017-08-25 14:32:38,2017-08-24,HSY,Hershey Trust Co Trustee In Trust For Milton Hershey School,10%,S - Sale+OE,$106.01,-4500000,8403021,-35%,"-$477,045,000",,,,,HSY
+111,D,2017-08-16 15:11:46,2017-08-15,HSY,Wege D Michael,"SVP, Chief Admin Officer",S - Sale+OE,$105.90,-1100,28654,-4%,"-$116,490",,,,,HSY

@@ -1,0 +1,17 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-02 18:30:14,2021-12-01,NSPR,Stuka Paul,Dir,P - Purchase,$3.51,"+12,037",115854,+12%,"+$42,288",,,,,NSPR
+1,M,2021-11-30 17:53:59,2021-11-29,NSPR,Stuka Paul,Dir,P - Purchase,$3.55,"+21,549",103817,+26%,"+$76,499",,,,,NSPR
+2,,2021-11-29 16:05:27,2021-11-26,NSPR,Stuka Paul,Dir,P - Purchase,$3.55,"+1,200",82268,+1%,"+$4,260",,,,,NSPR
+3,,2021-11-26 16:05:10,2021-11-24,NSPR,Stuka Paul,Dir,P - Purchase,$3.55,"+18,328",81068,+29%,"+$65,064",,,,,NSPR
+4,M,2021-11-23 19:34:46,2021-11-22,NSPR,Stuka Paul,Dir,P - Purchase,$3.54,"+20,392",62740,+48%,"+$72,148",,,,,NSPR
+5,D,2021-11-18 16:05:32,2021-11-17,NSPR,Roubin Gary S,Dir,P - Purchase,$3.86,"+25,930",112301,+30%,"+$99,961",,,,,NSPR
+6,D,2021-08-26 17:00:43,2021-08-25,NSPR,Roubin Gary S,Dir,P - Purchase,$4.19,"+22,249",69123,+47%,"+$93,246",,,,,NSPR
+7,D,2021-02-10 07:13:16,2021-02-08,NSPR,Slosman Marvin,"CEO, Pres",P - Purchase,$0.62,"+40,320",1453538,+3%,"+$24,998",,,,,NSPR
+8,D,2021-02-10 07:13:15,2021-02-08,NSPR,Kester Thomas J,Dir,P - Purchase,$0.62,"+120,960",331593,+57%,"+$74,995",,,,,NSPR
+9,D,2021-02-10 07:11:22,2021-02-08,NSPR,Berman Michael,Dir,P - Purchase,$0.62,"+80,640",241275,+50%,"+$49,997",,,,,NSPR
+10,D,2021-02-10 07:11:14,2021-02-08,NSPR,Roubin Gary S,Dir,P - Purchase,$0.62,"+241,930",703103,+52%,"+$149,997",,,,,NSPR
+11,D,2020-10-19 10:18:15,2020-10-16,NSPR,Roubin Gary S,Dir,P - Purchase,$0.45,"+222,223",461173,+93%,"+$100,000",,,,,NSPR
+12,D,2020-06-09 13:30:49,2020-06-05,NSPR,Slosman Marvin,"CEO, Pres",P - Purchase,$0.45,"+55,550",237931,+30%,"+$24,998",,,,,NSPR
+13,,2020-06-05 11:59:07,2020-06-03,NSPR,Kester Thomas J,Dir,P - Purchase,$0.42,"+50,000",52600,>999%,"+$20,750",,,,,NSPR
+14,,2018-12-11 16:07:21,2018-12-11,NSPR,Stuka Paul,Dir,S - Sale,$0.18,-65,37745,0%,-$12,,,,,NSPR
+15,,2018-11-26 06:10:17,2018-11-21,NSPR,Kester Thomas J,Dir,S - Sale,$0.21,-8,0,-100%,-$2,,,,,NSPR

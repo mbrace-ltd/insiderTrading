@@ -1,0 +1,67 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-06-09 16:41:02,2021-06-08,REG,Thompson James D.,"EVP, COO",S - Sale,$67.86,-15000,24577,-38%,"-$1,017,900",,,,,REG
+1,,2021-06-08 16:42:32,2021-06-08,REG,Wibbenmeyer Nicholas Andrew,Managing Director,S - Sale,$66.82,-1921,5586,-26%,"-$128,360",,,,,REG
+2,,2021-06-08 16:38:30,2021-06-07,REG,Leavitt J Christian,Chief Accounting Officer,S - Sale,$66.71,-1600,22110,-7%,"-$106,736",,,,,REG
+3,,2021-06-08 16:36:36,2021-06-08,REG,Roth Alan Todd,Managing Director,S - Sale,$67.60,-3000,9117,-25%,"-$202,797",,,,,REG
+4,,2021-05-10 09:00:29,2021-05-07,REG,Thompson James D.,"EVP, COO",S - Sale,$66.00,-7500,39577,-16%,"-$495,000",,,,,REG
+5,,2021-04-30 16:33:56,2021-04-29,REG,Thompson James D.,"EVP, COO",S - Sale,$64.00,-7500,47077,-14%,"-$480,000",,,,,REG
+6,,2021-04-26 16:35:01,2021-04-22,REG,Thompson James D.,"EVP, COO",S - Sale,$62.00,-7500,54577,-12%,"-$465,000",,,,,REG
+7,,2021-04-21 16:31:08,2021-04-20,REG,Thompson James D.,"EVP, COO",S - Sale,$60.00,-7500,62077,-11%,"-$450,000",,,,,REG
+8,,2021-03-16 17:05:38,2021-03-16,REG,"Chandler, III Dan M.","EVP, CIO",S - Sale,$58.10,-10000,38814,-20%,"-$581,000",,,,,REG
+9,,2021-02-26 16:46:57,2021-02-25,REG,Stein Martin E Jr,Exec COB,S - Sale,$55.00,-100000,1057865,-9%,"-$5,500,000",,,,,REG
+10,,2021-02-26 16:37:02,2021-02-25,REG,Palmer Lisa,"Pres, CEO",S - Sale,$55.00,-14645,55758,-21%,"-$805,493",,,,,REG
+11,,2021-02-26 16:31:22,2021-02-25,REG,Thompson James D.,"EVP, COO",S - Sale,$56.05,-12000,69577,-15%,"-$672,600",,,,,REG
+12,,2021-02-18 16:32:52,2021-02-17,REG,Stein Martin E Jr,Exec COB,S - Sale,$52.10,-60000,1168215,-5%,"-$3,126,000",,,,,REG
+13,,2020-11-25 16:07:44,2020-11-24,REG,Thompson James D.,"EVP, COO",S - Sale,$49.43,-10000,71244,-12%,"-$494,310",,,,,REG
+14,,2020-11-24 16:13:06,2020-11-24,REG,Stein Martin E Jr,Exec COB,S - Sale,$50.00,-100000,1200959,-8%,"-$5,000,000",,,,,REG
+15,,2020-11-17 16:33:58,2020-11-16,REG,"Chandler, III Dan M.","EVP, CIO",S - Sale,$48.75,-4033,38289,-10%,"-$196,609",,,,,REG
+16,,2020-11-10 16:35:11,2020-11-10,REG,Roth Alan Todd,Managing Director,S - Sale,$47.47,-2700,8824,-23%,"-$128,169",,,,,REG
+17,,2020-08-06 16:29:54,2020-08-05,REG,Ramey H Craig,Managing Director,S - Sale,$41.52,-1750,17560,-9%,"-$72,660",,,,,REG
+18,,2020-06-24 16:28:56,2020-06-23,REG,Wattles Thomas G,Dir,S - Sale,$45.96,-2074,47879,-4%,"-$95,321",,,,,REG
+19,,2020-06-08 16:31:45,2020-06-08,REG,Stein Martin E Jr,Exec COB,S - Sale,$50.56,-20000,1300959,-2%,"-$1,011,200",,,,,REG
+20,,2020-06-08 16:29:50,2020-06-05,REG,"Chandler, III Dan M.","EVP, CIO",S - Sale,$51.50,-3000,42322,-7%,"-$154,500",,,,,REG
+21,,2020-03-05 16:23:26,2020-03-05,REG,Wibbenmeyer Nicholas Andrew,Managing Director,S - Sale,$61.00,-2500,3920,-39%,"-$152,500",,,,,REG
+22,,2020-03-05 16:22:17,2020-03-05,REG,Johnston Barbara C,"SVP, GC",S - Sale,$60.12,-350,24189,-1%,"-$21,042",,,,,REG
+23,,2020-03-04 17:01:13,2020-03-04,REG,Stein Martin E Jr,Exec COB,S - Sale,$60.37,-10000,1321359,-1%,"-$603,700",,,,,REG
+24,D,2020-02-24 16:41:45,2020-02-21,REG,Leavitt J Christian,Chief Accounting Officer,S - Sale+OE,$63.30,-1550,20600,-7%,"-$98,115",,,,,REG
+25,,2020-02-24 16:40:46,2020-02-21,REG,Palmer Lisa,"Pres, CEO",S - Sale,$63.19,-7268,52000,-12%,"-$459,265",,,,,REG
+26,,2020-02-20 16:14:00,2020-02-20,REG,Wattles Thomas G,Dir,S - Sale,$63.37,-2334,46751,-5%,"-$147,906",,,,,REG
+27,,2019-09-30 16:32:36,2019-09-30,REG,Johnston Barbara C,"SVP, GC",S - Sale,$69.11,-150,22280,-1%,"-$10,367",,,,,REG
+28,,2019-09-17 16:38:10,2019-09-17,REG,Johnston Barbara C,"SVP, GC",S - Sale,$68.58,-147,22430,-1%,"-$10,081",,,,,REG
+29,,2019-08-19 16:30:53,2019-08-19,REG,Wattles Thomas G,Dir,S - Sale,$65.47,-2073,49085,-4%,"-$135,719",,,,,REG
+30,,2019-08-19 16:29:35,2019-08-16,REG,Roth Alan Todd,Managing Director,S - Sale,$65.74,-3000,8001,-27%,"-$197,220",,,,,REG
+31,,2019-08-15 16:10:12,2019-08-14,REG,"Chandler, III Dan M.","EVP, CIO",S - Sale,$65.15,-3500,36021,-9%,"-$228,025",,,,,REG
+32,,2019-08-12 16:10:41,2019-08-09,REG,Ramey H Craig,Managing Director,S - Sale,$65.29,-1210,15766,-7%,"-$79,001",,,,,REG
+33,,2019-05-16 16:33:12,2019-05-15,REG,Ramey H Craig,Managing Director,S - Sale,$66.90,-1000,16976,-6%,"-$66,900",,,,,REG
+34,,2019-03-25 16:54:03,2019-03-25,REG,Thompson James D.,EVP of Operations,S - Sale,$66.26,-14000,72242,-16%,"-$927,640",,,,,REG
+35,,2019-03-18 16:25:10,2019-03-18,REG,Roth Alan Todd,Managing Director,S - Sale,$65.15,-1658,11001,-13%,"-$108,019",,,,,REG
+36,,2019-03-11 16:40:51,2019-03-08,REG,Ramey H Craig,Managing Director,S - Sale,$63.98,-2150,17976,-11%,"-$137,557",,,,,REG
+37,,2019-03-07 16:35:24,2019-03-07,REG,Wibbenmeyer Nicholas Andrew,Managing Director,S - Sale,$64.27,-2621,2961,-47%,"-$168,452",,,,,REG
+38,M,2019-03-07 16:34:22,2019-03-06,REG,Schweitzer John C,Dir,S - Sale,$64.85,-14399,33611,-30%,"-$933,775",,,,,REG
+39,A,2019-03-07 16:32:55,2019-03-07,REG,Johnston Barbara C,"SVP, GC",S - Sale,$64.61,-230,22577,-1%,"-$14,860",,,,,REG
+40,,2019-03-06 16:33:39,2019-03-06,REG,Johnston Barbara C,"SVP, GC",S - Sale,$64.47,-230,22577,-1%,"-$14,828",,,,,REG
+41,,2019-03-06 16:32:27,2019-03-05,REG,"Chandler, III Dan M.",EVP of Development,S - Sale,$65.19,-4033,39521,-9%,"-$262,911",,,,,REG
+42,,2018-09-10 16:43:54,2018-09-10,REG,Wibbenmeyer Nicholas Andrew,Managing Director,S - Sale,$65.81,-2095,2086,-50%,"-$137,872",,,,,REG
+43,,2018-08-20 16:29:24,2018-08-17,REG,Roth Alan Todd,Managing Director,S - Sale,$65.15,-2300,8181,-22%,"-$149,845",,,,,REG
+44,,2018-08-14 16:54:26,2018-08-09,REG,"Chandler, III Dan M.",EVP of Development,S - Sale,$63.35,-2500,29427,-8%,"-$158,375",,,,,REG
+45,,2018-08-08 16:18:00,2018-08-07,REG,Ramey H Craig,Managing Director,S - Sale,$63.27,-1365,15772,-8%,"-$86,364",,,,,REG
+46,,2018-05-18 16:28:27,2018-05-17,REG,Johnston Barbara C,"SVP, GC",S - Sale,$56.34,-180,20331,-1%,"-$10,141",,,,,REG
+47,,2018-05-09 16:41:20,2018-05-08,REG,Ramey H Craig,Managing Director,S - Sale,$58.80,-1200,17137,-7%,"-$70,560",,,,,REG
+48,,2018-03-19 16:36:52,2018-03-19,REG,Blair Bryce,Dir,P - Purchase,$57.50,1739,10842,+19%,"+$99,993",,,,,REG
+49,,2018-03-09 16:34:13,2018-03-08,REG,Ramey H Craig,Managing Director,S - Sale,$59.11,-1400,18337,-7%,"-$82,754",,,,,REG
+50,,2018-03-05 16:38:21,2018-03-05,REG,Blair Bryce,Dir,P - Purchase,$58.50,1709,9103,+23%,"+$99,977",,,,,REG
+51,,2018-02-26 09:14:44,2018-02-22,REG,Schweitzer John C,Dir,S - Sale,$58.36,-7136,45847,-13%,"-$416,457",,,,,REG
+52,,2018-02-20 21:40:20,2018-02-15,REG,Katzman Chaim,"Former Director, 10%",S - Sale,$57.56,-1759257,16081715,-10%,"-$101,262,833",,,,,REG
+53,M,2018-01-29 16:38:17,2018-01-25,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.14,-52771,17898951,0%,"-$3,384,812",,,,,REG
+54,,2018-01-26 17:01:28,2018-01-24,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.24,-131326,17951722,-1%,"-$8,436,382",,,,,REG
+55,M,2018-01-24 17:49:19,2018-01-22,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.33,-257076,18083048,-1%,"-$16,536,662",,,,,REG
+56,M,2018-01-22 17:22:59,2018-01-18,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.06,-17600,18340124,0%,"-$1,127,450",,,,,REG
+57,,2018-01-19 17:18:57,2018-01-17,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.23,-30138,18357724,0%,"-$1,935,764",,,,,REG
+58,M,2018-01-17 17:16:32,2018-01-12,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.32,-47230,18387862,0%,"-$3,037,771",,,,,REG
+59,M,2018-01-12 16:55:36,2018-01-10,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.90,-204602,18435092,-1%,"-$13,279,508",,,,,REG
+60,,2017-12-18 16:33:26,2017-12-15,REG,Roth Alan Todd,Managing Director,S - Sale,$69.89,-2500,7453,-25%,"-$174,725",,,,,REG
+61,,2017-12-13 16:34:23,2017-12-12,REG,Thompson James D.,EVP of Operations,S - Sale,$68.45,-14983,67845,-18%,"-$1,025,586",,,,,REG
+62,,2017-12-11 17:06:06,2017-12-08,REG,Leavitt J Christian,Chief Accounting Officer,S - Sale,$67.61,-2000,14314,-12%,"-$135,220",,,,,REG
+63,,2017-09-13 17:18:44,2017-09-11,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.30,-1055758,18639694,-5%,"-$67,885,239",,,,,REG
+64,,2017-09-13 17:15:01,2017-09-11,REG,Katzman Chaim,"Vice COB, 10%",S - Sale,$64.30,-1055758,18639694,-5%,"-$67,885,239",,,,,REG
+65,,2017-08-24 16:14:47,2017-08-23,REG,Fiala Mary Lou,Dir,S - Sale,$65.74,-7775,17145,-31%,"-$511,129",,,,,REG

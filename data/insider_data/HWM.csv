@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2020-03-02 16:32:08,2020-02-27,ARNC,Ramundo Katherine H,"EVP, CLO, Corp Secretary",S - Sale,$30.57,-32733,123209,-21%,"-$1,000,533",,,,,HWM
+1,D,2019-11-27 18:40:28,2019-11-25,ARNC,Myers Timothy Donald,EVP,S - Sale+OE,$30.82,-29849,64319,-32%,"-$919,902",,,,,HWM
+2,,2019-11-21 14:28:18,2019-11-20,ARNC,Myron W Paul,"VP, Controller",S - Sale,$30.67,-10188,102991,-9%,"-$312,494",,,,,HWM
+3,,2019-11-13 15:53:48,2019-11-12,ARNC,Albaugh James F,Dir,P - Purchase,$29.50,5000,29486,+20%,"+$147,523",,,,,HWM
+4,DM,2019-08-28 19:51:02,2019-08-26,ARNC,"Elliott International, L.P.",10%,S - Sale+OE,$25.06,-4208518,29903797,-12%,"-$105,452,032",,,,,HWM
+5,DM,2019-08-28 19:48:24,2019-08-26,ARNC,"Elliott Associates, L.P.",10%,S - Sale+OE,$25.06,-1890784,27949514,-6%,"-$47,377,013",,,,,HWM
+6,D,2019-08-27 21:45:21,2019-08-23,ARNC,"Elliott International, L.P.",10%,S - Sale+OE,$24.51,-1181135,34112315,-3%,"-$28,949,619",,,,,HWM
+7,D,2019-08-27 21:44:22,2019-08-23,ARNC,"Elliott Associates, L.P.",10%,S - Sale+OE,$24.51,-1282860,15325823,-8%,"-$31,442,899",,,,,HWM
+8,,2019-08-22 16:00:45,2019-08-21,ARNC,Myers Timothy Donald,EVP,S - Sale,$25.33,-10000,62864,-14%,"-$253,272",,,,,HWM
+9,M,2019-08-08 16:36:30,2019-08-06,ARNC,Plant John C,"COB, CEO",P - Purchase,$24.13,30463,328745,+10%,"+$735,056",,,,,HWM
+10,,2019-05-06 16:18:16,2019-05-02,ARNC,Plant John C,"COB, CEO",P - Purchase,$22.14,50000,298282,+20%,"+$1,106,930",,,,,HWM
+11,,2019-05-06 16:17:46,2019-05-02,ARNC,Gupta Rajiv,Dir,P - Purchase,$22.10,22603,38420,+143%,"+$499,447",,,,,HWM
+12,M,2019-03-12 17:00:53,2019-03-08,ARNC,Plant John C,"COB, CEO",P - Purchase,$18.67,105000,248282,+73%,"+$1,960,298",,,,,HWM
+13,M,2019-03-07 16:35:16,2019-03-05,ARNC,Plant John C,"COB, CEO",P - Purchase,$18.51,105000,143282,+274%,"+$1,943,053",,,,,HWM
+14,D,2018-05-15 21:51:06,2018-05-15,ARNC,"Elliott International, L.P.",10%,P - Purchase,$17.96,544000,35293450,+2%,"+$9,770,784",,,,,HWM
+15,D,2018-05-15 21:49:19,2018-05-15,ARNC,"Elliott Associates, L.P.",10%,P - Purchase,$17.96,256000,33217366,+1%,"+$4,598,016",,,,,HWM
+16,,2018-05-07 14:26:16,2018-05-03,ARNC,Schmidt Ulrich,Dir,P - Purchase,$16.75,2000,12854,+18%,"+$33,500",,,,,HWM
+17,,2018-02-09 13:25:52,2018-02-08,ARNC,Hess David P,Dir,P - Purchase,$24.80,40300,174702,+30%,"+$999,557",,,,,HWM
+18,,2017-08-15 16:22:18,2017-08-15,ARNC,Russo Patricia F,Dir,P - Purchase,$24.57,15000,26261,+133%,"+$368,576",,,,,HWM

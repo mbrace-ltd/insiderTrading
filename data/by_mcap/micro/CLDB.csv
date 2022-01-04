@@ -1,0 +1,369 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-09-09 16:18:39,2021-09-09,CLDB,Woofter Timothy K,Dir,P - Purchase,$27.29,+55,93373,0%,"+$1,500",,,,,CLDB
+1,,2021-09-09 15:54:57,2021-09-09,CLDB,Langhenry Joseph P,Dir,P - Purchase,$27.29,+29,12639,0%,+$800,,,,,CLDB
+2,,2021-09-09 15:14:17,2021-09-09,CLDB,Thompson Richard B,Dir,P - Purchase,$27.29,+37,190625,0%,"+$1,000",,,,,CLDB
+3,,2021-09-09 14:56:19,2021-09-09,CLDB,Vross Anthony R,Dir,P - Purchase,$27.29,+67,11992,+1%,"+$1,833",,,,,CLDB
+4,,2021-09-09 14:39:24,2021-09-09,CLDB,Koch Joseph E,Dir,P - Purchase,$27.29,+29,14582,0%,+$800,,,,,CLDB
+5,,2021-09-09 12:55:46,2021-09-09,CLDB,Kaback Neil J,Dir,P - Purchase,$27.29,+29,11484,0%,+$800,,,,,CLDB
+6,,2021-09-09 12:34:40,2021-09-09,CLDB,Hoffman James E III,Dir,P - Purchase,$27.29,+29,11892,0%,+$800,,,,,CLDB
+7,,2021-09-09 12:15:54,2021-09-09,CLDB,Cole David C,Dir,P - Purchase,$27.29,+29,10283,0%,+$800,,,,,CLDB
+8,,2021-08-09 15:57:56,2021-08-06,CLDB,Thompson Richard B,Dir,P - Purchase,$26.85,+37,189546,0%,"+$1,000",,,,,CLDB
+9,,2021-08-09 15:51:16,2021-08-06,CLDB,Vross Anthony R,Dir,P - Purchase,$26.85,+68,11877,+1%,"+$1,833",,,,,CLDB
+10,,2021-08-09 15:45:07,2021-08-06,CLDB,Cole David C,Dir,P - Purchase,$26.85,+30,10197,0%,+$800,,,,,CLDB
+11,,2021-08-09 15:38:34,2021-08-06,CLDB,Kaback Neil J,Dir,P - Purchase,$26.85,+30,11455,0%,+$800,,,,,CLDB
+12,,2021-08-09 15:27:54,2021-08-06,CLDB,Koch Joseph E,Dir,P - Purchase,$26.85,+30,14517,0%,+$800,,,,,CLDB
+13,,2021-08-09 15:23:27,2021-08-06,CLDB,Hoffman James E III,Dir,P - Purchase,$26.85,+30,11798,0%,+$800,,,,,CLDB
+14,,2021-08-09 15:16:24,2021-08-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$26.85,+30,12607,0%,+$800,,,,,CLDB
+15,,2021-08-09 15:10:07,2021-08-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$26.85,+56,93254,0%,"+$1,500",,,,,CLDB
+16,,2021-07-13 11:54:25,2021-07-12,CLDB,Woofter Timothy K,Dir,P - Purchase,$27.19,+55,93198,0%,"+$1,500",,,,,CLDB
+17,,2021-07-13 11:51:41,2021-07-12,CLDB,Vross Anthony R,Dir,P - Purchase,$27.19,+67,11808,+1%,"+$1,834",,,,,CLDB
+18,,2021-07-13 11:48:40,2021-07-12,CLDB,Thompson Richard B,Dir,P - Purchase,$27.19,+37,189509,0%,"+$1,000",,,,,CLDB
+19,,2021-07-13 11:46:15,2021-07-12,CLDB,Langhenry Joseph P,Dir,P - Purchase,$27.19,+29,12578,0%,+$800,,,,,CLDB
+20,,2021-07-13 11:43:41,2021-07-12,CLDB,Koch Joseph E,Dir,P - Purchase,$27.19,+29,14487,0%,+$800,,,,,CLDB
+21,,2021-07-13 11:41:33,2021-07-12,CLDB,Kaback Neil J,Dir,P - Purchase,$27.19,+29,11425,0%,+$800,,,,,CLDB
+22,,2021-07-13 11:39:00,2021-07-12,CLDB,Hoffman James E III,Dir,P - Purchase,$27.19,+29,11769,0%,+$800,,,,,CLDB
+23,,2021-07-13 11:36:45,2021-07-12,CLDB,Cole David C,Dir,P - Purchase,$27.19,+29,10167,0%,+$800,,,,,CLDB
+24,,2021-06-08 16:08:03,2021-06-08,CLDB,Woofter Timothy K,Dir,P - Purchase,$24.54,+61,93143,0%,"+$1,500",,,,,CLDB
+25,,2021-06-08 15:40:35,2021-06-08,CLDB,Thompson Richard B,Dir,P - Purchase,$24.54,+41,189472,0%,"+$1,000",,,,,CLDB
+26,,2021-06-08 15:07:21,2021-06-08,CLDB,Koch Joseph E,Dir,P - Purchase,$24.54,+33,14458,0%,+$800,,,,,CLDB
+27,,2021-06-08 14:51:38,2021-06-08,CLDB,Vross Anthony R,Dir,P - Purchase,$24.54,+75,11741,+1%,"+$1,833",,,,,CLDB
+28,,2021-06-08 14:37:29,2021-06-08,CLDB,Langhenry Joseph P,Dir,P - Purchase,$24.54,+33,12548,0%,+$800,,,,,CLDB
+29,,2021-06-08 14:23:54,2021-06-08,CLDB,Kaback Neil J,Dir,P - Purchase,$24.54,+33,11396,0%,+$800,,,,,CLDB
+30,,2021-06-08 14:09:36,2021-06-08,CLDB,Hoffman James E III,Dir,P - Purchase,$24.54,+33,11739,0%,+$800,,,,,CLDB
+31,,2021-06-08 13:50:45,2021-06-08,CLDB,Cole David C,Dir,P - Purchase,$24.54,+33,10138,0%,+$800,,,,,CLDB
+32,,2021-05-27 10:53:03,2021-05-25,CLDB,Lipke Michael P.,VP,S - Sale,$23.17,-573,4110,-12%,"-$13,276",,,,,CLDB
+33,,2021-05-07 10:23:35,2021-05-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$23.79,+63,93012,0%,"+$1,500",,,,,CLDB
+34,,2021-05-06 16:28:16,2021-05-06,CLDB,Vross Anthony R,Dir,P - Purchase,$23.79,+77,11613,+1%,"+$1,833",,,,,CLDB
+35,,2021-05-06 16:16:26,2021-05-06,CLDB,Thompson Richard B,Dir,P - Purchase,$23.79,+42,188280,0%,"+$1,000",,,,,CLDB
+36,,2021-05-06 16:05:30,2021-05-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$23.79,+34,12513,0%,+$800,,,,,CLDB
+37,,2021-05-06 15:34:53,2021-05-06,CLDB,Koch Joseph E,Dir,P - Purchase,$23.79,+34,14386,0%,+$800,,,,,CLDB
+38,,2021-05-06 15:21:12,2021-05-06,CLDB,Kaback Neil J,Dir,P - Purchase,$23.79,+34,11363,0%,+$800,,,,,CLDB
+39,,2021-05-06 15:05:48,2021-05-06,CLDB,Hoffman James E III,Dir,P - Purchase,$23.79,+34,11635,0%,+$800,,,,,CLDB
+40,,2021-05-06 14:52:43,2021-05-06,CLDB,Cole David C,Dir,P - Purchase,$23.79,+34,10044,0%,+$800,,,,,CLDB
+41,,2021-04-06 14:37:07,2021-04-05,CLDB,Langhenry Joseph P,Dir,P - Purchase,$22.83,+35,12287,0%,+$800,,,,,CLDB
+42,,2021-04-06 14:27:16,2021-04-05,CLDB,Koch Joseph E,Dir,P - Purchase,$22.83,+35,14159,0%,+$800,,,,,CLDB
+43,,2021-04-06 14:14:40,2021-04-05,CLDB,Kaback Neil J,Dir,P - Purchase,$22.83,+35,11137,0%,+$800,,,,,CLDB
+44,,2021-04-06 14:03:25,2021-04-05,CLDB,Hoffman James E III,Dir,P - Purchase,$22.83,+35,11409,0%,+$800,,,,,CLDB
+45,,2021-04-06 13:47:06,2021-04-05,CLDB,Woofter Timothy K,Dir,P - Purchase,$22.83,+66,92739,0%,"+$1,500",,,,,CLDB
+46,,2021-04-06 11:41:13,2021-04-05,CLDB,Thompson Richard B,Dir,P - Purchase,$22.83,+44,188045,0%,"+$1,000",,,,,CLDB
+47,,2021-04-06 11:19:52,2021-04-05,CLDB,Vross Anthony R,Dir,P - Purchase,$22.83,+80,11343,+1%,"+$1,833",,,,,CLDB
+48,,2021-04-06 10:35:13,2021-04-05,CLDB,Cole David C,Dir,P - Purchase,$22.83,+35,9817,0%,+$800,,,,,CLDB
+49,,2021-03-10 08:57:03,2021-03-08,CLDB,Woofter Timothy K,Dir,P - Purchase,$19.26,+78,92673,0%,"+$1,500",,,,,CLDB
+50,,2021-03-09 17:10:30,2021-03-08,CLDB,Vross Anthony R,Dir,P - Purchase,$19.26,+95,11263,+1%,"+$1,833",,,,,CLDB
+51,,2021-03-09 16:55:22,2021-03-08,CLDB,Hoffman James E III,Dir,P - Purchase,$19.26,+42,11374,0%,+$800,,,,,CLDB
+52,,2021-03-09 16:44:20,2021-03-08,CLDB,Thompson Richard B,Dir,P - Purchase,$19.26,+52,188001,0%,"+$1,000",,,,,CLDB
+53,,2021-03-09 16:21:34,2021-03-08,CLDB,Langhenry Joseph P,Dir,P - Purchase,$19.26,+42,12252,0%,+$814,,,,,CLDB
+54,,2021-03-09 15:21:21,2021-03-08,CLDB,Koch Joseph E,Dir,P - Purchase,$19.26,+42,14124,0%,+$800,,,,,CLDB
+55,,2021-03-09 15:16:17,2021-03-08,CLDB,Kaback Neil J,Dir,P - Purchase,$19.26,+42,11102,0%,+$800,,,,,CLDB
+56,,2021-03-09 15:08:10,2021-03-08,CLDB,Cole David C,Dir,P - Purchase,$19.26,+42,9782,0%,+$800,,,,,CLDB
+57,,2021-03-03 12:34:18,2021-03-02,CLDB,Lipke Michael P.,VP,S - Sale,$19.92,-682,2947,-19%,"-$13,585",,,,,CLDB
+58,,2021-02-04 11:35:10,2021-02-03,CLDB,Langhenry Joseph P,Dir,P - Purchase,$17.63,+45,12209,0%,+$800,,,,,CLDB
+59,,2021-02-03 16:43:21,2021-02-03,CLDB,Woofter Timothy K,Dir,P - Purchase,$17.63,+85,92488,0%,"+$1,500",,,,,CLDB
+60,,2021-02-03 16:25:39,2021-02-03,CLDB,Thompson Richard B,Dir,P - Purchase,$17.63,+57,186113,0%,"+$1,000",,,,,CLDB
+61,,2021-02-03 16:14:42,2021-02-03,CLDB,Hoffman James E III,Dir,P - Purchase,$17.63,+45,11221,0%,+$800,,,,,CLDB
+62,,2021-02-03 14:52:42,2021-02-03,CLDB,Vross Anthony R,Dir,P - Purchase,$17.63,+104,11088,+1%,"+$1,833",,,,,CLDB
+63,,2021-02-03 11:50:38,2021-02-03,CLDB,Koch Joseph E,Dir,P - Purchase,$17.63,+45,14023,0%,+$800,,,,,CLDB
+64,,2021-02-03 11:40:45,2021-02-03,CLDB,Cole David C,Dir,P - Purchase,$17.63,+45,9646,0%,+$800,,,,,CLDB
+65,,2021-02-03 11:20:48,2021-02-03,CLDB,Kaback Neil J,Dir,P - Purchase,$17.63,+45,11060,0%,+$800,,,,,CLDB
+66,,2021-01-11 16:23:26,2021-01-11,CLDB,Vross Anthony R,Dir,P - Purchase,$18.50,+99,10984,+1%,"+$1,833",,,,,CLDB
+67,,2021-01-11 16:02:48,2021-01-11,CLDB,Cole David C,Dir,P - Purchase,$18.50,+43,9600,0%,+$800,,,,,CLDB
+68,,2021-01-11 15:27:15,2021-01-11,CLDB,Woofter Timothy K,Dir,P - Purchase,$18.50,+81,92403,0%,"+$1,500",,,,,CLDB
+69,,2021-01-11 14:58:29,2021-01-11,CLDB,Thompson Richard B,Dir,P - Purchase,$18.50,+54,186057,0%,"+$1,000",,,,,CLDB
+70,,2021-01-11 12:36:14,2021-01-11,CLDB,Hoffman James E III,Dir,P - Purchase,$18.50,+43,11176,0%,+$800,,,,,CLDB
+71,,2021-01-11 12:21:13,2021-01-11,CLDB,Kaback Neil J,Dir,P - Purchase,$18.50,+43,11015,0%,+$800,,,,,CLDB
+72,,2021-01-11 12:01:53,2021-01-11,CLDB,Langhenry Joseph P,Dir,P - Purchase,$18.50,+43,12164,0%,+$800,,,,,CLDB
+73,,2021-01-11 10:49:05,2021-01-11,CLDB,Koch Joseph E,Dir,P - Purchase,$18.50,+43,13977,0%,+$800,,,,,CLDB
+74,,2020-12-09 16:59:33,2020-12-08,CLDB,Woofter Timothy K,Dir,P - Purchase,$16.79,+89,92322,0%,"+$1,500",,,,,CLDB
+75,,2020-12-09 16:25:19,2020-12-08,CLDB,Hoffman James E III,Dir,P - Purchase,$16.79,+48,11133,0%,+$800,,,,,CLDB
+76,,2020-12-09 16:05:11,2020-12-08,CLDB,Vross Anthony R,Dir,P - Purchase,$16.79,+109,10885,+1%,"+$1,833",,,,,CLDB
+77,,2020-12-09 15:43:24,2020-12-08,CLDB,Thompson Richard B,Dir,P - Purchase,$16.79,+60,186003,0%,"+$1,000",,,,,CLDB
+78,,2020-12-09 14:23:27,2020-12-08,CLDB,Langhenry Joseph P,Dir,P - Purchase,$16.79,+48,12121,0%,+$800,,,,,CLDB
+79,,2020-12-09 12:45:51,2020-12-08,CLDB,Koch Joseph E,Dir,P - Purchase,$16.79,+48,13934,0%,+$800,,,,,CLDB
+80,,2020-12-09 12:31:55,2020-12-08,CLDB,Kaback Neil J,Dir,P - Purchase,$16.79,+48,10971,0%,+$800,,,,,CLDB
+81,,2020-12-09 11:16:04,2020-12-08,CLDB,Cole David C,Dir,P - Purchase,$16.79,+48,9557,+1%,+$800,,,,,CLDB
+82,,2020-11-10 11:46:00,2020-11-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$15.44,+97,92145,0%,"+$1,500",,,,,CLDB
+83,,2020-11-10 11:11:11,2020-11-06,CLDB,Thompson Richard B,Dir,P - Purchase,$15.44,+65,184405,0%,"+$1,000",,,,,CLDB
+84,,2020-11-10 10:37:55,2020-11-06,CLDB,Vross Anthony R,Dir,P - Purchase,$15.44,+119,10711,+1%,"+$1,833",,,,,CLDB
+85,,2020-11-10 10:08:32,2020-11-06,CLDB,Hoffman James E III,Dir,P - Purchase,$15.44,+52,10994,0%,+$800,,,,,CLDB
+86,,2020-11-10 09:43:16,2020-11-06,CLDB,Kaback Neil J,Dir,P - Purchase,$15.44,+52,10924,0%,+$800,,,,,CLDB
+87,,2020-11-09 16:27:08,2020-11-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$15.44,+52,12065,0%,+$800,,,,,CLDB
+88,,2020-11-09 16:10:23,2020-11-06,CLDB,Koch Joseph E,Dir,P - Purchase,$15.44,+52,13837,0%,+$800,,,,,CLDB
+89,,2020-11-09 15:49:00,2020-11-06,CLDB,Cole David C,Dir,P - Purchase,$15.44,+52,9431,+1%,+$800,,,,,CLDB
+90,,2020-10-07 15:42:24,2020-10-05,CLDB,Kaback Neil J,Dir,P - Purchase,$15.50,+52,10872,0%,+$800,,,,,CLDB
+91,,2020-10-06 16:34:56,2020-10-05,CLDB,Hoffman James E III,Dir,P - Purchase,$15.50,+52,10942,0%,+$800,,,,,CLDB
+92,,2020-10-06 16:21:24,2020-10-05,CLDB,Woofter Timothy K,Dir,P - Purchase,$15.50,+97,92048,0%,"+$1,500",,,,,CLDB
+93,,2020-10-06 15:55:57,2020-10-05,CLDB,Thompson Richard B,Dir,P - Purchase,$15.50,+65,184341,0%,"+$1,000",,,,,CLDB
+94,,2020-10-06 12:36:01,2020-10-05,CLDB,Vross Anthony R,Dir,P - Purchase,$15.50,+118,10593,+1%,"+$1,833",,,,,CLDB
+95,,2020-10-06 12:24:53,2020-10-05,CLDB,Langhenry Joseph P,Dir,P - Purchase,$15.50,+52,12013,0%,+$800,,,,,CLDB
+96,,2020-10-06 12:10:11,2020-10-05,CLDB,Koch Joseph E,Dir,P - Purchase,$15.50,+52,13786,0%,+$800,,,,,CLDB
+97,,2020-10-06 11:58:12,2020-10-05,CLDB,Cole David C,Dir,P - Purchase,$15.50,+52,9379,+1%,+$800,,,,,CLDB
+98,A,2020-09-08 17:30:43,2020-09-04,CLDB,Hoffman James E III,Dir,P - Purchase,$14.03,+57,10890,+1%,+$800,,,,,CLDB
+99,,2020-09-08 16:45:09,2020-09-04,CLDB,Thompson Richard B,Dir,P - Purchase,$14.03,+71,184276,0%,"+$1,000",,,,,CLDB
+100,,2020-09-08 16:36:16,2020-09-04,CLDB,Woofter Timothy K,Dir,P - Purchase,$14.03,+107,91951,0%,"+$1,500",,,,,CLDB
+101,,2020-09-08 16:18:36,2020-09-04,CLDB,Cole David C,Dir,P - Purchase,$14.03,+57,9327,+1%,+$800,,,,,CLDB
+102,,2020-09-08 15:45:23,2020-09-04,CLDB,Kaback Neil J,Dir,P - Purchase,$14.03,+57,10865,+1%,+$800,,,,,CLDB
+103,,2020-09-04 17:00:19,2020-09-04,CLDB,Koch Joseph E,Dir,P - Purchase,$14.03,+57,13734,0%,+$800,,,,,CLDB
+104,,2020-09-04 16:55:16,2020-09-04,CLDB,Vross Anthony R,Dir,P - Purchase,$14.03,+131,10474,+1%,"+$1,833",,,,,CLDB
+105,,2020-09-04 16:50:44,2020-09-04,CLDB,Langhenry Joseph P,Dir,P - Purchase,$14.03,+57,11961,0%,+$800,,,,,CLDB
+106,,2020-09-04 16:46:35,2020-09-04,CLDB,Hoffman James E III,Dir,P - Purchase,$14.03,+102,10890,+1%,"+$1,425",,,,,CLDB
+107,,2020-08-13 12:29:11,2020-08-12,CLDB,Thompson Richard B,Dir,P - Purchase,$13.75,+73,182385,0%,"+$1,000",,,,,CLDB
+108,,2020-08-13 12:24:00,2020-08-12,CLDB,Hoffman James E III,Dir,P - Purchase,$13.75,+58,10726,+1%,+$800,,,,,CLDB
+109,,2020-08-13 11:19:47,2020-08-12,CLDB,Woofter Timothy K,Dir,P - Purchase,$13.75,+109,91743,0%,"+$1,500",,,,,CLDB
+110,,2020-08-13 11:06:11,2020-08-12,CLDB,Vross Anthony R,Dir,P - Purchase,$13.75,+133,10271,+1%,"+$1,833",,,,,CLDB
+111,,2020-08-13 10:55:00,2020-08-12,CLDB,Langhenry Joseph P,Dir,P - Purchase,$13.75,+58,11896,0%,+$800,,,,,CLDB
+112,,2020-08-13 10:36:45,2020-08-12,CLDB,Koch Joseph E,Dir,P - Purchase,$13.75,+58,13620,0%,+$800,,,,,CLDB
+113,,2020-08-13 10:23:40,2020-08-12,CLDB,Cole David C,Dir,P - Purchase,$13.75,+58,9179,+1%,+$800,,,,,CLDB
+114,,2020-08-13 10:13:09,2020-08-12,CLDB,Kaback Neil J,Dir,P - Purchase,$13.75,+58,10763,+1%,+$800,,,,,CLDB
+115,,2020-07-10 16:21:49,2020-07-09,CLDB,Woofter Timothy K,Dir,P - Purchase,$12.91,+116,91634,0%,"+$1,500",,,,,CLDB
+116,,2020-07-10 15:55:55,2020-07-09,CLDB,Thompson Richard B,Dir,P - Purchase,$12.91,+77,182312,0%,"+$1,000",,,,,CLDB
+117,,2020-07-10 15:33:48,2020-07-09,CLDB,Hoffman James E III,Dir,P - Purchase,$12.91,+62,10668,+1%,+$800,,,,,CLDB
+118,,2020-07-10 15:06:53,2020-07-09,CLDB,Kaback Neil J,Dir,P - Purchase,$12.91,+62,10705,+1%,+$800,,,,,CLDB
+119,,2020-07-10 12:27:18,2020-07-09,CLDB,Langhenry Joseph P,Dir,P - Purchase,$12.91,+62,11838,+1%,+$800,,,,,CLDB
+120,,2020-07-10 12:16:52,2020-07-09,CLDB,Vross Anthony R,Dir,P - Purchase,$12.91,+142,10138,+1%,"+$1,833",,,,,CLDB
+121,,2020-07-10 12:01:38,2020-07-09,CLDB,Koch Joseph E,Dir,P - Purchase,$12.91,+62,13562,0%,+$800,,,,,CLDB
+122,,2020-07-10 11:36:05,2020-07-09,CLDB,Cole David C,Dir,P - Purchase,$12.91,+62,9120,+1%,+$800,,,,,CLDB
+123,M,2020-06-05 11:42:07,2020-05-05,CLDB,Vross Anthony R,Dir,P - Purchase,$13.69,+268,9996,+3%,"+$3,667",,,,,CLDB
+124,M,2020-06-05 11:34:30,2020-05-05,CLDB,Koch Joseph E,Dir,P - Purchase,$13.69,+117,13500,+1%,"+$1,600",,,,,CLDB
+125,M,2020-06-05 11:16:15,2020-05-05,CLDB,Hoffman James E III,Dir,P - Purchase,$13.69,+117,10606,+1%,"+$1,600",,,,,CLDB
+126,M,2020-06-05 11:05:02,2020-05-05,CLDB,Langhenry Joseph P,Dir,P - Purchase,$13.69,+117,11776,+1%,"+$1,600",,,,,CLDB
+127,M,2020-06-05 10:55:21,2020-05-05,CLDB,Cole David C,Dir,P - Purchase,$13.69,+117,9058,+1%,"+$1,600",,,,,CLDB
+128,M,2020-06-05 10:48:54,2020-05-05,CLDB,Thompson Richard B,Dir,P - Purchase,$13.69,+146,182235,0%,"+$2,000",,,,,CLDB
+129,M,2020-06-05 10:42:51,2020-05-05,CLDB,Kaback Neil J,Dir,P - Purchase,$13.69,+117,10643,+1%,"+$1,600",,,,,CLDB
+130,M,2020-06-05 10:36:13,2020-05-05,CLDB,Woofter Timothy K,Dir,P - Purchase,$13.69,+219,91518,0%,"+$3,000",,,,,CLDB
+131,,2020-04-07 09:47:50,2020-04-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$14.42,+104,91195,0%,"+$1,500",,,,,CLDB
+132,,2020-04-07 09:08:04,2020-04-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$14.42,+55,11652,0%,+$800,,,,,CLDB
+133,,2020-04-06 16:47:36,2020-04-06,CLDB,Koch Joseph E,Dir,P - Purchase,$14.42,+55,13325,0%,+$800,,,,,CLDB
+134,,2020-04-06 16:37:04,2020-04-06,CLDB,Thompson Richard B,Dir,P - Purchase,$14.42,+69,180161,0%,"+$1,000",,,,,CLDB
+135,,2020-04-06 16:26:30,2020-04-06,CLDB,Vross Anthony R,Dir,P - Purchase,$14.42,+127,9656,+1%,"+$1,833",,,,,CLDB
+136,,2020-04-06 16:17:31,2020-04-06,CLDB,Kaback Neil J,Dir,P - Purchase,$14.42,+55,10526,+1%,+$800,,,,,CLDB
+137,,2020-04-06 16:07:25,2020-04-06,CLDB,Hoffman James E III,Dir,P - Purchase,$14.42,+55,10383,+1%,+$800,,,,,CLDB
+138,,2020-04-06 15:52:33,2020-04-06,CLDB,Cole David C,Dir,P - Purchase,$14.42,+55,8846,+1%,+$800,,,,,CLDB
+139,,2020-03-06 09:26:58,2020-03-05,CLDB,Langhenry Joseph P,Dir,P - Purchase,$22.21,+36,11331,0%,+$800,,,,,CLDB
+140,,2020-03-05 15:06:00,2020-03-05,CLDB,Woofter Timothy K,Dir,P - Purchase,$22.21,+68,90801,0%,"+$1,500",,,,,CLDB
+141,,2020-03-05 13:43:02,2020-03-05,CLDB,Koch Joseph E,Dir,P - Purchase,$22.21,+36,13004,0%,+$800,,,,,CLDB
+142,,2020-03-05 13:31:24,2020-03-05,CLDB,Thompson Richard B,Dir,P - Purchase,$22.21,+45,179826,0%,"+$1,000",,,,,CLDB
+143,,2020-03-05 13:20:56,2020-03-05,CLDB,Vross Anthony R,Dir,P - Purchase,$22.21,+83,9262,+1%,"+$1,833",,,,,CLDB
+144,,2020-03-05 11:59:29,2020-03-05,CLDB,Kaback Neil J,Dir,P - Purchase,$22.21,+36,10205,0%,+$800,,,,,CLDB
+145,,2020-03-05 11:02:13,2020-03-05,CLDB,Hoffman James E III,Dir,P - Purchase,$22.21,+36,10061,0%,+$800,,,,,CLDB
+146,,2020-03-05 10:06:50,2020-03-05,CLDB,Cole David C,Dir,P - Purchase,$22.21,+36,8525,0%,+$800,,,,,CLDB
+147,,2020-02-05 15:58:52,2020-02-04,CLDB,Woofter Timothy K,Dir,P - Purchase,$20.40,+74,90656,0%,"+$1,500",,,,,CLDB
+148,,2020-02-05 15:46:24,2020-02-04,CLDB,Langhenry Joseph P,Dir,P - Purchase,$20.40,+39,11294,0%,+$800,,,,,CLDB
+149,,2020-02-05 15:22:50,2020-02-04,CLDB,Koch Joseph E,Dir,P - Purchase,$20.40,+39,12925,0%,+$800,,,,,CLDB
+150,,2020-02-05 15:14:19,2020-02-04,CLDB,Thompson Richard B,Dir,P - Purchase,$20.40,+49,178256,0%,"+$1,000",,,,,CLDB
+151,,2020-02-05 15:06:19,2020-02-04,CLDB,Vross Anthony R,Dir,P - Purchase,$20.40,+49,9127,+1%,"+$1,000",,,,,CLDB
+152,,2020-02-05 14:55:56,2020-02-04,CLDB,Kaback Neil J,Dir,P - Purchase,$20.40,+39,10169,0%,+$800,,,,,CLDB
+153,,2020-02-05 14:45:33,2020-02-04,CLDB,Hoffman James E III,Dir,P - Purchase,$20.40,+39,9941,0%,+$800,,,,,CLDB
+154,,2020-02-05 14:38:29,2020-02-04,CLDB,Cole David C,Dir,P - Purchase,$20.40,+39,8417,0%,+$800,,,,,CLDB
+155,,2020-01-29 11:24:51,2020-01-28,CLDB,Chahine Hicham S,Dir,P - Purchase,$20.25,"+5,000",5000,New,"+$101,250",,,,,CLDB
+156,,2020-01-28 16:14:57,2020-01-28,CLDB,Kaback Neil J,Dir,P - Purchase,$20.25,"+2,000",10130,+25%,"+$40,500",,,,,CLDB
+157,,2020-01-06 14:09:44,2020-01-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.81,+69,90583,0%,"+$1,500",,,,,CLDB
+158,,2020-01-06 13:56:07,2020-01-06,CLDB,Hoffman James E III,Dir,P - Purchase,$21.81,+37,9902,0%,+$800,,,,,CLDB
+159,,2020-01-06 12:30:02,2020-01-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$21.81,+37,11254,0%,+$800,,,,,CLDB
+160,,2020-01-06 12:19:37,2020-01-06,CLDB,Koch Joseph E,Dir,P - Purchase,$21.81,+37,12886,0%,+$800,,,,,CLDB
+161,,2020-01-06 11:57:09,2020-01-06,CLDB,Thompson Richard B,Dir,P - Purchase,$21.81,+46,178207,0%,"+$1,000",,,,,CLDB
+162,,2020-01-06 11:32:57,2020-01-06,CLDB,Vross Anthony R,Dir,P - Purchase,$21.81,+46,9078,+1%,"+$1,000",,,,,CLDB
+163,,2020-01-06 11:24:59,2020-01-06,CLDB,Kaback Neil J,Dir,P - Purchase,$21.81,+37,8130,0%,+$800,,,,,CLDB
+164,,2020-01-06 10:44:17,2020-01-06,CLDB,Cole David C,Dir,P - Purchase,$21.81,+37,8378,0%,+$800,,,,,CLDB
+165,,2019-12-06 10:36:09,2019-12-04,CLDB,Woofter Timothy K,Dir,P - Purchase,$22.45,+67,90514,0%,"+$1,500",,,,,CLDB
+166,,2019-12-06 09:50:25,2019-12-04,CLDB,Langhenry Joseph P,Dir,P - Purchase,$22.45,+36,11218,0%,+$800,,,,,CLDB
+167,,2019-12-05 17:19:57,2019-12-04,CLDB,Koch Joseph E,Dir,P - Purchase,$22.45,+36,12850,0%,+$800,,,,,CLDB
+168,,2019-12-05 17:05:57,2019-12-04,CLDB,Thompson Richard B,Dir,P - Purchase,$22.45,+45,178161,0%,"+$1,000",,,,,CLDB
+169,,2019-12-05 16:47:51,2019-12-04,CLDB,Vross Anthony R,Dir,P - Purchase,$22.45,+45,9033,0%,"+$1,000",,,,,CLDB
+170,,2019-12-05 16:39:28,2019-12-04,CLDB,Kaback Neil J,Dir,P - Purchase,$22.45,+36,8093,0%,+$800,,,,,CLDB
+171,,2019-12-05 16:29:20,2019-12-04,CLDB,Hoffman James E III,Dir,P - Purchase,$22.45,+36,9865,0%,+$800,,,,,CLDB
+172,,2019-12-05 15:19:16,2019-12-04,CLDB,Cole David C,Dir,P - Purchase,$22.45,+36,8341,0%,+$800,,,,,CLDB
+173,,2019-11-13 15:11:21,2019-11-11,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.85,+69,90400,0%,"+$1,500",,,,,CLDB
+174,,2019-11-13 14:56:33,2019-11-11,CLDB,Langhenry Joseph P,Dir,P - Purchase,$21.85,+37,11181,0%,+$800,,,,,CLDB
+175,,2019-11-13 14:40:43,2019-11-11,CLDB,Koch Joseph E,Dir,P - Purchase,$21.85,+37,12788,0%,+$800,,,,,CLDB
+176,,2019-11-13 14:33:07,2019-11-11,CLDB,Thompson Richard B,Dir,P - Purchase,$21.85,+46,177170,0%,"+$1,000",,,,,CLDB
+177,,2019-11-13 12:24:50,2019-11-11,CLDB,Vross Anthony R,Dir,P - Purchase,$21.85,+46,8956,+1%,"+$1,000",,,,,CLDB
+178,,2019-11-13 12:15:21,2019-11-11,CLDB,Kaback Neil J,Dir,P - Purchase,$21.85,+37,8057,0%,+$800,,,,,CLDB
+179,,2019-11-13 11:18:19,2019-11-11,CLDB,Hoffman James E III,Dir,P - Purchase,$21.85,+37,9781,0%,+$800,,,,,CLDB
+180,,2019-11-13 11:11:03,2019-11-11,CLDB,Cole David C,Dir,P - Purchase,$21.85,+37,8261,0%,+$800,,,,,CLDB
+181,,2019-10-30 09:28:54,2019-10-29,CLDB,Carney Timothy,"EVP, COO, SEC'Y.",P - Purchase,$21.05,"+2,000",45880,+5%,"+$42,100",,,,,CLDB
+182,,2019-10-04 10:15:57,2019-10-03,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.90,+68,90331,0%,"+$1,500",,,,,CLDB
+183,,2019-10-04 10:05:10,2019-10-03,CLDB,Langhenry Joseph P,Dir,P - Purchase,$21.90,+37,11145,0%,+$800,,,,,CLDB
+184,,2019-10-04 09:57:57,2019-10-03,CLDB,Koch Joseph E,Dir,P - Purchase,$21.90,+37,12751,0%,+$800,,,,,CLDB
+185,,2019-10-04 09:46:19,2019-10-03,CLDB,Thompson Richard B,Dir,P - Purchase,$21.90,+46,177124,0%,"+$1,000",,,,,CLDB
+186,,2019-10-04 09:41:37,2019-10-03,CLDB,Vross Anthony R,Dir,P - Purchase,$21.90,+46,8910,+1%,"+$1,000",,,,,CLDB
+187,,2019-10-04 09:36:51,2019-10-03,CLDB,Hoffman James E III,Dir,P - Purchase,$21.90,+37,9744,0%,+$800,,,,,CLDB
+188,,2019-10-04 09:09:48,2019-10-03,CLDB,Cole David C,Dir,P - Purchase,$21.90,+37,8225,0%,+$800,,,,,CLDB
+189,,2019-10-04 08:53:54,2019-10-03,CLDB,Kaback Neil J,Dir,P - Purchase,$21.90,+37,8021,0%,+$800,,,,,CLDB
+190,,2019-09-06 16:36:10,2019-09-06,CLDB,Kaback Neil J,Dir,P - Purchase,$23.75,+34,7984,0%,+$800,,,,,CLDB
+191,,2019-09-06 16:33:08,2019-09-06,CLDB,Koch Joseph E,Dir,P - Purchase,$23.75,+34,12715,0%,+$800,,,,,CLDB
+192,,2019-09-06 16:29:59,2019-09-06,CLDB,Vross Anthony R,Dir,P - Purchase,$23.75,+42,8865,0%,"+$1,000",,,,,CLDB
+193,,2019-09-06 16:26:30,2019-09-06,CLDB,Cole David C,Dir,P - Purchase,$23.75,+34,8188,0%,+$800,,,,,CLDB
+194,,2019-09-06 16:22:59,2019-09-06,CLDB,Hoffman James E III,Dir,P - Purchase,$23.75,+34,9707,0%,+$800,,,,,CLDB
+195,,2019-09-06 16:20:15,2019-09-06,CLDB,Thompson Richard B,Dir,P - Purchase,$23.75,+42,177078,0%,"+$1,000",,,,,CLDB
+196,,2019-09-06 16:15:53,2019-09-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$23.75,+63,90263,0%,"+$1,500",,,,,CLDB
+197,,2019-09-06 16:13:34,2019-09-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$23.75,+34,11108,0%,+$800,,,,,CLDB
+198,,2019-08-02 16:43:10,2019-08-02,CLDB,Koch Joseph E,Dir,P - Purchase,$23.94,+33,12659,0%,+$800,,,,,CLDB
+199,,2019-08-02 16:29:05,2019-08-02,CLDB,Thompson Richard B,Dir,P - Purchase,$23.94,+42,176220,0%,"+$1,000",,,,,CLDB
+200,,2019-08-02 16:08:56,2019-08-02,CLDB,Vross Anthony R,Dir,P - Purchase,$23.94,+42,8796,0%,"+$1,000",,,,,CLDB
+201,,2019-08-02 15:58:02,2019-08-02,CLDB,Kaback Neil J,Dir,P - Purchase,$23.94,+33,7950,0%,+$800,,,,,CLDB
+202,,2019-08-02 15:41:47,2019-08-02,CLDB,Hoffman James E III,Dir,P - Purchase,$23.94,+33,9632,0%,+$800,,,,,CLDB
+203,,2019-08-02 15:28:52,2019-08-02,CLDB,Woofter Timothy K,Dir,P - Purchase,$23.94,+63,90160,0%,"+$1,500",,,,,CLDB
+204,,2019-08-02 15:14:09,2019-08-02,CLDB,Langhenry Joseph P,Dir,P - Purchase,$23.94,+33,11073,0%,+$800,,,,,CLDB
+205,,2019-08-02 15:04:50,2019-08-02,CLDB,Cole David C,Dir,P - Purchase,$23.94,+33,8117,0%,+$800,,,,,CLDB
+206,,2019-07-08 17:04:38,2019-07-05,CLDB,Woofter Timothy K,Dir,P - Purchase,$23.89,+63,90097,0%,"+$1,500",,,,,CLDB
+207,,2019-07-08 16:36:03,2019-07-05,CLDB,Langhenry Joseph P,Dir,P - Purchase,$23.89,+33,11039,0%,+$800,,,,,CLDB
+208,,2019-07-08 16:21:41,2019-07-05,CLDB,Koch Joseph E,Dir,P - Purchase,$23.89,+33,12626,0%,+$800,,,,,CLDB
+209,,2019-07-08 14:25:19,2019-07-05,CLDB,Thompson Richard B,Dir,P - Purchase,$23.89,+42,176178,0%,"+$1,000",,,,,CLDB
+210,,2019-07-08 12:37:01,2019-07-05,CLDB,Vross Anthony R,Dir,P - Purchase,$23.89,+42,8754,0%,"+$1,000",,,,,CLDB
+211,,2019-07-08 12:29:54,2019-07-05,CLDB,Kaback Neil J,Dir,P - Purchase,$23.89,+33,7917,0%,+$800,,,,,CLDB
+212,,2019-07-08 12:22:27,2019-07-05,CLDB,Hoffman James E III,Dir,P - Purchase,$23.89,+33,9599,0%,+$800,,,,,CLDB
+213,,2019-07-08 12:12:48,2019-07-05,CLDB,Cole David C,Dir,P - Purchase,$23.89,+33,8083,0%,+$800,,,,,CLDB
+214,,2019-06-05 15:11:18,2019-06-04,CLDB,Cole David C,Dir,P - Purchase,$23.75,+34,8050,0%,+$800,,,,,CLDB
+215,,2019-06-05 14:51:53,2019-06-04,CLDB,Woofter Timothy K,Dir,P - Purchase,$23.75,+63,90034,0%,"+$1,500",,,,,CLDB
+216,,2019-06-05 12:31:34,2019-06-04,CLDB,Langhenry Joseph P,Dir,P - Purchase,$23.75,+34,11006,0%,+$800,,,,,CLDB
+217,,2019-06-05 11:51:03,2019-06-04,CLDB,Koch Joseph E,Dir,P - Purchase,$23.75,+34,12592,0%,+$800,,,,,CLDB
+218,,2019-06-05 11:29:17,2019-06-04,CLDB,Thompson Richard B,Dir,P - Purchase,$23.75,+42,176136,0%,"+$1,000",,,,,CLDB
+219,,2019-06-05 11:04:46,2019-06-04,CLDB,Vross Anthony R,Dir,P - Purchase,$23.75,+42,8712,0%,"+$1,000",,,,,CLDB
+220,,2019-06-05 10:51:08,2019-06-04,CLDB,Kaback Neil J,Dir,P - Purchase,$23.75,+34,7883,0%,+$800,,,,,CLDB
+221,,2019-06-05 10:15:00,2019-06-04,CLDB,Hoffman James E III,Dir,P - Purchase,$23.75,+34,9565,0%,+$800,,,,,CLDB
+222,,2019-05-24 13:00:04,2019-05-24,CLDB,Langhenry Joseph P,Dir,P - Purchase,$23.50,+34,10970,0%,+$800,,,,,CLDB
+223,,2019-05-24 12:14:04,2019-05-24,CLDB,Koch Joseph E,Dir,P - Purchase,$23.50,+34,12538,0%,+$800,,,,,CLDB
+224,,2019-05-24 11:46:27,2019-05-24,CLDB,Thompson Richard B,Dir,P - Purchase,$23.50,+43,175282,0%,"+$1,000",,,,,CLDB
+225,,2019-05-24 11:31:39,2019-05-24,CLDB,Vross Anthony R,Dir,P - Purchase,$23.50,+43,8644,0%,"+$1,000",,,,,CLDB
+226,,2019-05-24 11:18:25,2019-05-24,CLDB,Kaback Neil J,Dir,P - Purchase,$23.50,+34,7850,0%,+$800,,,,,CLDB
+227,,2019-05-24 11:07:23,2019-05-24,CLDB,Woofter Timothy K,Dir,P - Purchase,$23.50,+64,89933,0%,"+$1,500",,,,,CLDB
+228,,2019-05-24 10:43:01,2019-05-24,CLDB,Hoffman James E III,Dir,P - Purchase,$23.50,+34,9491,0%,+$800,,,,,CLDB
+229,,2019-05-24 10:14:42,2019-05-24,CLDB,Cole David C,Dir,P - Purchase,$23.50,+34,7979,0%,+$800,,,,,CLDB
+230,,2019-05-21 11:41:54,2019-05-20,CLDB,Lipke Michael P.,VP,S - Sale,$23.50,-681,1412,-33%,"-$16,004",,,,,CLDB
+231,,2019-04-04 16:25:02,2019-04-04,CLDB,Woofter Timothy K,Dir,P - Purchase,$23.95,+63,89703,0%,"+$1,500",,,,,CLDB
+232,,2019-04-04 16:10:45,2019-04-04,CLDB,Langhenry Joseph P,Dir,P - Purchase,$23.95,+33,10785,0%,+$800,,,,,CLDB
+233,,2019-04-04 16:00:28,2019-04-04,CLDB,Koch Joseph E,Dir,P - Purchase,$23.95,+33,12353,0%,+$800,,,,,CLDB
+234,,2019-04-04 15:52:11,2019-04-04,CLDB,Thompson Richard B,Dir,P - Purchase,$23.95,+42,175089,0%,"+$1,000",,,,,CLDB
+235,,2019-04-04 15:42:09,2019-04-04,CLDB,Vross Anthony R,Dir,P - Purchase,$23.95,+42,8450,0%,"+$1,000",,,,,CLDB
+236,,2019-04-04 15:33:43,2019-04-04,CLDB,Kaback Neil J,Dir,P - Purchase,$23.95,+33,7665,0%,+$800,,,,,CLDB
+237,,2019-04-04 15:20:45,2019-04-04,CLDB,Hoffman James E III,Dir,P - Purchase,$23.95,+33,9306,0%,+$800,,,,,CLDB
+238,,2019-04-04 14:58:30,2019-04-04,CLDB,Cole David C,Dir,P - Purchase,$23.95,+33,7794,0%,+$800,,,,,CLDB
+239,,2019-03-14 14:44:09,2019-03-13,CLDB,Koch Joseph E,Dir,P - Purchase,$21.88,+37,12319,0%,+$800,,,,,CLDB
+240,,2019-03-14 12:20:48,2019-03-13,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.88,+69,89640,0%,"+$1,500",,,,,CLDB
+241,,2019-03-14 10:33:49,2019-03-13,CLDB,Langhenry Joseph P,Dir,P - Purchase,$21.88,+37,10752,0%,+$800,,,,,CLDB
+242,,2019-03-13 15:58:58,2019-03-13,CLDB,Thompson Richard B,Dir,P - Purchase,$21.88,+46,175047,0%,"+$1,000",,,,,CLDB
+243,,2019-03-13 15:24:58,2019-03-13,CLDB,Vross Anthony R,Dir,P - Purchase,$21.88,+46,8409,+1%,"+$1,000",,,,,CLDB
+244,,2019-03-13 15:10:40,2019-03-13,CLDB,Kaback Neil J,Dir,P - Purchase,$21.88,+37,7631,0%,+$800,,,,,CLDB
+245,,2019-03-13 14:16:35,2019-03-13,CLDB,Hoffman James E III,Dir,P - Purchase,$21.88,+37,9272,0%,+$800,,,,,CLDB
+246,,2019-03-13 13:57:59,2019-03-13,CLDB,Cole David C,Dir,P - Purchase,$21.88,+37,7761,0%,+$800,,,,,CLDB
+247,,2019-02-06 12:24:13,2019-02-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$20.25,+40,10715,0%,+$800,,,,,CLDB
+248,,2019-02-06 12:14:23,2019-02-06,CLDB,Koch Joseph E,Dir,P - Purchase,$20.25,+40,12251,0%,+$800,,,,,CLDB
+249,,2019-02-06 12:01:03,2019-02-06,CLDB,Thompson Richard B,Dir,P - Purchase,$20.25,+49,173731,0%,"+$1,000",,,,,CLDB
+250,,2019-02-06 11:24:51,2019-02-06,CLDB,Vross Anthony R,Dir,P - Purchase,$20.25,+49,8324,+1%,"+$1,000",,,,,CLDB
+251,,2019-02-06 11:10:42,2019-02-06,CLDB,Kaback Neil J,Dir,P - Purchase,$20.25,+40,7595,+1%,+$800,,,,,CLDB
+252,,2019-02-06 10:59:40,2019-02-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$20.25,+74,89514,0%,"+$1,500",,,,,CLDB
+253,,2019-02-06 09:59:43,2019-02-06,CLDB,Hoffman James E III,Dir,P - Purchase,$20.25,+40,9174,0%,+$800,,,,,CLDB
+254,,2019-02-06 09:29:34,2019-02-06,CLDB,Cole David C,Dir,P - Purchase,$20.25,+40,7668,+1%,+$800,,,,,CLDB
+255,,2019-01-07 14:22:36,2019-01-07,CLDB,Langhenry Joseph P,Dir,P - Purchase,$20.95,+38,10675,0%,+$800,,,,,CLDB
+256,,2019-01-07 13:56:56,2019-01-07,CLDB,Koch Joseph E,Dir,P - Purchase,$20.95,+38,12212,0%,+$800,,,,,CLDB
+257,,2019-01-07 13:46:05,2019-01-07,CLDB,Thompson Richard B,Dir,P - Purchase,$20.95,+48,173681,0%,"+$1,000",,,,,CLDB
+258,,2019-01-07 13:24:43,2019-01-07,CLDB,Vross Anthony R,Dir,P - Purchase,$20.95,+48,8275,+1%,"+$1,000",,,,,CLDB
+259,,2019-01-07 11:48:55,2019-01-07,CLDB,Kaback Neil J,Dir,P - Purchase,$20.95,+38,7555,+1%,+$800,,,,,CLDB
+260,,2019-01-07 11:41:09,2019-01-07,CLDB,Woofter Timothy K,Dir,P - Purchase,$20.95,+72,89440,0%,"+$1,500",,,,,CLDB
+261,,2019-01-07 11:21:56,2019-01-07,CLDB,Hoffman James E III,Dir,P - Purchase,$20.95,+38,9134,0%,+$800,,,,,CLDB
+262,,2019-01-07 09:57:17,2019-01-07,CLDB,Cole David C,Dir,P - Purchase,$20.95,+38,7629,+1%,+$800,,,,,CLDB
+263,,2018-12-06 12:03:14,2018-12-05,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.60,+69,89368,0%,"+$1,500",,,,,CLDB
+264,,2018-12-06 11:57:27,2018-12-05,CLDB,Langhenry Joseph P,Dir,P - Purchase,$21.60,+37,10637,0%,+$800,,,,,CLDB
+265,,2018-12-06 11:22:29,2018-11-28,CLDB,Johnson Joseph G.,"SVP, Section 16 Officer",P - Purchase,$21.50,+750,1246,+151%,"+$16,125",,,,,CLDB
+266,,2018-12-06 10:58:10,2018-12-05,CLDB,Koch Joseph E,Dir,P - Purchase,$21.60,+37,12174,0%,+$800,,,,,CLDB
+267,,2018-12-06 10:26:41,2018-12-05,CLDB,Hoffman James E III,Dir,P - Purchase,$21.60,+37,9096,0%,+$800,,,,,CLDB
+268,,2018-12-06 10:19:43,2018-12-05,CLDB,Kaback Neil J,Dir,P - Purchase,$21.60,+37,7517,0%,+$800,,,,,CLDB
+269,,2018-12-06 10:05:14,2018-12-05,CLDB,Thompson Richard B,Dir,P - Purchase,$21.60,+46,173634,0%,"+$1,000",,,,,CLDB
+270,,2018-12-06 09:55:11,2018-12-05,CLDB,Vross Anthony R,Dir,P - Purchase,$21.60,+46,8227,+1%,"+$1,000",,,,,CLDB
+271,,2018-12-06 09:32:20,2018-12-05,CLDB,Cole David C,Dir,P - Purchase,$21.60,+37,7590,0%,+$800,,,,,CLDB
+272,,2018-11-23 09:48:03,2018-11-21,CLDB,Carney Timothy,"EVP, COO, SEC'Y.",P - Purchase,$21.00,+485,37140,+1%,"+$10,185",,,,,CLDB
+273,,2018-11-21 11:23:56,2018-11-20,CLDB,Lipke Michael P.,VP,P - Purchase,$21.00,+250,1123,+29%,"+$5,250",,,,,CLDB
+274,,2018-11-19 13:49:18,2018-11-17,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.25,+139,89260,0%,"+$2,954",,,,,CLDB
+275,,2018-11-07 16:48:10,2018-11-06,CLDB,Langhenry Joseph P,Dir,P - Purchase,$22.20,+36,10597,0%,+$800,,,,,CLDB
+276,,2018-11-07 16:37:57,2018-11-06,CLDB,Koch Joseph E,Dir,P - Purchase,$22.20,+36,12115,0%,+$800,,,,,CLDB
+277,,2018-11-07 16:19:59,2018-11-06,CLDB,Thompson Richard B,Dir,P - Purchase,$22.20,+45,172708,0%,"+$1,000",,,,,CLDB
+278,,2018-11-07 15:55:46,2018-11-06,CLDB,Vross Anthony R,Dir,P - Purchase,$22.20,+45,8154,+1%,"+$1,000",,,,,CLDB
+279,,2018-11-07 15:45:05,2018-11-06,CLDB,Kaback Neil J,Dir,P - Purchase,$22.20,+36,7480,0%,+$800,,,,,CLDB
+280,,2018-11-07 15:27:42,2018-11-06,CLDB,Woofter Timothy K,Dir,P - Purchase,$22.20,+68,89121,0%,"+$1,500",,,,,CLDB
+281,,2018-11-07 14:58:52,2018-11-06,CLDB,Hoffman James E III,Dir,P - Purchase,$22.20,+36,9016,0%,+$800,,,,,CLDB
+282,,2018-11-07 14:50:46,2018-11-06,CLDB,Cole David C,Dir,P - Purchase,$22.20,+36,7515,0%,+$800,,,,,CLDB
+283,,2018-10-05 13:02:56,2018-10-04,CLDB,Cole David C,Dir,P - Purchase,$24.40,+33,7479,0%,+$800,,,,,CLDB
+284,,2018-10-05 12:47:00,2018-10-04,CLDB,Hoffman James E III,Dir,P - Purchase,$24.40,+33,8980,0%,+$800,,,,,CLDB
+285,,2018-10-05 12:41:20,2018-10-04,CLDB,Kaback Neil J,Dir,P - Purchase,$24.40,+33,7444,0%,+$800,,,,,CLDB
+286,,2018-10-05 12:35:29,2018-10-04,CLDB,Vross Anthony R,Dir,P - Purchase,$24.40,+41,8109,+1%,"+$1,000",,,,,CLDB
+287,,2018-10-05 12:29:55,2018-10-04,CLDB,Thompson Richard B,Dir,P - Purchase,$24.40,+41,172663,0%,"+$1,000",,,,,CLDB
+288,,2018-10-05 12:22:43,2018-10-04,CLDB,Koch Joseph E,Dir,P - Purchase,$24.40,+33,12079,0%,+$800,,,,,CLDB
+289,,2018-10-05 12:16:32,2018-10-04,CLDB,Langhenry Joseph P,Dir,P - Purchase,$24.40,+33,10561,0%,+$800,,,,,CLDB
+290,,2018-10-05 12:05:34,2018-10-04,CLDB,Woofter Timothy K,Dir,P - Purchase,$24.40,+61,89053,0%,"+$1,500",,,,,CLDB
+291,,2018-09-10 10:16:19,2018-09-07,CLDB,Woofter Timothy K,Dir,P - Purchase,$25.03,+60,88992,0%,"+$1,500",,,,,CLDB
+292,,2018-09-10 09:42:41,2018-09-07,CLDB,Koch Joseph E,Dir,P - Purchase,$25.03,+32,12047,0%,+$800,,,,,CLDB
+293,,2018-09-07 17:08:24,2018-09-07,CLDB,Langhenry Joseph P,Dir,P - Purchase,$25.03,+32,10529,0%,+$800,,,,,CLDB
+294,,2018-09-07 16:56:41,2018-09-07,CLDB,Thompson Richard B,Dir,P - Purchase,$25.03,+40,172622,0%,"+$1,000",,,,,CLDB
+295,,2018-09-07 16:46:45,2018-09-07,CLDB,Vross Anthony R,Dir,P - Purchase,$25.03,+40,8068,0%,"+$1,000",,,,,CLDB
+296,,2018-09-07 16:34:58,2018-09-07,CLDB,Kaback Neil J,Dir,P - Purchase,$25.03,+32,7411,0%,+$800,,,,,CLDB
+297,,2018-09-07 16:23:22,2018-09-07,CLDB,Hoffman James E III,Dir,P - Purchase,$25.03,+32,8948,0%,+$800,,,,,CLDB
+298,,2018-09-07 16:05:48,2018-09-07,CLDB,Cole David C,Dir,P - Purchase,$25.03,+32,7446,0%,+$800,,,,,CLDB
+299,,2018-08-03 15:52:15,2018-08-03,CLDB,Langhenry Joseph P,Dir,P - Purchase,$25.25,+32,10494,0%,+$800,,,,,CLDB
+300,,2018-08-03 15:42:03,2018-08-03,CLDB,Koch Joseph E,Dir,P - Purchase,$25.25,+32,11989,0%,+$800,,,,,CLDB
+301,,2018-08-03 14:59:32,2018-08-03,CLDB,Thompson Richard B,Dir,P - Purchase,$25.25,+40,171486,0%,"+$1,000",,,,,CLDB
+302,,2018-08-03 14:51:03,2018-08-03,CLDB,Vross Anthony R,Dir,P - Purchase,$25.25,+40,7996,0%,"+$1,000",,,,,CLDB
+303,,2018-08-03 14:40:52,2018-08-03,CLDB,Kaback Neil J,Dir,P - Purchase,$25.25,+32,7379,0%,+$800,,,,,CLDB
+304,,2018-08-03 12:17:32,2018-08-03,CLDB,Woofter Timothy K,Dir,P - Purchase,$25.25,+59,88885,0%,"+$1,500",,,,,CLDB
+305,,2018-08-03 11:44:28,2018-08-03,CLDB,Hoffman James E III,Dir,P - Purchase,$25.25,+32,8863,0%,+$800,,,,,CLDB
+306,,2018-08-03 11:16:54,2018-08-03,CLDB,Cole David C,Dir,P - Purchase,$25.25,+32,7367,0%,+$800,,,,,CLDB
+307,,2018-08-02 14:43:03,2018-08-01,CLDB,Perciak Thomas P,Dir,P - Purchase,$24.90,"+1,428",11928,+14%,"+$35,557",,,,,CLDB
+308,,2018-07-03 17:34:20,2018-07-03,CLDB,Langhenry Joseph P,Dir,P - Purchase,$24.31,+33,10462,0%,+$800,,,,,CLDB
+309,,2018-07-03 17:24:07,2018-07-03,CLDB,Koch Joseph E,Dir,P - Purchase,$24.31,+33,11957,0%,+$800,,,,,CLDB
+310,,2018-07-03 17:15:32,2018-07-03,CLDB,Thompson Richard B,Dir,P - Purchase,$24.31,+41,171446,0%,"+$1,000",,,,,CLDB
+311,,2018-07-03 17:01:40,2018-07-03,CLDB,Vross Anthony R,Dir,P - Purchase,$24.31,+41,7957,+1%,"+$1,000",,,,,CLDB
+312,,2018-07-03 16:21:49,2018-07-03,CLDB,Kaback Neil J,Dir,P - Purchase,$24.31,+33,7347,0%,+$800,,,,,CLDB
+313,,2018-07-03 15:59:29,2018-07-03,CLDB,Woofter Timothy K,Dir,P - Purchase,$24.31,+62,88825,0%,"+$1,500",,,,,CLDB
+314,,2018-07-03 15:12:35,2018-07-03,CLDB,Hoffman James E III,Dir,P - Purchase,$24.31,+33,8832,0%,+$800,,,,,CLDB
+315,,2018-07-03 14:29:11,2018-07-03,CLDB,Cole David C,Dir,P - Purchase,$24.31,+33,7336,0%,+$800,,,,,CLDB
+316,,2018-06-15 16:11:14,2018-06-14,CLDB,Woofter Timothy K,Dir,P - Purchase,$22.80,+66,88765,0%,"+$1,500",,,,,CLDB
+317,,2018-06-15 16:05:39,2018-06-14,CLDB,Kaback Neil J,Dir,P - Purchase,$22.80,+35,7315,0%,+$800,,,,,CLDB
+318,,2018-06-15 13:06:51,2018-06-14,CLDB,Koch Joseph E,Dir,P - Purchase,$22.80,+35,11924,0%,+$800,,,,,CLDB
+319,,2018-06-15 13:04:39,2018-06-14,CLDB,Vross Anthony R,Dir,P - Purchase,$22.80,+44,7916,+1%,"+$1,000",,,,,CLDB
+320,,2018-06-15 12:59:58,2018-06-14,CLDB,Langhenry Joseph P,Dir,P - Purchase,$22.80,+35,10429,0%,+$800,,,,,CLDB
+321,,2018-06-15 12:57:33,2018-06-14,CLDB,Thompson Richard B,Dir,P - Purchase,$22.80,+44,171405,0%,"+$1,000",,,,,CLDB
+322,,2018-06-15 12:55:59,2018-06-14,CLDB,Hoffman James E III,Dir,P - Purchase,$22.80,+35,8799,0%,+$800,,,,,CLDB
+323,,2018-06-15 12:54:53,2018-06-14,CLDB,Cole David C,Dir,P - Purchase,$22.80,+35,7303,0%,+$800,,,,,CLDB
+324,,2018-05-17 08:15:59,2018-05-15,CLDB,Kaback Neil J,Dir,P - Purchase,$21.45,"+1,000",7279,+16%,"+$21,450",,,,,CLDB
+325,,2018-05-16 11:15:10,2018-05-15,CLDB,Lipke Michael P.,VP,S - Sale,$21.25,-171,873,-16%,"-$3,634",,,,,CLDB
+326,,2018-05-15 10:15:36,2018-05-14,CLDB,Vross Anthony R,Dir,P - Purchase,$21.47,"+1,100",7848,+16%,"+$23,617",,,,,CLDB
+327,,2018-05-03 12:52:57,2018-05-03,CLDB,Langhenry Joseph P,Dir,P - Purchase,$22.25,+36,10393,0%,+$800,,,,,CLDB
+328,,2018-05-03 12:39:04,2018-05-03,CLDB,Koch Joseph E,Dir,P - Purchase,$22.25,+36,11870,0%,+$800,,,,,CLDB
+329,,2018-05-03 12:29:13,2018-05-03,CLDB,Thompson Richard B,Dir,P - Purchase,$22.25,+45,170538,0%,"+$1,000",,,,,CLDB
+330,,2018-05-03 12:21:09,2018-05-03,CLDB,Vross Anthony R,Dir,P - Purchase,$22.25,+45,6748,+1%,"+$1,000",,,,,CLDB
+331,,2018-05-03 12:12:58,2018-05-03,CLDB,Kaback Neil J,Dir,P - Purchase,$22.25,+36,6279,+1%,+$800,,,,,CLDB
+332,,2018-05-03 11:58:03,2018-05-03,CLDB,Woofter Timothy K,Dir,P - Purchase,$22.25,+67,88664,0%,"+$1,500",,,,,CLDB
+333,,2018-05-03 11:38:51,2018-05-03,CLDB,Hoffman James E III,Dir,P - Purchase,$22.25,+36,8725,0%,+$800,,,,,CLDB
+334,,2018-05-03 11:28:40,2018-05-03,CLDB,Cole David C,Dir,P - Purchase,$22.25,+36,7233,0%,+$800,,,,,CLDB
+335,,2018-04-05 17:34:26,2018-04-05,CLDB,Woofter Timothy K,Dir,P - Purchase,$22.95,+65,88489,0%,"+$1,500",,,,,CLDB
+336,,2018-04-05 17:19:09,2018-04-05,CLDB,Langhenry Joseph P,Dir,P - Purchase,$22.95,+35,10259,0%,+$800,,,,,CLDB
+337,,2018-04-05 17:10:23,2018-04-05,CLDB,Koch Joseph E,Dir,P - Purchase,$22.95,+35,11736,0%,+$800,,,,,CLDB
+338,,2018-04-05 16:57:19,2018-04-05,CLDB,Thompson Richard B,Dir,P - Purchase,$22.95,+44,170395,0%,"+$1,000",,,,,CLDB
+339,,2018-04-05 16:46:16,2018-04-05,CLDB,Vross Anthony R,Dir,P - Purchase,$22.95,+44,6605,+1%,"+$1,000",,,,,CLDB
+340,,2018-04-05 16:38:49,2018-04-05,CLDB,Kaback Neil J,Dir,P - Purchase,$22.95,+35,6146,+1%,+$800,,,,,CLDB
+341,,2018-04-05 16:29:51,2018-04-05,CLDB,Hoffman James E III,Dir,P - Purchase,$22.95,+35,8591,0%,+$800,,,,,CLDB
+342,,2018-04-05 16:17:04,2018-04-05,CLDB,Cole David C,Dir,P - Purchase,$22.95,+35,7099,0%,+$800,,,,,CLDB
+343,,2018-03-13 17:39:15,2018-03-01,CLDB,Langhenry Joseph P,Dir,P - Purchase,$25.30,+32,10224,0%,+$800,,,,,CLDB
+344,,2018-03-13 17:37:05,2018-03-01,CLDB,Koch Joseph E,Dir,P - Purchase,$25.30,+32,11701,0%,+$800,,,,,CLDB
+345,,2018-03-13 17:35:22,2018-03-01,CLDB,Thompson Richard B,Dir,P - Purchase,$25.30,+40,170352,0%,"+$1,000",,,,,CLDB
+346,,2018-03-13 17:33:34,2018-03-01,CLDB,Vross Anthony R,Dir,P - Purchase,$25.30,+40,6562,+1%,"+$1,000",,,,,CLDB
+347,,2018-03-13 17:31:32,2018-03-01,CLDB,Kaback Neil J,Dir,P - Purchase,$25.30,+32,6111,+1%,+$800,,,,,CLDB
+348,,2018-03-13 17:28:32,2018-03-01,CLDB,Woofter Timothy K,Dir,P - Purchase,$25.30,+59,88423,0%,"+$1,500",,,,,CLDB
+349,,2018-03-13 17:26:26,2018-03-01,CLDB,Hoffman James E III,Dir,P - Purchase,$25.30,+32,8556,0%,+$800,,,,,CLDB
+350,,2018-03-13 17:23:42,2018-03-01,CLDB,Cole David C,Dir,P - Purchase,$25.30,+32,7064,0%,+$800,,,,,CLDB
+351,,2018-02-12 15:26:12,2018-02-01,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.50,+70,88334,0%,"+$1,500",,,,,CLDB
+352,,2018-02-12 15:13:53,2018-02-01,CLDB,Thompson Richard B,Dir,P - Purchase,$21.50,+47,169575,0%,"+$1,000",,,,,CLDB
+353,,2018-02-12 15:02:10,2018-02-01,CLDB,Cole David C,Dir,P - Purchase,$21.50,+37,7002,+1%,+$800,,,,,CLDB
+354,,2018-02-12 14:50:59,2018-02-01,CLDB,Hoffman James E III,Dir,P - Purchase,$21.50,+37,8490,0%,+$800,,,,,CLDB
+355,,2018-02-12 14:23:15,2018-02-01,CLDB,Kaback Neil J,Dir,P - Purchase,$21.50,+37,6079,+1%,+$800,,,,,CLDB
+356,,2018-02-12 12:17:08,2018-02-01,CLDB,Vross Anthony R,Dir,P - Purchase,$21.50,+47,6502,+1%,"+$1,000",,,,,CLDB
+357,,2018-02-12 11:56:21,2018-02-01,CLDB,Koch Joseph E,Dir,P - Purchase,$21.50,+37,11654,0%,+$800,,,,,CLDB
+358,,2018-02-12 11:48:51,2018-02-01,CLDB,Langhenry Joseph P,Dir,P - Purchase,$21.50,+37,10192,0%,+$800,,,,,CLDB
+359,,2018-01-04 12:30:37,2018-01-02,CLDB,Langhenry Joseph P,Dir,P - Purchase,$21.00,+38,10155,0%,+$800,,,,,CLDB
+360,,2018-01-04 12:13:16,2018-01-02,CLDB,Koch Joseph E,Dir,P - Purchase,$21.00,+38,11617,0%,+$800,,,,,CLDB
+361,,2018-01-04 12:01:15,2018-01-02,CLDB,Thompson Richard B,Dir,P - Purchase,$21.00,+48,169528,0%,"+$1,000",,,,,CLDB
+362,,2018-01-04 11:32:06,2018-01-02,CLDB,Vross Anthony R,Dir,P - Purchase,$21.00,+48,6456,+1%,"+$1,000",,,,,CLDB
+363,,2018-01-04 11:23:57,2018-01-02,CLDB,Kaback Neil J,Dir,P - Purchase,$21.00,+38,6042,+1%,+$800,,,,,CLDB
+364,,2018-01-04 11:05:06,2018-01-02,CLDB,Woofter Timothy K,Dir,P - Purchase,$21.00,+71,88264,0%,"+$1,500",,,,,CLDB
+365,,2018-01-04 10:49:34,2018-01-02,CLDB,Hoffman James E III,Dir,P - Purchase,$21.00,+38,8453,0%,+$800,,,,,CLDB
+366,,2018-01-04 10:39:58,2018-01-02,CLDB,Cole David C,Dir,P - Purchase,$21.00,+38,6965,+1%,+$800,,,,,CLDB
+367,,2017-12-22 11:55:33,2017-12-19,CLDB,Carney Timothy,"EVP, COO, SEC'Y.",P - Purchase,$20.25,"+2,173",33264,+7%,"+$44,000",,,,,CLDB

@@ -1,0 +1,14 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-09-03 14:47:37,2020-02-13,DUOT,Pessin Norman H,10%,P - Purchase,$6.00,"+58,300",249404,+31%,"+$349,800",,,,,DUOT
+1,,2021-08-25 16:05:45,2021-08-17,DUOT,Ferry Charles Parker,CEO,P - Purchase,$5.75,"+1,500",3000,+100%,"+$8,628",,,,,DUOT
+2,,2021-05-27 17:35:14,2021-05-26,DUOT,Harris Edmond L,Dir,P - Purchase,$9.02,"+2,900",3900,+290%,"+$26,166",,,,,DUOT
+3,,2021-05-27 11:21:06,2021-05-20,DUOT,Ferry Charles Parker,CEO,P - Purchase,$9.80,"+1,500",1500,New,"+$14,698",,,,,DUOT
+4,,2021-05-26 15:32:08,2021-05-25,DUOT,Harris Edmond L,Dir,P - Purchase,$9.96,"+1,000",1000,New,"+$9,962",,,,,DUOT
+5,,2020-06-01 18:49:04,2020-05-21,DUOT,Arcaini Gianni B,"COB, CEO",P - Purchase,$4.66,+470,500,>999%,"+$2,191",,,,,DUOT
+6,,2020-06-01 18:49:04,2020-05-18,DUOT,Arcaini Gianni B,"COB, CEO",S - Sale,$4.87,-4,500,-1%,-$19,,,,,DUOT
+7,,2020-05-19 17:28:44,2020-05-15,DUOT,Goldfarb Adrian Graham,CFO,P - Purchase,$4.46,+171,5198,+3%,+$763,,,,,DUOT
+8,M,2020-02-14 21:06:19,2020-02-13,DUOT,Bleichroeder LP,10%,P - Purchase,$6.00,"+167,900",498258,+51%,"+$1,007,372",,,,,DUOT
+9,,2019-09-24 16:11:02,2019-09-24,DUOT,Goldfarb Adrian Graham,CFO,P - Purchase,$0.46,"+3,000",70649,+4%,"+$1,365",,,,,DUOT
+10,,2019-09-11 13:17:02,2019-09-10,DUOT,Goldfarb Adrian Graham,CFO,P - Purchase,$0.39,"+1,700",67649,+3%,+$660,,,,,DUOT
+11,DM,2019-08-15 10:47:52,2019-06-26,DUOT,Ehrman Kenneth S,Dir,P - Purchase,$0.73,"+90,800",90800,New,"+$66,628",,,,,DUOT
+12,D,2019-02-25 07:00:40,2019-02-22,DUOT,Goldfarb Adrian Graham,CFO,P - Purchase,$0.00,"+26,407",64949,+69%,+$0,,,,,DUOT

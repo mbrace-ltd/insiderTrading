@@ -1,0 +1,34 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2019-12-04 16:00:42,2019-12-03,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",S - Sale+OE,$192.99,-36557,30445,-55%,"-$7,055,135",,,,,WLTW
+1,D,2019-11-22 16:01:15,2019-11-20,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$189.07,-2690,15222,-15%,"-$508,598",,,,,WLTW
+2,D,2019-11-08 16:04:07,2019-11-07,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$185.59,-3214,15222,-17%,"-$596,486",,,,,WLTW
+3,,2019-11-06 15:55:52,2019-11-04,WLTW,Thomas Paul D,Dir,S - Sale,$189.88,-2350,10658,-18%,"-$446,218",,,,,WLTW
+4,,2019-08-26 16:04:14,2019-08-22,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale,$195.00,-7592,5875,-56%,"-$1,480,440",,,,,WLTW
+5,,2019-05-03 16:00:28,2019-05-03,WLTW,Catalano Anna C,Dir,S - Sale,$180.35,-1110,5261,-17%,"-$200,189",,,,,WLTW
+6,D,2019-02-14 16:12:16,2019-02-12,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale+OE,$171.13,-3856,15096,-20%,"-$659,883",,,,,WLTW
+7,D,2019-02-14 16:10:57,2019-02-12,WLTW,Morris Paul G,Head of Western Europe,S - Sale+OE,$170.73,-40531,37507,-52%,"-$6,919,987",,,,,WLTW
+8,,2019-02-14 16:09:25,2019-02-13,WLTW,Garrard Adam,Head of International,S - Sale,$171.71,-3517,5542,-39%,"-$603,915",,,,,WLTW
+9,D,2019-02-13 16:01:49,2019-02-11,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$168.30,-2042,15222,-12%,"-$343,677",,,,,WLTW
+10,D,2018-11-30 16:01:04,2018-11-28,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale+OE,$160.00,-16762,8720,-66%,"-$2,681,920",,,,,WLTW
+11,D,2018-11-13 17:01:27,2018-11-13,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale+OE,$160.15,-10000,80935,-11%,"-$1,601,525",,,,,WLTW
+12,,2018-11-08 16:33:27,2018-11-07,WLTW,Garrard Adam,Head of International,S - Sale,$153.92,-2850,9059,-24%,"-$438,661",,,,,WLTW
+13,D,2018-11-08 16:32:07,2018-11-07,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale+OE,$155.56,-2450,15414,-14%,"-$381,122",,,,,WLTW
+14,D,2018-09-05 16:02:10,2018-08-31,WLTW,Garrard Adam,Head of International,S - Sale+OE,$146.77,-1830,11909,-13%,"-$268,590",,,,,WLTW
+15,D,2018-02-21 17:01:17,2018-02-20,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$159.95,-9438,12603,-43%,"-$1,509,639",,,,,WLTW
+16,D,2018-02-20 17:03:16,2018-02-16,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$159.94,-9437,12603,-43%,"-$1,509,395",,,,,WLTW
+17,M,2017-11-13 17:12:10,2017-11-09,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$161.22,-440000,2244358,-16%,"-$70,934,800",,,,,WLTW
+18,,2017-11-08 17:15:29,2017-11-06,WLTW,Burwell Michael J,CFO,P - Purchase,$160.10,3100,3100,New,"+$496,303",,,,,WLTW
+19,M,2017-10-13 18:29:54,2017-10-11,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$156.74,-287532,2684358,-10%,"-$45,066,346",,,,,WLTW
+20,,2017-10-10 17:15:03,2017-10-06,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$156.05,-8118,2971890,0%,"-$1,266,814",,,,,WLTW
+21,M,2017-09-28 16:40:35,2017-09-26,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$154.88,-304350,2980008,-9%,"-$47,139,084",,,,,WLTW
+22,,2017-09-20 16:57:12,2017-09-18,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$152.38,-41348,3284358,-1%,"-$6,300,608",,,,,WLTW
+23,M,2017-09-13 16:18:26,2017-09-11,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$152.31,-193000,3325706,-5%,"-$29,395,421",,,,,WLTW
+24,M,2017-09-08 18:21:59,2017-09-06,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$148.59,-491652,3518706,-12%,"-$73,053,189",,,,,WLTW
+25,M,2017-09-05 17:26:45,2017-08-31,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$148.64,-216000,4010358,-5%,"-$32,106,120",,,,,WLTW
+26,M,2017-08-29 16:53:17,2017-08-25,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.02,-311000,4226358,-7%,"-$46,345,200",,,,,WLTW
+27,M,2017-08-24 18:04:24,2017-08-22,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.34,-650000,4537358,-13%,"-$97,072,400",,,,,WLTW
+28,M,2017-08-21 18:16:54,2017-08-17,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.05,-106000,5187358,-2%,"-$15,799,660",,,,,WLTW
+29,,2017-08-17 16:04:21,2017-08-16,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale,$151.11,-10000,90938,-10%,"-$1,511,100",,,,,WLTW
+30,M,2017-08-16 18:00:53,2017-08-15,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$150.68,-316000,5294904,-6%,"-$47,615,640",,,,,WLTW
+31,,2017-08-16 16:06:14,2017-08-16,WLTW,Oneill Brendan R,Dir,S - Sale,$150.92,-5000,11788,-30%,"-$754,613",,,,,WLTW
+32,M,2017-08-14 17:28:39,2017-08-10,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.09,-180000,5609358,-3%,"-$26,835,600",,,,,WLTW

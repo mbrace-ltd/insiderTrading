@@ -1,0 +1,7 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-16 15:29:44,2021-12-15,PLL,Armstrong Jeffrey T.,Dir,P - Purchase,$50.00,"+2,500",25000,+11%,"+$125,000",,,,,PLL
+1,,2021-09-30 12:56:29,2021-09-29,PLL,Armstrong Jeffrey T.,Dir,P - Purchase,$51.09,"+2,500",22500,+13%,"+$127,725",,,,,PLL
+2,D,2021-07-08 21:04:58,2021-07-06,PLL,Brindle Patrick,"EVP, CDO",S - Sale+OE,$74.33,-20000,27630,-42%,"-$1,486,664",,,,,PLL
+3,,2021-07-07 21:03:17,2021-07-07,PLL,Armstrong Jeffrey T.,Dir,P - Purchase,$69.62,"+2,500",20000,+14%,"+$174,045",,,,,PLL
+4,,2021-07-07 21:02:37,2021-07-06,PLL,Jones Susan C.,Dir,P - Purchase,$73.06,"+4,000",4000,New,"+$292,260",,,,,PLL
+5,DM,2021-07-07 21:02:20,2021-07-05,PLL,Phillips Keith D.,"Pres, CEO",S - Sale+OE,$75.63,-26080,87059,-23%,"-$1,972,452",,,,,PLL

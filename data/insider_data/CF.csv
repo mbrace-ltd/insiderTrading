@@ -1,0 +1,38 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-06-03 17:07:03,2021-06-01,CF,Will W Anthony,"Pres, CEO",S - Sale,$55.01,-40001,483218,-8%,"-$2,200,375",,,,,CF
+1,,2021-05-19 17:34:38,2021-05-18,CF,Frost Bert A,"Sr.VP,Sales,Mkt Dev, SuppChn",S - Sale,$56.00,-5000,88296,-5%,"-$280,000",,,,,CF
+2,D,2021-05-19 17:33:35,2021-05-18,CF,Bohn Christopher D,"SVP, CFO",S - Sale+OE,$56.00,-10000,100443,-9%,"-$560,000",,,,,CF
+3,D,2021-05-17 18:01:52,2021-05-14,CF,Barnard Douglas C,"SVP, Gen. Counsel, Sec",S - Sale+OE,$54.05,-20600,113345,-15%,"-$1,113,436",,,,,CF
+4,DM,2021-05-07 21:54:08,2021-05-06,CF,Frost Bert A,"Sr.VP,Sales,Mkt Dev, Supp Chn",S - Sale+OE,$53.00,-37450,93296,-29%,"-$1,984,858",,,,,CF
+5,D,2021-05-07 21:53:17,2021-05-07,CF,Hoker Richard A,"VP, Corporate Controller",S - Sale+OE,$53.01,-22300,78387,-22%,"-$1,182,078",,,,,CF
+6,,2021-05-07 21:52:21,2021-05-07,CF,Will W Anthony,"Pres, CEO",S - Sale,$54.22,-40000,523219,-7%,"-$2,168,872",,,,,CF
+7,D,2021-05-07 21:51:43,2021-05-07,CF,Malik Ashraf K,"SVP, Manufacturing, D'istn",S - Sale+OE,$55.01,-5650,28401,-17%,"-$310,796",,,,,CF
+8,D,2021-05-07 21:50:56,2021-05-07,CF,Bohn Christopher D,"SVP, CFO",S - Sale+OE,$54.09,-14975,100443,-13%,"-$810,045",,,,,CF
+9,D,2021-03-17 16:06:38,2021-03-15,CF,Hopkins David P,"MD, CF Fert. UK",S - Sale+OE,$50.74,-6100,23514,-21%,"-$309,492",,,,,CF
+10,,2021-03-15 16:44:02,2021-03-11,CF,Frost Bert A,"Sr.VP, Sales, Mkt Dev,Sup Chn",S - Sale,$50.84,-22497,103296,-18%,"-$1,143,741",,,,,CF
+11,,2021-03-09 16:05:54,2021-03-08,CF,Davisson William,Dir,S - Sale,$50.00,-10000,36191,-22%,"-$500,000",,,,,CF
+12,,2021-03-02 16:06:19,2021-02-26,CF,White Celso L.,Dir,P - Purchase,$47.95,5,11196,0%,+$245,,,,,CF
+13,,2020-11-25 18:22:18,2020-11-24,CF,White Celso L.,Dir,P - Purchase,$38.03,815,11191,+8%,"+$31,000",,,,,CF
+14,D,2020-06-10 16:06:03,2020-06-08,CF,Hopkins David P,MD CF Fert. UK,S - Sale+OE,$32.91,-1900,15200,-11%,"-$62,532",,,,,CF
+15,D,2020-05-28 16:05:16,2020-05-26,CF,Hopkins David P,MD CF Fert. UK,S - Sale+OE,$29.37,-2000,15200,-12%,"-$58,748",,,,,CF
+16,D,2019-11-22 17:11:21,2019-11-21,CF,Frost Bert A,"Sr.VP,Sales, Mkt Dev, Sup Chn",S - Sale+OE,$45.50,-13000,82072,-14%,"-$591,438",,,,,CF
+17,,2019-11-06 18:10:58,2019-11-05,CF,Furbacher Stephen A,Dir,S - Sale,$47.50,-3500,49187,-7%,"-$166,250",,,,,CF
+18,DM,2019-09-03 17:57:14,2019-08-29,CF,Kelleher Dennis P.,"SVP, CFO",S - Sale+OE,$48.21,-95243,40874,-70%,"-$4,591,558",,,,,CF
+19,D,2019-08-30 17:03:57,2019-08-29,CF,Frost Bert A,"Sr.VP,Sales,Mkt Dev, Sup Chn",S - Sale+OE,$48.21,-21000,82072,-20%,"-$1,012,479",,,,,CF
+20,D,2019-08-08 16:39:43,2019-08-07,CF,Frost Bert A,"Sr.VP,Sales,Mkt Dev, Sup Chn",S - Sale+OE,$50.16,-21600,82072,-21%,"-$1,083,456",,,,,CF
+21,D,2019-08-06 17:01:42,2019-08-05,CF,Barnard Douglas C,"SVP, Gen. Coun., Secretary",S - Sale+OE,$50.74,-100500,94498,-52%,"-$5,099,646",,,,,CF
+22,D,2019-08-06 17:01:27,2019-08-05,CF,O'Brien Rosemary L,"VP, Public Affairs",S - Sale+OE,$50.47,-5000,32936,-13%,"-$252,350",,,,,CF
+23,D,2019-06-04 16:19:49,2019-06-03,CF,Hoker Richard A,"VP, Corporate Controller",S - Sale+OE,$41.15,-3665,63383,-5%,"-$150,796",,,,,CF
+24,D,2019-06-04 16:16:49,2019-06-03,CF,Frost Bert A,"Sr.VP,SalesMktDev,Supply Chain",S - Sale+OE,$41.17,-6000,82072,-7%,"-$247,024",,,,,CF
+25,,2019-05-09 19:25:09,2019-05-07,CF,Furbacher Stephen A,Dir,S - Sale,$42.01,-3000,52687,-5%,"-$126,030",,,,,CF
+26,D,2018-11-13 16:12:11,2018-11-08,CF,Frost Bert A,"Sr.VP, Sales,Mkt Dev Supp Chn",S - Sale+OE,$54.00,-1900,71490,-3%,"-$102,600",,,,,CF
+27,,2018-11-13 16:10:55,2018-11-09,CF,Furbacher Stephen A,Dir,S - Sale,$52.45,-3500,50190,-7%,"-$183,561",,,,,CF
+28,,2018-08-31 16:06:24,2018-08-29,CF,Furbacher Stephen A,Dir,S - Sale,$51.43,-1000,53690,-2%,"-$51,431",,,,,CF
+29,D,2018-08-10 16:30:59,2018-08-10,CF,Frost Bert A,"Sr.VP, Sales, Mkt Dev Supp Chn",S - Sale+OE,$50.31,-10675,71490,-13%,"-$537,082",,,,,CF
+30,D,2018-08-10 16:30:42,2018-08-08,CF,Hall Adam L,"VP, Corporate Development",S - Sale+OE,$48.59,-20256,24026,-46%,"-$984,190",,,,,CF
+31,D,2018-08-08 16:31:12,2018-08-06,CF,O'Brien Rosemary L,"VP, Public Affairs",S - Sale+OE,$49.16,-6200,30015,-17%,"-$304,765",,,,,CF
+32,,2018-08-08 16:30:57,2018-08-06,CF,Furbacher Stephen A,Dir,S - Sale,$49.52,-2000,54690,-4%,"-$99,042",,,,,CF
+33,D,2018-05-15 16:02:36,2018-05-14,CF,Hall Adam L,"VP, Corporate Development",S - Sale+OE,$40.53,-15540,24026,-39%,"-$629,803",,,,,CF
+34,D,2018-05-15 16:02:08,2018-05-14,CF,Frost Bert A,"SVP, Sales, Mkt Dev, Supp",S - Sale+OE,$40.24,-13000,71490,-15%,"-$523,171",,,,,CF
+35,,2017-11-27 18:31:42,2017-11-21,CF,Furbacher Stephen A,Dir,S - Sale,$36.00,-3500,50854,-6%,"-$126,016",,,,,CF
+36,D,2017-11-22 16:07:31,2017-11-21,CF,Frost Bert A,"Sr.VP, Sales,Mkt Dev Supp. Chn",S - Sale+OE,$36.50,-7500,59732,-11%,"-$273,784",,,,,CF

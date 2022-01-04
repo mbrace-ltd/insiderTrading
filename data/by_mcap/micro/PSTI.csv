@@ -1,0 +1,25 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-06-01 07:34:17,2021-05-26,PSTI,Clover Wolf Capital - Limited Partnership,10%,S - Sale,$3.70,-355570,3121918,-10%,"-$1,314,277",,,,,PSTI
+1,M,2021-05-27 06:15:01,2021-05-21,PSTI,Clover Wolf Capital - Limited Partnership,10%,S - Sale,$3.86,-410376,3477488,-11%,"-$1,584,828",,,,,PSTI
+2,M,2021-05-04 16:06:01,2021-04-30,PSTI,Clover Wolf Capital - Limited Partnership,10%,S - Sale,$4.61,-189725,3887864,-5%,"-$875,105",,,,,PSTI
+3,,2020-12-01 16:10:18,2020-11-30,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.70,"+20,000",4077589,0%,"+$194,000",,,,,PSTI
+4,,2020-11-03 16:51:20,2020-10-30,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.51,"+50,000",4057589,+1%,"+$475,500",,,,,PSTI
+5,,2020-10-29 16:27:20,2020-10-29,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.20,"+20,000",4007589,+1%,"+$184,000",,,,,PSTI
+6,M,2020-10-01 16:12:35,2020-09-29,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$10.16,"+199,129",3987589,+5%,"+$2,024,123",,,,,PSTI
+7,,2020-09-29 16:05:48,2020-09-28,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.49,"+13,189",3788460,0%,"+$125,164",,,,,PSTI
+8,,2020-09-25 16:10:20,2020-09-24,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.02,"+34,800",3775271,+1%,"+$313,896",,,,,PSTI
+9,,2020-09-24 16:33:18,2020-09-23,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.04,"+10,734",3740471,0%,"+$96,983",,,,,PSTI
+10,M,2020-08-03 18:21:33,2020-07-30,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.24,"+65,771",3729737,+2%,"+$607,924",,,,,PSTI
+11,,2020-07-30 19:13:13,2020-07-29,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$9.03,"+121,926",3663966,+3%,"+$1,100,992",,,,,PSTI
+12,,2020-07-29 16:12:50,2020-07-28,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$8.46,"+81,198",3542040,+2%,"+$686,935",,,,,PSTI
+13,,2020-07-28 16:13:12,2020-07-27,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$8.34,"+49,396",3460842,+1%,"+$411,963",,,,,PSTI
+14,M,2020-07-07 16:12:43,2020-06-22,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$8.04,"+199,686",3411446,+6%,"+$1,604,865",,,,,PSTI
+15,M,2020-06-29 19:23:30,2020-05-27,PSTI,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,$7.61,"+700,449",3211760,+28%,"+$5,328,131",,,,,PSTI
+16,D,2019-04-08 16:19:13,2019-04-08,PSTI,Shorrer Doron,Dir,P - Purchase,$0.70,"+14,286",897244,+2%,"+$10,000",,,,,PSTI
+17,D,2019-04-08 16:17:26,2019-04-08,PSTI,Aberman Zami,"Co-CEO, COB",P - Purchase,$0.70,"+71,429",5051127,+1%,"+$50,000",,,,,PSTI
+18,D,2019-04-08 16:15:19,2019-04-08,PSTI,Yanay Yaky,"Co-CEO, Pres",P - Purchase,$0.70,"+71,429",4319544,+2%,"+$50,000",,,,,PSTI
+19,D,2019-04-08 16:13:30,2019-04-08,PSTI,Ben-Yoram Israel,Dir,P - Purchase,$0.70,"+71,429",798485,+10%,"+$50,000",,,,,PSTI
+20,D,2019-04-08 16:12:01,2019-04-08,PSTI,Kwiat Moria,Dir,P - Purchase,$0.70,"+28,571",373571,+8%,"+$20,000",,,,,PSTI
+21,D,2019-04-08 16:10:27,2019-04-08,PSTI,Braun Isaac,Dir,P - Purchase,$0.70,"+50,000",636208,+9%,"+$35,000",,,,,PSTI
+22,M,2018-03-19 17:08:06,2018-03-15,PSTI,Germain Mark,Dir,S - Sale,$1.48,-45873,513944,-8%,"-$67,892",,,,,PSTI
+23,,2018-03-15 17:12:21,2018-03-14,PSTI,Germain Mark,Dir,S - Sale,$1.50,-23818,559817,-4%,"-$35,727",,,,,PSTI

@@ -1,0 +1,19 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-09-03 07:30:25,2021-09-01,SCOR,Livek William Paul,See Remarks,P - Purchase,$4.00,"+15,000",1079533,+1%,"+$60,071",,,,,SCOR
+1,,2021-08-30 19:04:01,2021-08-27,SCOR,Livek William Paul,See Remarks,P - Purchase,$3.98,"+20,000",1064533,+2%,"+$79,600",,,,,SCOR
+2,,2021-08-27 16:06:10,2021-08-26,SCOR,Livek William Paul,See Remarks,P - Purchase,$3.81,"+25,000",1044533,+2%,"+$95,250",,,,,SCOR
+3,,2021-08-20 18:59:03,2021-08-18,SCOR,Livek William Paul,See Remarks,P - Purchase,$3.40,"+25,371",1019533,+3%,"+$86,261",,,,,SCOR
+4,D,2021-08-17 18:30:52,2021-08-16,SCOR,Wilson Christopher T,Chief Commercial Officer,S - Sale+OE,$3.37,-3491,127751,-3%,"-$11,765",,,,,SCOR
+5,,2021-08-12 20:48:51,2021-08-11,SCOR,Rosenthal Brent David,Dir,P - Purchase,$3.25,"+15,000",179959,+9%,"+$48,750",,,,,SCOR
+6,,2021-08-12 20:46:30,2021-08-11,SCOR,Gotlieb Irwin,Dir,P - Purchase,$3.19,"+100,000",388093,+35%,"+$319,000",,,,,SCOR
+7,,2021-08-12 20:44:17,2021-08-11,SCOR,Fisher Itzhak,Dir,P - Purchase,$3.20,"+100,000",126969,+371%,"+$320,000",,,,,SCOR
+8,M,2021-06-02 17:43:30,2021-06-01,SCOR,Gotlieb Irwin,Dir,P - Purchase,$3.97,"+100,000",186956,+115%,"+$397,454",,,,,SCOR
+9,M,2021-03-19 08:46:06,2021-03-17,SCOR,Livek William Paul,See Remarks,P - Purchase,$3.66,"+200,000",994162,+25%,"+$731,962",,,,,SCOR
+10,,2019-11-15 16:43:03,2019-11-13,SCOR,Fuller Dale L,Dir,P - Purchase,$3.85,"+5,000",38470,+15%,"+$19,250",,,,,SCOR
+11,M,2019-11-12 21:22:58,2019-11-07,SCOR,Fuller Dale L,Dir,P - Purchase,$3.23,"+20,000",33470,+148%,"+$64,500",,,,,SCOR
+12,,2019-11-12 21:20:41,2019-11-07,SCOR,Rosenthal Brent David,Dir,P - Purchase,$3.19,"+46,500",140804,+49%,"+$148,515",,,,,SCOR
+13,M,2019-11-12 21:18:00,2019-11-07,SCOR,Livek William Paul,See Remarks,P - Purchase,$3.24,"+312,580",735829,+74%,"+$1,013,822",,,,,SCOR
+14,,2019-03-25 17:51:16,2019-03-22,SCOR,Hess Daniel,Chief Product Officer,S - Sale,$21.11,-1475,16303,-8%,"-$31,137",,,,,SCOR
+15,,2019-03-25 17:49:09,2019-03-22,SCOR,Rostock Joseph R,See Remarks,S - Sale,$21.11,-536,14553,-4%,"-$11,315",,,,,SCOR
+16,,2019-03-15 17:24:43,2019-03-13,SCOR,Rostock Joseph R,See Remarks,S - Sale,$22.52,-2912,13594,-18%,"-$65,578",,,,,SCOR
+17,,2019-03-15 17:22:42,2019-03-13,SCOR,Hess Daniel,Chief Product Officer,S - Sale,$22.52,-1888,13436,-12%,"-$42,518",,,,,SCOR

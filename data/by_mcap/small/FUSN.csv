@@ -1,0 +1,15 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-23 18:28:03,2021-08-23,FUSN,Gannon Steven,Dir,P - Purchase,$7.99,"+2,829",12000,+31%,"+$22,590",,,,,FUSN
+1,M,2021-08-20 16:10:12,2021-08-18,FUSN,Gannon Steven,Dir,P - Purchase,$8.05,"+3,171",9171,+53%,"+$25,527",,,,,FUSN
+2,,2021-08-17 16:05:12,2021-08-16,FUSN,Gannon Steven,Dir,P - Purchase,$8.10,"+6,000",6000,New,"+$48,600",,,,,FUSN
+3,,2020-12-29 16:01:23,2020-12-24,FUSN,Adams Street Partners LLC,10%,S - Sale,$12.32,-3800,1457115,0%,"-$46,816",,,,,FUSN
+4,,2020-12-28 16:02:21,2020-12-23,FUSN,Adams Street Partners LLC,10%,S - Sale,$12.39,-4569,1458699,0%,"-$56,610",,,,,FUSN
+5,D,2020-07-02 16:58:57,2020-06-30,FUSN,Johnson & Johnson,10%,P - Purchase,$17.00,"+725,000",3670516,+25%,"+$12,325,000",,,,,FUSN
+6,D,2020-07-02 16:34:24,2020-06-30,FUSN,"Tpg Group Holdings (Sbs) Advisors, Inc.",Former 10% Owner,P - Purchase,$17.00,"+250,000",4853588,+5%,"+$4,250,000",,,,,FUSN
+7,,2020-07-02 16:05:04,2020-06-30,FUSN,Preston Heather,Dir,P - Purchase,$17.00,"+8,823",8823,New,"+$149,991",,,,,FUSN
+8,,2020-07-02 16:05:04,2020-06-30,FUSN,O'Leary James J,Chief Medical Officer,P - Purchase,$17.00,+300,300,New,"+$5,100",,,,,FUSN
+9,,2020-07-02 16:04:01,2020-06-30,FUSN,Crowley John J,CFO,P - Purchase,$17.00,"+6,500",6500,New,"+$110,500",,,,,FUSN
+10,D,2020-07-02 16:03:12,2020-06-30,FUSN,Khuong Chau Quang,Dir,P - Purchase,$17.00,"+898,000",192100,-127%,"+$15,266,000",,,,,FUSN
+11,D,2020-07-02 16:02:27,2020-06-30,FUSN,"Healthcap Vii, L.P.",10%,P - Purchase,$17.00,"+240,000",3807247,+7%,"+$4,080,000",,,,,FUSN
+12,D,2020-07-02 16:02:27,2020-06-30,FUSN,Christenson Johan,Dir,P - Purchase,$17.00,"+240,000",3807247,+7%,"+$4,080,000",,,,,FUSN
+13,D,2020-07-02 16:02:07,2020-06-30,FUSN,Orbimed Advisors LLC,Dir,P - Purchase,$17.00,"+898,000",3122770,+40%,"+$15,266,000",,,,,FUSN

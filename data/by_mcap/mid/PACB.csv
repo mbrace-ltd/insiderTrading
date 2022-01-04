@@ -1,0 +1,33 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-10-01 17:31:18,2021-09-29,PACB,Kim Susan G.,CFO,S - Sale,$25.75,-20272,136028,-13%,"-$522,004",,,,,PACB
+1,A,2021-09-20 21:40:28,2021-09-16,PACB,Henry Christian O,"Pres, CEO",S - Sale,$26.91,-90520,674480,-12%,"-$2,435,893",,,,,PACB
+2,,2021-09-17 16:53:54,2021-09-16,PACB,Henry Christian O,"Pres, CEO",S - Sale,$26.91,-90520,674480,-12%,"-$2,435,893",,,,,PACB
+3,D,2021-05-26 20:50:42,2021-05-25,PACB,Ericson William W.,Dir,S - Sale+OE,$25.89,-37500,0,-100%,"-$971,058",,,,,PACB
+4,D,2021-03-02 20:31:50,2021-02-26,PACB,Hunkapiller Michael,Dir,S - Sale+OE,$31.02,-234246,848405,-22%,"-$7,265,866",,,,,PACB
+5,DM,2021-02-26 20:34:22,2021-02-24,PACB,Hunkapiller Michael,Dir,S - Sale+OE,$34.30,-605804,848405,-42%,"-$20,778,225",,,,,PACB
+6,DM,2021-02-24 20:50:00,2021-02-22,PACB,Hunkapiller Michael,Dir,S - Sale+OE,$36.50,-602448,848405,-42%,"-$21,989,724",,,,,PACB
+7,,2021-02-24 20:21:48,2021-02-22,PACB,Schaefer Eric,Chief Accounting Officer,S - Sale,$39.20,-3842,88474,-4%,"-$150,606",,,,,PACB
+8,D,2021-02-18 21:52:14,2021-02-16,PACB,Ordonez Kathy,Dir,S - Sale+OE,$47.99,-220771,21875,-91%,"-$10,595,810",,,,,PACB
+9,,2021-02-17 21:19:38,2021-02-12,PACB,Shapiro Lucy,Dir,S - Sale,$50.40,-101666,0,-100%,"-$5,123,966",,,,,PACB
+10,D,2021-02-17 21:17:35,2021-02-12,PACB,Livingston Randall S,Dir,S - Sale+OE,$48.07,-67500,0,-100%,"-$3,244,455",,,,,PACB
+11,D,2021-02-17 21:15:37,2021-02-12,PACB,Botstein David,Dir,S - Sale+OE,$49.62,-160000,0,-100%,"-$7,939,764",,,,,PACB
+12,D,2021-01-27 17:07:39,2021-01-25,PACB,Hunkapiller Michael,Dir,S - Sale+OE,$36.34,-125406,848405,-13%,"-$4,556,901",,,,,PACB
+13,DM,2021-01-22 21:49:58,2021-01-20,PACB,Hunkapiller Michael,Dir,S - Sale+OE,$37.53,-624404,848405,-42%,"-$23,430,830",,,,,PACB
+14,DM,2020-12-23 18:34:01,2020-12-21,PACB,Hunkapiller Michael,Dir,S - Sale+OE,$24.36,-700000,898215,-44%,"-$17,054,044",,,,,PACB
+15,,2020-11-25 16:46:54,2020-11-24,PACB,Hunkapiller Michael,Dir,S - Sale,$14.39,-1492,898215,0%,"-$21,462",,,,,PACB
+16,M,2020-11-24 16:44:07,2020-11-20,PACB,Hunkapiller Michael,Dir,S - Sale,$15.06,-399636,899707,-31%,"-$6,019,152",,,,,PACB
+17,M,2020-11-20 17:16:21,2020-11-18,PACB,Hunkapiller Michael,Dir,S - Sale,$15.70,-40582,1299343,-3%,"-$637,229",,,,,PACB
+18,,2020-11-18 16:05:22,2020-11-16,PACB,Hunkapiller Michael,Dir,S - Sale,$15.90,-42488,1339925,-3%,"-$675,347",,,,,PACB
+19,M,2020-11-13 17:17:05,2020-11-10,PACB,Hunkapiller Michael,Dir,S - Sale,$14.79,-1950000,1382413,-59%,"-$28,836,800",,,,,PACB
+20,M,2020-08-26 17:08:59,2020-08-24,PACB,Hunkapiller Michael,"CEO, Pres",S - Sale,$6.54,-487796,3332413,-13%,"-$3,192,094",,,,,PACB
+21,M,2020-08-24 18:04:39,2020-08-20,PACB,Hunkapiller Michael,"CEO, Pres",S - Sale,$6.51,-446401,3820209,-10%,"-$2,906,717",,,,,PACB
+22,,2020-03-24 18:12:03,2020-03-24,PACB,Phillips James Michael,"SVP, Research, Development",S - Sale,$3.05,-2760,249220,-1%,"-$8,421",,,,,PACB
+23,,2020-02-25 19:09:30,2020-02-19,PACB,Barnes Susan K,"EVP, CFO, PAO",S - Sale,$4.44,-12558,874812,-1%,"-$55,758",,,,,PACB
+24,,2020-02-24 17:55:32,2020-02-20,PACB,Phillips James Michael,"SVP, Research, Development",S - Sale,$4.48,-5050,251980,-2%,"-$22,624",,,,,PACB
+25,,2020-02-24 16:15:59,2020-02-20,PACB,Hunkapiller Michael,"COB, CEO, Pres",S - Sale,$4.50,-166575,4266610,-4%,"-$749,754",,,,,PACB
+26,M,2020-02-20 17:33:13,2020-02-18,PACB,Hunkapiller Michael,"COB, CEO, Pres",S - Sale,$4.49,-602276,4433185,-12%,"-$2,705,645",,,,,PACB
+27,,2019-02-20 20:47:58,2019-02-19,PACB,Phillips James Michael,"SVP, Research, Development",S - Sale,$7.17,-7231,229530,-3%,"-$51,817",,,,,PACB
+28,,2019-02-20 20:46:50,2019-02-19,PACB,Ordonez Kathy,Dir,S - Sale,$7.17,-6933,56767,-11%,"-$49,696",,,,,PACB
+29,,2019-02-20 20:45:53,2019-02-19,PACB,Barnes Susan K,"EVP, CFO, PAO",S - Sale,$7.16,-11987,737370,-2%,"-$85,851",,,,,PACB
+30,,2019-02-20 20:44:45,2019-02-19,PACB,Hunkapiller Michael,"COB, CEO, Pres",S - Sale,$7.19,-13335,2398215,-1%,"-$95,825",,,,,PACB
+31,D,2018-11-28 16:03:26,2018-11-27,PACB,Ordonez Kathy,Chief Commercial Officer,S - Sale+OE,$7.54,-25000,43750,-36%,"-$188,500",,,,,PACB

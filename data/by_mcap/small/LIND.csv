@@ -1,0 +1,61 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-12-17 17:34:24,2021-12-15,LIND,Felenstein Craig,CFO,S - Sale+OE,$16.50,-5000,184533,-3%,"-$82,511",,,,,LIND
+1,,2021-11-22 12:10:29,2021-11-19,LIND,Lindblad Sven-Olof,"Dir, 10%",S - Sale,$17.01,-250,12413706,0%,"-$4,253",,,,,LIND
+2,,2021-11-15 17:09:57,2021-11-12,LIND,Lindblad Sven-Olof,"Dir, 10%",S - Sale,$17.01,-400,12413956,0%,"-$6,804",,,,,LIND
+3,M,2021-11-12 14:37:32,2021-11-09,LIND,Lindblad Sven-Olof,"Dir, 10%",S - Sale,$17.24,-61335,12414356,0%,"-$1,057,562",,,,,LIND
+4,,2021-11-09 19:36:25,2021-11-05,LIND,Dryden L. Dyson,Dir,S - Sale,$17.11,-41578,1036546,-4%,"-$711,416",,,,,LIND
+5,,2021-11-09 17:12:59,2021-11-08,LIND,Bressler Benjamin,Pres of Natural Habitat,S - Sale,$17.55,-20500,0,-100%,"-$359,744",,,,,LIND
+6,D,2021-11-09 17:09:38,2021-11-08,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$17.06,-120713,120305,-50%,"-$2,059,436",,,,,LIND
+7,M,2021-11-09 17:06:18,2021-11-05,LIND,Lindblad Sven-Olof,"Dir, 10%",S - Sale,$17.32,-231671,12475691,-2%,"-$4,013,057",,,,,LIND
+8,M,2021-11-04 18:33:05,2021-11-03,LIND,Dryden L. Dyson,Dir,S - Sale,$16.59,-46853,1078124,-4%,"-$777,369",,,,,LIND
+9,M,2021-11-04 18:01:17,2021-11-03,LIND,Lindblad Sven-Olof,"Dir, 10%",S - Sale,$17.01,-4001,12707362,0%,"-$68,042",,,,,LIND
+10,,2021-07-02 16:33:36,2021-07-01,LIND,Dryden L. Dyson,Dir,S - Sale,$16.53,-11569,1119322,-1%,"-$191,236",,,,,LIND
+11,,2021-06-25 16:29:41,2021-06-23,LIND,Dryden L. Dyson,Dir,S - Sale,$16.09,-15270,1130891,-1%,"-$245,694",,,,,LIND
+12,M,2021-06-23 17:15:37,2021-06-21,LIND,Dryden L. Dyson,Dir,S - Sale,$16.07,-34730,1146161,-3%,"-$558,111",,,,,LIND
+13,,2021-06-07 16:24:19,2021-06-04,LIND,"Smith, Jr. Thomas S.",Dir,S - Sale,$17.15,-55000,168192,-25%,"-$943,250",,,,,LIND
+14,,2021-06-04 16:34:41,2021-06-03,LIND,"Smith, Jr. Thomas S.",Dir,S - Sale,$17.34,-55124,223192,-20%,"-$955,850",,,,,LIND
+15,,2021-06-03 16:03:53,2021-06-02,LIND,Dryden L. Dyson,Dir,S - Sale,$17.91,-10000,1180891,-1%,"-$179,119",,,,,LIND
+16,M,2021-06-01 16:32:15,2021-05-27,LIND,Berle Dolf A,CEO,P - Purchase,$17.45,"+36,500",58452,+166%,"+$636,974",,,,,LIND
+17,,2021-05-24 16:31:31,2021-05-20,LIND,Berle Dolf A,CEO,P - Purchase,$16.49,"+21,952",21952,New,"+$362,094",,,,,LIND
+18,,2020-11-09 16:50:07,2020-11-09,LIND,Bressler Benjamin,Pres of Natural Habitat,S - Sale,$10.10,-66055,20500,-76%,"-$667,156",,,,,LIND
+19,M,2020-09-04 17:10:47,2020-09-03,LIND,"Smith, Jr. Thomas S.",Dir,P - Purchase,$11.07,"+215,290",273322,+371%,"+$2,383,379",,,,,LIND
+20,,2020-09-03 16:16:02,2020-09-02,LIND,"Smith, Jr. Thomas S.",Dir,P - Purchase,$10.14,"+54,500",58032,>999%,"+$552,630",,,,,LIND
+21,,2020-03-19 16:26:12,2020-03-17,LIND,Bressler Benjamin,Pres of Natural Habitat,P - Purchase,$4.41,"+20,500",86555,+31%,"+$90,405",,,,,LIND
+22,M,2020-03-18 16:20:34,2020-03-16,LIND,Fahey John M Jr,Dir,P - Purchase,$4.52,"+8,000",85431,+10%,"+$36,151",,,,,LIND
+23,,2020-03-17 16:54:00,2020-03-16,LIND,Ein Mark,"Dir, 10%",P - Purchase,$4.47,"+50,000",5016229,+1%,"+$223,500",,,,,LIND
+24,,2020-03-16 16:43:59,2020-03-13,LIND,Fahey John M Jr,Dir,P - Purchase,$7.02,"+10,000",77431,+15%,"+$70,181",,,,,LIND
+25,,2020-03-12 16:17:56,2020-03-10,LIND,Bisnow Michael Elliott,Dir,P - Purchase,$10.03,"+12,230",27126,+82%,"+$122,691",,,,,LIND
+26,,2019-09-19 17:36:38,2019-09-17,LIND,Dryden L. Dyson,Dir,S - Sale,$17.32,-47581,1182365,-4%,"-$824,013",,,,,LIND
+27,M,2019-09-17 16:57:49,2019-09-13,LIND,Dryden L. Dyson,Dir,S - Sale,$17.81,-35755,1229946,-3%,"-$636,966",,,,,LIND
+28,M,2019-09-13 16:25:16,2019-09-11,LIND,Dryden L. Dyson,Dir,S - Sale,$17.34,-64456,1265701,-5%,"-$1,117,975",,,,,LIND
+29,M,2019-09-11 16:37:52,2019-09-09,LIND,Dryden L. Dyson,Dir,S - Sale,$18.23,-36688,1330157,-3%,"-$668,661",,,,,LIND
+30,M,2019-09-09 16:57:59,2019-09-05,LIND,Dryden L. Dyson,Dir,S - Sale,$18.40,-41256,1366845,-3%,"-$759,222",,,,,LIND
+31,M,2019-09-04 18:30:51,2019-08-30,LIND,Dryden L. Dyson,Dir,S - Sale,$18.66,-164264,1408101,-10%,"-$3,065,944",,,,,LIND
+32,D,2019-06-19 17:13:57,2019-06-17,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$18.02,-9000,108395,-8%,"-$162,213",,,,,LIND
+33,DM,2019-06-17 16:56:11,2019-06-13,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$17.33,-30526,117395,-21%,"-$529,103",,,,,LIND
+34,DM,2019-06-05 16:55:22,2019-06-03,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.90,-20119,147921,-12%,"-$339,981",,,,,LIND
+35,DM,2019-05-30 16:56:39,2019-05-28,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.52,-7355,168040,-4%,"-$121,516",,,,,LIND
+36,DM,2019-05-24 16:49:56,2019-05-23,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.52,-17000,175395,-9%,"-$280,826",,,,,LIND
+37,D,2019-05-23 16:45:10,2019-05-21,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.29,-15000,192395,-7%,"-$244,403",,,,,LIND
+38,M,2019-05-23 16:44:06,2019-05-21,LIND,Bressler Benjamin,Pres of Natural Habitat,S - Sale,$16.28,-66051,66055,-50%,"-$1,075,247",,,,,LIND
+39,DM,2019-05-07 17:36:28,2019-05-03,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.26,-6933,207395,-3%,"-$112,738",,,,,LIND
+40,DM,2019-05-03 16:13:51,2019-05-01,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.29,-2367,214328,-1%,"-$38,570",,,,,LIND
+41,D,2019-04-30 16:57:00,2019-04-29,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.25,-100,216695,0%,"-$1,625",,,,,LIND
+42,A,2019-04-30 16:43:48,2019-04-26,LIND,Byus Trey,Chief Expedition Officer,S - Sale,$16.12,-16300,216795,-7%,"-$262,831",,,,,LIND
+43,DM,2019-04-26 17:14:24,2019-04-25,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$16.10,-22600,217395,-9%,"-$363,750",,,,,LIND
+44,DM,2019-04-24 17:57:19,2019-04-22,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$15.76,-52400,239995,-18%,"-$825,605",,,,,LIND
+45,DM,2019-03-14 17:04:01,2019-03-12,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$15.71,-11470,285137,-4%,"-$180,192",,,,,LIND
+46,DM,2019-03-11 16:47:52,2019-03-07,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$15.62,-60000,296607,-17%,"-$937,082",,,,,LIND
+47,AM,2018-09-28 16:36:58,2018-03-02,LIND,Ein Mark,"Dir, 10%",P - Purchase,$9.26,"+30,000",3508374,+1%,"+$277,925",,,,,LIND
+48,D,2018-09-07 16:32:13,2018-09-05,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$15.40,-10000,356607,-3%,"-$154,041",,,,,LIND
+49,DM,2018-08-23 16:53:03,2018-08-21,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$15.12,-20000,366607,-5%,"-$302,394",,,,,LIND
+50,DM,2018-08-17 18:47:21,2018-08-15,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$14.38,-40000,386607,-9%,"-$575,270",,,,,LIND
+51,DM,2018-08-14 20:55:54,2018-08-10,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$13.88,-50000,426607,-10%,"-$693,971",,,,,LIND
+52,M,2018-05-31 17:09:34,2018-05-29,LIND,Bressler Benjamin,Pres of Natural Habitat,S - Sale,$12.19,-66051,132106,-33%,"-$805,075",,,,,LIND
+53,DM,2018-05-14 16:32:53,2018-05-10,LIND,Byus Trey,Chief Expedition Officer,S - Sale+OE,$11.53,-25000,476607,-5%,"-$288,307",,,,,LIND
+54,AM,2018-03-29 16:56:54,2017-08-22,LIND,Bressler Benjamin,Pres of Natural Habitat,S - Sale,$10.44,-51120,213088,-19%,"-$533,706",,,,,LIND
+55,,2018-03-12 16:39:40,2018-03-08,LIND,Dryden L. Dyson,Dir,P - Purchase,$9.43,"+10,000",1077209,+1%,"+$94,300",,,,,LIND
+56,EM,2018-03-06 17:01:31,2018-03-02,LIND,Ein Mark,"Dir, 10%",P - Purchase,$9.26,"+30,000",3508374,+1%,"+$277,925",,,,,LIND
+57,,2018-03-05 16:44:00,2018-03-02,LIND,Hanrahan Daniel J,Dir,P - Purchase,$9.24,"+10,000",19069,+110%,"+$92,445",,,,,LIND
+58,,2018-03-05 16:43:03,2018-03-02,LIND,Fahey John M Jr,Dir,P - Purchase,$9.27,"+20,000",54958,+57%,"+$185,468",,,,,LIND
+59,,2017-12-20 16:29:16,2017-12-19,LIND,Fahey John M Jr,Dir,P - Purchase,$9.80,"+3,000",34958,+9%,"+$29,400",,,,,LIND

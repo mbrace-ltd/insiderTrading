@@ -1,0 +1,76 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-15 11:20:23,2021-12-15,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$3.90,"+3,000",106211,+3%,"+$11,700",,,,,CYTH
+1,,2021-12-15 11:19:57,2021-12-15,CYTH,Fine N Scott,CEO,P - Purchase,$3.89,"+5,000",129666,+4%,"+$19,450",,,,,CYTH
+2,,2021-12-10 14:23:30,2021-12-10,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$4.40,"+5,000",103211,+5%,"+$22,000",,,,,CYTH
+3,,2021-12-06 07:32:23,2021-12-03,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$4.75,+864,98211,+1%,"+$4,104",,,,,CYTH
+4,,2021-12-02 16:54:34,2021-12-02,CYTH,Hrynkow Sharon Hemond,Chief Scientific Officer,P - Purchase,$4.98,"+1,000",19350,+5%,"+$4,980",,,,,CYTH
+5,,2021-12-02 16:34:26,2021-12-02,CYTH,Fine N Scott,CEO,P - Purchase,$4.93,"+5,000",124666,+4%,"+$24,650",,,,,CYTH
+6,,2021-12-02 15:46:46,2021-12-02,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$4.75,"+4,136",97347,+4%,"+$19,646",,,,,CYTH
+7,,2021-12-01 17:48:05,2021-12-01,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$5.00,"+5,000",93211,+6%,"+$25,000",,,,,CYTH
+8,,2021-11-19 13:05:55,2021-11-19,CYTH,Fine N Scott,CEO,P - Purchase,$5.25,"+5,000",119666,+4%,"+$26,250",,,,,CYTH
+9,,2021-11-19 12:50:52,2021-11-19,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$5.25,"+10,652",88211,+14%,"+$55,903",,,,,CYTH
+10,,2021-11-01 07:30:23,2021-10-29,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$5.90,"+1,000",77559,+1%,"+$5,900",,,,,CYTH
+11,,2021-09-15 15:39:25,2021-09-15,CYTH,Fine N Scott,CEO,P - Purchase,$6.35,"+5,000",114666,+5%,"+$31,750",,,,,CYTH
+12,,2021-04-16 13:10:24,2021-04-16,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$6.53,"+10,000",76559,+15%,"+$65,250",,,,,CYTH
+13,,2021-04-12 16:03:40,2021-04-12,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$7.00,"+5,000",66559,+8%,"+$35,000",,,,,CYTH
+14,,2021-03-30 13:26:08,2021-03-29,CYTH,Sieger Markus,Dir,P - Purchase,$8.10,"+10,000",67614,+17%,"+$81,000",,,,,CYTH
+15,,2021-03-30 13:25:42,2021-03-29,CYTH,Fine Joshua M,CFO,P - Purchase,$7.40,+50,16900,0%,+$370,,,,,CYTH
+16,,2021-03-30 13:25:23,2021-03-29,CYTH,Hrynkow Sharon Hemond,Chief Scientific Officer,P - Purchase,$7.46,"+1,000",18350,+6%,"+$7,460",,,,,CYTH
+17,,2021-03-30 13:24:54,2021-03-29,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$7.53,"+3,000",61559,+5%,"+$22,600",,,,,CYTH
+18,,2021-03-30 13:24:30,2021-03-29,CYTH,Tate Jeffrey,COO,P - Purchase,$7.50,"+2,000",27160,+8%,"+$15,000",,,,,CYTH
+19,M,2021-01-27 08:36:47,2021-01-25,CYTH,Sieger Markus,Dir,P - Purchase,$6.36,"+10,000",57614,+21%,"+$63,634",,,,,CYTH
+20,,2020-12-17 17:47:08,2020-12-17,CYTH,Ostronic Francis Patrick,Dir,P - Purchase,$4.66,"+30,000",58559,+105%,"+$139,748",,,,,CYTH
+21,D,2020-12-14 16:03:41,2020-12-11,CYTH,Sieger Markus,Dir,P - Purchase,$0.00,"+15,000",72729,+26%,+$0,,,,,CYTH
+22,D,2020-12-14 16:03:11,2020-12-11,CYTH,Toig Randall M.,Dir,P - Purchase,$0.00,"+10,000",34078,+42%,+$0,,,,,CYTH
+23,D,2020-12-14 16:02:47,2020-12-11,CYTH,Shanahan William S,Dir,P - Purchase,$0.00,"+20,000",63677,+46%,+$0,,,,,CYTH
+24,D,2020-12-14 16:02:24,2020-12-11,CYTH,Fine N Scott,CEO,P - Purchase,$0.00,"+20,000",99666,+25%,+$0,,,,,CYTH
+25,M,2020-11-25 18:48:55,2020-11-23,CTDH,Fine Joshua M,CFO,P - Purchase,$0.08,"+25,000",685000,+4%,"+$1,924",,,,,CYTH
+26,M,2020-10-01 16:17:26,2020-09-29,CTDH,"Armistice Capital, LLC",10%,S - Sale,$0.13,-10500,31591538,0%,"-$1,415",,,,,CYTH
+27,M,2020-09-28 19:55:42,2020-09-24,CTDH,"Armistice Capital, LLC",10%,S - Sale,$0.13,-43223,31612538,0%,"-$5,619",,,,,CYTH
+28,M,2020-09-23 19:01:03,2020-09-21,CTDH,"Armistice Capital, LLC",10%,S - Sale,$0.15,-167000,31698984,-1%,"-$24,550",,,,,CYTH
+29,M,2020-09-16 20:12:56,2020-09-14,CTDH,"Armistice Capital, LLC",10%,S - Sale,$0.16,-337084,32032984,-1%,"-$55,233",,,,,CYTH
+30,M,2020-09-11 17:59:22,2020-09-09,CTDH,"Armistice Capital, LLC",10%,S - Sale,$0.18,-1003070,32707152,-3%,"-$176,028",,,,,CYTH
+31,M,2020-09-08 19:13:07,2020-09-03,CTDH,"Armistice Capital, LLC",10%,S - Sale,$0.16,-1504961,34713652,-4%,"-$240,794",,,,,CYTH
+32,D,2020-09-02 16:03:26,2020-08-27,CTDH,"Novit, L.P.",10%,P - Purchase,$0.00,"+10,000,000",21517582,+87%,+$0,,,,,CYTH
+33,DM,2020-08-31 19:33:00,2020-08-27,CTDH,"Armistice Capital, LLC",10%,S - Sale+OE,$0.11,-165263,37723574,0%,"-$18,732",,,,,CYTH
+34,D,2020-08-31 09:26:56,2020-08-27,CTDH,Sieger Markus,Dir,P - Purchase,$0.00,"+750,000",5772857,+15%,+$0,,,,,CYTH
+35,D,2020-08-31 07:49:55,2020-08-27,CTDH,Shanahan William S,Dir,P - Purchase,$0.00,"+700,000",4367660,+19%,+$0,,,,,CYTH
+36,D,2020-08-28 16:06:51,2020-08-27,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.00,"+500,000",2855890,+21%,+$0,,,,,CYTH
+37,D,2020-08-28 16:06:11,2020-08-27,CTDH,Fine N Scott,CEO,P - Purchase,$0.00,"+500,000",7966513,+7%,+$0,,,,,CYTH
+38,,2020-04-27 16:07:17,2020-04-24,CTDH,Fine N Scott,CEO,P - Purchase,$0.10,"+730,030",7466513,+11%,"+$73,003",,,,,CYTH
+39,,2020-04-27 16:06:01,2020-04-24,CTDH,Toig Randall M.,Dir,P - Purchase,$0.10,"+1,000,000",2407770,+71%,"+$100,000",,,,,CYTH
+40,,2020-04-27 16:05:37,2020-04-24,CTDH,Sieger Markus,Dir,P - Purchase,$0.10,"+500,000",5022857,+11%,"+$50,000",,,,,CYTH
+41,,2020-04-27 16:05:14,2020-04-24,CTDH,"Novit, L.P.",10%,P - Purchase,$0.10,"+2,000,000",11517582,+21%,"+$200,000",,,,,CYTH
+42,,2020-04-27 16:04:52,2020-04-24,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.10,"+1,000,000",2355890,+74%,"+$100,000",,,,,CYTH
+43,,2020-04-27 16:04:30,2020-04-24,CTDH,Shanahan William S,Dir,P - Purchase,$0.10,"+1,000,000",3667660,+37%,"+$100,000",,,,,CYTH
+44,,2019-09-19 13:27:19,2019-09-18,CTDH,Fine N Scott,CEO,P - Purchase,$0.18,"+10,000",6736483,0%,"+$1,750",,,,,CYTH
+45,,2019-09-18 17:38:58,2019-09-17,CTDH,Shanahan William S,Dir,P - Purchase,$0.19,"+147,200",2667660,+6%,"+$27,968",,,,,CYTH
+46,,2019-09-18 10:42:36,2019-09-16,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.19,"+100,000",1355890,+8%,"+$19,000",,,,,CYTH
+47,,2019-09-13 14:27:47,2019-09-12,CTDH,Shanahan William S,Dir,P - Purchase,$0.19,"+15,000",2520460,+1%,"+$2,850",,,,,CYTH
+48,,2019-09-13 11:55:02,2019-09-11,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.18,"+1,000",1255890,0%,+$180,,,,,CYTH
+49,,2019-09-12 12:16:39,2019-09-11,CTDH,Toig Randall M.,Dir,P - Purchase,$0.20,"+100,000",1407770,+8%,"+$19,995",,,,,CYTH
+50,M,2019-09-11 13:12:03,2019-09-09,CTDH,Shanahan William S,Dir,P - Purchase,$0.19,"+200,000",2505460,+9%,"+$38,000",,,,,CYTH
+51,,2019-09-09 15:53:52,2019-09-06,CTDH,Shanahan William S,Dir,P - Purchase,$0.16,"+200,000",2305460,+9%,"+$32,500",,,,,CYTH
+52,M,2019-08-29 14:04:20,2019-08-22,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.20,"+50,000",1254890,+4%,"+$10,000",,,,,CYTH
+53,,2019-08-26 16:04:25,2019-08-23,CTDH,Sieger Markus,Dir,P - Purchase,$0.22,"+100,000",4522857,+2%,"+$22,000",,,,,CYTH
+54,,2019-08-02 13:57:49,2019-08-01,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.23,"+200,000",1204890,+20%,"+$46,930",,,,,CYTH
+55,,2019-08-02 11:52:50,2019-08-01,CTDH,Hrynkow Sharon Hemond,Chief Scientific Officer,P - Purchase,$0.25,"+10,000",335000,+3%,"+$2,475",,,,,CYTH
+56,,2019-07-31 18:30:56,2019-07-31,CTDH,Hrynkow Sharon Hemond,Chief Scientific Officer,P - Purchase,$0.24,"+10,000",325000,+3%,"+$2,425",,,,,CYTH
+57,,2019-07-31 14:26:01,2019-07-31,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.25,"+100,000",1004890,+11%,"+$25,000",,,,,CYTH
+58,,2019-07-31 11:02:23,2019-07-31,CTDH,Fine N Scott,CEO,P - Purchase,$0.25,"+50,000",6726483,+1%,"+$12,500",,,,,CYTH
+59,D,2019-06-03 14:35:49,2019-05-31,CTDH,"Novit, L.P.",10%,P - Purchase,$0.00,"+800,000",9517582,+9%,+$0,,,,,CYTH
+60,D,2019-06-03 14:35:35,2019-05-31,CTDH,Sieger Markus,Dir,P - Purchase,$0.00,"+400,000",4422857,+10%,+$0,,,,,CYTH
+61,D,2019-06-03 14:35:23,2019-05-31,CTDH,Hrynkow Sharon Hemond,Chief Scientific Officer,P - Purchase,$0.00,"+40,000",315000,+15%,+$0,,,,,CYTH
+62,D,2019-06-03 14:35:13,2019-05-31,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.00,"+200,000",904890,+28%,+$0,,,,,CYTH
+63,D,2019-06-03 14:34:56,2019-05-31,CTDH,Toig Randall M.,Dir,P - Purchase,$0.00,"+200,000",1307770,+18%,+$0,,,,,CYTH
+64,D,2019-06-03 14:34:43,2019-05-31,CTDH,Fine N Scott,CEO,P - Purchase,$0.00,"+400,000",6676483,+6%,+$0,,,,,CYTH
+65,D,2019-06-03 14:34:31,2019-05-31,CTDH,Shanahan William S,Dir,P - Purchase,$0.00,"+800,000",2105460,+61%,+$0,,,,,CYTH
+66,D,2019-01-02 10:17:18,2018-12-31,CTDH,Farnan Joseph J Jr,Dir,P - Purchase,$0.00,"+10,000",1340000,+1%,+$0,,,,,CYTH
+67,D,2018-12-31 09:42:21,2018-12-21,CTDH,"Novit, L.P.",10%,P - Purchase,$0.00,"+346,154",8717582,+4%,+$0,,,,,CYTH
+68,D,2018-12-27 10:28:20,2018-12-21,CTDH,Hrynkow Sharon Hemond,SVP for Medical Affairs,P - Purchase,$0.00,"+40,000",275000,+17%,+$0,,,,,CYTH
+69,D,2018-12-27 10:27:14,2018-12-21,CTDH,Sieger Markus,Dir,P - Purchase,$0.00,"+100,000",4022857,+3%,+$0,,,,,CYTH
+70,D,2018-12-26 18:39:12,2018-12-26,CTDH,Tate Jeffrey,"COO, Chief Scientific Officer",P - Purchase,$0.00,"+25,000",865972,+3%,+$0,,,,,CYTH
+71,D,2018-12-26 18:39:02,2018-12-21,CTDH,Toig Randall M.,Dir,P - Purchase,$0.00,"+307,770",1107770,+38%,+$0,,,,,CYTH
+72,D,2018-12-26 18:38:52,2018-12-21,CTDH,Shanahan William S,Dir,P - Purchase,$0.00,"+153,846",1305460,+13%,+$0,,,,,CYTH
+73,D,2018-12-26 18:38:42,2018-12-21,CTDH,Ostronic Francis Patrick,Dir,P - Purchase,$0.00,"+38,462",704890,+6%,+$0,,,,,CYTH
+74,D,2018-12-26 18:38:35,2018-12-21,CTDH,Fine N Scott,CEO,P - Purchase,$0.00,"+230,769",6276483,+4%,+$0,,,,,CYTH

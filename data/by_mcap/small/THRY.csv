@@ -1,0 +1,33 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-17 19:22:45,2021-11-15,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$35.50,-45000,9753798,0%,"-$1,597,500",,,,,THRY
+1,,2021-11-17 17:02:34,2021-11-15,THRY,Walsh Joe,"CEO, Pres",P - Purchase,$35.50,"+45,000",1933785,+2%,"+$1,597,500",,,,,THRY
+2,M,2021-09-17 21:28:02,2021-09-15,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$29.07,-1282048,9798798,-12%,"-$37,263,909",,,,,THRY
+3,,2021-09-16 18:59:25,2021-09-16,THRY,Akhtar Amer,Dir,P - Purchase,$29.74,"+1,000",1000,New,"+$29,740",,,,,THRY
+4,,2021-09-16 18:49:50,2021-09-15,THRY,Ohara Ryan,Dir,P - Purchase,$29.00,"+1,250",1250,New,"+$36,250",,,,,THRY
+5,,2021-09-15 17:43:11,2021-09-14,THRY,Kintzer Bonnie,Dir,P - Purchase,$29.66,+837,837,New,"+$24,825",,,,,THRY
+6,,2021-09-14 17:48:50,2021-09-13,THRY,Zynczak Heather,Dir,P - Purchase,$29.50,+840,840,New,"+$24,780",,,,,THRY
+7,,2021-09-03 19:17:31,2021-09-01,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$31.23,-917000,11080846,-8%,"-$28,637,910",,,,,THRY
+8,M,2021-09-02 16:49:19,2021-08-31,THRY,Goldentree Asset Management LP,10%,S - Sale,$31.17,-214905,6687099,-3%,"-$6,697,609",,,,,THRY
+9,,2021-08-30 20:40:48,2021-08-26,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$30.00,-307265,11997846,-2%,"-$9,217,950",,,,,THRY
+10,M,2021-08-25 21:28:53,2021-08-23,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$30.77,-335000,12305111,-3%,"-$10,308,264",,,,,THRY
+11,,2021-08-18 20:29:04,2021-08-16,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$31.85,-250000,12640111,-2%,"-$7,962,500",,,,,THRY
+12,,2021-06-03 16:16:52,2021-06-01,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$22.80,-3844667,12890111,-23%,"-$87,639,184",,,,,THRY
+13,,2021-06-02 17:51:58,2021-05-28,THRY,Goldentree Asset Management LP,10%,S - Sale,$22.80,-1029522,3457124,-23%,"-$23,473,102",,,,,THRY
+14,,2021-05-07 16:39:47,2021-05-05,THRY,Goldentree Asset Management LP,10%,S - Sale,$28.39,-7555,4486646,0%,"-$214,486",,,,,THRY
+15,,2021-04-23 17:09:23,2021-04-21,THRY,Goldentree Asset Management LP,10%,S - Sale,$26.06,-13000,4504756,0%,"-$338,770",,,,,THRY
+16,M,2021-04-20 16:26:12,2021-04-16,THRY,Goldentree Asset Management LP,10%,S - Sale,$25.48,-15000,4537756,0%,"-$382,250",,,,,THRY
+17,M,2021-04-12 11:54:15,2021-04-08,THRY,Goldentree Asset Management LP,10%,S - Sale,$23.78,-20000,4566527,0%,"-$475,684",,,,,THRY
+18,M,2021-03-19 20:26:59,2021-03-17,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$19.40,-349132,17317371,-2%,"-$6,771,485",,,,,THRY
+19,D,2021-03-19 19:56:14,2021-03-17,THRY,Walsh Joe,"CEO, Pres",P - Purchase,$18.67,"+200,000",1886934,+12%,"+$3,734,000",,,,,THRY
+20,M,2021-03-16 20:16:14,2021-03-12,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$20.10,-26392,17666503,0%,"-$530,395",,,,,THRY
+21,M,2021-03-11 21:35:06,2021-03-09,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$19.81,-63916,17692895,0%,"-$1,266,219",,,,,THRY
+22,M,2021-03-08 21:38:44,2021-03-04,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$0.00,-561238,17756811,-3%,"-$2,041",,,,,THRY
+23,,2021-02-19 17:26:21,2021-02-17,THRY,Goldentree Asset Management LP,10%,S - Sale,$28.53,-5300,4486646,0%,"-$151,209",,,,,THRY
+24,,2021-02-18 17:36:59,2021-02-16,THRY,Paulson & Co. Inc.,10%,S - Sale,$27.00,-315302,2901135,-10%,"-$8,513,154",,,,,THRY
+25,,2021-01-14 18:37:19,2021-01-12,THRY,Goldentree Asset Management LP,10%,S - Sale,$19.54,-200000,4491946,-4%,"-$3,908,000",,,,,THRY
+26,,2020-11-24 20:57:52,2020-11-23,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$9.75,-44658,18318049,0%,"-$435,328",,,,,THRY
+27,M,2020-11-20 18:47:04,2020-11-19,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$9.68,-5123,18362707,0%,"-$49,582",,,,,THRY
+28,AM,2020-11-18 20:33:41,2020-10-01,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$14.60,-95163,18402888,-1%,"-$1,389,330",,,,,THRY
+29,M,2020-11-18 20:30:09,2020-11-16,THRY,"Mudrick Capital Management, L.P.","Dir, 10%",S - Sale,$9.88,-35058,18367830,0%,"-$346,208",,,,,THRY
+30,M,2020-10-06 16:08:33,2020-10-02,THRY,Goldentree Asset Management LP,10%,S - Sale,$14.54,-115005,9388897,-1%,"-$1,671,723",,,,,THRY
+31,M,2020-10-05 21:10:17,2020-10-01,THRY,"Mudrick Capital Management, L.P.",10%,S - Sale,$14.60,-95175,18402876,-1%,"-$1,389,468",,,,,THRY

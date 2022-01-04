@@ -1,0 +1,33 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2020-10-26 16:54:18,2020-10-23,SMBK,Welborn Wesley Miller,COB,P - Purchase,$14.71,"+1,796",111449,+2%,"+$26,419",,,,,SMBK
+1,,2020-05-28 13:29:17,2020-05-27,SMBK,Miller Clifton N,Dir,S - Sale,$16.90,-5000,105788,-5%,"-$84,483",,,,,SMBK
+2,,2020-05-18 13:58:39,2020-05-14,SMBK,Gorczynski Ronald J,"CFO, EVP",P - Purchase,$12.77,"+1,000",6500,+18%,"+$12,770",,,,,SMBK
+3,,2020-03-18 10:40:40,2020-03-16,SMBK,Ogle David Austin,Dir,P - Purchase,$14.88,"+2,000",218219,+1%,"+$29,760",,,,,SMBK
+4,,2020-03-13 09:18:32,2020-03-12,SMBK,Carroll William Young Sr.,Vice-COB,P - Purchase,$15.88,"+2,000",29468,+7%,"+$31,752",,,,,SMBK
+5,,2020-03-12 16:44:48,2020-03-11,SMBK,Ogle David Austin,Dir,P - Purchase,$16.68,"+3,000",216219,+1%,"+$50,040",,,,,SMBK
+6,,2020-03-11 13:42:26,2020-03-10,SMBK,Ogle David Austin,Dir,P - Purchase,$16.20,"+4,600",213219,+2%,"+$74,520",,,,,SMBK
+7,D,2020-03-11 12:31:58,2020-03-10,SMBK,Berke Monique,Dir,P - Purchase,$16.97,+500,10012,+5%,"+$8,485",,,,,SMBK
+8,,2020-03-10 18:06:00,2020-03-09,SMBK,Miller Ted Charles,Dir,P - Purchase,$19.01,"+10,000",128458,+8%,"+$190,100",,,,,SMBK
+9,,2020-02-21 14:13:35,2020-02-21,SMBK,Miller Clifton N,Dir,S - Sale,$20.94,-5000,110788,-4%,"-$104,700",,,,,SMBK
+10,D,2020-02-11 16:45:42,2020-02-10,SMBK,Welborn Wesley Miller,COB,P - Purchase,$21.49,"+5,450",109653,+5%,"+$117,121",,,,,SMBK
+11,,2019-12-16 16:04:09,2019-12-16,SMBK,Miller Clifton N,Dir,S - Sale,$23.71,-13000,115288,-10%,"-$308,165",,,,,SMBK
+12,D,2019-05-10 16:42:37,2019-05-09,SMBK,Berke Monique,Dir,P - Purchase,$21.21,"+4,000",9012,+80%,"+$84,854",,,,,SMBK
+13,D,2018-11-09 15:57:23,2018-11-08,SMBK,Tucker Steven B.,Dir,P - Purchase,$20.89,+800,49617,+2%,"+$16,712",,,,,SMBK
+14,A,2018-11-05 12:55:09,2018-09-07,SMBK,Miller Ted Charles,Dir,P - Purchase,$24.35,"+10,000",117458,+9%,"+$243,500",,,,,SMBK
+15,,2018-11-05 12:19:37,2018-11-02,SMBK,Johnson C Bryan,CFO,P - Purchase,$20.43,+975,10225,+11%,"+$19,919",,,,,SMBK
+16,,2018-10-30 14:56:18,2018-10-29,SMBK,Whaley Keith Edward,Dir,P - Purchase,$21.37,"+2,000",78742,+3%,"+$42,746",,,,,SMBK
+17,,2018-10-30 11:19:36,2018-10-29,SMBK,Miller Clifton N,Dir,P - Purchase,$21.47,"+1,680",127788,+1%,"+$36,070",,,,,SMBK
+18,,2018-09-10 17:39:47,2017-09-07,SMBK,Miller Ted Charles,Dir,P - Purchase,$24.35,"+10,000",117458,+9%,"+$243,500",,,,,SMBK
+19,AD,2018-09-10 16:51:54,2018-09-06,SMBK,Kuhn Robert Wade Jr.,Regional Pres - SmartBank,S - Sale+OE,$24.00,-34000,510,-99%,"-$816,000",,,,,SMBK
+20,D,2018-09-10 10:57:44,2018-09-06,SMBK,Kuhn Robert Wade Jr.,Regional Pres - SmartBank,S - Sale+OE,$24.00,-34000,510,-99%,"-$816,000",,,,,SMBK
+21,,2018-09-07 20:54:20,2018-09-07,SMBK,Yoder William L,"Chief Banking, Deposit Officer",S - Sale,$24.25,-20000,42231,-32%,"-$485,000",,,,,SMBK
+22,D,2018-09-06 10:05:31,2018-09-04,SMBK,Wicks James Beaumont,Dir,P - Purchase,$24.74,"+10,250",40364,+34%,"+$253,613",,,,,SMBK
+23,,2018-03-16 19:29:01,2018-03-16,SMBK,Johnson C Bryan,CFO,P - Purchase,$23.57,"+4,000",9250,+76%,"+$94,260",,,,,SMBK
+24,,2018-03-16 17:02:05,2018-03-14,SMBK,Miller Ted Charles,Dir,P - Purchase,$23.02,+473,107458,0%,"+$10,888",,,,,SMBK
+25,,2018-03-14 20:52:57,2018-03-12,SMBK,Miller Ted Charles,Dir,P - Purchase,$23.02,"+8,938",106985,+9%,"+$205,785",,,,,SMBK
+26,D,2018-03-14 20:33:10,2018-03-13,SMBK,Tucker Steven B.,Dir,P - Purchase,$23.25,"+2,480",48817,+5%,"+$57,658",,,,,SMBK
+27,D,2018-03-08 18:07:17,2018-03-06,SMBK,Welborn Wesley Miller,COB,P - Purchase,$21.70,"+15,000",99290,+18%,"+$325,500",,,,,SMBK
+28,,2018-03-08 16:59:35,2018-03-06,SMBK,Ogle David Austin,Dir,P - Purchase,$22.10,"+4,700",262747,+2%,"+$103,862",,,,,SMBK
+29,DM,2018-03-08 16:39:22,2018-03-06,SMBK,Tucker Steven B.,Dir,P - Purchase,$21.91,"+10,000",46337,+28%,"+$219,100",,,,,SMBK
+30,D,2018-03-06 17:38:57,2018-03-05,SMBK,Wicks James Beaumont,Dir,P - Purchase,$21.85,"+3,000",30114,+11%,"+$65,550",,,,,SMBK
+31,,2018-03-06 17:03:36,2018-03-05,SMBK,Miller Ted Charles,Dir,P - Purchase,$22.00,"+1,300",98047,+1%,"+$28,600",,,,,SMBK

@@ -1,0 +1,48 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-07-16 16:43:15,2021-07-15,EXPE,Athey Susan C,Dir,S - Sale,$159.69,-300,3853,-7%,"-$47,907",,,,,EXPE
+1,D,2021-07-01 19:12:03,2021-07-01,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$166.63,-50000,354022,-12%,"-$8,331,492",,,,,EXPE
+2,,2021-06-16 17:33:05,2021-06-15,EXPE,Athey Susan C,Dir,S - Sale,$169.20,-300,4153,-7%,"-$50,760",,,,,EXPE
+3,D,2021-05-25 17:54:45,2021-05-24,EXPE,Dzielak Robert J,"GC, Sec'y",S - Sale+OE,$172.00,-65000,42315,-61%,"-$11,180,046",,,,,EXPE
+4,D,2021-05-18 20:46:29,2021-05-18,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$170.13,-262,7602,-3%,"-$44,575",,,,,EXPE
+5,D,2021-05-17 18:23:33,2021-05-14,EXPE,Hart Eric M.,CFO,S - Sale+OE,$170.00,-53907,14148,-79%,"-$9,164,190",,,,,EXPE
+6,D,2021-05-04 16:11:12,2021-05-03,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$176.71,-50000,351561,-12%,"-$8,835,483",,,,,EXPE
+7,,2021-04-06 16:52:19,2021-04-05,EXPE,Athey Susan C,Dir,S - Sale,$177.66,-1462,1992,-42%,"-$259,739",,,,,EXPE
+8,D,2021-04-06 16:52:12,2021-04-05,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$176.04,-97761,351561,-22%,"-$17,209,712",,,,,EXPE
+9,D,2021-02-17 21:00:10,2021-02-17,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$146.52,-668,7364,-8%,"-$97,875",,,,,EXPE
+10,D,2021-01-06 18:53:01,2021-01-06,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$140.00,-3506,6962,-33%,"-$490,840",,,,,EXPE
+11,D,2020-11-17 17:20:22,2020-11-16,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$124.81,-122,6718,-2%,"-$15,227",,,,,EXPE
+12,D,2020-11-10 19:46:41,2020-11-09,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$124.47,-11983,6678,-64%,"-$1,491,576",,,,,EXPE
+13,,2020-08-19 19:35:04,2020-08-19,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale,$87.94,-750,6091,-11%,"-$65,958",,,,,EXPE
+14,,2020-08-10 16:34:55,2020-08-07,EXPE,Battle A George,Dir,P - Purchase,$81.38,12300,58662,+27%,"+$1,001,008",,,,,EXPE
+15,,2020-06-03 19:37:10,2020-06-03,EXPE,Dzielak Robert J,"GC, Sec'y",S - Sale,$88.72,-2575,32663,-7%,"-$228,448",,,,,EXPE
+16,,2020-05-28 18:32:46,2020-05-26,EXPE,Khosrowshahi Dara,Dir,S - Sale,$84.45,-100000,349587,-22%,"-$8,444,841",,,,,EXPE
+17,D,2020-03-12 16:06:45,2020-03-11,EXPE,Dzielak Robert J,"GC, Sec'y",S - Sale+OE,$78.97,-23349,34546,-40%,"-$1,843,819",,,,,EXPE
+18,D,2020-02-19 20:26:36,2020-02-18,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$122.19,-2722,6496,-30%,"-$332,609",,,,,EXPE
+19,,2019-12-09 17:27:47,2019-12-06,EXPE,Kern Peter M,Vice COB,P - Purchase,$108.33,23070,90907,+34%,"+$2,499,159",,,,,EXPE
+20,D,2019-12-05 18:10:56,2019-12-05,EXPE,Gieselman Jon T.,Dir,P - Purchase,$104.29,2393,2393,New,"+$249,565",,,,,EXPE
+21,,2019-11-27 16:10:10,2019-11-25,EXPE,Altman Samuel H.,Dir,P - Purchase,$98.83,20000,20000,New,"+$1,976,604",,,,,EXPE
+22,D,2019-11-18 16:11:56,2019-11-15,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$95.69,-2722,5563,-33%,"-$260,466",,,,,EXPE
+23,D,2019-09-30 17:56:14,2019-09-26,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$132.69,-50000,449587,-10%,"-$6,634,415",,,,,EXPE
+24,D,2019-09-20 16:55:04,2019-09-19,EXPE,Dzielak Robert J,"GC, Sec'y",S - Sale+OE,$135.19,-9222,26807,-26%,"-$1,246,718",,,,,EXPE
+25,D,2019-09-09 16:10:16,2019-09-06,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$132.98,-50000,449587,-10%,"-$6,649,125",,,,,EXPE
+26,D,2019-08-28 19:08:02,2019-08-27,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$127.93,-2724,5285,-34%,"-$348,472",,,,,EXPE
+27,,2019-08-09 16:37:58,2019-08-08,EXPE,Jacobson Craig A,Dir,S - Sale,$130.53,-3300,30480,-10%,"-$430,762",,,,,EXPE
+28,D,2019-08-02 17:36:12,2019-08-01,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$132.07,-100000,449025,-18%,"-$13,207,420",,,,,EXPE
+29,,2019-08-01 17:58:30,2019-07-31,EXPE,Athey Susan C,Dir,S - Sale,$134.59,-2425,1462,-62%,"-$326,389",,,,,EXPE
+30,D,2019-02-22 16:16:07,2019-02-20,EXPE,Okerstrom Mark D,"Pres, C.E.O.",S - Sale+OE,$128.65,-5531,64282,-8%,"-$711,568",,,,,EXPE
+31,D,2019-02-21 16:13:31,2019-02-19,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$124.56,-1635,5009,-25%,"-$203,656",,,,,EXPE
+32,D,2019-02-19 19:03:04,2019-02-15,EXPE,Okerstrom Mark D,"Pres, C.E.O.",S - Sale+OE,$127.26,-5531,63563,-8%,"-$703,864",,,,,EXPE
+33,D,2019-02-14 18:06:42,2019-02-12,EXPE,Okerstrom Mark D,"Pres, C.E.O.",S - Sale+OE,$126.80,-5531,62844,-8%,"-$701,324",,,,,EXPE
+34,D,2019-02-12 18:03:16,2019-02-08,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$130.31,-50000,434820,-10%,"-$6,515,355",,,,,EXPE
+35,D,2019-02-06 18:52:29,2019-02-05,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$125.17,-50000,434820,-10%,"-$6,258,310",,,,,EXPE
+36,D,2019-01-17 18:03:24,2019-01-16,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$116.70,-1749,4644,-27%,"-$204,108",,,,,EXPE
+37,D,2018-11-15 18:26:45,2018-11-15,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$119.28,-3281,4393,-43%,"-$391,347",,,,,EXPE
+38,,2018-08-07 17:04:15,2018-08-06,EXPE,Jacobson Craig A,Dir,S - Sale,$133.48,-3500,31764,-10%,"-$467,180",,,,,EXPE
+39,,2018-08-01 16:44:27,2018-07-31,EXPE,Athey Susan C,Dir,S - Sale,$133.99,-1547,1200,-56%,"-$207,288",,,,,EXPE
+40,D,2018-07-30 16:35:07,2018-07-27,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$138.07,-3269,3874,-46%,"-$451,351",,,,,EXPE
+41,D,2017-12-22 17:28:44,2017-12-21,EXPE,Soliday Lance A,Chief Accounting Officer,S - Sale+OE,$120.37,-2401,3343,-42%,"-$288,998",,,,,EXPE
+42,DM,2017-11-24 11:31:35,2017-11-21,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$125.01,-150000,444258,-25%,"-$18,750,732",,,,,EXPE
+43,,2017-11-14 19:33:56,2017-11-09,EXPE,Khosrowshahi Dara,Dir,S - Sale,$117.58,-10590,444258,-2%,"-$1,245,142",,,,,EXPE
+44,D,2017-11-07 19:50:38,2017-11-03,EXPE,Khosrowshahi Dara,Dir,S - Sale+OE,$123.04,-72383,454848,-14%,"-$8,905,870",,,,,EXPE
+45,D,2017-11-02 19:53:41,2017-10-31,EXPE,Kaufman Victor,Vice COB,S - Sale+OE,$123.68,-119575,75000,-61%,"-$14,788,398",,,,,EXPE
+46,D,2017-08-25 19:34:49,2017-08-24,EXPE,Okerstrom Mark D,"EVP of Ops, CFO",S - Sale+OE,$150.41,-12500,58748,-18%,"-$1,880,065",,,,,EXPE

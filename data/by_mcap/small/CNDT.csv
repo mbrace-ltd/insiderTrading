@@ -1,0 +1,19 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-30 16:09:57,2021-08-26,CNDT,Brewer Mark Simon,"EVP, Transportation",P - Purchase,$6.75,"+3,703",275230,+1%,"+$24,995",,,,,CNDT
+1,,2021-08-12 16:18:19,2021-08-12,CNDT,Prout Mark,"EVP, CIO",P - Purchase,$7.07,"+3,000",354946,+1%,"+$21,219",,,,,CNDT
+2,,2021-08-11 16:05:20,2021-08-10,CNDT,Skelton Clifford,"Pres, CEO",P - Purchase,$6.68,"+14,970",2324811,+1%,"+$100,000",,,,,CNDT
+3,,2021-08-11 16:02:50,2021-08-10,CNDT,Letier A. Scott,Dir,P - Purchase,$6.89,"+10,000",262965,+4%,"+$68,900",,,,,CNDT
+4,,2021-02-24 17:51:03,2021-02-22,CNDT,Prout Mark,"EVP, CIO",P - Purchase,$4.88,"+3,000",302164,+1%,"+$14,640",,,,,CNDT
+5,,2021-02-23 17:25:04,2021-02-22,CNDT,Skelton Clifford,CEO,P - Purchase,$4.85,"+20,661",1916931,+1%,"+$100,206",,,,,CNDT
+6,,2021-02-23 17:21:04,2021-02-22,CNDT,Letier A. Scott,Dir,P - Purchase,$4.95,"+10,000",247250,+4%,"+$49,500",,,,,CNDT
+7,,2020-05-15 17:43:09,2020-05-14,CNDT,Skelton Clifford,CEO,P - Purchase,$1.80,"+55,560",2281322,+2%,"+$100,008",,,,,CNDT
+8,M,2020-05-13 20:25:39,2020-05-12,CNDT,Krawitz Michael E,"EVP, GC, Secretary",P - Purchase,$1.90,"+25,000",518337,+5%,"+$47,600",,,,,CNDT
+9,M,2020-05-13 19:28:09,2020-05-11,CNDT,Letier A. Scott,Dir,P - Purchase,$2.02,"+36,434",171672,+27%,"+$73,538",,,,,CNDT
+10,,2020-03-10 17:01:32,2020-03-09,CNDT,Letier A. Scott,Dir,P - Purchase,$2.61,"+70,000",135238,+107%,"+$182,448",,,,,CNDT
+11,,2019-08-16 16:45:22,2019-08-14,CNDT,Icahn Carl C,10%,P - Purchase,$6.57,"+1,941,101",38149336,+5%,"+$12,753,034",,,,,CNDT
+12,M,2019-08-13 17:19:10,2019-08-12,CNDT,Icahn Carl C,10%,P - Purchase,$6.48,"+4,572,521",70920327,+7%,"+$29,640,693",,,,,CNDT
+13,M,2019-05-23 17:00:33,2019-05-21,CNDT,Icahn Carl C,10%,P - Purchase,$9.00,"+211,159",63255158,0%,"+$1,900,431",,,,,CNDT
+14,M,2019-05-20 17:01:02,2019-05-16,CNDT,Icahn Carl C,10%,P - Purchase,$8.84,"+2,522,598",60891936,+4%,"+$22,308,779",,,,,CNDT
+15,DM,2019-05-13 18:01:08,2019-05-10,CNDT,Icahn Carl C,10%,P - Purchase,$8.35,"+3,915,417",97536669,+4%,"+$32,683,424",,,,,CNDT
+16,,2019-05-13 16:29:29,2019-05-10,CNDT,Letier A. Scott,Dir,P - Purchase,$8.20,"+2,500",4500,+125%,"+$20,500",,,,,CNDT
+17,,2018-08-21 16:16:35,2018-08-20,CNDT,Amoriell David,Pres,S - Sale,$21.30,-33903,83888,-29%,"-$722,229",,,,,CNDT

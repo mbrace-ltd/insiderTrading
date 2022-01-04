@@ -1,0 +1,36 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-08-09 16:21:46,2021-08-06,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$217.13,-11338,30234,-27%,"-$2,461,815",,,,,ALB
+1,,2021-07-08 16:34:42,2021-07-08,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$165.69,-1338,41572,-3%,"-$221,693",,,,,ALB
+2,,2021-06-09 16:17:36,2021-06-08,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$171.30,-1338,42909,-3%,"-$229,199",,,,,ALB
+3,,2021-06-04 17:08:28,2021-06-03,ALB,Barichivich John Clarence III,"VP, Controller, CAO",S - Sale,$167.85,-1340,3315,-29%,"-$224,920",,,,,ALB
+4,D,2021-05-28 17:18:44,2021-05-27,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale+OE,$164.76,-6135,44247,-12%,"-$1,010,803",,,,,ALB
+5,,2021-05-27 16:58:26,2021-05-25,ALB,Norris Eric,"Pres, Lithium",S - Sale,$158.16,-3090,12793,-19%,"-$488,714",,,,,ALB
+6,D,2021-05-19 17:18:22,2021-05-18,ALB,Crawford Raphael Goszcz,"Pres, Catalysts",S - Sale+OE,$159.74,-6296,17319,-27%,"-$1,005,708",,,,,ALB
+7,,2021-03-03 16:47:53,2021-03-03,ALB,Kissam Luther C IV,Dir,S - Sale,$152.26,-15478,190083,-8%,"-$2,356,708",,,,,ALB
+8,D,2021-03-02 17:51:02,2021-03-02,ALB,Tozier Scott,"EVP, CFO",S - Sale+OE,$153.89,-1521,57526,-3%,"-$234,067",,,,,ALB
+9,D,2021-03-02 17:49:36,2021-03-02,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale+OE,$153.89,-1478,44245,-3%,"-$227,449",,,,,ALB
+10,DM,2021-03-01 17:22:44,2021-02-26,ALB,Tozier Scott,"EVP, CFO",S - Sale+OE,$156.90,-854,59047,-1%,"-$133,989",,,,,ALB
+11,D,2020-11-18 17:17:17,2020-11-17,ALB,Kissam Luther C IV,Dir,S - Sale+OE,$126.66,-164191,192621,-46%,"-$20,796,356",,,,,ALB
+12,D,2020-11-12 17:26:01,2020-11-11,ALB,Crawford Raphael Goszcz,"Pres, Catalysts",S - Sale+OE,$118.43,-14580,13680,-52%,"-$1,726,709",,,,,ALB
+13,DM,2020-11-10 16:23:12,2020-11-06,ALB,Tozier Scott,"EVP, CFO",S - Sale+OE,$111.23,-34883,55145,-39%,"-$3,879,847",,,,,ALB
+14,D,2020-11-10 16:20:45,2020-11-09,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale+OE,$118.69,-24859,41978,-37%,"-$2,950,481",,,,,ALB
+15,D,2020-09-15 17:03:42,2020-09-15,ALB,Kissam Luther C IV,Dir,S - Sale+OE,$100.03,-59000,184065,-24%,"-$5,901,770",,,,,ALB
+16,,2020-08-12 16:25:23,2020-08-11,ALB,Kissam Luther C IV,Dir,S - Sale,$90.71,-150001,187065,-45%,"-$13,606,897",,,,,ALB
+17,D,2020-03-03 16:42:19,2020-02-28,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale+OE,$78.11,-531,41969,-1%,"-$41,476",,,,,ALB
+18,D,2020-03-03 16:30:40,2020-02-28,ALB,Tozier Scott,"EVP, CFO",S - Sale+OE,$78.11,-630,55119,-1%,"-$49,209",,,,,ALB
+19,,2020-02-28 17:42:47,2020-02-26,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$85.19,-2495,42500,-6%,"-$212,549",,,,,ALB
+20,,2020-02-28 17:40:07,2020-02-26,ALB,Tozier Scott,"EVP, CFO",S - Sale,$85.19,-473,55749,-1%,"-$40,295",,,,,ALB
+21,D,2020-02-25 16:29:41,2020-02-21,ALB,Kissam Luther C IV,"COB, Pres, CEO",S - Sale+OE,$92.35,-40000,330961,-11%,"-$3,694,137",,,,,ALB
+22,D,2020-01-17 07:47:20,2020-01-15,ALB,Tozier Scott,"EVP, CFO",S - Sale+OE,$80.13,-14500,54016,-21%,"-$1,161,885",,,,,ALB
+23,,2020-01-08 16:41:20,2020-01-07,ALB,Tozier Scott,"EVP, CFO",S - Sale,$71.56,-2753,54008,-5%,"-$197,005",,,,,ALB
+24,D,2019-09-17 16:32:49,2019-09-13,ALB,Kissam Luther C IV,"COB, Pres, CEO",S - Sale+OE,$70.00,-36000,306380,-11%,"-$2,520,000",,,,,ALB
+25,,2019-08-20 16:31:38,2019-08-20,ALB,Norris Eric,"Pres, Lithium",P - Purchase,$64.66,3090,3090,New,"+$199,790",,,,,ALB
+26,,2019-05-15 16:52:45,2019-05-13,ALB,Marlow Deeanne J,"SVP, CHRO",P - Purchase,$70.85,1000,1000,New,"+$70,850",,,,,ALB
+27,,2019-03-05 17:07:09,2019-03-04,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$91.00,-1243,34757,-3%,"-$113,113",,,,,ALB
+28,,2019-03-05 17:02:49,2019-03-04,ALB,Tozier Scott,"EVP, CFO",S - Sale,$91.00,-2961,49672,-6%,"-$269,451",,,,,ALB
+29,,2019-01-08 17:25:28,2019-01-04,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$74.76,-1295,31028,-4%,"-$96,814",,,,,ALB
+30,,2019-01-08 17:25:04,2019-01-04,ALB,Tozier Scott,"EVP, CFO",S - Sale,$74.55,-3343,46711,-7%,"-$249,221",,,,,ALB
+31,,2018-11-27 17:51:44,2018-11-26,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$96.54,-3100,27669,-10%,"-$299,274",,,,,ALB
+32,,2018-09-06 16:03:35,2018-09-04,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale,$97.11,-3100,30767,-9%,"-$301,041",,,,,ALB
+33,,2017-08-28 16:49:21,2017-08-24,ALB,Juneau Matthew,"EVP, Corp Strategy, IR",S - Sale,$115.77,-5397,12538,-30%,"-$624,811",,,,,ALB
+34,D,2017-08-24 16:26:37,2017-08-23,ALB,Narwold Karen G,"EVP, Chief Admin Officer",S - Sale+OE,$115.95,-11500,25856,-31%,"-$1,333,425",,,,,ALB

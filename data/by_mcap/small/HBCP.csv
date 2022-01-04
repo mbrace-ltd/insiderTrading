@@ -1,0 +1,37 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-09-13 17:52:36,2021-09-10,HBCP,Rader Chris P,Dir,P - Purchase,$36.87,"+1,000",18936,+6%,"+$36,870",,,,,HBCP
+1,,2021-05-27 17:56:11,2021-05-27,HBCP,Guidry Daniel G,Dir,S - Sale,$39.08,-1000,60206,-2%,"-$39,080",,,,,HBCP
+2,A,2021-05-14 17:56:58,2020-05-12,HBCP,Rader Chris P,Dir,P - Purchase,$21.25,"+1,000",17002,+6%,"+$21,248",,,,,HBCP
+3,,2021-05-07 11:25:40,2021-05-05,HBCP,Trappey Ann Forte,Dir,P - Purchase,$38.57,+288,4039,+8%,"+$11,108",,,,,HBCP
+4,M,2021-02-08 16:41:29,2021-02-03,HBCP,Trappey Ann Forte,Dir,P - Purchase,$31.38,"+1,851",3751,+97%,"+$58,079",,,,,HBCP
+5,,2020-09-04 16:43:57,2020-09-04,HBCP,Trappey Ann Forte,Dir,P - Purchase,$25.79,"+1,900",1900,New,"+$49,001",,,,,HBCP
+6,,2020-05-14 16:53:27,2020-05-14,HBCP,Guidry Daniel G,Dir,P - Purchase,$19.90,"+1,000",60656,+2%,"+$19,900",,,,,HBCP
+7,,2020-05-13 12:59:32,2020-05-11,HBCP,Maraist Michael P.,Dir,P - Purchase,$21.65,"+2,000",199901,+1%,"+$43,300",,,,,HBCP
+8,,2020-05-12 18:29:14,2020-05-12,HBCP,Rader Chris P,Dir,P - Purchase,$21.25,"+1,000",16843,+6%,"+$21,248",,,,,HBCP
+9,,2020-03-16 21:13:05,2020-03-12,HBCP,Maraist Michael P.,Dir,P - Purchase,$23.25,+970,197901,0%,"+$22,553",,,,,HBCP
+10,,2020-03-13 18:19:02,2020-03-02,HBCP,Maraist Michael P.,Dir,P - Purchase,$33.55,"+5,000",192901,+3%,"+$167,739",,,,,HBCP
+11,D,2020-03-10 15:04:33,2020-03-10,HBCP,Freyou Jason,"EVP, Chief Operations Officer",P - Purchase,$26.22,+102,12702,+1%,"+$2,674",,,,,HBCP
+12,,2020-03-10 09:25:19,2020-03-06,HBCP,Maraist Michael P.,Dir,P - Purchase,$32.00,"+4,030",196931,+2%,"+$128,960",,,,,HBCP
+13,,2019-11-20 18:27:54,2019-11-20,HBCP,Rader Chris P,Dir,P - Purchase,$38.40,+875,15343,+6%,"+$33,600",,,,,HBCP
+14,D,2019-09-06 11:53:13,2019-09-05,HBCP,Zanco Joseph B,"EVP, CFO",S - Sale+OE,$37.68,-6000,74233,-7%,"-$226,080",,,,,HBCP
+15,M,2019-08-22 09:32:05,2019-07-26,HBCP,Maraist Michael P.,Dir,S - Sale,$37.51,-2000,204901,-1%,"-$75,013",,,,,HBCP
+16,,2019-06-10 19:50:15,2019-06-07,HBCP,Rader Chris P,Dir,P - Purchase,$35.90,"+1,000",14392,+7%,"+$35,900",,,,,HBCP
+17,DM,2019-05-10 16:41:47,2019-05-09,HBCP,Bordelon John W.,"Pres, CEO",S - Sale+OE,$36.26,-1369,172089,-1%,"-$49,645",,,,,HBCP
+18,D,2019-05-09 12:03:57,2019-05-07,HBCP,Bordelon John W.,"Pres, CEO",S - Sale+OE,$36.49,-3101,173458,-2%,"-$113,146",,,,,HBCP
+19,D,2019-03-18 12:58:45,2019-03-15,HBCP,Bordelon John W.,"Pres, CEO",S - Sale+OE,$35.84,-6476,176559,-4%,"-$232,126",,,,,HBCP
+20,,2019-03-12 11:39:04,2019-03-07,HBCP,Maraist Michael P.,Dir,P - Purchase,$35.00,"+1,000",206401,0%,"+$35,000",,,,,HBCP
+21,DM,2019-03-06 18:16:06,2019-03-04,HBCP,Bordelon John W.,"Pres, CEO",S - Sale+OE,$35.89,-2554,182349,-1%,"-$91,658",,,,,HBCP
+22,DM,2019-02-22 12:26:38,2019-02-20,HBCP,Guidry Darren E.,"EVP, Chief Credit Officer",S - Sale+OE,$35.34,-3600,41921,-8%,"-$127,223",,,,,HBCP
+23,DM,2019-02-19 17:35:29,2019-02-14,HBCP,Guidry Darren E.,"EVP, Chief Credit Officer",S - Sale+OE,$35.31,-5063,45521,-10%,"-$178,753",,,,,HBCP
+24,DM,2019-02-14 15:12:18,2019-02-12,HBCP,Guidry Darren E.,"EVP, Chief Credit Officer",S - Sale+OE,$35.06,-3500,50584,-6%,"-$122,700",,,,,HBCP
+25,D,2019-02-12 16:50:51,2019-02-08,HBCP,Guidry Darren E.,"EVP, Chief Credit Officer",S - Sale+OE,$35.00,-1837,54084,-3%,"-$64,295",,,,,HBCP
+26,M,2018-12-19 18:46:22,2018-09-12,HBCP,Rader Chris P,Dir,P - Purchase,$40.47,"+2,000",12756,+19%,"+$80,940",,,,,HBCP
+27,,2018-06-25 18:44:56,2017-05-03,HBCP,Judice Marc W,Dir,S - Sale,$37.76,-1000,165021,-1%,"-$37,758",,,,,HBCP
+28,M,2018-06-25 18:43:33,2018-05-23,HBCP,Maraist Michael P.,Dir,S - Sale,$45.48,-6000,205401,-3%,"-$272,850",,,,,HBCP
+29,D,2018-06-07 17:35:29,2018-06-06,HBCP,Blanchet Paul J. III,Dir,S - Sale+OE,$44.91,-1000,67465,-1%,"-$44,910",,,,,HBCP
+30,D,2018-03-15 14:47:39,2018-03-15,HBCP,Guidry Darren E.,"EVP, Chief Credit Officer",S - Sale+OE,$43.01,-7393,40530,-15%,"-$317,989",,,,,HBCP
+31,D,2018-03-14 18:34:04,2018-03-14,HBCP,Guidry Darren E.,"EVP, Chief Credit Officer",S - Sale+OE,$43.34,-4607,47923,-9%,"-$199,662",,,,,HBCP
+32,,2018-03-14 15:15:27,2018-03-13,HBCP,Washington Donald W,Dir,P - Purchase,$43.80,+401,3689,+12%,"+$17,564",,,,,HBCP
+33,M,2018-02-05 18:46:39,2018-02-02,HBCP,Rader Chris P,Dir,P - Purchase,$41.95,"+2,378",10225,+30%,"+$99,747",,,,,HBCP
+34,M,2018-01-25 18:37:04,2011-05-04,HBCP,Maraist Michael P.,Dir,P - Purchase,$15.44,"+2,000",210976,+1%,"+$30,870",,,,,HBCP
+35,,2018-01-25 18:33:53,2017-03-10,HBCP,Rader Chris P,Dir,P - Purchase,$35.18,+140,7786,+2%,"+$4,926",,,,,HBCP

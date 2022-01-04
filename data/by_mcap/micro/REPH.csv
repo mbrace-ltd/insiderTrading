@@ -1,0 +1,27 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-17 19:37:47,2021-12-15,REPH,Enloe J David Jr,CEO,P - Purchase,$1.61,+617,154157,0%,+$993,,,,,REPH
+1,M,2021-12-15 16:42:51,2021-12-13,REPH,"Awm Investment Company, Inc.",10%,S - Sale,$1.62,-50602,5231299,-1%,"-$81,785",,,,,REPH
+2,,2021-11-19 17:15:55,2021-11-17,REPH,Miller James Charles,Dir,P - Purchase,$1.69,"+1,000",27923,+4%,"+$1,689",,,,,REPH
+3,,2021-11-16 06:05:17,2021-11-12,REPH,Lake Ryan David,CFO,P - Purchase,$1.65,"+1,212",374385,0%,"+$1,997",,,,,REPH
+4,,2021-11-16 06:05:14,2021-11-12,REPH,Enloe J David Jr,CEO,P - Purchase,$1.68,"+1,725",153540,+1%,"+$2,895",,,,,REPH
+5,M,2021-06-14 16:22:29,2021-06-10,REPH,"Awm Investment Company, Inc.",10%,S - Sale,$2.21,-466667,4419081,-10%,"-$1,029,891",,,,,REPH
+6,,2020-12-28 20:18:25,2020-12-22,REPH,"Scp Vitalife Partners (Israel) Ii, L.P.",10%,S - Sale,$3.17,-18830,701017,-3%,"-$59,691",,,,,REPH
+7,,2020-12-28 20:18:01,2020-12-22,REPH,Scp Vitalife Partners II LP,10%,S - Sale,$3.17,-56375,2097938,-3%,"-$178,709",,,,,REPH
+8,,2020-12-22 19:53:35,2020-12-18,REPH,"Scp Vitalife Partners (Israel) Ii, L.P.",10%,S - Sale,$3.03,-6208,719847,-1%,"-$18,813",,,,,REPH
+9,,2020-12-22 19:52:45,2020-12-18,REPH,Scp Vitalife Partners II LP,10%,S - Sale,$3.03,-18587,2154313,-1%,"-$56,326",,,,,REPH
+10,AD,2020-04-20 19:42:31,2020-04-17,REPH,Henwood Geraldine,"Pres, CEO",S - Sale+OE,$8.22,-80000,291194,-22%,"-$657,600",,,,,REPH
+11,,2020-04-20 16:32:54,2020-04-17,REPH,Henwood Geraldine,"Pres, CEO",S - Sale,$8.22,-80000,211194,-27%,"-$657,600",,,,,REPH
+12,,2019-05-21 16:11:16,2019-05-17,REPH,Ajdler Arnaud,Dir,P - Purchase,$9.00,"+40,000",1112501,+4%,"+$360,000",,,,,REPH
+13,D,2019-05-15 16:06:04,2019-05-13,REPH,Henwood Geraldine,"Pres, CEO",S - Sale+OE,$8.89,-144806,248141,-37%,"-$1,287,296",,,,,REPH
+14,,2018-05-24 17:02:37,2018-05-24,REPH,Broadfin Healthcare Master Fund Ltd,10%,S - Sale,$5.81,-188000,2048025,-8%,"-$1,093,182",,,,,REPH
+15,,2018-03-15 16:11:21,2018-03-13,REPH,Broadfin Healthcare Master Fund Ltd,10%,S - Sale,$10.07,-200000,2236025,-8%,"-$2,014,000",,,,,REPH
+16,D,2018-03-13 16:15:59,2018-03-09,REPH,Berelowitz Michael,Dir,S - Sale+OE,$10.45,-7500,0,-100%,"-$78,347",,,,,REPH
+17,,2018-01-08 16:21:24,2018-01-04,REPH,"Scp Vitalife Partners (Israel) Ii, L.P.",10%,S - Sale,$8.84,-1579,726055,0%,"-$13,956",,,,,REPH
+18,,2018-01-08 16:20:07,2018-01-04,REPH,Scp Vitalife Partners II LP,10%,S - Sale,$8.84,-4732,2172900,0%,"-$41,822",,,,,REPH
+19,M,2018-01-04 19:45:43,2018-01-02,REPH,Scp Vitalife Partners II LP,10%,S - Sale,$8.88,-38810,2177632,-2%,"-$344,688",,,,,REPH
+20,M,2018-01-04 19:45:12,2018-01-02,REPH,"Scp Vitalife Partners (Israel) Ii, L.P.",10%,S - Sale,$8.88,-12964,727634,-2%,"-$115,139",,,,,REPH
+21,M,2018-01-02 16:07:12,2017-12-28,REPH,"Scp Vitalife Partners (Israel) Ii, L.P.",10%,S - Sale,$9.27,-6090,740598,-1%,"-$56,481",,,,,REPH
+22,M,2018-01-02 16:06:27,2017-12-28,REPH,Scp Vitalife Partners II LP,10%,S - Sale,$9.27,-18231,2216442,-1%,"-$169,080",,,,,REPH
+23,M,2017-12-28 16:21:43,2017-12-26,REPH,"Scp Vitalife Partners (Israel) Ii, L.P.",10%,S - Sale,$9.56,-4405,746688,-1%,"-$42,101",,,,,REPH
+24,M,2017-12-28 16:21:04,2017-12-26,REPH,Scp Vitalife Partners II LP,10%,S - Sale,$9.56,-13189,2234673,-1%,"-$126,056",,,,,REPH
+25,M,2017-12-22 16:05:17,2017-12-20,REPH,Broadfin Healthcare Master Fund Ltd,10%,S - Sale,$9.87,-76000,2436025,-3%,"-$750,240",,,,,REPH

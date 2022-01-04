@@ -1,0 +1,19 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-03-12 18:07:20,2021-03-11,PSX,Garland Greg C.,"COB, CEO",S - Sale+OE,$88.50,-158500,643139,-20%,"-$14,026,750",,,,,PSX
+1,,2021-03-10 16:53:13,2021-03-08,PSX,Mandell Brian,EVP,S - Sale,$87.35,-1,32203,0%,-$61,,,,,PSX
+2,,2021-02-24 17:00:21,2021-02-10,PSX,Holley Charles M,Dir,P - Purchase,$76.32,77,5853,+1%,"+$5,877",,,,,PSX
+3,,2020-08-20 17:02:02,2020-08-19,PSX,Lowe John E,Dir,P - Purchase,$61.45,1500,66830,+2%,"+$92,172",,,,,PSX
+4,,2020-08-04 18:26:35,2020-08-04,PSX,Lowe John E,Dir,P - Purchase,$60.62,1000,65330,+2%,"+$60,624",,,,,PSX
+5,,2020-06-29 16:23:26,2020-06-26,PSX,Lowe John E,Dir,P - Purchase,$68.43,1500,64022,+2%,"+$102,645",,,,,PSX
+6,,2020-06-24 17:11:16,2020-06-24,PSX,Lowe John E,Dir,P - Purchase,$70.16,1000,62522,+2%,"+$70,164",,,,,PSX
+7,,2020-05-06 17:47:32,2020-05-05,PSX,Adams Gary Kramer,Dir,P - Purchase,$76.40,1250,10213,+14%,"+$95,499",,,,,PSX
+8,M,2020-03-02 15:54:57,2020-02-27,PSX,Lowe John E,Dir,P - Purchase,$75.63,5000,61203,+9%,"+$378,156",,,,,PSX
+9,,2019-11-18 16:15:34,2019-11-14,PSX,Oyolu Chukwuemeka A.,"VP, Controller",S - Sale,$119.53,-464,25668,-2%,"-$55,462",,,,,PSX
+10,D,2019-09-16 16:32:41,2019-09-16,PSX,Herman Robert A,EVP,S - Sale+OE,$103.17,-47433,50975,-48%,"-$4,893,705",,,,,PSX
+11,,2019-05-28 15:57:41,2019-05-28,PSX,Lowe John E,Dir,P - Purchase,$82.91,2000,53628,+4%,"+$165,816",,,,,PSX
+12,,2019-05-13 13:09:24,2019-05-09,PSX,Lowe John E,Dir,P - Purchase,$84.41,2000,51628,+4%,"+$168,810",,,,,PSX
+13,D,2019-02-21 14:43:46,2019-02-20,PSX,Garland Greg C.,"COB, CEO",S - Sale+OE,$97.61,-42728,463908,-8%,"-$4,170,731",,,,,PSX
+14,,2018-11-21 13:03:24,2018-11-20,PSX,Ferguson J Brian,Dir,P - Purchase,$92.31,21500,42833,+101%,"+$1,984,581",,,,,PSX
+15,D,2018-05-18 15:14:12,2018-05-17,PSX,Oyolu Chukwuemeka A.,"VP, Controller",S - Sale+OE,$120.00,-6900,25963,-21%,"-$828,000",,,,,PSX
+16,D,2017-12-18 14:06:02,2017-12-15,PSX,Oyolu Chukwuemeka A.,"VP, Controller",S - Sale+OE,$100.25,-2700,25108,-10%,"-$270,675",,,,,PSX
+17,D,2017-09-20 11:47:18,2017-09-19,PSX,Oyolu Chukwuemeka A.,"VP, Controller",S - Sale+OE,$89.08,-1151,25098,-4%,"-$102,529",,,,,PSX

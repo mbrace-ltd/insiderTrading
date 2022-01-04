@@ -1,0 +1,86 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-18 16:27:36,2021-03-17,PXD,Grillot Larry R.,Dir,S - Sale,$166.13,-500,11223,-4%,"-$83,067",,,,,PXD
+1,,2021-03-18 16:20:08,2021-03-17,PXD,Hall Jerome D Jr,"EVP, Operations",S - Sale,$163.35,-3000,50333,-6%,"-$490,050",,,,,PXD
+2,,2021-03-15 16:09:52,2021-03-12,PXD,Thompson J Kenneth,Dir,S - Sale,$165.76,-1500,17744,-8%,"-$248,645",,,,,PXD
+3,D,2021-03-09 17:45:13,2021-03-05,PXD,Sheffield Scott D,CEO,S - Sale+OE,$162.73,-29882,614566,-5%,"-$4,862,716",,,,,PXD
+4,D,2021-03-09 17:35:40,2021-03-05,PXD,Dealy Richard P,"Pres, COO",S - Sale+OE,$163.25,-9890,269283,-4%,"-$1,614,488",,,,,PXD
+5,,2021-03-09 17:28:39,2021-03-08,PXD,Hall Jerome D Jr,"EVP, Operations",S - Sale,$163.08,-3600,53333,-6%,"-$587,088",,,,,PXD
+6,,2021-03-09 17:25:10,2021-03-08,PXD,Cheatwood Chris J,"EVP, Advisor to the Management",S - Sale,$164.88,-6200,48315,-11%,"-$1,022,281",,,,,PXD
+7,DM,2021-03-09 17:18:58,2021-03-05,PXD,Berg Mark Stephen,"EVP, Corporate Operations",S - Sale+OE,$164.49,-6863,92835,-7%,"-$1,128,893",,,,,PXD
+8,,2021-03-09 17:09:10,2021-03-05,PXD,Buchanan Edison C,Dir,S - Sale,$165.00,-3000,27044,-10%,"-$495,000",,,,,PXD
+9,,2021-03-05 16:50:14,2021-03-03,PXD,Gallagher Matthew,Dir,S - Sale,$155.18,-115500,158829,-42%,"-$17,923,499",,,,,PXD
+10,,2021-03-05 16:31:32,2021-03-04,PXD,Montemayor Margaret,"VP, CAO",S - Sale,$157.93,-3353,7380,-31%,"-$529,529",,,,,PXD
+11,,2021-03-05 16:24:40,2021-03-03,PXD,McDonald Elizabeth Anne,"SVP, Strategic Planning, Field",S - Sale,$156.12,-3590,7788,-32%,"-$560,453",,,,,PXD
+12,,2020-12-18 08:40:04,2020-12-17,PXD,Grillot Larry R.,Dir,S - Sale,$114.24,-500,11723,-4%,"-$57,118",,,,,PXD
+13,D,2020-12-16 17:02:34,2020-12-15,PXD,Cheatwood Chris J,"EVP, Field Development, Emerg",S - Sale+OE,$116.29,-6728,43048,-14%,"-$782,422",,,,,PXD
+14,,2020-12-09 16:16:53,2020-12-07,PXD,Hall Jerome D Jr,"EVP, Operations",S - Sale,$111.25,-1000,44150,-2%,"-$111,250",,,,,PXD
+15,D,2020-11-30 18:55:02,2020-11-25,PXD,Berg Mark Stephen,"EVP, Corporate Operations",S - Sale+OE,$110.05,-5607,81133,-6%,"-$617,059",,,,,PXD
+16,,2020-06-09 17:49:30,2020-06-08,PXD,Kuiper Craig A.,"VP, Production Operations",S - Sale,$113.09,-4362,14099,-24%,"-$493,299",,,,,PXD
+17,,2020-06-09 17:49:23,2020-06-08,PXD,Cheatwood Chris J,"EVP, Field Development, Emerg",S - Sale,$115.66,-7000,43661,-14%,"-$809,620",,,,,PXD
+18,,2020-06-09 17:49:17,2020-06-05,PXD,Stewart Stephanie D,"VP, CIO",S - Sale,$110.13,-600,16224,-4%,"-$66,076",,,,,PXD
+19,,2020-06-09 17:49:11,2020-06-05,PXD,Paulsen Christopher M.,"VP, Business Development",S - Sale,$109.71,-900,10197,-8%,"-$98,735",,,,,PXD
+20,,2020-06-09 17:42:36,2020-06-05,PXD,Montemayor Margaret,"VP, CAO",S - Sale,$109.92,-1628,8201,-17%,"-$178,950",,,,,PXD
+21,,2020-06-09 17:42:30,2020-06-05,PXD,Black Bonnie S.,"VP, Drilling",S - Sale,$110.54,-2400,7853,-23%,"-$265,303",,,,,PXD
+22,M,2020-06-09 17:42:23,2020-06-05,PXD,Berg Mark Stephen,"EVP, Corporate Operations",S - Sale,$111.93,-3700,81133,-4%,"-$414,146",,,,,PXD
+23,,2020-06-09 17:42:11,2020-06-05,PXD,Hall Jerome D Jr,"EVP, Operations",S - Sale,$109.16,-2500,45150,-5%,"-$272,905",,,,,PXD
+24,,2020-03-10 16:21:11,2020-03-06,PXD,Thompson J Kenneth,Dir,P - Purchase,$102.91,1000,15274,+7%,"+$102,907",,,,,PXD
+25,,2019-12-23 08:35:11,2019-12-20,PXD,Kleinman Mark H,"EVP, GC",S - Sale,$147.49,-1750,21283,-8%,"-$258,108",,,,,PXD
+26,,2019-12-19 16:14:17,2019-12-18,PXD,Berg Mark Stephen,"EVP, Corporate, Vertically Int",S - Sale,$145.88,-3000,76741,-4%,"-$437,628",,,,,PXD
+27,,2019-12-19 16:14:11,2019-12-18,PXD,Black Bonnie S.,"VP, Drilling",S - Sale,$146.29,-500,8863,-5%,"-$73,147",,,,,PXD
+28,,2019-12-18 16:21:29,2019-12-17,PXD,Hall Jerome D Jr,"EVP, Permian Operations",S - Sale,$144.26,-1750,39520,-4%,"-$252,455",,,,,PXD
+29,,2019-12-18 16:21:23,2019-12-17,PXD,Paulsen Christopher M.,"VP, Business Development",S - Sale,$144.31,-1623,9941,-14%,"-$234,222",,,,,PXD
+30,,2019-12-18 16:21:17,2019-12-16,PXD,McDonald Elizabeth Anne,"VP, Permian Strategic Developm",S - Sale,$143.17,-1858,7906,-19%,"-$266,012",,,,,PXD
+31,,2019-12-06 08:21:23,2019-12-04,PXD,Stewart Stephanie D,"VP, CIO",S - Sale,$130.22,-600,14124,-4%,"-$78,132",,,,,PXD
+32,,2019-12-06 08:21:17,2019-12-05,PXD,Montemayor Margaret,"VP, CAO",S - Sale,$131.17,-1200,7936,-13%,"-$157,404",,,,,PXD
+33,,2019-12-06 08:14:11,2019-12-04,PXD,Berg Mark Stephen,"EVP, Corporate, Vertically Int",S - Sale,$129.60,-2000,79741,-2%,"-$259,194",,,,,PXD
+34,,2019-09-18 16:49:11,2019-09-16,PXD,Cheatwood Chris J,"EVP, Chief Technology Offic",S - Sale,$140.35,-5619,42777,-12%,"-$788,615",,,,,PXD
+35,,2019-08-28 16:28:11,2019-08-27,PXD,Thompson J Kenneth,Dir,P - Purchase,$121.01,500,14274,+4%,"+$60,505",,,,,PXD
+36,,2019-05-14 16:21:11,2019-05-10,PXD,Montemayor Margaret,"VP, CAO",S - Sale,$153.38,-888,8772,-9%,"-$136,201",,,,,PXD
+37,M,2018-12-28 08:42:13,2018-12-26,PXD,Cates Andrew F.,Dir,P - Purchase,$124.27,790,15996,+5%,"+$98,175",,,,,PXD
+38,M,2018-12-20 16:21:14,2018-12-18,PXD,Dove Timothy L,"Pres, CEO",S - Sale,$134.18,-4800,274453,-2%,"-$644,080",,,,,PXD
+39,,2018-05-30 17:28:11,2018-05-29,PXD,Grillot Larry R.,Dir,S - Sale,$191.13,-200,8061,-2%,"-$38,226",,,,,PXD
+40,M,2018-05-21 18:07:11,2018-05-17,PXD,Sheffield Scott D,Dir,S - Sale,$211.16,-20000,587654,-3%,"-$4,223,100",,,,,PXD
+41,,2018-05-21 17:14:35,2018-05-18,PXD,Dove Timothy L,"Pres, CEO",S - Sale,$212.44,-2178,279253,-1%,"-$462,694",,,,,PXD
+42,,2018-05-21 17:14:16,2018-05-18,PXD,Kleinman Mark H,"SVP, GC",S - Sale,$210.02,-1025,15106,-6%,"-$215,269",,,,,PXD
+43,,2018-05-21 17:14:11,2018-05-21,PXD,Thompson J Kenneth,Dir,S - Sale,$212.17,-1000,11486,-8%,"-$212,170",,,,,PXD
+44,,2018-05-21 17:07:17,2018-05-17,PXD,Cheatwood Chris J,"EVP, Chief Technology Offic",S - Sale,$212.31,-4171,37326,-10%,"-$885,545",,,,,PXD
+45,,2018-05-21 16:56:11,2018-05-17,PXD,Berg Mark Stephen,"EVP, Corporate, Vertically Int",S - Sale,$212.32,-2500,71203,-3%,"-$530,793",,,,,PXD
+46,,2018-05-18 09:00:11,2018-05-16,PXD,Hopkins Frank E,"SVP, Investor Relations",S - Sale,$206.61,-893,39356,-2%,"-$184,504",,,,,PXD
+47,,2018-05-17 16:21:17,2018-05-16,PXD,Hall Jerome D Jr,"EVP, Permian Operations",S - Sale,$206.73,-2000,29268,-6%,"-$413,452",,,,,PXD
+48,,2018-05-17 16:21:11,2018-05-15,PXD,Dove Timothy L,"Pres, CEO",S - Sale,$202.25,-5000,281431,-2%,"-$1,011,250",,,,,PXD
+49,,2018-05-14 18:21:11,2018-05-10,PXD,Hannes William F,"SVP, Special Projects",S - Sale,$203.00,-10000,56966,-15%,"-$2,030,000",,,,,PXD
+50,,2018-05-14 16:42:11,2018-05-11,PXD,Sheffield Kenneth H Jr,"EVP, Operations, Engineering,",S - Sale,$203.19,-5000,18023,-22%,"-$1,015,950",,,,,PXD
+51,,2018-05-14 16:35:23,2018-05-11,PXD,Berg Mark Stephen,"EVP, Corporate, Vertically Int",S - Sale,$201.95,-2000,73703,-3%,"-$403,900",,,,,PXD
+52,M,2018-05-14 16:35:11,2018-05-10,PXD,Sheffield Scott D,Dir,S - Sale,$202.49,-40000,605507,-6%,"-$8,099,456",,,,,PXD
+53,,2018-05-11 08:56:17,2018-05-10,PXD,Cates Andrew F.,Dir,S - Sale,$200.62,-2500,14042,-15%,"-$501,550",,,,,PXD
+54,,2018-05-11 08:56:11,2018-05-09,PXD,Cheatwood Chris J,"EVP, Chief Technology Offic",S - Sale,$203.54,-5184,41497,-11%,"-$1,055,136",,,,,PXD
+55,,2018-05-09 17:56:16,2018-05-09,PXD,Risch Frank A,Dir,S - Sale,$202.16,-1000,8512,-11%,"-$202,158",,,,,PXD
+56,,2018-05-09 17:35:11,2018-05-09,PXD,Buchanan Edison C,Dir,S - Sale,$203.04,-2693,24596,-10%,"-$546,787",,,,,PXD
+57,,2018-05-09 17:28:11,2018-05-09,PXD,Stewart Stephanie D,"VP, CIO",S - Sale,$203.52,-900,11318,-7%,"-$183,168",,,,,PXD
+58,M,2018-05-09 17:14:12,2018-05-07,PXD,Hopkins Frank E,"SVP, Investor Relations",S - Sale,$199.94,-1192,40250,-3%,"-$238,327",,,,,PXD
+59,,2018-03-22 16:14:11,2018-03-21,PXD,Cheatwood Chris J,"EVP, Chief Technology Offic",S - Sale,$175.93,-9513,46681,-17%,"-$1,673,575",,,,,PXD
+60,,2018-02-28 16:14:59,2018-02-27,PXD,Montemayor Margaret,"VP, CAO",S - Sale,$179.33,-1410,6218,-18%,"-$252,855",,,,,PXD
+61,,2018-02-28 16:14:40,2018-02-26,PXD,Kleinman Mark H,"SVP, GC",S - Sale,$180.17,-1150,16131,-7%,"-$207,196",,,,,PXD
+62,,2018-02-26 16:28:25,2018-02-23,PXD,Fairbrook Teresa A,"VP, Chief HR Off",S - Sale,$180.00,-2134,5125,-29%,"-$384,120",,,,,PXD
+63,,2018-02-26 16:28:18,2018-02-23,PXD,Sheffield Scott D,Dir,S - Sale,$180.00,-2000,645503,0%,"-$360,000",,,,,PXD
+64,,2018-02-26 16:28:11,2018-02-22,PXD,Stewart Stephanie D,"VP, CIO",S - Sale,$177.84,-1100,10388,-10%,"-$195,624",,,,,PXD
+65,,2017-12-28 08:28:11,2017-12-27,PXD,Hall Jerome D Jr,"EVP, Permian Operations",S - Sale,$172.60,-1800,22964,-7%,"-$310,676",,,,,PXD
+66,,2017-12-26 16:07:17,2017-12-22,PXD,Sheffield Scott D,Dir,S - Sale,$172.38,-5000,640354,-1%,"-$861,899",,,,,PXD
+67,,2017-12-26 16:07:11,2017-12-22,PXD,Hopkins Frank E,"SVP, Investor Relations",S - Sale,$171.00,-1000,39886,-2%,"-$171,004",,,,,PXD
+68,,2017-12-22 16:07:17,2017-12-20,PXD,Dealy Richard P,"EVP, CFO",S - Sale,$164.23,-5523,215940,-2%,"-$907,032",,,,,PXD
+69,,2017-12-22 16:07:11,2017-12-21,PXD,Cheatwood Chris J,"EVP, Chief Technology Offic",S - Sale,$167.82,-2201,46659,-5%,"-$369,372",,,,,PXD
+70,,2017-12-20 16:14:11,2017-12-18,PXD,Hopkins Frank E,"SVP, Investor Relations",S - Sale,$160.00,-2000,40901,-5%,"-$320,000",,,,,PXD
+71,,2017-12-15 09:00:40,2017-12-14,PXD,Berg Mark Stephen,"EVP, Corporate, Vertically Int",S - Sale,$157.85,-2000,66387,-3%,"-$315,700",,,,,PXD
+72,,2017-12-13 16:56:17,2017-12-12,PXD,Dove Timothy L,"Pres, CEO",S - Sale,$159.51,-1000,259434,0%,"-$159,505",,,,,PXD
+73,,2017-12-13 16:56:11,2017-12-11,PXD,Grillot Larry R.,Dir,S - Sale,$159.35,-200,7097,-3%,"-$31,870",,,,,PXD
+74,,2017-12-04 16:07:17,2017-12-01,PXD,Kleinman Mark H,"SVP, GC",S - Sale,$158.37,-2582,12861,-17%,"-$408,911",,,,,PXD
+75,,2017-12-04 16:07:11,2017-11-30,PXD,Berg Mark Stephen,"EVP, Corporate, Vertically Int",S - Sale,$154.47,-2000,68387,-3%,"-$308,940",,,,,PXD
+76,,2017-11-16 16:42:11,2017-11-14,PXD,Hall Jerome D Jr,"EVP, Permian Operations",S - Sale,$155.23,-1800,24764,-7%,"-$279,419",,,,,PXD
+77,,2017-11-13 16:14:27,2017-11-09,PXD,Sheffield Scott D,Exec COB of the Boar,S - Sale,$161.14,-5000,645361,-1%,"-$805,705",,,,,PXD
+78,,2017-11-13 16:14:20,2017-11-09,PXD,Dove Timothy L,"Pres, CEO",S - Sale,$160.66,-5560,260434,-2%,"-$893,242",,,,,PXD
+79,,2017-11-13 16:14:11,2017-11-09,PXD,Berg Mark Stephen,"EVP, Corporate, Vertically Int",S - Sale,$160.79,-2000,70387,-3%,"-$321,580",,,,,PXD
+80,,2017-11-08 16:07:11,2017-11-06,PXD,Sheffield Kenneth H Jr,"EVP, Operations, Engineering,",S - Sale,$157.57,-3250,18471,-15%,"-$512,093",,,,,PXD
+81,,2017-09-13 16:21:11,2017-09-11,PXD,Fairbrook Teresa A,"VP, Chief HR Off",S - Sale,$130.49,-880,7975,-10%,"-$114,835",,,,,PXD
+82,,2017-08-15 16:49:11,2017-08-15,PXD,Thompson J Kenneth,Dir,P - Purchase,$133.40,750,11615,+7%,"+$100,046",,,,,PXD
+83,,2017-08-15 16:21:14,2017-08-11,PXD,Cates Andrew F.,Dir,P - Purchase,$135.37,350,16792,+2%,"+$47,380",,,,,PXD
+84,,2017-08-11 08:56:11,2017-08-09,PXD,Methvin Stacy P.,Dir,P - Purchase,$136.72,100,7668,+1%,"+$13,672",,,,,PXD

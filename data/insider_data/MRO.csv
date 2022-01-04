@@ -1,0 +1,15 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-06-07 16:31:32,2021-06-04,MRO,Wagner Patrick,See Remarks,S - Sale+OE,$13.72,-31667,232292,-12%,"-$434,465",,,,,MRO
+1,D,2021-06-03 16:22:43,2021-06-02,MRO,Tillman Lee M,"COB, Pres, CEO",S - Sale+OE,$13.85,-212000,1203012,-15%,"-$2,937,048",,,,,MRO
+2,,2021-05-04 07:39:29,2021-05-03,MRO,Tillman Lee M,"COB, Pres, CEO",S - Sale,$11.03,-67500,1203012,-5%,"-$744,336",,,,,MRO
+3,,2021-04-13 16:22:23,2021-04-12,MRO,Tillman Lee M,"COB, Pres, CEO",S - Sale,$11.08,-67500,1270512,-5%,"-$747,900",,,,,MRO
+4,,2021-03-12 16:36:09,2021-03-11,MRO,Henderson Michael A,"EVP, Operations",S - Sale,$12.55,-20938,223349,-9%,"-$262,772",,,,,MRO
+5,,2021-03-02 16:33:31,2021-03-01,MRO,Wagner Patrick,See Remarks,S - Sale,$11.37,-37905,170328,-18%,"-$430,790",,,,,MRO
+6,,2020-03-31 19:13:01,2020-03-31,MRO,Wagner Patrick,See Remarks,P - Purchase,$3.31,15000,223314,+7%,"+$49,658",,,,,MRO
+7,M,2020-03-25 16:50:05,2020-03-23,MRO,Tillman Lee M,"COB, Pres, CEO",P - Purchase,$3.50,56600,1137230,+5%,"+$197,987",,,,,MRO
+8,,2020-03-17 16:34:48,2020-03-16,MRO,Tillman Lee M,"COB, Pres, CEO",P - Purchase,$4.00,27500,1080630,+3%,"+$110,000",,,,,MRO
+9,M,2020-03-16 16:32:18,2020-03-12,MRO,Tillman Lee M,"COB, Pres, CEO",P - Purchase,$4.01,47500,1053130,+5%,"+$190,657",,,,,MRO
+10,D,2018-09-17 16:36:00,2018-09-14,MRO,Little Thomas Mitchell,EVP - Operations,S - Sale+OE,$20.69,-117333,277236,-30%,"-$2,428,089",,,,,MRO
+11,D,2018-05-18 16:25:26,2018-05-16,MRO,Wagner Patrick,See Remarks,S - Sale+OE,$21.20,-53333,138201,-28%,"-$1,130,606",,,,,MRO
+12,D,2018-05-18 16:24:32,2018-05-17,MRO,Tillman Lee M,"Pres, CEO",S - Sale+OE,$21.65,-400000,708261,-36%,"-$8,658,800",,,,,MRO
+13,,2018-05-09 16:17:39,2018-05-07,MRO,Little Thomas Mitchell,EVP - Operations,S - Sale,$19.89,-21286,277236,-7%,"-$423,357",,,,,MRO

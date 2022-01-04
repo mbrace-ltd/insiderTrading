@@ -1,0 +1,3 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-11-15 12:14:35,2021-11-11,HLMN,Ride Scott,"Pres, Hillman Canada",S - Sale+OE,$10.91,-38862,0,-100%,"-$423,984",,,,,HLMN
+1,D,2021-07-16 21:48:38,2020-10-15,HLMN,Jefferies Financial Group Inc.,"Dir, 10%",P - Purchase,$9.96,"+3,200",8677976,0%,"+$31,872",,,,,HLMN

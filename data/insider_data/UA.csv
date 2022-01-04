@@ -1,0 +1,21 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2020-12-21 16:14:15,2020-12-17,UAA,Stanton John Patrick,"EVP, GC",S - Sale,$17.39,-1000,44949,-2%,"-$17,393",,,,,UA
+1,,2020-12-21 16:14:08,2020-12-17,UA,Stanton John Patrick,"EVP, GC",S - Sale,$15.22,-1007,274667,0%,"-$15,331",,,,,UA
+2,M,2020-04-01 17:14:11,2014-07-10,UAA,Plank Kevin A,"Exec.COB, Brand Chief, 10%",P - Purchase,$77.67,556,181608,0%,"+$43,184",,,,,UA
+3,M,2020-04-01 17:14:11,2014-09-04,UAA,Plank Kevin A,"Exec.COB, Brand Chief, 10%",S - Sale,$44.11,-556,181608,0%,"-$24,528",,,,,UA
+4,M,2020-04-01 17:07:11,2016-08-03,UA,Plank Kevin A,"Exec. COB, Brand Chief, 10%",S - Sale,$26.71,-398,33819595,0%,"-$10,630",,,,,UA
+5,,2019-11-27 16:21:11,2019-11-26,UA,Eskridge Kevin,Chief Product Officer,S - Sale,$15.84,-19348,174412,-10%,"-$306,561",,,,,UA
+6,,2019-08-13 16:49:10,2019-08-12,UA,Eskridge Kevin,Chief Product Officer,S - Sale,$17.69,-56500,196374,-22%,"-$999,462",,,,,UA
+7,,2019-02-25 16:21:17,2019-02-22,UA,Fipps Paul,Chief Digital Officer,S - Sale,$19.49,-23247,362784,-6%,"-$453,014",,,,,UA
+8,,2019-02-25 16:14:11,2019-02-22,UAA,Fipps Paul,Chief Digital Officer,S - Sale,$21.55,-3106,11015,-22%,"-$66,928",,,,,UA
+9,,2018-11-30 16:07:14,2018-11-30,UA,Bergman David,CFO,S - Sale,$22.00,-2500,157666,-2%,"-$55,000",,,,,UA
+10,,2018-11-07 16:07:13,2018-11-06,UA,Bergman David,CFO,S - Sale,$21.30,-5000,160166,-3%,"-$106,500",,,,,UA
+11,,2018-08-23 16:42:13,2018-08-22,UA,Bergman David,CFO,S - Sale,$19.89,-5000,165166,-3%,"-$99,455",,,,,UA
+12,,2018-05-14 16:21:11,2018-05-11,UA,Frisk Patrik,"Pres, COO",P - Purchase,$16.62,14000,666847,+2%,"+$232,721",,,,,UA
+13,,2018-05-14 16:14:11,2018-05-11,UAA,Frisk Patrik,"Pres, COO",P - Purchase,$18.50,14000,14000,New,"+$258,934",,,,,UA
+14,,2018-05-08 16:07:12,2018-05-07,UA,Larose Jason,"Pres, North America",S - Sale,$16.17,-35000,169619,-17%,"-$566,031",,,,,UA
+15,D,2018-05-07 16:42:17,2018-05-07,UA,McDermott William R,Dir,S - Sale+OE,$16.08,-6349,80167,-7%,"-$102,096",,,,,UA
+16,D,2018-05-07 16:42:11,2018-05-07,UAA,McDermott William R,Dir,S - Sale+OE,$17.70,-6508,59657,-10%,"-$115,214",,,,,UA
+17,,2018-05-04 16:49:16,2018-05-03,UAA,Sanders Harvey,Dir,S - Sale,$18.36,-6513,235426,-3%,"-$119,579",,,,,UA
+18,,2018-05-04 16:49:10,2018-05-03,UA,Sanders Harvey,Dir,S - Sale,$16.29,-6372,257439,-2%,"-$103,800",,,,,UA
+19,,2017-12-07 16:14:11,2017-12-06,UA,Fipps Paul,CTO,S - Sale,$11.61,-1500,172170,-1%,"-$17,417",,,,,UA

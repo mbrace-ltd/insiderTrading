@@ -1,0 +1,42 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-12-07 18:44:35,2021-12-06,CRMD,David Matthew T,"Interim CEO, CFO",P - Purchase,$4.50,"+1,000",3150,+47%,"+$4,500",,,,,CRMD
+1,D,2021-12-07 18:44:20,2021-12-06,CRMD,David Matthew T,"Interim CEO, CFO",P - Purchase,$4.50,"+1,000",3150,+47%,"+$4,500",,,,,CRMD
+2,D,2021-11-19 16:45:58,2021-11-16,CRMD,Kaplan Myron,Dir,P - Purchase,$5.14,"+10,000",175034,+6%,"+$51,400",,,,,CRMD
+3,D,2021-11-19 09:53:09,2021-11-17,CRMD,David Matthew T,"Interim CEO, CFO",P - Purchase,$5.07,"+1,000",2150,+87%,"+$5,070",,,,,CRMD
+4,D,2021-05-25 16:46:19,2021-05-21,CRMD,Masson-Hurlburt Elizabeth,"EVP, Head of Clinical Ops",S - Sale+OE,$6.92,-8000,0,-100%,"-$55,394",,,,,CRMD
+5,D,2021-05-19 17:40:32,2021-05-17,CRMD,Kaplan Myron,Dir,P - Purchase,$6.03,"+15,000",165034,+10%,"+$90,477",,,,,CRMD
+6,D,2020-09-09 08:47:39,2020-09-04,CRMD,Lefkowitz Steven W,Dir,P - Purchase,$3.99,"+5,715",92650,+7%,"+$22,816",,,,,CRMD
+7,D,2020-09-08 08:38:00,2020-09-03,CRMD,David Matthew T,CFO,P - Purchase,$4.07,"+1,150",1150,New,"+$4,681",,,,,CRMD
+8,D,2020-09-04 08:25:41,2020-09-02,CRMD,Kaplan Myron,Dir,P - Purchase,$4.27,"+15,300",150034,+11%,"+$65,359",,,,,CRMD
+9,DM,2020-08-20 17:53:27,2020-08-18,CRMD,Khan Mehmood,Dir,P - Purchase,$4.84,"+45,750",178767,+34%,"+$221,350",,,,,CRMD
+10,D,2020-08-17 20:06:52,2020-08-14,CRMD,Armstrong Jr. John L.,EVP of Tech Operations,P - Purchase,$4.22,"+27,500",96878,+40%,"+$116,110",,,,,CRMD
+11,D,2020-08-17 19:08:24,2020-08-13,CRMD,Mounts Phoebe,GC,P - Purchase,$4.03,"+2,525",7200,+54%,"+$10,176",,,,,CRMD
+12,D,2020-08-17 19:02:11,2020-08-13,CRMD,Kaplan Myron,Dir,P - Purchase,$4.08,"+15,000",134734,+13%,"+$61,160",,,,,CRMD
+13,D,2020-08-17 18:45:57,2020-08-13,CRMD,Baluch Khoso,CEO,P - Purchase,$4.14,"+4,830",60905,+9%,"+$19,985",,,,,CRMD
+14,D,2020-08-14 17:29:35,2020-08-12,CRMD,Dunton Alan W,Dir,P - Purchase,$3.95,"+5,000",6250,+400%,"+$19,750",,,,,CRMD
+15,D,2020-05-18 16:20:41,2020-05-15,CRMD,Kaplan Myron,Dir,P - Purchase,$3.85,"+10,000",119734,+9%,"+$38,500",,,,,CRMD
+16,D,2020-03-19 16:18:18,2020-03-18,CRMD,Mounts Phoebe,GC,P - Purchase,$3.05,"+3,250",4675,+228%,"+$9,913",,,,,CRMD
+17,D,2020-03-18 16:25:06,2020-03-18,CRMD,Baluch Khoso,CEO,P - Purchase,$2.61,"+3,500",56075,+7%,"+$9,135",,,,,CRMD
+18,D,2020-01-02 17:24:11,2019-12-30,CRMD,Mounts Phoebe,GC,P - Purchase,$7.04,"+1,425",1425,New,"+$10,038",,,,,CRMD
+19,D,2019-12-17 17:09:10,2019-12-13,CRMD,Khan Mehmood,Dir,P - Purchase,$6.58,"+17,000",133017,+15%,"+$111,925",,,,,CRMD
+20,D,2019-10-01 17:19:22,2019-09-27,CRMD,Lefkowitz Steven W,Dir,P - Purchase,$6.75,"+5,000",84428,+6%,"+$33,750",,,,,CRMD
+21,D,2019-10-01 17:14:55,2019-09-30,CRMD,Kaplan Myron,Dir,P - Purchase,$6.81,"+5,000",109734,+5%,"+$34,050",,,,,CRMD
+22,D,2019-10-01 17:13:05,2019-09-30,CRMD,Cook Robert W.,CFO,P - Purchase,$6.88,"+1,000",27517,+4%,"+$6,879",,,,,CRMD
+23,D,2019-08-19 16:10:07,2019-08-16,CRMD,Cook Robert W.,CFO,P - Purchase,$8.18,"+1,000",26517,+4%,"+$8,180",,,,,CRMD
+24,D,2019-08-19 16:09:53,2019-08-16,CRMD,Cook Robert W.,CFO,P - Purchase,$8.18,"+1,000",26517,+4%,"+$8,180",,,,,CRMD
+25,D,2019-08-16 16:08:37,2019-08-16,CRMD,Kaplan Myron,Dir,P - Purchase,$8.06,"+6,000",104734,+6%,"+$48,360",,,,,CRMD
+26,D,2019-08-16 16:07:16,2019-08-16,CRMD,Dillione Janet,Dir,P - Purchase,$8.19,"+6,147",53473,+13%,"+$50,344",,,,,CRMD
+27,D,2019-05-17 09:24:16,2019-05-15,CRMD,Dillione Janet,Dir,P - Purchase,$6.74,"+11,144",47326,+31%,"+$75,111",,,,,CRMD
+28,D,2019-04-01 16:49:34,2019-03-29,CRMD,Cook Robert W.,CFO,P - Purchase,$9.35,+100,25517,0%,+$935,,,,,CRMD
+29,D,2019-03-27 16:15:06,2019-03-26,CRMD,Baluch Khoso,CEO,P - Purchase,$7.55,"+2,500",52575,+5%,"+$18,875",,,,,CRMD
+30,D,2019-03-27 16:12:26,2019-03-26,CRMD,Armstrong Jr. John L.,EVP of Tech Operations,P - Purchase,$7.73,"+5,000",69378,+8%,"+$38,650",,,,,CRMD
+31,D,2019-03-25 16:09:58,2019-03-25,CRMD,Armstrong Jr. John L.,EVP of Tech Operations,P - Purchase,$1.69,"+15,000",321890,+5%,"+$25,350",,,,,CRMD
+32,D,2019-03-22 16:06:13,2019-03-22,CRMD,Kaplan Myron,Dir,P - Purchase,$1.65,"+20,000",493666,+4%,"+$33,000",,,,,CRMD
+33,D,2019-03-20 16:21:29,2019-03-18,CRMD,Dillione Janet,Dir,P - Purchase,$1.67,"+42,000",180909,+30%,"+$69,972",,,,,CRMD
+34,D,2018-12-21 16:19:47,2018-12-20,CRMD,Lefkowitz Steven W,Dir,P - Purchase,$1.18,"+20,000",367136,+6%,"+$23,500",,,,,CRMD
+35,D,2018-12-21 16:16:47,2018-12-20,CRMD,Khan Mehmood,Dir,P - Purchase,$1.24,"+100,000",564583,+22%,"+$124,410",,,,,CRMD
+36,D,2018-12-17 16:01:30,2018-12-14,CRMD,Kaplan Myron,Dir,P - Purchase,$1.47,"+50,000",431166,+13%,"+$73,300",,,,,CRMD
+37,D,2018-11-30 16:04:37,2018-11-29,CRMD,Armstrong Jr. John L.,EVP of Tech Operations,P - Purchase,$1.45,"+250,000",288861,+643%,"+$363,150",,,,,CRMD
+38,DM,2018-11-27 16:55:32,2018-11-27,CRMD,Baluch Khoso,CEO,P - Purchase,$1.22,"+25,000",228873,+12%,"+$30,495",,,,,CRMD
+39,D,2018-11-27 16:53:44,2018-11-27,CRMD,Cook Robert W.,CFO,P - Purchase,$1.17,"+25,000",127083,+24%,"+$29,213",,,,,CRMD
+40,D,2018-11-27 16:19:39,2018-11-23,CRMD,Kaplan Myron,Dir,P - Purchase,$1.30,"+50,000",371166,+16%,"+$64,795",,,,,CRMD

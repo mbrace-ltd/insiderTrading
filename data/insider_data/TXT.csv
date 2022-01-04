@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-09 11:35:09,2021-08-05,TXT,Bamford Mark S,"VP, Corporate Controller",S - Sale+OE,$71.81,-1825,19440,-9%,"-$131,053",,,,,TXT
+1,D,2021-05-04 15:45:56,2021-04-30,TXT,Lupone E Robert,"EVP, GC, Secy",S - Sale+OE,$64.05,-34831,98215,-26%,"-$2,230,926",,,,,TXT
+2,D,2021-05-04 15:37:40,2021-04-30,TXT,Bamford Mark S,"VP, Corporate Controller",S - Sale+OE,$63.41,-10538,20057,-34%,"-$668,214",,,,,TXT
+3,,2021-04-30 17:01:34,2021-04-30,TXT,Bader Kathleen M,Dir,S - Sale,$64.00,-10775,9179,-54%,"-$689,601",,,,,TXT
+4,D,2021-03-03 18:42:37,2021-03-03,TXT,Bamford Mark S,"VP, Corporate Controller",S - Sale+OE,$51.75,-3300,19998,-14%,"-$170,775",,,,,TXT
+5,D,2021-02-24 14:41:24,2021-02-22,TXT,Connor Frank T,"EVP, CFO",S - Sale+OE,$50.98,-91607,169781,-35%,"-$4,670,130",,,,,TXT
+6,D,2021-02-24 14:40:07,2021-02-22,TXT,Donnelly Scott C,"COB, Pres, CEO",S - Sale+OE,$50.98,-300000,646562,-32%,"-$15,294,135",,,,,TXT
+7,D,2020-12-03 13:33:55,2020-12-01,TXT,Bamford Mark S,"VP, Corporate Controller",S - Sale+OE,$46.30,-811,18669,-4%,"-$37,549",,,,,TXT
+8,D,2020-09-04 14:39:57,2020-09-02,TXT,Donnelly Scott C,"COB, Pres, CEO",S - Sale+OE,$40.29,-227766,646412,-26%,"-$9,176,692",,,,,TXT
+9,D,2020-09-04 14:36:52,2020-09-02,TXT,Connor Frank T,"EVP, CFO",S - Sale+OE,$40.29,-69566,169660,-29%,"-$2,802,814",,,,,TXT
+10,D,2020-03-03 16:38:47,2020-03-02,TXT,Bamford Mark S,"VP, Corporate Controller",S - Sale+OE,$40.90,-1500,18305,-8%,"-$61,350",,,,,TXT
+11,D,2019-03-05 15:28:45,2019-03-01,TXT,Bamford Mark S,"VP, Corporate Controller",S - Sale+OE,$54.75,-4500,18166,-20%,"-$246,375",,,,,TXT
+12,DM,2019-02-27 15:46:47,2019-02-25,TXT,Connor Frank T,"EVP, CFO",S - Sale+OE,$55.15,-83933,144446,-37%,"-$4,628,679",,,,,TXT
+13,DM,2019-02-22 18:10:18,2019-02-20,TXT,Donnelly Scott C,"COB, Pres, CEO",S - Sale+OE,$55.04,-230654,562967,-29%,"-$12,694,395",,,,,TXT
+14,D,2018-08-02 15:17:45,2018-07-31,TXT,Duffy Julie G,EVP - HR,S - Sale+OE,$68.13,-6562,27077,-20%,"-$447,069",,,,,TXT
+15,DM,2018-08-01 15:08:19,2018-07-30,TXT,Lupone E Robert,"EVP, GC, Secy",S - Sale+OE,$67.50,-45000,80261,-36%,"-$3,037,415",,,,,TXT
+16,D,2018-07-31 15:27:08,2018-07-27,TXT,Donnelly Scott C,"COB, Pres, CEO",S - Sale+OE,$67.17,-82647,562824,-13%,"-$5,551,545",,,,,TXT
+17,DM,2018-05-01 21:38:05,2018-04-27,TXT,Donnelly Scott C,"COB, Pres, CEO",S - Sale+OE,$62.96,-200400,562823,-26%,"-$12,617,837",,,,,TXT
+18,D,2018-05-01 21:33:56,2018-04-27,TXT,Connor Frank T,"EVP, CFO",S - Sale+OE,$62.99,-80000,144330,-36%,"-$5,039,200",,,,,TXT

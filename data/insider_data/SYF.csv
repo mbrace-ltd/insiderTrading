@@ -1,0 +1,63 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-06-30 16:13:47,2021-06-28,SYF,Juel Carol,See remarks,S - Sale+OE,$49.63,-8708,51230,-15%,"-$432,178",,,,,SYF
+1,,2021-04-07 16:07:45,2021-04-05,SYF,Melito David P,See Remarks,S - Sale,$42.16,-2205,17342,-11%,"-$92,963",,,,,SYF
+2,D,2021-03-03 16:47:12,2021-03-01,SYF,Quindlen Thomas M,See Remarks,S - Sale+OE,$39.80,-144307,166704,-46%,"-$5,743,419",,,,,SYF
+3,D,2021-03-03 16:45:54,2021-03-01,SYF,Wenzel Brian J. Sr.,See remarks,S - Sale+OE,$39.69,-59533,70033,-46%,"-$2,363,066",,,,,SYF
+4,D,2021-03-03 16:45:17,2021-03-01,SYF,Greig Henry F,See Remarks,S - Sale+OE,$39.46,-35000,189505,-16%,"-$1,381,100",,,,,SYF
+5,D,2021-03-03 16:44:57,2021-03-01,SYF,Keane Margaret M,See Remarks,S - Sale+OE,$39.87,-151423,813225,-16%,"-$6,037,235",,,,,SYF
+6,DM,2021-03-03 16:44:13,2021-03-01,SYF,Howse Curtis,See remarks,S - Sale+OE,$39.80,-83814,65694,-56%,"-$3,335,948",,,,,SYF
+7,D,2021-03-03 16:43:02,2021-03-01,SYF,Mothner Jonathan S,See Remarks,S - Sale+OE,$39.69,-30000,140965,-18%,"-$1,190,600",,,,,SYF
+8,DM,2021-03-03 16:42:26,2021-03-01,SYF,Casellas Alberto,See remarks,S - Sale+OE,$39.53,-51695,57688,-47%,"-$2,043,541",,,,,SYF
+9,DM,2021-03-03 16:41:34,2021-03-01,SYF,Whynott Paul,See remarks,S - Sale+OE,$39.76,-20480,61096,-25%,"-$814,372",,,,,SYF
+10,,2021-01-29 16:04:38,2021-01-28,SYF,Melito David P,See Remarks,S - Sale,$34.83,-4737,19702,-19%,"-$164,990",,,,,SYF
+11,D,2020-11-18 16:20:45,2020-11-16,SYF,Greig Henry F,See Remarks,S - Sale+OE,$31.00,-35000,164770,-18%,"-$1,085,000",,,,,SYF
+12,D,2020-11-16 16:14:38,2020-11-12,SYF,Greig Henry F,See Remarks,S - Sale+OE,$29.00,-35000,329540,-10%,"-$1,015,000",,,,,SYF
+13,,2020-11-16 16:12:17,2020-11-12,SYF,Whynott Paul,See remarks,S - Sale,$28.92,-20000,146540,-12%,"-$578,400",,,,,SYF
+14,D,2020-11-12 16:03:00,2020-11-09,SYF,Melito David P,See Remarks,S - Sale+OE,$30.00,-40175,19554,-67%,"-$1,205,250",,,,,SYF
+15,,2020-07-31 08:40:00,2020-07-28,SYF,Parker P.W.,Dir,P - Purchase,$23.32,10000,10000,New,"+$233,200",,,,,SYF
+16,,2020-07-02 16:18:36,2020-06-30,SYF,Graylin Will W,Dir,S - Sale,$21.77,-7500,51442,-13%,"-$163,275",,,,,SYF
+17,,2020-06-09 16:54:09,2020-06-05,SYF,Melito David P,See Remarks,S - Sale,$26.75,-2883,19381,-13%,"-$77,120",,,,,SYF
+18,,2020-04-27 16:09:30,2020-04-23,SYF,Richie Laurel,Dir,P - Purchase,$16.20,1600,22911,+8%,"+$25,920",,,,,SYF
+19,,2020-04-27 16:09:08,2020-04-23,SYF,Aguirre Fernando,Dir,P - Purchase,$16.55,15300,19100,+403%,"+$253,215",,,,,SYF
+20,,2020-04-02 16:31:04,2020-03-31,SYF,Graylin Will W,Dir,S - Sale,$16.68,-7500,57311,-12%,"-$125,100",,,,,SYF
+21,D,2020-03-04 16:14:33,2020-03-02,SYF,Keane Margaret M,See Remarks,S - Sale+OE,$30.20,-100000,712492,-12%,"-$3,020,000",,,,,SYF
+22,D,2020-03-04 16:14:06,2020-03-02,SYF,Doubles Brian D,See Remarks,S - Sale+OE,$30.00,-120000,232913,-34%,"-$3,600,000",,,,,SYF
+23,,2020-03-04 16:13:43,2020-03-02,SYF,Casellas Alberto,See remarks,S - Sale,$29.97,-14669,69072,-18%,"-$439,630",,,,,SYF
+24,,2020-03-04 16:13:22,2020-03-02,SYF,Melito David P,See Remarks,S - Sale,$30.00,-7658,23335,-25%,"-$229,740",,,,,SYF
+25,D,2020-03-04 16:13:00,2020-03-02,SYF,Mothner Jonathan S,See Remarks,S - Sale+OE,$30.20,-100000,141777,-41%,"-$3,020,000",,,,,SYF
+26,,2020-01-03 17:26:05,2019-12-31,SYF,Graylin Will W,Dir,S - Sale,$36.02,-7500,62659,-11%,"-$270,150",,,,,SYF
+27,,2019-12-10 16:10:51,2019-12-06,SYF,Melito David P,See Remarks,S - Sale,$38.00,-4989,18674,-21%,"-$189,582",,,,,SYF
+28,,2019-10-02 16:14:34,2019-09-30,SYF,Graylin Will W,Dir,S - Sale,$33.71,-7500,69162,-10%,"-$252,825",,,,,SYF
+29,,2019-07-12 16:39:26,2019-07-10,SYF,Melito David P,See Remarks,S - Sale,$36.00,-3204,23567,-12%,"-$115,344",,,,,SYF
+30,D,2019-06-18 16:15:33,2019-06-14,SYF,Keane Margaret M,See Remarks,S - Sale+OE,$33.82,-125000,523901,-19%,"-$4,227,500",,,,,SYF
+31,M,2019-04-30 16:07:17,2019-04-26,SYF,Melito David P,See Remarks,S - Sale,$34.25,-6014,26666,-18%,"-$205,993",,,,,SYF
+32,D,2019-03-05 16:46:08,2019-03-01,SYF,Whynott Paul,See remarks,S - Sale+OE,$32.83,-11600,65446,-15%,"-$380,828",,,,,SYF
+33,D,2019-03-05 16:44:59,2019-03-01,SYF,Quindlen Thomas M,See Remarks,S - Sale+OE,$32.63,-75000,125095,-37%,"-$2,447,250",,,,,SYF
+34,D,2019-03-05 16:43:48,2019-03-01,SYF,Greig Henry F,See Remarks,S - Sale+OE,$33.00,-50000,141916,-26%,"-$1,650,000",,,,,SYF
+35,,2019-02-22 16:02:38,2019-02-20,SYF,Melito David P,See Remarks,S - Sale,$32.00,-3204,26380,-11%,"-$102,528",,,,,SYF
+36,,2019-02-01 16:06:31,2019-01-31,SYF,Melito David P,See Remarks,S - Sale,$30.00,-3934,29486,-12%,"-$118,020",,,,,SYF
+37,,2019-01-29 15:59:56,2019-01-28,SYF,Richie Laurel,Dir,P - Purchase,$30.20,500,14906,+3%,"+$15,100",,,,,SYF
+38,,2019-01-25 16:09:26,2019-01-24,SYF,Melito David P,See Remarks,S - Sale,$30.00,-3204,33420,-9%,"-$96,120",,,,,SYF
+39,,2018-07-31 09:28:01,2018-07-30,SYF,Graylin Will W,Dir,P - Purchase,$29.51,10000,70713,+16%,"+$295,100",,,,,SYF
+40,,2018-07-31 09:26:40,2018-07-30,SYF,Guthrie Roy A,Dir,P - Purchase,$29.53,10000,35997,+38%,"+$295,300",,,,,SYF
+41,,2018-07-31 09:17:04,2018-07-30,SYF,Naylor Jeffrey G,Dir,P - Purchase,$29.57,5000,47997,+12%,"+$147,850",,,,,SYF
+42,,2018-05-23 16:11:02,2018-05-21,SYF,Melito David P,See Remarks,S - Sale,$35.60,-2094,42273,-5%,"-$74,546",,,,,SYF
+43,,2018-05-03 16:33:02,2018-05-01,SYF,Doubles Brian D,See Remarks,S - Sale,$32.87,-4994,211327,-2%,"-$164,153",,,,,SYF
+44,D,2018-05-03 16:32:07,2018-05-01,SYF,Quindlen Thomas M,See Remarks,S - Sale+OE,$32.89,-8195,171239,-5%,"-$269,534",,,,,SYF
+45,,2018-05-03 16:31:11,2018-05-01,SYF,Keane Margaret M,See Remarks,S - Sale,$32.89,-20496,497161,-4%,"-$674,113",,,,,SYF
+46,,2018-05-02 16:27:22,2018-04-30,SYF,Whynott Paul,See remarks,S - Sale,$33.27,-1750,50312,-3%,"-$58,223",,,,,SYF
+47,D,2018-04-09 19:08:32,2018-04-05,SYF,Melito David P,See Remarks,S - Sale+OE,$35.00,-5143,44188,-10%,"-$180,005",,,,,SYF
+48,,2018-04-06 19:53:37,2018-04-04,SYF,Fasoli David,See Remarks,S - Sale,$32.69,-2500,84626,-3%,"-$81,725",,,,,SYF
+49,,2018-04-06 19:53:20,2018-04-04,SYF,Mehta Neeraj,See remarks,S - Sale,$32.69,-2299,65867,-3%,"-$75,154",,,,,SYF
+50,,2018-02-22 16:17:37,2018-02-20,SYF,Fasoli David,See Remarks,S - Sale,$36.73,-6251,80077,-7%,"-$229,599",,,,,SYF
+51,D,2018-02-22 16:17:15,2018-02-20,SYF,Quindlen Thomas M,See Remarks,S - Sale+OE,$36.73,-10712,164024,-6%,"-$393,452",,,,,SYF
+52,D,2018-02-16 19:55:41,2018-02-15,SYF,Whynott Paul,See remarks,S - Sale+OE,$36.69,-1750,43716,-4%,"-$64,208",,,,,SYF
+53,D,2018-02-16 19:54:29,2018-02-15,SYF,Doubles Brian D,See Remarks,S - Sale+OE,$36.70,-6569,193612,-3%,"-$241,082",,,,,SYF
+54,D,2018-02-16 19:52:43,2018-02-15,SYF,Keane Margaret M,See Remarks,S - Sale+OE,$36.70,-13138,440169,-3%,"-$482,165",,,,,SYF
+55,D,2018-01-12 16:01:31,2018-01-10,SYF,Melito David P,See Remarks,S - Sale+OE,$40.00,-2000,39259,-5%,"-$80,000",,,,,SYF
+56,D,2017-12-06 16:16:51,2017-12-04,SYF,Melito David P,See Remarks,S - Sale+OE,$38.00,-1881,41259,-4%,"-$71,478",,,,,SYF
+57,D,2017-12-01 16:33:02,2017-11-29,SYF,Melito David P,See Remarks,S - Sale+OE,$35.00,-2580,41259,-6%,"-$90,300",,,,,SYF
+58,,2017-11-21 16:08:11,2017-11-17,SYF,Snowe Olympia J.,Dir,P - Purchase,$33.40,3000,10608,+39%,"+$100,200",,,,,SYF
+59,,2017-11-21 16:07:55,2017-11-20,SYF,Richie Laurel,Dir,P - Purchase,$34.20,1000,8608,+13%,"+$34,200",,,,,SYF
+60,D,2017-11-01 16:11:40,2017-10-30,SYF,Mothner Jonathan S,See Remarks,S - Sale+OE,$32.82,-1500,112434,-1%,"-$49,235",,,,,SYF
+61,D,2017-10-24 16:20:44,2017-10-20,SYF,Mothner Jonathan S,See Remarks,S - Sale+OE,$33.50,-1000,112934,-1%,"-$33,500",,,,,SYF

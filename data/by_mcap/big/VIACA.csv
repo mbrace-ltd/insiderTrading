@@ -1,0 +1,44 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-08 16:34:50,2021-11-08,VIACA,Bakish Robert M,"Pres, CEO",P - Purchase,$35.92,"+14,000",437255,+3%,"+$502,872",,,,,VIACA
+1,,2021-11-08 16:33:29,2021-11-05,VIACA,Redstone Shari,Dir,P - Purchase,$36.30,"+27,525",311060,+10%,"+$999,064",,,,,VIACA
+2,,2021-09-17 16:36:12,2021-09-16,VIACA,Terrell Frederick,Dir,S - Sale,$40.10,-5000,10295,-33%,"-$200,500",,,,,VIACA
+3,D,2021-03-15 17:40:14,2021-03-11,VIACA,Lea Dede,"EVP, Pub Pol'y, Gov Relations",S - Sale+OE,$86.70,-23099,30766,-43%,"-$2,002,729",,,,,VIACA
+4,D,2021-03-12 17:41:09,2021-03-10,VIACA,Jones Richard M,"EVP, General Tax Counsel",S - Sale+OE,$80.62,-40285,0,-100%,"-$3,247,700",,,,,VIACA
+5,,2021-03-05 17:42:03,2021-03-03,VIACA,Phelps Julia,"EVP, Chief Comms, Corp Mktg",S - Sale,$70.82,-1523,10794,-12%,"-$107,862",,,,,VIACA
+6,D,2021-03-03 18:34:02,2021-03-01,VIACA,Jones Richard M,"EVP, General Tax Counsel",S - Sale+OE,$67.43,-162093,12217,-93%,"-$10,929,600",,,,,VIACA
+7,D,2021-03-03 18:33:49,2021-03-01,VIACA,Gill Charest Katherine,"EVP, Controller, CAO",S - Sale+OE,$65.98,-23952,12946,-65%,"-$1,580,260",,,,,VIACA
+8,,2021-03-02 17:45:43,2021-02-26,VIACA,Griego Linda M,Dir,S - Sale,$64.51,-6000,39230,-13%,"-$387,050",,,,,VIACA
+9,,2020-11-12 17:09:46,2020-11-11,VIACA,Lea Dede,"EVP, Pub Pol'y, Gov Relations",S - Sale,$29.91,-10459,29285,-26%,"-$312,776",,,,,VIACA
+10,,2020-06-10 17:12:41,2020-06-08,VIACA,Griego Linda M,Dir,S - Sale,$28.49,-18075,38774,-32%,"-$514,940",,,,,VIACA
+11,,2020-03-18 16:20:58,2020-03-17,VIACA,Phillips Jr Charles E,Dir,P - Purchase,$12.42,"+16,025",65449,+32%,"+$199,031",,,,,VIACA
+12,,2020-03-12 17:19:02,2020-03-11,VIACA,Terrell Frederick,Dir,P - Purchase,$20.00,"+5,000",9408,+113%,"+$100,000",,,,,VIACA
+13,,2020-03-12 17:18:58,2020-03-11,VIACA,Redstone Shari,Dir,P - Purchase,$19.83,"+50,450",271918,+23%,"+$1,000,292",,,,,VIACA
+14,,2020-03-06 16:54:51,2020-03-05,VIACA,Seligman Nicole,Dir,P - Purchase,$21.50,"+3,500",14361,+32%,"+$75,250",,,,,VIACA
+15,,2020-02-24 17:50:23,2020-02-21,VIACA,Spade Christina,"EVP, CFO",P - Purchase,$28.44,"+2,000",6307,+46%,"+$56,880",,,,,VIACA
+16,,2020-02-24 17:50:18,2020-02-21,VIACA,Redstone Shari,Dir,P - Purchase,$28.56,"+35,000",221468,+19%,"+$999,769",,,,,VIACA
+17,,2020-02-24 17:49:08,2020-02-21,VIACA,Byrne Barbara M,Dir,P - Purchase,$28.42,"+7,500",14912,+101%,"+$213,170",,,,,VIACA
+18,D,2019-11-19 17:25:02,2019-11-18,CBS,Countryman Gary L,Dir,S - Sale+OE,$38.89,-5093,63477,-7%,"-$198,066",,,,,VIACA
+19,D,2019-03-04 18:46:11,2019-02-28,CBS,Anschell Jonathan,"EVP, Deputy GC, Secretary",S - Sale+OE,$50.11,-20730,8221,-72%,"-$1,038,799",,,,,VIACA
+20,DM,2018-11-02 18:50:34,2018-10-31,CBS,Ambrosio Anthony G,"Sr.EVP Chief Admin, HR Ofcr",S - Sale+OE,$57.80,-8084,206080,-4%,"-$467,276",,,,,VIACA
+21,D,2018-10-11 17:40:30,2018-10-09,CBS,Ambrosio Anthony G,"Sr.EVP Chief Admin, HR Ofcr",S - Sale+OE,$57.67,-3449,206080,-2%,"-$198,889",,,,,VIACA
+22,D,2018-10-02 17:03:18,2018-09-28,CBS,Ambrosio Anthony G,"Sr.EVP Chief Admin, HR Ofcr",S - Sale+OE,$57.53,-11697,206080,-5%,"-$672,916",,,,,VIACA
+23,DM,2018-09-10 19:45:05,2018-09-06,CBS,Ambrosio Anthony G,"Sr.EVP Chief Admin, HR Ofcr",S - Sale+OE,$56.13,-15679,206080,-7%,"-$880,024",,,,,VIACA
+24,D,2018-07-27 20:06:51,2018-07-25,CBS,Ambrosio Anthony G,"Sr.EVP Chief Admin, HR Ofcr",S - Sale+OE,$57.07,-15679,206067,-7%,"-$894,727",,,,,VIACA
+25,D,2018-06-27 19:02:13,2018-06-25,CBS,Ambrosio Anthony G,"Sr.EVP Chief Admin, HR Ofcr",S - Sale+OE,$56.03,-15679,206067,-7%,"-$878,521",,,,,VIACA
+26,,2018-06-20 20:04:49,2018-06-18,CBS,Ianniello Joseph R,COO,S - Sale,$56.47,-50000,352633,-12%,"-$2,823,545",,,,,VIACA
+27,,2018-06-18 19:54:04,2018-06-15,CBS,Tu Lawrence,"Sr.EVP, GC",S - Sale,$56.03,-19556,189,-99%,"-$1,095,809",,,,,VIACA
+28,D,2018-06-15 19:47:39,2018-06-14,CBS,Schwartz Gil D,"Sr.EVP, Chief Commun. Officer",S - Sale+OE,$55.08,-160709,21573,-88%,"-$8,852,302",,,,,VIACA
+29,,2018-05-30 18:25:35,2018-05-25,CBS,Anschell Jonathan,"EVP, Deputy GC, Secretary",S - Sale,$51.05,-10000,8377,-54%,"-$510,545",,,,,VIACA
+30,,2018-05-14 20:39:13,2018-05-10,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$52.00,-75000,1207461,-6%,"-$3,900,282",,,,,VIACA
+31,,2018-05-11 20:31:42,2018-05-09,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$51.53,-75000,1282461,-6%,"-$3,864,450",,,,,VIACA
+32,,2018-04-16 20:30:48,2018-04-12,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$50.31,-85000,1357461,-6%,"-$4,276,299",,,,,VIACA
+33,,2018-04-13 20:39:31,2018-04-11,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$51.05,-85000,1442461,-6%,"-$4,339,039",,,,,VIACA
+34,,2018-03-23 20:47:04,2018-03-21,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$50.91,-85000,1527461,-5%,"-$4,327,095",,,,,VIACA
+35,,2018-03-22 20:32:04,2018-03-20,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$50.46,-85000,1612461,-5%,"-$4,289,126",,,,,VIACA
+36,,2018-03-02 20:10:20,2018-02-28,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$53.48,-85000,1697456,-5%,"-$4,545,709",,,,,VIACA
+37,,2018-03-01 20:40:08,2018-02-27,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$55.08,-85000,1782456,-5%,"-$4,682,084",,,,,VIACA
+38,DM,2018-01-29 19:01:15,2018-01-25,CBS,Ianniello Joseph R,COO,S - Sale+OE,$60.01,-47871,326732,-13%,"-$2,872,972",,,,,VIACA
+39,DM,2018-01-22 20:15:23,2018-01-18,CBS,Ianniello Joseph R,COO,S - Sale+OE,$60.46,-233544,326732,-42%,"-$14,119,653",,,,,VIACA
+40,,2018-01-19 21:09:08,2018-01-18,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$60.57,-85000,1692745,-5%,"-$5,148,554",,,,,VIACA
+41,,2018-01-18 21:03:47,2018-01-17,CBS,Moonves Leslie,"COB, Pres, CEO",S - Sale,$59.07,-85000,1777745,-5%,"-$5,020,846",,,,,VIACA
+42,DM,2018-01-17 20:10:31,2018-01-16,CBS,Ianniello Joseph R,COO,S - Sale+OE,$60.14,-2910,326732,-1%,"-$175,000",,,,,VIACA

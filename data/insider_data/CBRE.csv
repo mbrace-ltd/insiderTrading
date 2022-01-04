@@ -1,0 +1,70 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-06 16:30:06,2021-08-05,CBRE,Giamartino Emma E.,See Remarks,S - Sale,$96.90,-227,15305,-1%,"-$21,996",,,,,CBRE
+1,,2021-08-06 16:29:58,2021-08-04,CBRE,Kirk J. Christopher,Global COO,S - Sale,$97.01,-18000,131498,-12%,"-$1,746,248",,,,,CBRE
+2,,2021-06-03 17:24:00,2021-06-01,CBRE,Queenan Daniel G,"Global CEO, Advisory Services",S - Sale,$88.55,-6700,154410,-4%,"-$593,285",,,,,CBRE
+3,,2021-06-03 17:23:55,2021-06-01,CBRE,Sulentic Robert E,"Pres, CEO",S - Sale,$88.83,-30000,834947,-3%,"-$2,664,792",,,,,CBRE
+4,,2021-05-07 16:19:36,2021-05-05,CBRE,Dhandapani Chandra,Chief Administrative Officer,S - Sale,$84.93,-11000,77636,-12%,"-$934,228",,,,,CBRE
+5,,2021-03-17 16:11:03,2021-03-15,CBRE,Sulentic Robert E,"Pres, CEO",S - Sale,$79.33,-30000,864947,-3%,"-$2,379,843",,,,,CBRE
+6,,2021-03-16 16:43:27,2021-03-12,CBRE,Durburg John E,"Global CEO, GWS",S - Sale,$78.53,-2000,161401,-1%,"-$157,050",,,,,CBRE
+7,,2021-03-02 20:12:55,2021-03-02,CBRE,Dhandapani Chandra,Chief Administrative Officer,S - Sale,$77.59,-7773,76811,-9%,"-$603,085",,,,,CBRE
+8,M,2021-03-02 20:11:42,2021-03-02,CBRE,Lafitte Michael J,See Remarks,S - Sale,$77.69,-24588,271852,-8%,"-$1,910,327",,,,,CBRE
+9,,2021-03-02 20:10:35,2021-03-01,CBRE,Queenan Daniel G,"Global CEO, Advisory Services",S - Sale,$76.72,-295,139899,0%,"-$22,632",,,,,CBRE
+10,,2020-12-03 16:39:06,2020-12-01,CBRE,Queenan Daniel G,"Global CEO, Advisory Services",S - Sale,$61.99,-659,150250,0%,"-$40,851",,,,,CBRE
+11,,2020-12-01 17:02:13,2020-11-27,CBRE,Dhandapani Chandra,Chief Administrative Officer,S - Sale,$61.02,-2589,89329,-3%,"-$157,977",,,,,CBRE
+12,,2020-09-17 16:47:22,2020-09-15,CBRE,Midler Laurence H,"EVP, GC, Chief Risk Officer",S - Sale,$49.90,-7500,109485,-6%,"-$374,250",,,,,CBRE
+13,,2020-09-03 16:32:15,2020-09-01,CBRE,Queenan Daniel G,"Global CEO, Advisory Services",S - Sale,$46.80,-6506,150909,-4%,"-$304,481",,,,,CBRE
+14,,2020-06-11 20:00:09,2020-06-09,CBRE,Kirk J. Christopher,Global COO,S - Sale,$53.51,-19500,145327,-12%,"-$1,043,381",,,,,CBRE
+15,,2020-06-11 19:50:21,2020-06-10,CBRE,Lafitte Michael J,See Remarks,S - Sale,$51.73,-39196,325957,-11%,"-$2,027,597",,,,,CBRE
+16,,2020-06-09 19:32:24,2020-06-08,CBRE,Midler Laurence H,"EVP, GC, Chief Risk Officer",S - Sale,$55.45,-16000,118905,-12%,"-$887,134",,,,,CBRE
+17,,2020-05-18 19:06:14,2020-05-15,CBRE,Wirta Raymond E,Dir,S - Sale,$36.01,-87516,1046272,-8%,"-$3,151,565",,,,,CBRE
+18,,2020-05-14 21:06:00,2020-05-12,CBRE,Goodman Shira,Dir,P - Purchase,$38.73,2600,6828,+61%,"+$100,691",,,,,CBRE
+19,M,2019-11-26 16:34:31,2019-11-22,CBRE,Concannon William F,"CEO, GWS",S - Sale,$55.03,-9315,269487,-3%,"-$512,611",,,,,CBRE
+20,,2019-11-19 18:15:11,2019-11-18,CBRE,Lafitte Michael J,"CEO, Advisory Services",S - Sale,$56.02,-26759,335364,-7%,"-$1,499,007",,,,,CBRE
+21,,2019-11-19 18:15:07,2019-11-15,CBRE,Sulentic Robert E,"Pres, CEO",S - Sale,$55.30,-40000,749011,-5%,"-$2,212,000",,,,,CBRE
+22,,2019-09-24 16:08:24,2019-09-20,CBRE,Groch James R,See Remarks,S - Sale,$54.10,-75000,318000,-19%,"-$4,057,778",,,,,CBRE
+23,,2019-09-16 16:41:33,2019-09-12,CBRE,Boze Brandon B,See Remarks,S - Sale,$53.86,-3000000,10225592,-23%,"-$161,580,000",,,,,CBRE
+24,,2019-08-16 17:01:52,2019-08-15,CBRE,Sulentic Robert E,"Pres, CEO",S - Sale,$50.00,-40000,789011,-5%,"-$2,000,000",,,,,CBRE
+25,,2019-08-02 16:38:37,2019-08-01,CBRE,Groch James R,See Remarks,S - Sale,$55.13,-50000,404918,-11%,"-$2,756,275",,,,,CBRE
+26,,2019-06-13 16:43:48,2019-06-11,CBRE,Sulentic Robert E,"Pres, CEO",S - Sale,$50.00,-40000,841601,-5%,"-$2,000,000",,,,,CBRE
+27,,2019-05-24 16:20:14,2019-05-22,CBRE,Feeny Curtis F,Dir,S - Sale,$47.30,-4514,42133,-10%,"-$213,513",,,,,CBRE
+28,,2019-05-21 16:36:04,2019-05-17,CBRE,Feeny Curtis F,Dir,S - Sale,$47.25,-4000,46647,-8%,"-$188,986",,,,,CBRE
+29,,2019-05-17 16:56:31,2019-05-15,CBRE,Bazzano Dara,See Remarks,S - Sale,$47.51,-1252,21246,-6%,"-$59,479",,,,,CBRE
+30,,2019-04-12 18:16:26,2019-04-12,CBRE,Groch James R,CFO,S - Sale,$52.00,-50000,454918,-10%,"-$2,600,040",,,,,CBRE
+31,,2019-03-13 17:35:48,2019-03-11,CBRE,Groch James R,CFO,S - Sale,$50.47,-50000,504918,-9%,"-$2,523,307",,,,,CBRE
+32,,2019-03-13 17:35:44,2019-03-11,CBRE,Kirk J. Christopher,"Chief Exec Talent, Admin Off",S - Sale,$50.53,-17900,151499,-11%,"-$904,568",,,,,CBRE
+33,,2019-03-13 17:35:40,2019-03-11,CBRE,Lafitte Michael J,"CEO, Advisory Services",S - Sale,$50.54,-32706,372946,-8%,"-$1,652,873",,,,,CBRE
+34,,2019-03-13 17:35:36,2019-03-11,CBRE,Midler Laurence H,"EVP, GC, Chief Risk Officer",S - Sale,$50.43,-13848,131109,-10%,"-$698,416",,,,,CBRE
+35,,2019-03-13 17:03:14,2019-03-11,CBRE,Boze Brandon B,See Remarks,S - Sale,$49.51,-6700000,13221376,-34%,"-$331,717,000",,,,,CBRE
+36,,2018-12-06 16:46:44,2018-12-04,CBRE,Lopez Gerardo I,Dir,P - Purchase,$42.41,5000,26032,+24%,"+$212,066",,,,,CBRE
+37,,2018-08-22 17:30:42,2018-08-20,CBRE,Concannon William F,"CEO, GWS",S - Sale,$47.47,-28878,204631,-12%,"-$1,370,833",,,,,CBRE
+38,,2018-06-22 18:29:28,2018-06-20,CBRE,Groch James R,CFO,S - Sale,$49.01,-50000,478015,-9%,"-$2,450,310",,,,,CBRE
+39,,2018-06-01 16:17:41,2018-05-30,CBRE,Sulentic Robert E,"Pres, CEO",S - Sale,$46.84,-5000,725373,-1%,"-$234,200",,,,,CBRE
+40,,2018-05-11 18:22:07,2018-05-10,CBG,Lafitte Michael J,Global Group Pres,S - Sale,$47.23,-16775,336780,-5%,"-$792,287",,,,,CBRE
+41,,2018-05-09 17:02:07,2018-05-07,CBG,Feeny Curtis F,Dir,S - Sale,$46.27,-7447,42203,-15%,"-$344,562",,,,,CBRE
+42,M,2018-03-14 16:48:26,2018-03-12,CBG,Malek Frederic V,Dir,S - Sale,$47.68,-50000,334737,-13%,"-$2,384,000",,,,,CBRE
+43,,2018-03-14 16:48:22,2018-03-12,CBG,Concannon William F,See Remarks,S - Sale,$47.68,-29483,261226,-10%,"-$1,405,798",,,,,CBRE
+44,,2018-03-09 16:34:39,2018-03-08,CBG,Frese Calvin W Jr,Global Group Pres,S - Sale,$47.00,-6033,272755,-2%,"-$283,538",,,,,CBRE
+45,D,2018-03-09 16:34:34,2018-03-09,CBG,Tyson Laura D,Dir,S - Sale+OE,$47.49,-1886,31371,-6%,"-$89,560",,,,,CBRE
+46,,2018-02-20 19:34:08,2018-02-15,CBG,Malek Frederic V,Dir,S - Sale,$44.79,-50000,384737,-12%,"-$2,239,320",,,,,CBRE
+47,,2018-02-16 19:02:43,2018-02-14,CBG,Groch James R,CFO,S - Sale,$45.03,-50000,442444,-10%,"-$2,251,305",,,,,CBRE
+48,,2018-02-16 19:01:38,2018-02-15,CBG,Lafitte Michael J,See Remarks,S - Sale,$44.86,-25888,284834,-8%,"-$1,161,413",,,,,CBRE
+49,,2018-02-15 17:23:41,2018-02-13,CBG,Frese Calvin W Jr,See Remarks,S - Sale,$44.17,-25000,213121,-10%,"-$1,104,163",,,,,CBRE
+50,,2018-02-13 16:41:42,2018-02-09,CBG,Sulentic Robert E,"Pres, CEO",S - Sale,$42.56,-40000,597971,-6%,"-$1,702,400",,,,,CBRE
+51,,2017-12-14 18:48:25,2017-12-12,CBG,Kirk J. Christopher,"EVP, Chief Admin. Officer",S - Sale,$43.32,-20000,112362,-15%,"-$866,400",,,,,CBRE
+52,M,2017-12-13 17:01:46,2017-12-11,CBG,Malek Frederic V,Dir,S - Sale,$43.28,-6900,436337,-2%,"-$298,644",,,,,CBRE
+53,,2017-12-01 18:24:28,2017-11-30,CBG,Sulentic Robert E,"Pres, CEO",S - Sale,$43.16,-45000,637971,-7%,"-$1,942,200",,,,,CBRE
+54,,2017-11-30 16:45:41,2017-11-28,CBG,"Valueact Holdings, L.P.",See remarks,S - Sale,$42.25,-2233351,24916923,-8%,"-$94,359,080",,,,,CBRE
+55,,2017-11-29 17:03:15,2017-11-27,CBG,Malek Frederic V,Dir,S - Sale,$42.65,-50000,443237,-10%,"-$2,132,600",,,,,CBRE
+56,M,2017-11-27 18:42:30,2017-11-22,CBG,"Valueact Holdings, L.P.",See remarks,S - Sale,$42.60,-846000,27150274,-3%,"-$36,038,820",,,,,CBRE
+57,M,2017-11-24 17:08:29,2017-11-21,CBG,Malek Frederic V,Dir,S - Sale,$42.87,-50000,493237,-9%,"-$2,143,579",,,,,CBRE
+58,M,2017-11-21 17:53:39,2017-11-17,CBG,"Valueact Holdings, L.P.",See remarks,S - Sale,$42.84,-882206,27996274,-3%,"-$37,795,454",,,,,CBRE
+59,,2017-11-13 18:44:55,2017-11-08,CBG,Frese Calvin W Jr,See Remarks,S - Sale,$41.01,-20000,195673,-9%,"-$820,116",,,,,CBRE
+60,,2017-11-13 18:44:51,2017-11-08,CBG,Lafitte Michael J,See Remarks,S - Sale,$41.05,-30000,268274,-10%,"-$1,231,511",,,,,CBRE
+61,,2017-11-13 18:43:50,2017-11-09,CBG,Midler Laurence H,"EVP, GC",S - Sale,$40.69,-7878,82663,-9%,"-$320,558",,,,,CBRE
+62,M,2017-10-20 16:40:52,2017-10-18,CBG,Frese Calvin W Jr,See Remarks,S - Sale,$40.04,-25000,221673,-10%,"-$1,001,003",,,,,CBRE
+63,,2017-10-06 17:14:25,2017-10-05,CBG,Concannon William F,"CEO, GWS",S - Sale,$39.02,-25000,186152,-12%,"-$975,493",,,,,CBRE
+64,,2017-09-19 17:04:11,2017-09-15,CBG,"Valueact Holdings, L.P.",See remarks,S - Sale,$35.90,-5500000,28878480,-16%,"-$197,450,000",,,,,CBRE
+65,,2017-09-12 16:42:53,2017-09-08,CBG,Midler Laurence H,"EVP, GC",S - Sale,$36.00,-3139,90541,-3%,"-$113,005",,,,,CBRE
+66,,2017-08-24 17:07:21,2017-08-22,CBG,Lafitte Michael J,See Remarks,S - Sale,$35.71,-27775,308567,-8%,"-$991,734",,,,,CBRE
+67,M,2017-08-18 19:09:44,2017-08-16,CBG,Midler Laurence H,"EVP, GC",S - Sale,$35.75,-24246,97106,-20%,"-$866,714",,,,,CBRE
+68,,2017-08-15 20:53:26,2017-08-15,CBG,Sulentic Robert E,"Pres, CEO",S - Sale,$35.91,-90000,693620,-11%,"-$3,231,900",,,,,CBRE

@@ -1,0 +1,8 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2020-04-03 16:03:52,2020-04-01,AVCO,Lu Wenzhao,"Dir, 10%",P - Purchase,$1.55,"+645,161",28581161,+2%,"+$1,000,000",,,,,AVCO
+1,,2019-06-07 10:48:19,2019-06-07,AVCO,Lu Wenzhao,"Dir, 10%",P - Purchase,$1.84,"+15,000",27936000,0%,"+$27,600",,,,,AVCO
+2,,2019-06-06 08:30:29,2019-06-06,AVCO,Lu Wenzhao,"Dir, 10%",P - Purchase,$2.03,"+21,000",27921000,0%,"+$42,630",,,,,AVCO
+3,A,2019-04-24 09:00:59,2019-04-18,AVCO,Lu Wenzhao,"Dir, 10%",P - Purchase,$1.00,"+2,000,000",27900000,+8%,"+$2,000,000",,,,,AVCO
+4,DM,2018-01-19 14:25:52,2017-12-15,AVCO,Sukel Steven Philip,Dir,P - Purchase,$2.46,"+1,000",217615,0%,"+$2,462",,,,,AVCO
+5,DM,2018-01-04 17:58:54,2017-12-08,AVCO,Sukel Steven Philip,Dir,P - Purchase,$1.91,"+5,300",216715,+3%,"+$10,138",,,,,AVCO
+6,DM,2018-01-04 17:54:04,2017-04-01,AVCO,Sukel Steven Philip,Dir,P - Purchase,$1.59,"+211,415",211415,New,"+$335,490",,,,,AVCO

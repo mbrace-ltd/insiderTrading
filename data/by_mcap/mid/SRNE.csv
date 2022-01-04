@@ -1,0 +1,14 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-09-28 17:37:34,2021-09-27,SRNE,Janda Kim,Dir,S - Sale+OE,$8.02,-42357,3000,-93%,"-$339,720",,,,,SRNE
+1,D,2021-09-14 17:00:54,2021-09-13,SRNE,Janda Kim,Dir,S - Sale+OE,$8.04,-8000,3000,-73%,"-$64,285",,,,,SRNE
+2,D,2021-04-15 18:43:25,2021-04-12,SRNE,Janda Kim,Dir,S - Sale+OE,$6.97,-1900,3000,-39%,"-$13,251",,,,,SRNE
+3,,2021-01-26 17:24:07,2020-12-16,SRNE,Followwill Dorman,Dir,S - Sale,$7.14,-1000,2130,-32%,"-$7,135",,,,,SRNE
+4,,2020-03-05 13:58:44,2020-03-05,SRNE,Smith Robin L,Dir,P - Purchase,$2.27,"+40,000",60000,+200%,"+$90,896",,,,,SRNE
+5,DM,2018-09-14 16:12:49,2018-09-12,SRNE,Abg Management Ltd,10%,S - Sale+OE,$5.02,-297568,6791335,-4%,"-$1,492,723",,,,,SRNE
+6,,2018-02-28 19:04:44,2018-02-28,SRNE,Ng George K,See Remarks,P - Purchase,$9.95,"+90,000",407935,+28%,"+$895,500",,,,,SRNE
+7,,2018-02-28 19:04:27,2018-02-28,SRNE,Ji Henry,See Remarks,P - Purchase,$9.95,"+64,600",4348501,+2%,"+$642,770",,,,,SRNE
+8,DM,2018-02-08 08:17:37,2018-02-06,SRNE,Abg Management Ltd,10%,S - Sale+OE,$6.85,-662912,7088903,-9%,"-$4,542,234",,,,,SRNE
+9,D,2018-02-07 08:35:48,2018-02-05,SRNE,Abg Management Ltd,10%,S - Sale+OE,$8.00,-70721,7751815,-1%,"-$566,037",,,,,SRNE
+10,DM,2018-01-31 09:09:36,2018-01-29,SRNE,Abg Management Ltd,10%,S - Sale+OE,$7.64,-310000,7822536,-4%,"-$2,368,864",,,,,SRNE
+11,M,2018-01-25 16:57:30,2018-01-23,SRNE,Asia Pacific Medtech (Bvi) Ltd,10%,S - Sale,$7.56,-684288,8617513,-7%,"-$5,175,690",,,,,SRNE
+12,D,2018-01-22 07:28:50,2018-01-21,SRNE,Ji Henry,See Remarks,P - Purchase,$0.00,"+1,801,801",4159603,+76%,+$0,,,,,SRNE

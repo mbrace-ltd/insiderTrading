@@ -1,0 +1,62 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-05-26 17:20:36,2021-05-24,ABBV,Saleki-Gerhardt Azita,"EVP, Operations",S - Sale+OE,$116.29,-86920,122429,-42%,"-$10,108,033",,,,,ABBV
+1,D,2021-05-05 16:23:37,2021-05-03,ABBV,Strom Carrie C,"SVP, Pres Global Allerg Aesth",S - Sale+OE,$112.40,-4184,59225,-7%,"-$470,282",,,,,ABBV
+2,,2021-03-02 20:31:59,2021-03-01,ABBV,Richmond Timothy J.,"EVP, CHRO",S - Sale,$108.59,-19514,0,-100%,"-$2,119,041",,,,,ABBV
+3,,2021-03-02 20:30:28,2021-03-01,ABBV,Sorg Elaine K.,"SVP, US Commercial Operations",S - Sale,$108.61,-8440,17595,-32%,"-$916,642",,,,,ABBV
+4,D,2021-03-02 20:27:49,2021-03-01,ABBV,Gonzalez Richard A,"COB, CEO",S - Sale+OE,$108.61,-170113,406012,-30%,"-$18,476,204",,,,,ABBV
+5,,2021-03-02 20:26:57,2021-03-01,ABBV,Stewart Jeffrey Ryan,"SVP, US Commercial Operations",S - Sale,$108.59,-13773,52307,-21%,"-$1,495,576",,,,,ABBV
+6,D,2021-02-24 18:28:31,2021-02-22,ABBV,Sorg Elaine K.,"SVP, US Commercial Operations",S - Sale+OE,$104.72,-20195,32751,-38%,"-$2,114,732",,,,,ABBV
+7,D,2020-12-31 13:15:33,2020-12-29,ABBV,Stewart Jeffrey Ryan,"EVP, Commercial Operations",S - Sale+OE,$105.00,-25290,52307,-33%,"-$2,655,450",,,,,ABBV
+8,D,2020-12-01 17:22:54,2020-11-27,ABBV,Richmond Timothy J.,"EVP, CHRO",S - Sale+OE,$105.00,-51990,0,-100%,"-$5,458,950",,,,,ABBV
+9,,2020-11-24 17:34:39,2020-11-20,ABBV,Gosebruch Henry O,"EVP, Chief Strategy Officer",S - Sale,$99.38,-40000,124476,-24%,"-$3,975,046",,,,,ABBV
+10,D,2020-11-18 17:04:53,2020-11-16,ABBV,Alban Carlos,Vice COB,S - Sale+OE,$100.00,-115830,155341,-43%,"-$11,583,000",,,,,ABBV
+11,,2020-11-12 17:56:51,2020-11-10,ABBV,Saleki-Gerhardt Azita,"EVP, Operations",S - Sale,$98.00,-17426,102507,-15%,"-$1,707,748",,,,,ABBV
+12,AD,2020-11-12 17:55:54,2020-11-04,ABBV,Saleki-Gerhardt Azita,"EVP, Operations",S - Sale+OE,$93.61,-4800,119767,-4%,"-$449,328",,,,,ABBV
+13,DM,2020-11-12 17:54:18,2020-11-09,ABBV,Gonzalez Richard A,"COB, CEO",S - Sale+OE,$96.88,-231604,348057,-40%,"-$22,437,253",,,,,ABBV
+14,,2020-11-06 16:29:36,2020-11-04,ABBV,Severino Michael,Vice COB,S - Sale,$93.61,-90679,67281,-57%,"-$8,488,461",,,,,ABBV
+15,,2020-11-06 16:29:05,2020-11-04,ABBV,Saleki-Gerhardt Azita,"EVP, Operations",S - Sale,$93.61,-4800,114967,-4%,"-$449,328",,,,,ABBV
+16,,2020-07-08 21:19:47,2020-07-07,ABBV,Alban Carlos,Vice COB,S - Sale,$100.00,-53325,155341,-26%,"-$5,332,555",,,,,ABBV
+17,,2020-05-12 17:44:46,2020-05-12,ABBV,Stewart Jeffrey Ryan,"SVP, US Commercial Operations",S - Sale,$90.00,-23024,54098,-30%,"-$2,072,211",,,,,ABBV
+18,,2020-05-07 17:01:24,2020-05-05,ABBV,Richmond Timothy J.,"EVP, CHRO",S - Sale,$85.00,-19445,0,-100%,"-$1,652,825",,,,,ABBV
+19,A,2020-04-24 17:07:16,2020-03-20,ABBV,Durkin Brian L,"VP, Controller",P - Purchase,$69.00,1550,17644,+10%,"+$106,950",,,,,ABBV
+20,AM,2020-03-20 17:34:31,2020-03-18,ABBV,Durkin Brian L,"VP, Controller",P - Purchase,$68.20,3750,17097,+28%,"+$255,755",,,,,ABBV
+21,M,2020-03-20 16:56:12,2020-03-18,ABBV,Durkin Brian L,"VP, Controller",P - Purchase,$68.20,3750,17097,+28%,"+$255,755",,,,,ABBV
+22,,2020-03-04 17:14:48,2020-03-03,ABBV,Rapp Edward J,Dir,P - Purchase,$87.87,2875,2875,New,"+$252,617",,,,,ABBV
+23,,2019-10-01 17:52:42,2019-09-27,ABBV,Richmond Timothy J.,"EVP, CHRO",S - Sale,$75.02,-15515,0,-100%,"-$1,163,873",,,,,ABBV
+24,,2019-09-18 16:25:06,2019-09-16,ABBV,Schumacher Laura J,Vice COB,P - Purchase,$70.42,25000,164838,+18%,"+$1,760,523",,,,,ABBV
+25,,2019-08-30 16:08:01,2019-08-29,ABBV,Donoghoe Nicholas,"SVP, Enterprise Innovation",P - Purchase,$66.19,7525,13090,+135%,"+$498,057",,,,,ABBV
+26,,2019-08-20 16:16:25,2019-08-16,ABBV,Stewart Jeffrey Ryan,"SVP, US Commercial Operations",P - Purchase,$64.44,15552,66642,+30%,"+$1,002,169",,,,,ABBV
+27,M,2019-08-02 17:02:12,2019-07-31,ABBV,Austin Roxanne S,Dir,P - Purchase,$65.86,55000,117114,+89%,"+$3,622,090",,,,,ABBV
+28,,2019-07-31 16:46:27,2019-07-30,ABBV,Austin Roxanne S,Dir,P - Purchase,$66.35,10000,62114,+19%,"+$663,500",,,,,ABBV
+29,,2019-07-31 16:46:11,2019-07-29,ABBV,Gosebruch Henry O,"EVP, Chief Strategy Officer",P - Purchase,$67.28,30000,78039,+62%,"+$2,018,385",,,,,ABBV
+30,,2019-06-28 16:48:25,2019-06-26,ABBV,Rapp Edward J,Dir,P - Purchase,$67.30,7500,30662,+32%,"+$504,750",,,,,ABBV
+31,,2019-06-28 16:47:58,2019-06-26,ABBV,Chase William J,"EVP, Finance, Administration",P - Purchase,$67.30,30400,170053,+22%,"+$2,045,920",,,,,ABBV
+32,,2019-06-28 16:47:26,2019-06-26,ABBV,Austin Roxanne S,Dir,P - Purchase,$67.50,11500,52114,+28%,"+$776,250",,,,,ABBV
+33,,2019-03-25 16:34:53,2019-03-25,ABBV,Durkin Brian L,"VP, Controller",S - Sale,$79.69,-475,9374,-5%,"-$37,853",,,,,ABBV
+34,,2019-03-15 17:53:05,2019-03-14,ABBV,Schumacher Laura J,Vice COB,S - Sale,$80.00,-25000,139838,-15%,"-$2,000,000",,,,,ABBV
+35,,2019-03-06 17:03:03,2019-03-05,ABBV,Saleki-Gerhardt Azita,"EVP, Operations",S - Sale,$79.03,-15797,99212,-14%,"-$1,248,480",,,,,ABBV
+36,,2019-01-02 16:49:17,2018-12-28,ABBV,Schumacher Laura J,Vice COB,S - Sale,$90.00,-25000,134322,-16%,"-$2,250,000",,,,,ABBV
+37,,2018-12-14 17:12:45,2018-12-12,ABBV,Chase William J,"EVP, Finance, Administration",S - Sale,$90.00,-60000,105364,-36%,"-$5,400,000",,,,,ABBV
+38,,2018-12-13 16:56:52,2018-12-11,ABBV,Gonzalez Richard A,"COB, CEO",S - Sale,$88.75,-16850,293818,-5%,"-$1,495,438",,,,,ABBV
+39,D,2018-12-07 17:15:09,2018-12-04,ABBV,Schumacher Laura J,EVP,S - Sale+OE,$93.58,-94140,98258,-49%,"-$8,809,552",,,,,ABBV
+40,,2018-11-30 17:22:32,2018-11-29,ABBV,Gosebruch Henry O,"EVP, Chief Strategy Officer",S - Sale,$90.10,-42450,32157,-57%,"-$3,824,940",,,,,ABBV
+41,,2018-08-21 16:58:04,2018-08-17,ABBV,Severino Michael,"EVP, R, D, CSO",S - Sale,$97.52,-50000,82281,-38%,"-$4,876,060",,,,,ABBV
+42,,2018-06-29 14:30:55,2018-06-27,ABBV,Tilton Glenn F,Dir,P - Purchase,$91.90,5400,39735,+16%,"+$496,274",,,,,ABBV
+43,,2018-06-22 17:56:46,2018-06-20,ABBV,Rapp Edward J,Dir,P - Purchase,$98.63,1013,20743,+5%,"+$99,909",,,,,ABBV
+44,,2018-06-19 19:58:52,2018-06-15,ABBV,Richmond Timothy J.,"SVP, HR",S - Sale,$99.47,-17588,0,-100%,"-$1,749,485",,,,,ABBV
+45,,2018-03-02 17:31:34,2018-02-28,ABBV,Michael Robert A.,"VP, Controller",S - Sale,$119.44,-4294,6876,-38%,"-$512,853",,,,,ABBV
+46,,2018-03-02 17:31:12,2018-02-28,ABBV,Saleki-Gerhardt Azita,"SVP, Operations",S - Sale,$117.77,-1337,99128,-1%,"-$157,458",,,,,ABBV
+47,,2018-03-02 17:30:38,2018-02-28,ABBV,Richmond Timothy J.,"SVP, HR",S - Sale,$118.68,-18129,17588,-51%,"-$2,151,452",,,,,ABBV
+48,,2018-03-02 17:30:15,2018-02-28,ABBV,Severino Michael,"EVP, R, D, CSO",S - Sale,$117.93,-2643,132281,-2%,"-$311,684",,,,,ABBV
+49,DM,2018-03-02 17:29:25,2018-02-28,ABBV,Alban Carlos,"EVP, Commercial Operations",S - Sale+OE,$114.49,-83574,137994,-38%,"-$9,568,737",,,,,ABBV
+50,DM,2018-03-02 17:28:59,2018-02-28,ABBV,Chase William J,"EVP, CFO",S - Sale+OE,$117.18,-70928,165364,-30%,"-$8,311,640",,,,,ABBV
+51,,2018-03-02 17:28:34,2018-03-01,ABBV,Schumacher Laura J,EVP,S - Sale,$117.85,-25000,98317,-20%,"-$2,946,148",,,,,ABBV
+52,,2018-03-02 17:28:02,2018-02-28,ABBV,Gonzalez Richard A,"COB, CEO",S - Sale,$117.88,-8280,318512,-3%,"-$976,084",,,,,ABBV
+53,,2018-02-20 18:08:39,2018-02-20,ABBV,Michael Robert A.,"VP, Controller",S - Sale,$120.31,-992,13557,-7%,"-$119,351",,,,,ABBV
+54,D,2017-12-19 18:09:30,2017-12-18,ABBV,Richmond Timothy J.,"SVP, HR",S - Sale+OE,$98.45,-87040,26078,-77%,"-$8,569,053",,,,,ABBV
+55,DM,2017-12-15 17:13:29,2017-12-14,ABBV,Schumacher Laura J,EVP,S - Sale+OE,$96.71,-145510,105732,-58%,"-$14,071,982",,,,,ABBV
+56,D,2017-11-24 16:55:01,2017-11-21,ABBV,Gonzalez Richard A,"COB, CEO",S - Sale+OE,$94.01,-218193,279337,-44%,"-$20,511,800",,,,,ABBV
+57,,2017-11-13 17:26:23,2017-11-10,ABBV,Severino Michael,"EVP, R, D, CSO",S - Sale,$94.69,-25633,114922,-18%,"-$2,427,212",,,,,ABBV
+58,,2017-10-31 17:04:42,2017-10-30,ABBV,Gosebruch Henry O,Chief Strategy Officer,S - Sale,$90.55,-18300,66570,-22%,"-$1,657,037",,,,,ABBV
+59,,2017-09-29 17:02:30,2017-09-28,ABBV,Michael Robert A.,"VP, Controller",S - Sale,$88.00,-6699,10007,-40%,"-$589,512",,,,,ABBV
+60,D,2017-09-12 17:40:26,2017-09-11,ABBV,Saleki-Gerhardt Azita,"SVP, Operations",S - Sale+OE,$85.02,-8300,90590,-8%,"-$705,655",,,,,ABBV

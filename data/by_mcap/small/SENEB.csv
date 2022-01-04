@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-07-06 12:01:20,2021-07-01,SENEA,Wolcott Arthur S,COB,P - Purchase,$53.66,+762,38035,+2%,"+$40,889",,,,,SENEB
+1,,2021-06-30 11:23:11,2021-06-28,SENEA,Wolcott Arthur S,COB,P - Purchase,$50.50,"+1,686",37273,+5%,"+$85,143",,,,,SENEB
+2,M,2021-06-25 10:15:39,2021-06-24,SENEA,Wolcott Arthur S,COB,P - Purchase,$50.09,"+2,036",35587,+6%,"+$101,982",,,,,SENEB
+3,,2021-06-23 12:58:16,2021-06-21,SENEA,Wolcott Arthur S,COB,P - Purchase,$46.42,+416,33551,+1%,"+$19,311",,,,,SENEB
+4,,2021-06-21 15:28:29,2021-06-16,SENEA,Wolcott Arthur S,COB,P - Purchase,$49.97,"+1,000",33135,+3%,"+$49,970",,,,,SENEB
+5,,2020-03-17 11:27:45,2020-03-17,SENEA,Benjamin Timothy John,"SVP, CFO, Treasurer",P - Purchase,$29.00,+600,5113,+13%,"+$17,400",,,,,SENEB
+6,,2020-03-04 14:23:40,2020-02-10,SENEA,Wolcott Arthur S,"COB, 10%",P - Purchase,$39.10,"+1,000",32135,+3%,"+$39,103",,,,,SENEB
+7,,2019-11-13 16:00:41,2019-11-11,SENEA,Wolcott Arthur S,"COB, 10%",P - Purchase,$35.00,"+1,000",31135,+3%,"+$35,000",,,,,SENEB
+8,,2019-06-28 12:11:02,2019-06-27,SENEA,Woodward Keith Alan,Dir,P - Purchase,$26.10,+500,500,New,"+$13,050",,,,,SENEB
+9,,2019-06-28 07:47:44,2019-06-27,SENEA,Benjamin Timothy John,"SVP, CFO, Treasurer",P - Purchase,$26.30,+500,3998,+14%,"+$13,150",,,,,SENEB
+10,,2019-03-15 13:02:34,2019-03-13,SENEA,Wolcott Arthur S,"COB, 10%",P - Purchase,$27.41,"+3,000",30135,+11%,"+$82,230",,,,,SENEB

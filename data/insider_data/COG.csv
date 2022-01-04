@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,A,2021-08-04 12:20:19,2021-03-11,COG,Lindeman Steven W,"Sr Vice Pres, EHS, Eng",S - Sale,$19.34,-35500,203202,-15%,"-$686,570",,,,,COG
+1,,2021-03-12 12:13:47,2021-03-11,COG,Shearer Deidre L,"Vice Pres, Admin, Corp Sec",S - Sale,$19.40,-22500,49498,-31%,"-$436,500",,,,,COG
+2,,2021-03-12 12:10:11,2021-03-11,COG,Lindeman Steven W,"Sr Vice Pres, EHS, Eng",S - Sale,$19.34,-35500,143202,-20%,"-$686,570",,,,,COG
+3,,2021-03-12 12:07:53,2021-03-11,COG,Kerin Matthew P,"Vice Pres, Finance, Treasurer",S - Sale,$19.40,-19000,38268,-33%,"-$368,600",,,,,COG
+4,,2021-01-04 14:34:35,2020-12-30,COG,Hutton Jeffrey W,"SVP, Marketing",S - Sale,$16.49,-75000,270089,-22%,"-$1,236,750",,,,,COG
+5,,2020-12-22 09:45:42,2020-12-18,COG,Shearer Deidre L,"Vice Pres, Admin, Corp Sec",S - Sale,$16.80,-532,55028,-1%,"-$8,935",,,,,COG
+6,,2020-09-17 12:35:31,2020-09-15,COG,Cunningham George Kevin,"Vice Pres, GC",S - Sale,$18.71,-54230,88001,-38%,"-$1,014,643",,,,,COG
+7,,2020-08-13 14:16:45,2020-08-12,COG,Roemer Todd M,"Vice Pres, CAO",S - Sale,$19.66,-33000,55059,-37%,"-$648,780",,,,,COG
+8,,2020-03-20 12:52:07,2020-03-18,COG,Hutton Jeffrey W,"SVP, Marketing",S - Sale,$18.32,-200000,329117,-38%,"-$3,664,000",,,,,COG
+9,M,2019-08-19 16:49:55,2019-08-16,COG,Dinges Dan O,"COB, Pres, CEO",P - Purchase,$16.34,20000,3992514,+1%,"+$326,723",,,,,COG
+10,M,2019-08-19 16:26:22,2019-08-15,COG,Best Rhys J,Dir,P - Purchase,$16.31,7500,147880,+5%,"+$122,303",,,,,COG
+11,,2019-07-31 11:56:44,2019-07-30,COG,Delaney Peter B,Dir,P - Purchase,$19.28,9000,23725,+61%,"+$173,524",,,,,COG
+12,,2019-03-26 15:46:39,2019-03-22,COG,Hutton Jeffrey W,"SVP, Marketing",S - Sale,$26.11,-150720,506603,-23%,"-$3,935,877",,,,,COG
+13,,2019-01-02 12:01:11,2018-12-28,COG,Delaney Peter B,Dir,P - Purchase,$23.00,54,3264,+2%,"+$1,242",,,,,COG
+14,,2018-05-30 14:26:56,2018-05-29,COG,Kelley Robert,Dir,P - Purchase,$22.25,50000,681717,+8%,"+$1,112,500",,,,,COG
+15,D,2018-05-21 14:51:41,2018-05-17,COG,Roemer Todd M,"Vice Pres, Controller",S - Sale+OE,$23.55,-1000,62664,-2%,"-$23,550",,,,,COG
+16,D,2017-11-06 09:33:10,2017-11-02,COG,Dinges Dan O,"COB, Pres, CEO",S - Sale+OE,$27.92,-66610,3627444,-2%,"-$1,859,751",,,,,COG
+17,,2017-11-02 12:17:15,2017-10-31,COG,Kelley Robert,Dir,P - Purchase,$27.47,2000,619500,0%,"+$54,940",,,,,COG
+18,D,2017-09-07 08:38:19,2017-09-05,COG,Hutton Jeffrey W,"SVP, Marketing",S - Sale+OE,$26.79,-11918,616990,-2%,"-$319,283",,,,,COG

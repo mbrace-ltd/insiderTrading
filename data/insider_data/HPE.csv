@@ -1,0 +1,97 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-06-16 17:16:36,2021-06-15,HPE,Black Thomas E Jr,"SVP, GM of Storage",S - Sale,$15.64,-11155,16512,-40%,"-$174,464",,,,,HPE
+1,D,2021-06-09 16:26:25,2021-06-07,HPE,Hotard Justin,"SVP, GM, HPC, MCS",S - Sale+OE,$16.26,-44476,0,-100%,"-$723,384",,,,,HPE
+2,D,2021-06-09 16:26:22,2021-06-07,HPE,May Alan Richard,"EVP, Chief People Officer",S - Sale+OE,$16.30,-15000,196317,-7%,"-$244,500",,,,,HPE
+3,,2021-06-08 17:34:42,2021-06-04,HPE,Reiner Gary M,Dir,S - Sale,$15.98,-75000,198518,-27%,"-$1,198,425",,,,,HPE
+4,D,2021-06-03 18:21:58,2021-06-01,HPE,Melkote Keerti,Pres Intelligent Edge,S - Sale+OE,$16.08,-37918,75837,-33%,"-$609,536",,,,,HPE
+5,,2021-05-26 17:48:49,2021-05-26,HPE,Black Thomas E Jr,"SVP, GM of Storage",S - Sale,$16.09,-10003,27667,-27%,"-$160,948",,,,,HPE
+6,D,2021-04-28 17:03:25,2021-04-26,HPE,Schultz John F,"EVP, COLO",S - Sale+OE,$16.54,-269598,11912,-96%,"-$4,459,421",,,,,HPE
+7,D,2021-03-22 19:23:40,2021-03-18,HPE,Schultz John F,"EVP, COLO",S - Sale+OE,$16.04,-269598,281505,-49%,"-$4,324,406",,,,,HPE
+8,D,2021-03-17 18:02:11,2021-03-15,HPE,Black Thomas E Jr,"SVP, GM of Storage",S - Sale+OE,$16.10,-16511,26515,-38%,"-$265,827",,,,,HPE
+9,D,2021-03-09 18:16:32,2021-03-05,HPE,May Alan Richard,"EVP, Chief People Officer",S - Sale+OE,$14.31,-343017,350343,-49%,"-$4,908,951",,,,,HPE
+10,D,2020-12-14 18:22:42,2020-12-14,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$12.03,-18290,0,-100%,"-$220,029",,,,,HPE
+11,D,2020-12-14 18:18:52,2020-12-14,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$12.03,-19009,0,-100%,"-$228,678",,,,,HPE
+12,D,2020-12-09 18:29:04,2020-12-09,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$12.04,-14328,0,-100%,"-$172,509",,,,,HPE
+13,D,2020-12-09 18:26:59,2020-12-09,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$12.04,-12222,0,-100%,"-$147,153",,,,,HPE
+14,D,2020-01-28 18:17:18,2020-01-28,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale+OE,$14.61,-16884,0,-100%,"-$246,675",,,,,HPE
+15,DM,2019-12-12 18:58:11,2019-12-10,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$15.80,-30150,0,-100%,"-$476,251",,,,,HPE
+16,D,2019-12-12 18:57:27,2019-12-12,HPE,Melkote Keerti,Pres Intelligent Edge,S - Sale+OE,$15.97,-66130,0,-100%,"-$1,056,070",,,,,HPE
+17,DM,2019-12-12 18:56:48,2019-12-11,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$16.00,-28130,0,-100%,"-$450,080",,,,,HPE
+18,DM,2019-12-12 18:56:29,2019-12-11,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale+OE,$15.90,-63976,0,-100%,"-$1,017,447",,,,,HPE
+19,D,2019-11-07 16:58:52,2019-11-06,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$17.01,-20457,0,-100%,"-$347,974",,,,,HPE
+20,D,2019-10-23 16:39:41,2019-10-21,HPE,Schultz John F,"EVP, CLAA, SEC",S - Sale+OE,$16.04,-432998,297926,-59%,"-$6,944,032",,,,,HPE
+21,,2019-09-24 21:22:37,2019-09-24,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale,$14.43,-16436,0,-100%,"-$237,171",,,,,HPE
+22,D,2019-09-17 18:02:33,2019-09-16,HPE,Neri Antonio F,"Pres, CEO",S - Sale+OE,$15.19,-49635,4936,-91%,"-$753,752",,,,,HPE
+23,D,2019-06-25 18:28:32,2019-06-25,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale+OE,$14.96,-10088,0,-100%,"-$150,916",,,,,HPE
+24,D,2019-06-05 16:45:43,2019-06-05,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale+OE,$14.33,-16412,0,-100%,"-$235,105",,,,,HPE
+25,D,2019-06-04 17:58:23,2019-05-31,HPE,Rothman Irv,Pres Financial Services,S - Sale+OE,$13.85,-84629,0,-100%,"-$1,171,985",,,,,HPE
+26,DM,2019-04-17 18:22:10,2019-04-15,HPE,Neri Antonio F,"Pres, CEO",S - Sale+OE,$16.51,-591276,4936,-99%,"-$9,759,760",,,,,HPE
+27,DM,2019-03-05 17:58:08,2019-03-01,HPE,Neri Antonio F,"Pres, CEO",S - Sale+OE,$16.50,-398145,4936,-99%,"-$6,569,777",,,,,HPE
+28,DM,2019-02-25 17:08:29,2019-02-21,HPE,Schultz John F,"EVP, CLAA, SEC",S - Sale+OE,$16.32,-780830,297426,-72%,"-$12,741,606",,,,,HPE
+29,D,2019-02-25 17:07:56,2019-02-22,HPE,Neri Antonio F,"Pres, CEO",S - Sale+OE,$16.50,-82892,86160,-49%,"-$1,367,718",,,,,HPE
+30,,2019-02-25 17:07:38,2019-02-22,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale,$16.50,-13974,16412,-46%,"-$230,571",,,,,HPE
+31,,2019-01-31 17:46:58,2019-01-29,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale,$15.75,-13974,30386,-32%,"-$220,091",,,,,HPE
+32,D,2019-01-28 18:16:06,2019-01-25,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$15.00,-14126,0,-100%,"-$211,890",,,,,HPE
+33,D,2019-01-28 18:15:51,2019-01-25,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale+OE,$15.00,-13974,44360,-24%,"-$209,610",,,,,HPE
+34,,2018-12-17 17:34:18,2018-12-13,HPE,Davis Philip,"CSO, Pres Hybrid IT",S - Sale,$14.67,-27182,41922,-39%,"-$398,760",,,,,HPE
+35,D,2018-12-12 17:19:37,2018-12-11,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$14.54,-15639,0,-100%,"-$227,443",,,,,HPE
+36,D,2018-12-12 17:18:59,2018-12-11,HPE,Melkote Keerti,Pres Intelligent Edge,S - Sale+OE,$14.55,-36300,0,-100%,"-$528,183",,,,,HPE
+37,D,2018-11-06 18:07:33,2018-11-06,HPE,Melkote Keerti,Pres Intelligent Edge,S - Sale+OE,$15.94,-102284,0,-100%,"-$1,630,663",,,,,HPE
+38,,2018-09-24 17:07:51,2018-09-21,HPE,Neri Antonio F,"Pres, CEO",S - Sale,$17.00,-82893,87828,-49%,"-$1,409,181",,,,,HPE
+39,D,2018-09-18 16:59:07,2018-09-14,HPE,Stonesifer Timothy C.,"EVP, CFO",S - Sale+OE,$16.57,-479142,158726,-75%,"-$7,940,102",,,,,HPE
+40,D,2018-08-20 17:08:26,2018-08-17,HPE,Neri Antonio F,"Pres, CEO",S - Sale+OE,$16.50,-36556,170721,-18%,"-$603,174",,,,,HPE
+41,D,2018-08-16 17:17:03,2018-08-15,HPE,Melkote Keerti,Pres Intelligent Edge,S - Sale+OE,$15.96,-87113,15170,-85%,"-$1,390,489",,,,,HPE
+42,DM,2018-07-10 17:45:55,2018-07-06,HPE,Whitman Margaret C,Dir,S - Sale+OE,$15.03,-337000,45705,-88%,"-$5,064,347",,,,,HPE
+43,,2018-06-28 17:36:30,2018-06-27,HPE,Whitman Margaret C,Dir,S - Sale,$15.08,-337000,382705,-47%,"-$5,081,016",,,,,HPE
+44,M,2018-06-21 17:02:53,2018-06-20,HPE,Whitman Margaret C,Dir,S - Sale,$15.33,-674000,719705,-48%,"-$10,329,488",,,,,HPE
+45,DM,2018-06-14 17:09:48,2018-06-13,HPE,Whitman Margaret C,Dir,S - Sale+OE,$15.90,-674000,1393705,-33%,"-$10,713,601",,,,,HPE
+46,M,2018-06-14 17:09:27,2018-06-12,HPE,Neri Antonio F,"Pres, CEO",S - Sale,$15.95,-190473,207277,-48%,"-$3,037,104",,,,,HPE
+47,D,2018-06-14 17:09:11,2018-06-14,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$15.96,-100605,0,-100%,"-$1,605,233",,,,,HPE
+48,DM,2018-06-07 18:01:29,2018-06-06,HPE,Whitman Margaret C,Dir,S - Sale+OE,$15.89,-674500,1832826,-27%,"-$10,714,871",,,,,HPE
+49,D,2018-06-05 20:52:28,2018-06-04,HPE,Stonesifer Timothy C.,"EVP, CFO",S - Sale+OE,$15.51,-53750,289962,-16%,"-$833,437",,,,,HPE
+50,D,2018-06-05 20:52:14,2018-06-04,HPE,Schultz John F,"EVP, CLAA, SEC",S - Sale+OE,$15.51,-49250,290533,-14%,"-$763,700",,,,,HPE
+51,DM,2018-06-05 20:51:57,2018-06-01,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$15.43,-114895,0,-100%,"-$1,773,335",,,,,HPE
+52,D,2018-06-05 20:51:39,2018-06-04,HPE,Neri Antonio F,"Pres, CEO",S - Sale+OE,$15.51,-80550,397750,-17%,"-$1,249,339",,,,,HPE
+53,D,2018-06-05 20:51:07,2018-06-04,HPE,May Alan Richard,"EVP, HR",S - Sale+OE,$15.50,-35850,110727,-24%,"-$555,826",,,,,HPE
+54,DM,2018-06-05 20:50:34,2018-06-01,HPE,Gomez Henry,"EVP, CM, CO",S - Sale+OE,$15.47,-68313,95138,-42%,"-$1,056,725",,,,,HPE
+55,DM,2018-05-31 17:26:55,2018-05-30,HPE,Whitman Margaret C,Dir,S - Sale+OE,$15.43,-674000,1832826,-27%,"-$10,402,449",,,,,HPE
+56,DM,2018-05-24 16:32:58,2018-05-23,HPE,Whitman Margaret C,Dir,S - Sale+OE,$15.68,-674000,1832826,-27%,"-$10,571,555",,,,,HPE
+57,D,2018-05-22 19:07:23,2018-05-22,HPE,Melkote Keerti,Pres Intelligent Edge,S - Sale+OE,$17.57,-49028,0,-100%,"-$861,456",,,,,HPE
+58,DM,2018-05-17 16:12:01,2018-05-16,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.53,-674000,1832826,-27%,"-$11,811,850",,,,,HPE
+59,D,2018-05-15 17:18:43,2018-05-15,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$17.47,-27720,0,-100%,"-$484,329",,,,,HPE
+60,DM,2018-05-10 16:54:59,2018-05-09,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.48,-674000,1832826,-27%,"-$11,783,946",,,,,HPE
+61,DM,2018-05-03 17:57:52,2018-05-02,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.00,-674000,1832826,-27%,"-$11,459,415",,,,,HPE
+62,DM,2018-04-26 17:09:35,2018-04-25,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.30,-674000,1832826,-27%,"-$11,657,976",,,,,HPE
+63,DM,2018-04-19 16:45:50,2018-04-18,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.56,-674000,1832826,-27%,"-$11,836,451",,,,,HPE
+64,DM,2018-04-12 17:41:29,2018-04-11,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.32,-674000,1832826,-27%,"-$11,673,073",,,,,HPE
+65,DM,2018-04-05 21:07:26,2018-04-04,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.12,-674000,1832826,-27%,"-$11,539,251",,,,,HPE
+66,DM,2018-03-29 17:24:32,2018-03-28,HPE,Whitman Margaret C,Dir,S - Sale+OE,$17.56,-674000,1830759,-27%,"-$11,837,732",,,,,HPE
+67,DM,2018-03-22 18:33:08,2018-03-21,HPE,Whitman Margaret C,Dir,S - Sale+OE,$18.60,-674000,1830759,-27%,"-$12,534,378",,,,,HPE
+68,DM,2018-03-15 17:05:00,2018-03-14,HPE,Whitman Margaret C,Dir,S - Sale+OE,$18.88,-674000,1830759,-27%,"-$12,721,784",,,,,HPE
+69,D,2018-03-15 17:04:38,2018-03-15,HPE,Melkote Keerti,Pres Intelligent Edge,S - Sale+OE,$18.87,-87113,0,-100%,"-$1,643,936",,,,,HPE
+70,DM,2018-03-08 16:35:56,2018-03-07,HPE,Whitman Margaret C,Dir,S - Sale+OE,$19.14,-674000,1830759,-27%,"-$12,899,416",,,,,HPE
+71,D,2018-03-06 19:24:27,2018-03-02,HPE,Stonesifer Timothy C.,"EVP, CFO",S - Sale+OE,$18.30,-161858,158726,-50%,"-$2,961,208",,,,,HPE
+72,D,2018-03-02 17:55:16,2018-02-27,HPE,Davis Philip,CSO Interim Pres Hybrid IT,S - Sale+OE,$18.51,-16405,0,-100%,"-$303,657",,,,,HPE
+73,D,2018-02-06 19:14:48,2018-02-06,HPE,Whitman Margaret C,Dir,S - Sale+OE,$15.27,-242165,1830759,-12%,"-$3,698,029",,,,,HPE
+74,DM,2018-01-25 16:59:35,2018-01-23,HPE,Gomez Henry,"EVP, CM, CO",S - Sale+OE,$16.58,-805214,0,-100%,"-$13,353,441",,,,,HPE
+75,D,2018-01-17 16:54:18,2018-01-12,HPE,May Alan Richard,"EVP, HR",S - Sale+OE,$15.50,-50158,0,-100%,"-$777,449",,,,,HPE
+76,,2018-01-08 17:29:16,2018-01-04,HPE,May Alan Richard,"EVP, HR",S - Sale,$15.00,-49921,50158,-50%,"-$748,815",,,,,HPE
+77,D,2017-12-20 17:39:37,2017-12-18,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$14.86,-81094,0,-100%,"-$1,205,057",,,,,HPE
+78,,2017-12-20 17:39:05,2017-12-18,HPE,Gomez Henry,"EVP, CM, CO",S - Sale,$14.87,-119515,0,-100%,"-$1,777,188",,,,,HPE
+79,DM,2017-12-13 16:18:32,2017-12-11,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$14.40,-53943,0,-100%,"-$777,039",,,,,HPE
+80,,2017-12-13 16:18:15,2017-12-12,HPE,May Alan Richard,"EVP, HR",S - Sale,$14.42,-7607,100079,-7%,"-$109,710",,,,,HPE
+81,M,2017-12-13 16:17:54,2017-12-11,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale,$14.33,-9135,0,-100%,"-$130,910",,,,,HPE
+82,,2017-12-04 18:10:17,2017-12-01,HPE,May Alan Richard,"EVP, HR",S - Sale,$14.00,-42314,84629,-33%,"-$592,396",,,,,HPE
+83,D,2017-11-06 18:22:49,2017-11-06,HPE,Ricci Jeff T,"SVP, Controller, PAO",S - Sale+OE,$13.43,-87324,0,-100%,"-$1,173,058",,,,,HPE
+84,D,2017-11-06 18:21:43,2017-11-06,HPE,Karros Kirt P,"SVP, Finance, Treasurer",S - Sale+OE,$13.36,-11880,0,-100%,"-$158,691",,,,,HPE
+85,D,2017-11-02 18:59:20,2017-11-01,HPE,Whitman Margaret C,CEO,S - Sale+OE,$13.81,-235050,1078941,-18%,"-$3,245,030",,,,,HPE
+86,D,2017-11-02 18:59:00,2017-11-01,HPE,Stonesifer Timothy C.,"EVP, CFO",S - Sale+OE,$13.79,-56170,121464,-32%,"-$774,534",,,,,HPE
+87,D,2017-11-02 18:58:44,2017-11-01,HPE,Schultz John F,"EVP, GC, SEC",S - Sale+OE,$13.80,-51490,127476,-29%,"-$710,680",,,,,HPE
+88,D,2017-11-02 18:58:25,2017-11-01,HPE,Neri Antonio F,"EVP, GM EG",S - Sale+OE,$13.81,-78210,96313,-45%,"-$1,079,744",,,,,HPE
+89,D,2017-11-02 18:58:08,2017-11-01,HPE,May Alan Richard,"EVP, HR",S - Sale+OE,$13.78,-36080,101849,-26%,"-$497,244",,,,,HPE
+90,D,2017-11-02 18:57:44,2017-11-02,HPE,Gomez Henry,"EVP, CM, CO",S - Sale+OE,$13.53,-55200,58329,-49%,"-$746,839",,,,,HPE
+91,D,2017-09-28 16:32:40,2017-09-26,HPE,Gomez Henry,"EVP, CM, CO",S - Sale+OE,$14.87,-494360,0,-100%,"-$7,351,133",,,,,HPE
+92,D,2017-09-26 18:05:53,2017-09-22,HPE,Whitman Margaret C,CEO,S - Sale+OE,$14.27,-1494094,767665,-66%,"-$21,320,721",,,,,HPE
+93,D,2017-09-20 16:37:30,2017-09-18,HPE,Whitman Margaret C,CEO,S - Sale+OE,$13.67,-249023,767665,-24%,"-$3,404,144",,,,,HPE
+94,DM,2017-09-14 18:25:09,2017-09-13,HPE,Whitman Margaret C,CEO,S - Sale+OE,$13.14,-249052,767665,-24%,"-$3,272,133",,,,,HPE
+95,DM,2017-08-16 16:43:58,2017-08-15,HPE,Whitman Margaret C,CEO,S - Sale+OE,$17.64,-389668,767665,-34%,"-$6,873,782",,,,,HPE

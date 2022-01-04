@@ -1,0 +1,243 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-10 12:19:16,2021-08-09,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,724.78",-13889,0,-100%,"-$37,844,447",,,,,GOOGL
+1,D,2021-08-04 17:25:45,2021-08-04,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,717.87",-3000,147137,-2%,"-$8,153,624",,,,,GOOGL
+2,,2021-08-03 17:24:06,2021-08-03,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$2,720.00",-48,3332,-1%,"-$130,560",,,,,GOOGL
+3,,2021-08-02 17:50:14,2021-08-02,GOOG,Mather Ann,Dir,S - Sale,"$2,709.69",-18,1840,-1%,"-$48,774",,,,,GOOGL
+4,D,2021-08-02 16:31:09,2021-07-29,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,719.69",-13888,0,-100%,"-$37,771,018",,,,,GOOGL
+5,,2021-07-30 16:19:49,2021-07-28,GOOG,Page Lawrence,"Dir, 10%",S - Sale,"$2,747.77",-11376,19905015,0%,"-$31,258,601",,,,,GOOGL
+6,,2021-07-29 17:27:05,2021-07-27,GOOG,Page Lawrence,"Dir, 10%",S - Sale,"$2,781.88",-4054,19916391,0%,"-$11,277,735",,,,,GOOGL
+7,D,2021-07-29 17:24:16,2021-07-27,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,727.61",-9835,19920445,0%,"-$26,826,031",,,,,GOOGL
+8,,2021-07-29 17:14:07,2021-07-27,GOOG,Page Lawrence,"Dir, 10%",S - Sale,"$2,673.57",-4201,0,-100%,"-$11,231,658",,,,,GOOGL
+9,D,2021-07-29 17:10:46,2021-07-27,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,627.91",-9688,4201,-70%,"-$25,459,158",,,,,GOOGL
+10,D,2021-07-12 20:05:04,2021-07-08,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,579.93",-13888,19103535,0%,"-$35,830,072",,,,,GOOGL
+11,D,2021-07-12 17:22:57,2021-07-08,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,497.93",-13888,19117423,0%,"-$34,691,264",,,,,GOOGL
+12,D,2021-07-09 19:51:59,2021-07-07,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,531.21",-13889,19117423,0%,"-$35,155,970",,,,,GOOGL
+13,D,2021-07-09 19:49:54,2021-07-07,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,601.97",-13889,19117423,0%,"-$36,138,825",,,,,GOOGL
+14,D,2021-07-08 18:28:29,2021-07-06,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,584.57",-13889,19131312,0%,"-$35,897,057",,,,,GOOGL
+15,D,2021-07-08 18:27:33,2021-07-06,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,513.21",-13889,19145201,0%,"-$34,905,949",,,,,GOOGL
+16,,2021-07-08 15:05:33,2021-07-07,GOOG,Hennessy John L,Dir,S - Sale,"$2,602.06",-70,3600,-2%,"-$182,144",,,,,GOOGL
+17,D,2021-07-08 11:24:46,2021-07-07,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,597.47",-3000,153137,-2%,"-$7,792,404",,,,,GOOGL
+18,,2021-07-01 16:54:56,2021-07-01,GOOG,Mather Ann,Dir,S - Sale,"$2,497.00",-28,1718,-2%,"-$69,916",,,,,GOOGL
+19,,2021-07-01 16:40:37,2021-07-01,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$2,497.00",-48,3439,-1%,"-$119,856",,,,,GOOGL
+20,,2021-07-01 13:22:38,2021-06-30,GOOG,Schindler Philipp,"SVP, Chief Business Officer",S - Sale,"$2,511.64",-1385,63902,-2%,"-$3,478,621",,,,,GOOGL
+21,,2021-07-01 11:31:01,2021-06-29,GOOG,Walker John Kent,"SVP, Global Affairs, CLO",S - Sale,"$2,517.43",-2501,35961,-7%,"-$6,296,099",,,,,GOOGL
+22,D,2021-06-17 11:20:14,2021-06-16,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,515.71",-3000,159938,-2%,"-$7,547,145",,,,,GOOGL
+23,D,2021-06-11 16:44:37,2021-06-09,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,494.51",-13889,19145201,0%,"-$34,646,201",,,,,GOOGL
+24,D,2021-06-11 16:43:37,2021-06-09,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,405.93",-13889,19159090,0%,"-$33,416,009",,,,,GOOGL
+25,D,2021-06-10 20:27:40,2021-06-08,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,480.67",-13889,19159090,0%,"-$34,454,073",,,,,GOOGL
+26,D,2021-06-10 20:24:16,2021-06-08,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,406.12",-13889,19172979,0%,"-$33,418,559",,,,,GOOGL
+27,DM,2021-06-09 18:37:42,2021-06-07,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,452.52",-13889,19930280,0%,"-$34,063,082",,,,,GOOGL
+28,D,2021-06-09 18:34:12,2021-06-07,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,392.01",-13889,0,-100%,"-$33,222,583",,,,,GOOGL
+29,D,2021-06-09 17:54:56,2021-06-07,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,452.56",-13889,19172979,0%,"-$34,063,622",,,,,GOOGL
+30,D,2021-06-09 17:50:49,2021-06-07,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,392.05",-13889,19186868,0%,"-$33,223,152",,,,,GOOGL
+31,,2021-06-07 21:23:38,2021-06-07,GOOG,Hennessy John L,Dir,S - Sale,"$2,449.71",-70,3638,-2%,"-$171,479",,,,,GOOGL
+32,D,2021-06-04 21:10:38,2021-06-04,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,443.22",-13889,19944169,0%,"-$33,933,863",,,,,GOOGL
+33,D,2021-06-04 20:32:27,2021-06-04,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,388.70",-13889,0,-100%,"-$33,176,654",,,,,GOOGL
+34,D,2021-06-03 21:16:27,2021-06-03,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,343.25",-13889,0,-100%,"-$32,545,450",,,,,GOOGL
+35,D,2021-06-03 20:18:01,2021-06-03,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,395.99",-13889,19958058,0%,"-$33,277,934",,,,,GOOGL
+36,,2021-06-02 18:23:14,2021-06-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$2,435.85",-48,3546,-1%,"-$116,921",,,,,GOOGL
+37,D,2021-06-02 18:05:49,2021-06-02,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,429.38",-3000,162938,-2%,"-$7,288,147",,,,,GOOGL
+38,,2021-06-01 18:50:38,2021-06-01,GOOG,Schindler Philipp,"SVP, Chief Business Officer",S - Sale,"$2,422.00",-1385,69058,-2%,"-$3,354,470",,,,,GOOGL
+39,,2021-06-01 18:27:14,2021-06-01,GOOG,Mather Ann,Dir,S - Sale,"$2,422.00",-25,1746,-1%,"-$60,550",,,,,GOOGL
+40,D,2021-05-20 19:17:39,2021-05-19,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,271.98",-3000,165938,-2%,"-$6,815,930",,,,,GOOGL
+41,D,2021-05-17 20:56:56,2021-05-13,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,259.68",-13889,19971947,0%,"-$31,384,729",,,,,GOOGL
+42,D,2021-05-17 15:10:51,2021-05-13,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,225.40",-13889,0,-100%,"-$30,908,639",,,,,GOOGL
+43,D,2021-05-13 21:09:40,2021-05-12,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,261.93",-3998,19985836,0%,"-$9,043,179",,,,,GOOGL
+44,,2021-05-13 20:48:59,2021-05-12,GOOG,Page Lawrence,"Dir, 10%",S - Sale,"$2,248.49",-11488,19988237,0%,"-$25,830,618",,,,,GOOGL
+45,D,2021-05-13 19:38:50,2021-05-12,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,211.82",-12292,1597,-89%,"-$27,187,673",,,,,GOOGL
+46,,2021-05-13 17:50:12,2021-05-11,GOOG,Page Lawrence,"Dir, 10%",S - Sale,"$2,306.83",-14089,19999725,0%,"-$32,500,896",,,,,GOOGL
+47,D,2021-05-13 14:11:41,2021-05-11,GOOG,Page Lawrence,"Dir, 10%",S - Sale+OE,"$2,264.31",-13689,200,-99%,"-$30,996,134",,,,,GOOGL
+48,D,2021-05-12 20:45:05,2021-05-11,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,275.65",-1479,19186868,0%,"-$3,365,689",,,,,GOOGL
+49,D,2021-05-12 20:31:59,2021-05-11,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,263.24",-12410,19188347,0%,"-$28,086,753",,,,,GOOGL
+50,D,2021-05-12 16:53:02,2021-05-11,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,307.34",-13889,19186868,0%,"-$32,046,579",,,,,GOOGL
+51,D,2021-05-11 21:03:11,2021-05-10,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,349.08",-13889,19200757,0%,"-$32,626,396",,,,,GOOGL
+52,D,2021-05-11 18:09:39,2021-05-10,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,301.36",-13889,0,-100%,"-$31,963,563",,,,,GOOGL
+53,D,2021-05-10 18:22:39,2021-05-07,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,404.30",-13889,19214646,0%,"-$33,393,259",,,,,GOOGL
+54,D,2021-05-10 16:51:26,2021-05-07,GOOG,Brin Sergey,"Dir, 10%",S - Sale+OE,"$2,357.28",-13889,0,-100%,"-$32,740,259",,,,,GOOGL
+55,,2021-05-07 19:00:50,2021-05-07,GOOG,Hennessy John L,Dir,S - Sale,"$2,405.72",-70,4318,-2%,"-$168,401",,,,,GOOGL
+56,,2021-05-07 17:18:31,2021-05-07,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$2,400.00",-18,3654,0%,"-$43,200",,,,,GOOGL
+57,D,2021-05-06 17:36:52,2021-05-05,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,361.59",-3000,168938,-2%,"-$7,084,784",,,,,GOOGL
+58,,2021-05-04 16:33:34,2021-05-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$2,369.74",-30,3672,-1%,"-$71,092",,,,,GOOGL
+59,,2021-05-03 17:03:01,2021-05-03,GOOG,Mather Ann,Dir,S - Sale,"$2,402.16",-27,1771,-2%,"-$64,858",,,,,GOOGL
+60,,2021-05-03 16:42:54,2021-04-30,GOOG,Schindler Philipp,"SVP, Chief Business Officer",S - Sale,"$2,403.54",-1385,70443,-2%,"-$3,328,903",,,,,GOOGL
+61,D,2021-04-22 16:00:22,2021-04-21,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,279.93",-3000,171938,-2%,"-$6,839,782",,,,,GOOGL
+62,,2021-04-08 18:31:12,2021-04-07,GOOG,Hennessy John L,Dir,S - Sale,"$2,243.44",-70,4388,-2%,"-$157,041",,,,,GOOGL
+63,D,2021-04-08 16:43:14,2021-04-07,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,232.66",-3000,174938,-2%,"-$6,697,988",,,,,GOOGL
+64,,2021-04-05 17:33:02,2021-04-05,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$2,152.94",-30,3761,-1%,"-$64,588",,,,,GOOGL
+65,,2021-04-05 17:15:54,2021-04-05,GOOG,Raghavan Prabhakar,SVP,S - Sale,"$2,152.94",-2524,40100,-6%,"-$5,434,021",,,,,GOOGL
+66,,2021-04-01 19:42:35,2021-04-01,GOOG,Mather Ann,Dir,S - Sale,"$2,099.99",-26,1797,-1%,"-$54,600",,,,,GOOGL
+67,,2021-03-30 17:40:13,2021-03-30,GOOG,Schindler Philipp,"SVP, Chief Business Officer",S - Sale,"$2,057.63",-1385,66973,-2%,"-$2,849,818",,,,,GOOGL
+68,,2021-03-29 20:08:12,2021-03-29,GOOG,Walker John Kent,"SVP, Global Affairs, CLO",S - Sale,"$2,037.34",-2570,12865,-17%,"-$5,235,973",,,,,GOOGL
+69,D,2021-03-18 19:03:02,2021-03-17,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,075.03",-3000,181666,-2%,"-$6,225,103",,,,,GOOGL
+70,,2021-03-09 21:27:07,2021-03-08,GOOG,Hennessy John L,Dir,S - Sale,"$2,083.46",-70,4419,-2%,"-$145,842",,,,,GOOGL
+71,D,2021-03-03 21:59:16,2021-03-03,GOOG,Pichai Sundar,CEO,S - Sale+OE,"$2,068.50",-3000,184666,-2%,"-$6,205,492",,,,,GOOGL
+72,,2021-03-03 17:18:58,2021-03-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$2,076.19",-30,3850,-1%,"-$62,286",,,,,GOOGL
+73,,2021-03-03 17:06:19,2021-03-01,GOOG,Mather Ann,Dir,S - Sale,"$2,056.52",-26,1824,-1%,"-$53,470",,,,,GOOGL
+74,,2021-03-01 18:59:13,2021-03-01,GOOG,Raghavan Prabhakar,SVP,S - Sale,"$2,056.52",-1199,45010,-3%,"-$2,465,767",,,,,GOOGL
+75,,2021-03-01 17:54:05,2021-03-01,GOOG,Schindler Philipp,"SVP, Chief Business Officer",S - Sale,"$2,056.52",-1385,72054,-2%,"-$2,848,280",,,,,GOOGL
+76,,2021-02-10 21:34:52,2021-02-08,GOOG,Hennessy John L,Dir,S - Sale,"$2,085.54",-70,4600,-1%,"-$145,988",,,,,GOOGL
+77,,2021-02-03 16:53:06,2021-02-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,922.56",-30,3940,-1%,"-$57,677",,,,,GOOGL
+78,,2021-02-03 16:42:55,2021-02-02,GOOG,Mather Ann,Dir,S - Sale,"$1,922.56",-25,3349,-1%,"-$48,064",,,,,GOOGL
+79,,2021-02-02 13:03:10,2021-02-01,GOOG,Schindler Philipp,"SVP, Chief Business Officer",S - Sale,"$1,852.09",-1385,73439,-2%,"-$2,565,145",,,,,GOOGL
+80,,2021-01-06 12:19:10,2021-01-05,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,725.00",-30,4029,-1%,"-$51,750",,,,,GOOGL
+81,,2021-01-06 12:13:42,2021-01-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,735.19",-60,4874,-1%,"-$104,111",,,,,GOOGL
+82,,2021-01-05 19:25:56,2021-01-04,GOOG,Mather Ann,Dir,S - Sale,"$1,757.54",-52,3374,-2%,"-$91,392",,,,,GOOGL
+83,,2020-12-31 11:58:13,2020-12-30,GOOG,Walker John Kent,"SVP, Global Affairs, CLO",S - Sale,"$1,747.46",-2498,43444,-5%,"-$4,365,154",,,,,GOOGL
+84,,2020-12-30 16:59:36,2020-12-30,GOOG,Schindler Philipp,"SVP, Chief Business Officer",S - Sale,"$1,762.01",-1385,56560,-2%,"-$2,440,384",,,,,GOOGL
+85,,2020-12-15 19:59:22,2020-12-15,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,764.42",-30,2849,-1%,"-$52,933",,,,,GOOGL
+86,,2020-12-08 20:05:08,2020-12-07,GOOG,Hennessy John L,Dir,S - Sale,"$1,813.27",-55,4934,-1%,"-$99,730",,,,,GOOGL
+87,,2020-12-01 17:25:20,2020-12-01,GOOG,Mather Ann,Dir,S - Sale,"$1,774.37",-22,3426,-1%,"-$39,036",,,,,GOOGL
+88,,2020-11-06 14:10:38,2020-11-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,766.62",-60,4989,-1%,"-$105,997",,,,,GOOGL
+89,,2020-11-02 17:38:04,2020-11-02,GOOG,Mather Ann,Dir,S - Sale,"$1,628.16",-20,3448,-1%,"-$32,563",,,,,GOOGL
+90,,2020-10-05 18:50:24,2020-10-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,473.43",-60,5049,-1%,"-$88,406",,,,,GOOGL
+91,,2020-10-01 19:49:27,2020-10-01,GOOG,Mather Ann,Dir,S - Sale,"$1,484.27",-22,3468,-1%,"-$32,654",,,,,GOOGL
+92,,2020-09-09 21:08:45,2020-09-08,GOOG,Hennessy John L,Dir,S - Sale,"$1,538.29",-60,5109,-1%,"-$92,297",,,,,GOOGL
+93,,2020-09-02 14:48:18,2020-09-01,GOOG,Mather Ann,Dir,S - Sale,"$1,635.90",-20,3490,-1%,"-$32,718",,,,,GOOGL
+94,,2020-08-05 18:21:35,2020-08-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,481.85",-60,5169,-1%,"-$88,911",,,,,GOOGL
+95,,2020-08-04 17:34:47,2020-08-03,GOOG,Mather Ann,Dir,S - Sale,"$1,486.64",-21,3510,-1%,"-$31,219",,,,,GOOGL
+96,,2020-07-07 20:39:10,2020-07-06,GOOG,Hennessy John L,Dir,S - Sale,"$1,495.85",-60,4268,-1%,"-$89,751",,,,,GOOGL
+97,,2020-07-02 14:38:18,2020-07-01,GOOG,Mather Ann,Dir,S - Sale,"$1,411.10",-32,3531,-1%,"-$45,155",,,,,GOOGL
+98,,2020-06-05 21:33:58,2020-06-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,434.85",-60,4939,-1%,"-$86,091",,,,,GOOGL
+99,,2020-06-01 13:04:57,2020-06-01,GOOG,Mather Ann,Dir,S - Sale,"$1,418.39",-32,3318,-1%,"-$45,388",,,,,GOOGL
+100,,2020-05-05 20:24:35,2020-05-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,363.61",-60,5349,-1%,"-$81,816",,,,,GOOGL
+101,,2020-05-04 12:56:29,2020-05-01,GOOG,Mather Ann,Dir,S - Sale,"$1,328.50",-30,3350,-1%,"-$39,855",,,,,GOOGL
+102,,2020-04-08 16:57:42,2020-04-07,GOOG,Hennessy John L,Dir,S - Sale,"$1,221.84",-15,5409,0%,"-$18,328",,,,,GOOGL
+103,,2020-04-06 21:14:09,2020-04-06,GOOG,Hennessy John L,Dir,S - Sale,"$1,151.24",-45,5424,-1%,"-$51,806",,,,,GOOGL
+104,,2020-04-03 12:34:20,2020-04-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,098.26",-61,3358,-2%,"-$66,994",,,,,GOOGL
+105,,2020-04-02 15:26:30,2020-04-01,GOOG,Mather Ann,Dir,S - Sale,"$1,121.18",-34,3380,-1%,"-$38,120",,,,,GOOGL
+106,M,2020-03-05 20:02:30,2020-03-03,GOOG,Hennessy John L,Dir,S - Sale,"$1,339.26",-60,5469,-1%,"-$80,355",,,,,GOOGL
+107,,2020-03-03 19:25:30,2020-03-03,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,397.68",-61,3479,-2%,"-$85,258",,,,,GOOGL
+108,,2020-03-02 19:38:47,2020-03-02,GOOG,Mather Ann,Dir,S - Sale,"$1,352.66",-31,3414,-1%,"-$41,932",,,,,GOOGL
+109,,2020-02-07 16:17:18,2020-02-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,440.84",-60,5529,-1%,"-$86,451",,,,,GOOGL
+110,,2020-02-04 20:20:55,2020-02-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,457.16",-60,3600,-2%,"-$87,430",,,,,GOOGL
+111,,2020-02-04 19:38:24,2020-02-03,GOOG,Mather Ann,Dir,S - Sale,"$1,459.40",-31,3445,-1%,"-$45,241",,,,,GOOGL
+112,,2020-01-07 16:31:56,2020-01-07,GOOG,Mather Ann,Dir,S - Sale,"$1,400.04",-654,3476,-16%,"-$915,629",,,,,GOOGL
+113,,2020-01-06 20:01:40,2020-01-06,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,350.56",-55,2284,-2%,"-$74,281",,,,,GOOGL
+114,D,2020-01-02 20:14:44,2020-01-02,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,356.89",-28429,67333,-30%,"-$38,575,069",,,,,GOOGL
+115,D,2020-01-02 18:41:36,2020-01-02,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,358.81",-28429,0,-100%,"-$38,629,705",,,,,GOOGL
+116,,2020-01-02 15:21:46,2020-01-02,GOOG,Mather Ann,Dir,S - Sale,"$1,341.55",-32,4130,-1%,"-$42,930",,,,,GOOGL
+117,,2019-12-03 17:50:02,2019-12-03,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,279.57",-55,2394,-2%,"-$70,376",,,,,GOOGL
+118,,2019-12-02 21:57:07,2019-12-02,GOOG,Mather Ann,Dir,S - Sale,"$1,300.50",-31,4162,-1%,"-$40,316",,,,,GOOGL
+119,D,2019-12-02 20:24:59,2019-12-02,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,289.62",-56860,72820,-44%,"-$73,327,679",,,,,GOOGL
+120,D,2019-11-04 20:50:15,2019-11-01,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,266.89",-28430,70730,-29%,"-$36,017,718",,,,,GOOGL
+121,D,2019-11-04 19:59:00,2019-11-01,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,266.00",-28430,2090,-93%,"-$35,992,360",,,,,GOOGL
+122,,2019-11-04 17:33:08,2019-11-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,276.45",-54,2504,-2%,"-$68,928",,,,,GOOGL
+123,M,2019-11-04 17:14:45,2019-11-01,GOOG,Mather Ann,Dir,S - Sale,"$1,272.63",-75,4193,-2%,"-$95,448",,,,,GOOGL
+124,,2019-10-02 20:10:19,2019-10-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,195.00",-55,2613,-2%,"-$65,725",,,,,GOOGL
+125,,2019-10-01 17:29:13,2019-10-01,GOOG,Mather Ann,Dir,S - Sale,"$1,219.01",-25,4268,-1%,"-$30,475",,,,,GOOGL
+126,D,2019-10-01 17:14:30,2019-10-01,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,220.75",-1600,72820,-2%,"-$1,953,200",,,,,GOOGL
+127,,2019-09-30 15:12:28,2019-09-27,GOOG,Hennessy John L,Dir,S - Sale,"$1,227.77",-75,5589,-1%,"-$92,083",,,,,GOOGL
+128,D,2019-09-05 19:25:41,2019-09-03,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,179.44",-1600,74122,-2%,"-$1,887,104",,,,,GOOGL
+129,,2019-09-05 18:32:37,2019-09-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,200.00",-75,5664,-1%,"-$90,000",,,,,GOOGL
+130,,2019-09-05 17:05:07,2019-09-05,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,191.53",-54,2723,-2%,"-$64,343",,,,,GOOGL
+131,,2019-09-03 21:07:00,2019-09-03,GOOG,Mather Ann,Dir,S - Sale,"$1,177.03",-24,4293,-1%,"-$28,249",,,,,GOOGL
+132,,2019-08-05 14:37:52,2019-08-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,200.74",-55,2832,-2%,"-$66,041",,,,,GOOGL
+133,,2019-08-02 17:07:18,2019-08-01,GOOG,Mather Ann,Dir,S - Sale,"$1,213.14",-27,4317,-1%,"-$32,755",,,,,GOOGL
+134,D,2019-08-02 16:24:21,2019-08-01,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,215.39",-1600,74122,-2%,"-$1,944,616",,,,,GOOGL
+135,,2019-07-31 10:52:43,2019-07-29,GOOG,Hennessy John L,Dir,S - Sale,"$1,238.57",-75,5739,-1%,"-$92,893",,,,,GOOGL
+136,,2019-07-26 18:49:14,2019-07-26,GOOG,Hennessy John L,Dir,S - Sale,"$1,225.00",-150,5814,-3%,"-$183,750",,,,,GOOGL
+137,,2019-07-03 12:27:01,2019-07-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,100.52",-69,2942,-2%,"-$75,936",,,,,GOOGL
+138,,2019-07-01 14:12:48,2019-07-01,GOOG,Mather Ann,Dir,S - Sale,"$1,100.00",-39,4029,-1%,"-$42,900",,,,,GOOGL
+139,,2019-06-11 14:54:06,2019-06-11,GOOG,Mather Ann,Dir,S - Sale,"$1,100.00",-39,4068,-1%,"-$42,900",,,,,GOOGL
+140,,2019-06-05 19:20:11,2019-06-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,042.90",-69,3081,-2%,"-$71,960",,,,,GOOGL
+141,,2019-05-02 17:53:04,2019-05-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,167.74",-73,3220,-2%,"-$85,245",,,,,GOOGL
+142,,2019-05-01 16:28:47,2019-05-01,GOOG,Mather Ann,Dir,S - Sale,"$1,187.53",-39,4107,-1%,"-$46,314",,,,,GOOGL
+143,,2019-04-30 17:42:51,2019-04-29,GOOG,Hennessy John L,Dir,S - Sale,"$1,280.51",-75,5514,-1%,"-$96,038",,,,,GOOGL
+144,,2019-04-03 21:23:45,2019-04-02,GOOG,Hennessy John L,Dir,S - Sale,"$1,200.00",-75,5589,-1%,"-$90,000",,,,,GOOGL
+145,,2019-04-03 17:31:40,2019-04-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,195.32",-89,3359,-3%,"-$106,383",,,,,GOOGL
+146,,2019-04-02 20:28:40,2019-04-01,GOOG,Mather Ann,Dir,S - Sale,"$1,182.00",-39,4146,-1%,"-$46,098",,,,,GOOGL
+147,,2019-03-13 18:48:52,2019-03-12,GOOG,Hennessy John L,Dir,S - Sale,"$1,200.00",-375,5664,-6%,"-$450,000",,,,,GOOGL
+148,,2019-03-04 14:33:50,2019-03-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,145.00",-89,3497,-2%,"-$101,905",,,,,GOOGL
+149,,2019-03-04 14:18:56,2019-03-01,GOOG,Mather Ann,Dir,S - Sale,"$1,124.90",-38,4185,-1%,"-$42,746",,,,,GOOGL
+150,,2019-02-04 17:27:54,2019-02-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,112.66",-89,3636,-2%,"-$99,027",,,,,GOOGL
+151,,2019-02-04 17:09:08,2019-02-01,GOOG,Mather Ann,Dir,S - Sale,"$1,113.10",-40,4223,-1%,"-$44,524",,,,,GOOGL
+152,,2019-01-18 17:36:44,2019-01-18,GOOG,Mather Ann,Dir,S - Sale,"$1,100.00",-38,4263,-1%,"-$41,800",,,,,GOOGL
+153,D,2019-01-16 20:12:48,2019-01-16,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,086.33",-10000,139207,-7%,"-$10,863,272",,,,,GOOGL
+154,D,2019-01-14 16:40:21,2019-01-14,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,050.13",-5688,76727,-7%,"-$5,973,139",,,,,GOOGL
+155,,2019-01-03 17:39:26,2019-01-03,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,041.00",-80,3774,-2%,"-$83,280",,,,,GOOGL
+156,D,2019-01-02 14:18:07,2019-01-02,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,023.13",-10000,149207,-6%,"-$10,231,290",,,,,GOOGL
+157,D,2018-12-19 17:19:49,2018-12-19,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,041.50",-10000,169436,-6%,"-$10,414,958",,,,,GOOGL
+158,D,2018-12-12 12:58:23,2018-12-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,070.81",-5688,78029,-7%,"-$6,090,767",,,,,GOOGL
+159,D,2018-12-06 17:14:15,2018-12-06,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,041.75",-10000,178931,-5%,"-$10,417,503",,,,,GOOGL
+160,,2018-12-04 13:29:50,2018-12-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,103.12",-80,2486,-3%,"-$88,250",,,,,GOOGL
+161,,2018-12-03 18:08:51,2018-12-03,GOOG,Mather Ann,Dir,S - Sale,"$1,120.68",-194,4294,-4%,"-$217,412",,,,,GOOGL
+162,D,2018-11-21 17:00:25,2018-11-21,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,038.35",-10000,190185,-5%,"-$10,383,516",,,,,GOOGL
+163,D,2018-11-19 15:08:34,2018-11-15,GOOG,Doerr L John,Dir,S - Sale+OE,"$1,049.76",-11908,1020512,-1%,"-$12,500,551",,,,,GOOGL
+164,D,2018-11-13 19:18:36,2018-11-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,065.49",-5690,78029,-7%,"-$6,062,667",,,,,GOOGL
+165,D,2018-11-09 14:29:32,2018-11-07,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,073.27",-10000,200185,-5%,"-$10,732,729",,,,,GOOGL
+166,,2018-11-02 13:04:46,2018-11-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,073.72",-80,2647,-3%,"-$85,898",,,,,GOOGL
+167,D,2018-10-25 17:07:30,2018-10-17,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,113.92",-10000,211439,-5%,"-$11,139,150",,,,,GOOGL
+168,D,2018-10-15 20:07:25,2018-10-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,115.36",-5690,78029,-7%,"-$6,346,398",,,,,GOOGL
+169,D,2018-10-04 18:54:27,2018-10-03,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,200.04",-10000,221439,-4%,"-$12,000,435",,,,,GOOGL
+170,,2018-10-03 12:42:47,2018-10-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,190.96",-80,2808,-3%,"-$95,277",,,,,GOOGL
+171,,2018-10-01 13:49:18,2018-10-01,GOOG,Mather Ann,Dir,S - Sale,"$1,199.89",-25,4496,-1%,"-$29,997",,,,,GOOGL
+172,D,2018-09-19 21:02:40,2018-09-19,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,160.42",-10000,241163,-4%,"-$11,604,171",,,,,GOOGL
+173,D,2018-09-13 17:51:38,2018-09-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,177.36",-5690,79331,-7%,"-$6,699,178",,,,,GOOGL
+174,,2018-09-05 18:31:39,2018-09-05,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,193.80",-80,2969,-3%,"-$95,504",,,,,GOOGL
+175,D,2018-09-05 17:59:21,2018-09-05,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,192.12",-10000,248593,-4%,"-$11,921,168",,,,,GOOGL
+176,,2018-09-04 14:57:12,2018-09-04,GOOG,Mather Ann,Dir,S - Sale,"$1,206.20",-24,4521,-1%,"-$28,949",,,,,GOOGL
+177,D,2018-08-15 21:36:04,2018-08-15,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,230.21",-10000,259847,-4%,"-$12,302,143",,,,,GOOGL
+178,D,2018-08-15 19:00:05,2018-08-15,GOOG,Doerr L John,Dir,S - Sale+OE,"$1,218.20",-10262,1037605,-1%,"-$12,501,186",,,,,GOOGL
+179,D,2018-08-13 17:01:41,2018-08-13,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,244.09",-5690,79331,-7%,"-$7,078,872",,,,,GOOGL
+180,,2018-08-03 12:36:42,2018-08-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,206.20",-80,3130,-2%,"-$96,496",,,,,GOOGL
+181,,2018-08-01 17:59:01,2018-08-01,GOOG,Mather Ann,Dir,S - Sale,"$1,228.64",-25,4545,-1%,"-$30,716",,,,,GOOGL
+182,D,2018-08-01 17:57:01,2018-08-01,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,229.07",-10000,272417,-4%,"-$12,290,724",,,,,GOOGL
+183,,2018-07-27 16:53:22,2018-07-25,GOOG,Hennessy John L,Dir,S - Sale,"$1,250.30",-724,5910,-11%,"-$905,216",,,,,GOOGL
+184,D,2018-07-19 16:05:40,2018-07-18,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,198.47",-10000,283671,-3%,"-$11,984,668",,,,,GOOGL
+185,D,2018-07-16 14:01:06,2018-07-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,167.38",-5690,79331,-7%,"-$6,642,364",,,,,GOOGL
+186,D,2018-07-05 13:46:27,2018-07-05,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,113.42",-10000,293671,-3%,"-$11,134,156",,,,,GOOGL
+187,,2018-07-03 13:35:49,2018-07-03,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,135.82",-73,3290,-2%,"-$82,915",,,,,GOOGL
+188,,2018-07-02 14:36:29,2018-07-02,GOOG,Mather Ann,Dir,S - Sale,"$1,100.00",-24,4266,-1%,"-$26,400",,,,,GOOGL
+189,D,2018-06-21 18:41:26,2018-06-20,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,179.07",-10000,313395,-3%,"-$11,790,743",,,,,GOOGL
+190,D,2018-06-13 19:11:21,2018-06-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,136.05",-5690,80633,-7%,"-$6,464,096",,,,,GOOGL
+191,D,2018-06-07 13:56:30,2018-06-06,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,139.18",-10000,323395,-3%,"-$11,391,837",,,,,GOOGL
+192,,2018-06-04 19:32:10,2018-06-04,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,122.33",-72,3438,-2%,"-$80,808",,,,,GOOGL
+193,,2018-06-01 13:56:51,2018-06-01,GOOG,Mather Ann,Dir,S - Sale,"$1,099.06",-39,4290,-1%,"-$42,863",,,,,GOOGL
+194,D,2018-05-16 21:02:48,2018-05-16,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,077.94",-4000,334649,-1%,"-$4,311,769",,,,,GOOGL
+195,D,2018-05-16 20:32:51,2018-05-15,GOOG,Doerr L John,Dir,S - Sale+OE,"$1,081.12",-11563,822554,-1%,"-$12,501,010",,,,,GOOGL
+196,D,2018-05-15 19:55:56,2018-05-14,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,106.84",-5690,80633,-7%,"-$6,297,896",,,,,GOOGL
+197,D,2018-05-02 17:51:34,2018-05-02,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,028.83",-4000,338649,-1%,"-$4,115,309",,,,,GOOGL
+198,,2018-05-02 17:25:01,2018-05-02,GOOG,Mather Ann,Dir,S - Sale,"$1,028.10",-37,4329,-1%,"-$38,040",,,,,GOOGL
+199,,2018-05-02 16:43:13,2018-05-02,GOOG,O'Toole Amie Thuener,"VP, Chief Accounting Officer",S - Sale,"$1,028.10",-78,3584,-2%,"-$80,192",,,,,GOOGL
+200,D,2018-04-18 19:20:02,2018-04-18,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,077.67",-4000,519386,-1%,"-$4,310,692",,,,,GOOGL
+201,D,2018-04-12 21:38:08,2018-04-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,028.26",-5690,115730,-5%,"-$5,850,771",,,,,GOOGL
+202,D,2018-04-05 13:49:55,2018-04-04,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,$993.80,-4000,523386,-1%,"-$3,975,207",,,,,GOOGL
+203,,2018-04-02 16:40:37,2018-04-02,GOOG,Mather Ann,Dir,S - Sale,"$1,023.10",-39,4366,-1%,"-$39,901",,,,,GOOGL
+204,,2018-04-02 14:31:08,2018-04-02,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,"$1,023.10",-193,6746,-3%,"-$197,458",,,,,GOOGL
+205,D,2018-03-21 18:30:59,2018-03-21,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,092.73",-4000,537110,-1%,"-$4,370,905",,,,,GOOGL
+206,D,2018-03-12 14:53:14,2018-03-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,164.43",-5690,117032,-5%,"-$6,625,578",,,,,GOOGL
+207,D,2018-03-07 19:49:32,2018-03-07,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,089.48",-4000,541110,-1%,"-$4,357,940",,,,,GOOGL
+208,,2018-03-05 17:36:39,2018-03-05,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,"$1,075.14",-194,7130,-3%,"-$208,577",,,,,GOOGL
+209,,2018-03-01 18:25:21,2018-03-01,GOOG,Mather Ann,Dir,S - Sale,"$1,107.87",-37,4404,-1%,"-$40,991",,,,,GOOGL
+210,D,2018-02-22 13:24:38,2018-02-21,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,106.68",-4000,546364,-1%,"-$4,426,735",,,,,GOOGL
+211,D,2018-02-15 20:10:24,2018-02-15,GOOG,Doerr L John,Dir,S - Sale+OE,"$1,079.99",-11575,1067965,-1%,"-$12,500,833",,,,,GOOGL
+212,D,2018-02-12 17:25:54,2018-02-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,"$1,052.50",-5690,75025,-7%,"-$5,988,725",,,,,GOOGL
+213,D,2018-02-09 17:35:00,2018-02-09,GOOG,Pichai Sundar,"CEO, Google LLC",S - Sale+OE,"$1,018.01",-4000,550364,-1%,"-$4,072,042",,,,,GOOGL
+214,,2018-02-05 21:13:35,2018-02-05,GOOG,Hennessy John L,Dir,S - Sale,"$1,092.43",-1026,6374,-14%,"-$1,120,834",,,,,GOOGL
+215,,2018-02-01 18:00:28,2018-02-01,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,"$1,162.61",-238,7515,-3%,"-$276,701",,,,,GOOGL
+216,,2018-02-01 17:48:43,2018-02-01,GOOG,Mather Ann,Dir,S - Sale,"$1,162.61",-38,4441,-1%,"-$44,179",,,,,GOOGL
+217,D,2018-01-17 19:21:48,2018-01-17,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,"$1,127.17",-4000,555492,-1%,"-$4,508,683",,,,,GOOGL
+218,D,2018-01-04 11:43:41,2018-01-03,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,"$1,065.21",-4000,559492,-1%,"-$4,260,848",,,,,GOOGL
+219,,2018-01-02 14:16:17,2018-01-02,GOOG,Mather Ann,Dir,S - Sale,"$1,048.34",-38,4479,-1%,"-$39,837",,,,,GOOGL
+220,,2018-01-02 12:53:35,2018-01-02,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,"$1,048.34",-183,4612,-4%,"-$191,846",,,,,GOOGL
+221,D,2017-12-21 20:16:08,2017-12-20,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,"$1,072.64",-4000,573726,-1%,"-$4,290,548",,,,,GOOGL
+222,D,2017-12-06 16:31:12,2017-12-06,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,"$1,002.86",-4000,577726,-1%,"-$4,011,438",,,,,GOOGL
+223,,2017-12-04 13:33:05,2017-12-04,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,"$1,012.66",-184,4996,-4%,"-$186,329",,,,,GOOGL
+224,,2017-12-01 18:10:24,2017-12-01,GOOG,Mather Ann,Dir,S - Sale,"$1,015.80",-38,4517,-1%,"-$38,600",,,,,GOOGL
+225,D,2017-11-17 10:43:12,2017-11-15,GOOG,Doerr L John,Dir,S - Sale+OE,"$1,021.57",-12236,845691,-1%,"-$12,499,957",,,,,GOOGL
+226,D,2017-11-16 18:03:38,2017-11-15,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,"$1,020.69",-4000,583046,-1%,"-$4,082,761",,,,,GOOGL
+227,D,2017-11-09 21:12:03,2017-09-20,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,$924.36,-4000,587046,-1%,"-$3,697,451",,,,,GOOGL
+228,D,2017-11-02 18:37:28,2017-11-01,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,"$1,018.97",-4000,591046,-1%,"-$4,075,883",,,,,GOOGL
+229,,2017-11-02 16:40:58,2017-11-01,GOOG,Mather Ann,Dir,S - Sale,"$1,017.21",-38,4555,-1%,"-$38,654",,,,,GOOGL
+230,,2017-11-02 14:54:59,2017-11-01,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,"$1,017.21",-183,5381,-3%,"-$186,149",,,,,GOOGL
+231,D,2017-10-18 19:02:18,2017-10-18,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,$993.58,-4000,596366,-1%,"-$3,974,310",,,,,GOOGL
+232,D,2017-10-04 15:29:16,2017-10-04,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,$958.40,-4000,600366,-1%,"-$3,833,588",,,,,GOOGL
+233,,2017-10-03 19:33:34,2017-10-02,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,$959.26,-183,5765,-3%,"-$175,545",,,,,GOOGL
+234,,2017-10-03 19:25:00,2017-10-02,GOOG,Mather Ann,Dir,S - Sale,$959.26,-38,4593,-1%,"-$36,452",,,,,GOOGL
+235,D,2017-09-12 17:48:46,2017-09-12,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,$939.76,-1496,75025,-2%,"-$1,405,873",,,,,GOOGL
+236,D,2017-09-07 19:10:38,2017-09-06,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,$931.44,-4000,614600,-1%,"-$3,725,745",,,,,GOOGL
+237,,2017-09-07 18:43:55,2017-09-05,GOOG,Campbell James Grier,"VP, Alphabet Corp. Controller",S - Sale,$933.08,-183,6149,-3%,"-$170,754",,,,,GOOGL
+238,,2017-09-05 18:53:39,2017-09-01,GOOG,Mather Ann,Dir,S - Sale,$940.67,-37,4631,-1%,"-$34,805",,,,,GOOGL
+239,D,2017-08-16 20:08:34,2017-08-16,GOOG,Pichai Sundar,"CEO, Google Inc.",S - Sale+OE,$926.79,-4000,619926,-1%,"-$3,707,145",,,,,GOOGL
+240,D,2017-08-15 20:33:15,2017-08-15,GOOG,Doerr L John,Dir,S - Sale+OE,$922.15,-13556,857927,-2%,"-$12,500,722",,,,,GOOGL
+241,D,2017-08-15 14:06:13,2017-08-14,GOOG,Drummond David C,"SVP, Corporate Development",S - Sale+OE,$931.32,-2000,75773,-3%,"-$1,862,630",,,,,GOOGL

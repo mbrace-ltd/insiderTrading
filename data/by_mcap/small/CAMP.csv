@@ -1,0 +1,29 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-10-15 21:08:38,2021-10-14,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$10.07,+500,230251,0%,"+$5,035",,,,,CAMP
+1,,2021-09-30 09:01:30,2021-09-28,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$10.04,"+1,500",229751,+1%,"+$15,060",,,,,CAMP
+2,,2021-07-01 11:58:08,2021-06-29,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$12.90,"+1,000",159701,+1%,"+$12,900",,,,,CAMP
+3,,2021-05-14 16:05:34,2021-05-14,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$12.66,+500,158701,0%,"+$6,330",,,,,CAMP
+4,,2021-05-14 16:05:28,2021-05-13,CAMP,Johnson Amal M,Dir,P - Purchase,$12.12,"+5,000",97049,+5%,"+$60,593",,,,,CAMP
+5,,2021-02-22 16:05:10,2021-02-19,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$11.29,+500,142076,0%,"+$5,645",,,,,CAMP
+6,,2021-01-19 19:03:21,2021-01-15,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$10.18,+500,141576,0%,"+$5,088",,,,,CAMP
+7,,2020-12-23 16:05:07,2020-12-22,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$9.36,+500,141076,0%,"+$4,680",,,,,CAMP
+8,,2020-10-14 16:05:09,2020-10-13,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$7.85,"+1,000",140576,+1%,"+$7,850",,,,,CAMP
+9,,2020-10-01 16:05:10,2020-09-29,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$7.39,"+1,000",139576,+1%,"+$7,389",,,,,CAMP
+10,,2020-08-10 18:45:56,2020-08-07,CAMP,Gardner Jeffery R,"Pres, CEO",P - Purchase,$8.31,"+1,000",138576,+1%,"+$8,310",,,,,CAMP
+11,,2020-05-20 16:05:11,2019-05-19,CAMP,Gardner Jeffery R,"Interim Pres, CEO",P - Purchase,$6.41,"+2,500",42771,+6%,"+$16,025",,,,,CAMP
+12,M,2020-05-18 16:05:11,2020-05-15,CAMP,Johnson Amal M,Dir,P - Purchase,$5.69,"+30,000",79249,+61%,"+$170,725",,,,,CAMP
+13,,2020-05-11 16:05:11,2020-05-08,CAMP,Gardner Jeffery R,"Interim Pres, CEO",P - Purchase,$6.75,"+5,000",40271,+14%,"+$33,750",,,,,CAMP
+14,D,2020-01-15 16:00:11,2020-01-13,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$10.00,-30000,615020,-5%,"-$300,000",,,,,CAMP
+15,AM,2019-07-10 14:44:37,2019-07-02,CAMP,Wolfe Larry J,Dir,P - Purchase,$11.33,"+50,000",171275,+41%,"+$566,250",,,,,CAMP
+16,DM,2018-11-05 17:14:21,2018-11-01,CAMP,Sarkissian Garo Sarkis,SVP Corporate Development,S - Sale+OE,$20.43,-12500,178876,-7%,"-$255,375",,,,,CAMP
+17,,2018-10-25 15:41:39,2018-10-23,CAMP,Sarkissian Garo Sarkis,SVP Corporate Development,S - Sale,$20.25,-2500,186376,-1%,"-$50,625",,,,,CAMP
+18,D,2018-10-04 16:54:45,2018-10-02,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$21.69,-6000,507455,-1%,"-$130,140",,,,,CAMP
+19,D,2018-07-05 16:34:21,2018-07-03,CAMP,Sarkissian Garo Sarkis,SVP Corporate Development,S - Sale+OE,$24.10,-5000,192289,-3%,"-$120,500",,,,,CAMP
+20,D,2018-06-05 16:33:52,2018-06-01,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$21.35,-12500,483434,-3%,"-$266,875",,,,,CAMP
+21,D,2018-05-03 16:05:56,2018-05-01,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$19.58,-12500,483434,-3%,"-$244,750",,,,,CAMP
+22,D,2018-04-03 18:10:55,2018-04-02,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$22.53,-12500,483434,-3%,"-$281,625",,,,,CAMP
+23,D,2018-03-02 16:49:51,2018-03-01,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$23.29,-12500,483434,-3%,"-$291,125",,,,,CAMP
+24,D,2018-02-02 18:54:34,2018-02-01,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$24.35,-4000,483434,-1%,"-$97,400",,,,,CAMP
+25,D,2018-01-26 18:44:48,2018-01-25,CAMP,Sarkissian Garo Sarkis,SVP Corporate Development,S - Sale+OE,$25.00,-2000,192289,-1%,"-$50,000",,,,,CAMP
+26,D,2018-01-04 17:18:18,2018-01-03,CAMP,Sarkissian Garo Sarkis,SVP Business Development,S - Sale+OE,$22.00,-3000,192289,-2%,"-$66,000",,,,,CAMP
+27,D,2018-01-04 17:09:11,2018-01-02,CAMP,Burdiek Michael J,"Pres, CEO",S - Sale+OE,$21.68,-9000,483434,-2%,"-$195,080",,,,,CAMP

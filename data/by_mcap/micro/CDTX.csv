@@ -1,0 +1,24 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-15 18:41:43,2021-11-12,CDTX,Stein Jeffrey,"Pres, CEO",P - Purchase,$1.59,"+50,000",739489,+7%,"+$79,530",,,,,CDTX
+1,,2021-11-15 18:38:04,2021-11-12,CDTX,Shah Preetam,"CFO, CBO",P - Purchase,$1.54,"+20,000",20000,New,"+$30,800",,,,,CDTX
+2,,2021-09-14 19:59:09,2021-09-13,CDTX,Franson Timothy R,Dir,P - Purchase,$2.12,"+7,000",11000,+175%,"+$14,823",,,,,CDTX
+3,M,2021-08-19 16:24:31,2021-08-18,CDTX,Stein Jeffrey,"Pres, CEO",P - Purchase,$1.74,"+50,000",689489,+8%,"+$86,755",,,,,CDTX
+4,M,2021-04-05 18:24:31,2021-01-05,CDTX,Abdollahian Neil,Chief Business Officer,S - Sale,$2.26,-4337,57471,-7%,"-$9,816",,,,,CDTX
+5,M,2021-04-05 18:17:40,2021-01-05,CDTX,Daruwala Paul,COO,S - Sale,$2.16,-3461,50531,-6%,"-$7,485",,,,,CDTX
+6,M,2021-04-05 17:35:45,2021-01-05,CDTX,Oien Jessica,"GC, Secretary",S - Sale,$2.41,-2001,7764,-20%,"-$4,828",,,,,CDTX
+7,,2020-11-12 06:00:42,2020-11-10,CDTX,Stein Jeffrey,"Pres, CEO",P - Purchase,$2.00,"+50,000",621489,+9%,"+$100,015",,,,,CDTX
+8,,2020-11-12 06:00:42,2020-11-10,CDTX,Levine James E.,CFO,P - Purchase,$2.01,"+50,000",115834,+76%,"+$100,720",,,,,CDTX
+9,A,2020-06-25 20:03:23,2020-01-03,CDTX,Abdollahian Neil,Chief Business Officer,S - Sale,$3.42,-940,50308,-2%,"-$3,215",,,,,CDTX
+10,A,2020-06-25 20:01:40,2020-01-03,CDTX,Daruwala Paul,COO,S - Sale,$3.42,-940,52592,-2%,"-$3,215",,,,,CDTX
+11,A,2020-03-23 19:12:29,2019-09-24,CDTX,Levine James E.,CFO,P - Purchase,$1.91,"+30,000",30000,New,"+$57,240",,,,,CDTX
+12,,2020-01-06 17:28:55,2020-01-02,CDTX,Oien Jessica,"GC, Secretary",S - Sale,$3.86,-834,6965,-11%,"-$3,219",,,,,CDTX
+13,,2020-01-06 17:27:49,2020-01-03,CDTX,Abdollahian Neil,Chief Business Officer,S - Sale,$3.42,-2340,51248,-4%,"-$8,003",,,,,CDTX
+14,,2020-01-06 17:26:16,2020-01-03,CDTX,Daruwala Paul,COO,S - Sale,$3.42,-2340,53532,-4%,"-$8,003",,,,,CDTX
+15,,2019-10-03 21:15:22,2019-10-02,CDTX,Daruwala Paul,COO,S - Sale,$1.88,-3295,55872,-6%,"-$6,195",,,,,CDTX
+16,,2019-10-03 21:13:17,2019-10-01,CDTX,Abdollahian Neil,Chief Business Officer,S - Sale,$1.98,-7284,49588,-13%,"-$14,422",,,,,CDTX
+17,,2019-10-01 17:07:22,2019-09-27,CDTX,Oien Jessica,"GC, Secretary",S - Sale,$1.86,-1001,7799,-11%,"-$1,862",,,,,CDTX
+18,,2019-09-26 21:23:30,2019-09-24,CDTX,Stein Jeffrey,"Pres, CEO",P - Purchase,$1.91,"+52,500",523648,+11%,"+$100,102",,,,,CDTX
+19,,2019-09-26 21:17:27,2019-09-24,CDTX,Levine James E.,CFO,P - Purchase,$1.91,"+30,000",205000,+17%,"+$57,240",,,,,CDTX
+20,,2019-03-08 19:30:34,2019-03-08,CDTX,Abdollahian Neil,Chief Business Officer,S - Sale,$2.44,-2300,30472,-7%,"-$5,612",,,,,CDTX
+21,,2019-03-08 19:29:44,2019-03-07,CDTX,Daruwala Paul,COO,S - Sale,$2.55,-2240,49567,-4%,"-$5,714",,,,,CDTX
+22,D,2018-05-24 17:16:35,2018-05-23,CDTX,Stein Jeffrey,"Pres, CEO",P - Purchase,$4.70,"+212,766",472437,+82%,"+$1,000,000",,,,,CDTX

@@ -1,0 +1,31 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-12-06 21:01:07,2021-12-02,LJPC,Ramsay David A,Dir,P - Purchase,$3.75,"+24,500",100000,+32%,"+$91,990",,,,,LJPC
+1,M,2021-12-01 19:07:25,2021-11-29,LJPC,Tang Kevin C,"Dir, 10%",S - Sale,$3.93,-441290,9607934,-4%,"-$1,734,150",,,,,LJPC
+2,,2021-11-19 17:05:17,2021-11-17,LJPC,Ramsay David A,Dir,P - Purchase,$4.23,"+7,500",75500,+11%,"+$31,725",,,,,LJPC
+3,M,2021-06-01 18:42:29,2021-05-27,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$4.47,"+245,020",10049224,+2%,"+$1,095,693",,,,,LJPC
+4,,2021-05-26 18:28:50,2021-05-24,LJPC,Ramsay David A,Dir,P - Purchase,$3.49,"+20,000",68000,+42%,"+$69,838",,,,,LJPC
+5,M,2021-05-26 16:56:55,2021-05-24,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$3.96,"+398,714",9804204,+4%,"+$1,577,731",,,,,LJPC
+6,,2020-09-10 16:02:11,2020-09-08,LJPC,Ramsay David A,Dir,P - Purchase,$3.83,"+1,000",48000,+2%,"+$3,830",,,,,LJPC
+7,M,2020-09-09 18:55:36,2020-09-04,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$3.94,"+278,369",9405490,+3%,"+$1,096,829",,,,,LJPC
+8,M,2020-08-24 16:22:49,2020-08-20,LJPC,Ramsay David A,Dir,P - Purchase,$3.99,"+47,000",47000,New,"+$187,456",,,,,LJPC
+9,M,2020-08-14 16:49:02,2020-08-12,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$3.72,"+431,647",9127121,+5%,"+$1,605,100",,,,,LJPC
+10,M,2020-06-04 18:26:22,2020-06-02,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$4.91,"+615,129",8695474,+8%,"+$3,017,479",,,,,LJPC
+11,M,2020-02-03 17:02:37,2020-01-30,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$6.76,"+169,770",8080345,+2%,"+$1,146,968",,,,,LJPC
+12,,2020-01-16 16:05:22,2020-01-14,LJPC,Wellinghoff Darryl,Chief Commercial Officer,P - Purchase,$8.23,"+3,000",6545,+85%,"+$24,677",,,,,LJPC
+13,M,2020-01-13 17:59:03,2020-01-09,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$5.87,"+2,971,682",7910575,+60%,"+$17,434,468",,,,,LJPC
+14,M,2019-01-31 18:49:55,2019-01-29,LJPC,Chawla Lakhmir S,Chief Medical Officer,P - Purchase,$5.56,"+3,000",5259,+133%,"+$16,694",,,,,LJPC
+15,M,2019-01-09 21:54:36,2019-01-07,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$5.37,"+1,300,000",4938893,+36%,"+$6,985,285",,,,,LJPC
+16,,2019-01-09 21:29:45,2019-01-07,LJPC,Tidmarsh George F,"Pres, CEO, Secretary",P - Purchase,$5.85,"+2,000",1305326,0%,"+$11,700",,,,,LJPC
+17,,2019-01-09 21:29:15,2019-01-09,LJPC,Carver Jennifer,COO,P - Purchase,$6.17,"+5,000",12116,+70%,"+$30,825",,,,,LJPC
+18,,2019-01-09 21:28:48,2019-01-09,LJPC,Rolke James,Chief Scientific Officer,P - Purchase,$6.09,"+1,600",76330,+2%,"+$9,746",,,,,LJPC
+19,M,2019-01-09 19:37:06,2019-01-07,LJPC,Perceptive Advisors LLC,10%,S - Sale,$5.69,-2060235,2253376,-48%,"-$11,715,985",,,,,LJPC
+20,,2018-08-20 21:06:18,2018-08-16,LJPC,Rolke James,Chief Scientific Officer,P - Purchase,$22.00,"+1,000",74328,+1%,"+$21,997",,,,,LJPC
+21,,2018-08-20 21:05:47,2018-08-16,LJPC,Carver Jennifer,COO,P - Purchase,$20.90,"+1,000",6500,+18%,"+$20,895",,,,,LJPC
+22,,2018-03-26 16:59:01,2018-03-15,LJPC,Perceptive Advisors LLC,10%,P - Purchase,$29.50,"+700,000",4313611,+19%,"+$20,650,000",,,,,LJPC
+23,,2018-03-19 20:15:38,2018-03-15,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$29.50,"+508,474",4138893,+14%,"+$14,999,983",,,,,LJPC
+24,M,2018-03-02 17:56:49,2018-02-28,LJPC,Tang Kevin C,"Dir, 10%",P - Purchase,$30.06,"+40,000",3630419,+1%,"+$1,202,527",,,,,LJPC
+25,,2018-02-27 21:00:48,2018-02-23,LJPC,Carver Jennifer,COO,P - Purchase,$32.48,"+1,000",5500,+22%,"+$32,475",,,,,LJPC
+26,,2018-02-20 16:19:30,2018-02-15,LJPC,Perceptive Advisors LLC,10%,P - Purchase,$32.42,"+50,000",3613611,+1%,"+$1,621,000",,,,,LJPC
+27,M,2018-02-15 16:17:25,2018-02-13,LJPC,Perceptive Advisors LLC,10%,P - Purchase,$32.72,"+175,000",3563611,+5%,"+$5,725,250",,,,,LJPC
+28,D,2018-01-03 21:55:43,2017-12-29,LJPC,Douglass Laura L.,Dir,S - Sale+OE,$32.32,-10000,0,-100%,"-$323,208",,,,,LJPC
+29,,2017-12-29 17:07:56,2017-12-27,LJPC,Carver Jennifer,COO,P - Purchase,$33.22,"+1,000",4500,+29%,"+$33,215",,,,,LJPC

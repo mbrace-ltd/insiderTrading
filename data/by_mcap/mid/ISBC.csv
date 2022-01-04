@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-11-29 16:04:30,2021-11-24,ISBC,Burke P. Sean,"EVP, CFO",S - Sale+OE,$16.21,-100946,179085,-36%,"-$1,635,961",,,,,ISBC
+1,,2021-06-15 12:29:10,2021-06-14,ISBC,Harmon John E Sr,Dir,P - Purchase,$14.74,+300,1100,+38%,"+$4,422",,,,,ISBC
+2,,2020-09-21 15:54:16,2020-09-10,ISBC,Garibaldi James J.,Dir,S - Sale,$7.79,-25000,66980,-27%,"-$194,750",,,,,ISBC
+3,,2020-08-12 15:15:38,2020-08-11,ISBC,Burke P. Sean,"EVP, CFO",S - Sale,$8.40,-15000,208756,-7%,"-$126,028",,,,,ISBC
+4,,2019-11-01 16:25:46,2019-10-31,ISBC,Albanese Robert C,Dir,S - Sale,$12.03,-20000,107419,-16%,"-$240,629",,,,,ISBC
+5,D,2019-08-12 13:34:00,2019-08-08,ISBC,Albanese Robert C,Dir,S - Sale+OE,$11.14,-35302,127419,-22%,"-$393,272",,,,,ISBC
+6,,2019-08-05 18:05:40,2019-08-02,ISBC,Burke P. Sean,"EVP, CFO",S - Sale,$11.04,-20000,268449,-7%,"-$220,884",,,,,ISBC
+7,,2019-04-01 17:04:21,2019-04-01,ISBC,Albanese Robert C,Dir,S - Sale,$11.91,-5000,136988,-4%,"-$59,550",,,,,ISBC
+8,M,2019-03-08 21:04:38,2019-03-06,ISBC,"Blue Harbour Group, L.P.",10%,S - Sale,$12.33,-268100,56548056,0%,"-$3,304,490",,,,,ISBC
+9,,2019-02-22 17:23:51,2019-02-21,ISBC,Byrnes Doreen R,Dir,S - Sale,$12.74,-30000,126263,-19%,"-$382,307",,,,,ISBC
+10,,2019-01-02 17:12:49,2019-01-02,ISBC,Albanese Robert C,Dir,S - Sale,$10.28,-5000,141988,-3%,"-$51,400",,,,,ISBC
+11,,2018-10-02 15:13:40,2018-10-01,ISBC,Albanese Robert C,Dir,S - Sale,$12.29,-5000,146988,-3%,"-$61,450",,,,,ISBC
+12,,2018-08-01 13:56:09,2018-07-31,ISBC,Carlin Peter,Dir,P - Purchase,$12.56,"+1,000",1000,New,"+$12,557",,,,,ISBC
+13,,2018-07-03 11:29:22,2018-07-02,ISBC,Albanese Robert C,Dir,S - Sale,$12.70,-5000,151988,-3%,"-$63,500",,,,,ISBC
+14,D,2018-06-06 14:40:04,2018-06-05,ISBC,Siekerka Michele N,Dir,S - Sale+OE,$13.50,-70606,182268,-28%,"-$953,320",,,,,ISBC
+15,,2018-04-04 17:40:33,2018-04-02,ISBC,Albanese Robert C,Dir,S - Sale,$13.58,-5000,156988,-3%,"-$67,900",,,,,ISBC
+16,,2018-03-09 13:53:20,2018-03-08,ISBC,Burke P. Sean,"SVP, CFO",S - Sale,$14.17,-50000,357978,-12%,"-$708,386",,,,,ISBC
+17,D,2018-02-14 14:53:19,2018-02-13,ISBC,Cosgrove William V.,Dir,S - Sale+OE,$13.38,-100000,157450,-39%,"-$1,338,152",,,,,ISBC
+18,,2018-01-02 14:39:05,2018-01-02,ISBC,Albanese Robert C,Dir,S - Sale,$13.94,-5000,161988,-3%,"-$69,700",,,,,ISBC

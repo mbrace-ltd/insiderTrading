@@ -1,0 +1,48 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-22 08:35:54,2021-11-19,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$1.60,+930,38305,+2%,"+$1,488",,,,,WINT
+1,,2021-11-18 16:25:25,2021-11-18,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$1.61,+930,37375,+3%,"+$1,497",,,,,WINT
+2,,2021-10-25 09:17:43,2021-10-22,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$1.90,"+3,000",36445,+9%,"+$5,700",,,,,WINT
+3,,2021-10-19 16:56:06,2021-10-19,WINT,Huang James,Dir,P - Purchase,$1.90,"+50,000",2628134,+2%,"+$95,135",,,,,WINT
+4,,2021-10-19 16:51:46,2021-10-19,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$1.91,"+3,000",33445,+10%,"+$5,730",,,,,WINT
+5,,2021-04-20 07:44:42,2021-04-16,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$2.09,"+1,000",30445,+3%,"+$2,092",,,,,WINT
+6,,2021-04-19 07:49:12,2021-04-16,WINT,Hamill John P.,"SVP, CFO",P - Purchase,$2.07,"+1,000",3500,+40%,"+$2,067",,,,,WINT
+7,,2021-04-19 07:47:53,2021-04-15,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$2.24,"+1,000",29445,+4%,"+$2,240",,,,,WINT
+8,,2021-04-08 16:16:46,2021-04-07,WINT,Curtis Eric,"SVP, COO",P - Purchase,$2.52,+791,1291,+158%,"+$1,991",,,,,WINT
+9,,2021-04-07 16:18:26,2021-04-06,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$2.57,+500,28445,+2%,"+$1,285",,,,,WINT
+10,,2021-04-06 16:28:13,2021-04-05,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$2.58,"+1,000",27945,+4%,"+$2,580",,,,,WINT
+11,,2021-04-05 08:06:27,2021-04-01,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$2.46,+500,26945,+2%,"+$1,229",,,,,WINT
+12,,2021-04-02 17:13:54,2021-03-31,WINT,Huang James,"Dir, 10%",P - Purchase,$2.36,"+150,000",2578134,+6%,"+$354,000",,,,,WINT
+13,,2021-03-31 16:30:02,2021-03-31,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$2.32,+500,26445,+2%,"+$1,160",,,,,WINT
+14,D,2021-03-25 16:45:24,2021-03-25,WINT,Simonson Steven,"SVP, Chief Medical Officer",P - Purchase,$3.25,"+1,500",12594,+14%,"+$4,875",,,,,WINT
+15,D,2021-03-25 16:44:17,2021-03-25,WINT,Hamill John P.,"SVP, CFO",P - Purchase,$3.25,"+1,500",2500,+150%,"+$4,875",,,,,WINT
+16,,2020-10-29 06:08:32,2020-10-28,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$6.56,+250,24445,+1%,"+$1,640",,,,,WINT
+17,,2020-10-27 06:02:38,2020-10-23,WINT,Huang James,"Dir, 10%",P - Purchase,$6.67,"+1,000",2428134,0%,"+$6,666",,,,,WINT
+18,A,2020-10-26 18:26:21,2020-06-04,WINT,Huang James,"Dir, 10%",P - Purchase,$7.32,"+12,000",20000,+150%,"+$87,868",,,,,WINT
+19,,2020-10-13 08:40:56,2020-10-09,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$5.83,+250,24195,+1%,"+$1,456",,,,,WINT
+20,,2020-10-09 08:06:31,2020-10-07,WINT,Hamill John P.,"SVP, CFO",P - Purchase,$5.27,"+1,000",1000,New,"+$5,270",,,,,WINT
+21,,2020-10-09 08:05:03,2020-10-07,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$5.17,+250,23945,+1%,"+$1,293",,,,,WINT
+22,,2020-10-09 08:03:40,2020-10-08,WINT,Curtis Eric,"SVP, COO",P - Purchase,$5.27,+500,500,New,"+$2,635",,,,,WINT
+23,M,2020-06-05 20:36:39,2020-06-03,WINT,Huang James,"Dir, 10%",P - Purchase,$7.32,"+12,400",2427334,+1%,"+$90,816",,,,,WINT
+24,D,2020-05-27 21:56:57,2020-05-22,WINT,Templeton Mary B Esq,"SVP, GC, Corp Sec",P - Purchase,$7.25,"+1,103",1466,+304%,"+$7,997",,,,,WINT
+25,D,2020-05-27 21:55:31,2020-05-22,WINT,Tattory John A,"SVP, CFO",P - Purchase,$7.25,+449,9517,+5%,"+$3,255",,,,,WINT
+26,D,2020-05-27 21:54:27,2020-05-22,WINT,Simonson Steven,"SVP, Chief Medical Officer",P - Purchase,$7.25,+517,11094,+5%,"+$3,748",,,,,WINT
+27,D,2020-05-27 21:44:21,2020-05-22,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$7.25,"+2,069",23695,+10%,"+$15,000",,,,,WINT
+28,D,2020-05-27 21:43:21,2020-05-22,WINT,Schreiber Brian D,Dir,P - Purchase,$7.25,"+2,069",2069,New,"+$15,000",,,,,WINT
+29,D,2020-05-27 21:41:11,2020-05-22,WINT,Peacock Bruce,Dir,P - Purchase,$7.25,"+3,500",8886,+65%,"+$25,375",,,,,WINT
+30,D,2020-05-27 21:40:18,2020-05-22,WINT,Joseph Mahady M,Dir,P - Purchase,$7.25,"+2,069",7455,+38%,"+$15,000",,,,,WINT
+31,D,2020-05-27 21:39:05,2020-05-22,WINT,Leone John R,Dir,P - Purchase,$7.25,"+2,069",7473,+38%,"+$15,000",,,,,WINT
+32,D,2020-05-27 21:37:59,2020-05-22,WINT,Huang James,"Dir, 10%",P - Purchase,$7.25,"+275,862",2414934,+13%,"+$2,000,000",,,,,WINT
+33,D,2020-05-27 21:36:51,2020-05-22,WINT,Geffken Daniel E.,Dir,P - Purchase,$7.25,"+2,069",2069,New,"+$15,000",,,,,WINT
+34,,2020-02-20 16:21:02,2020-02-18,WINT,Huang James,"Dir, 10%",P - Purchase,$3.84,+400,6417218,0%,"+$1,535",,,,,WINT
+35,M,2020-02-12 16:07:35,2020-02-10,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$4.10,+500,64031,+1%,"+$2,050",,,,,WINT
+36,,2020-02-07 17:11:53,2020-02-07,WINT,Huang James,"Dir, 10%",P - Purchase,$4.05,+500,6416818,0%,"+$2,025",,,,,WINT
+37,M,2020-02-05 16:14:24,2020-02-03,WINT,Fraser Craig,"Pres, CEO",P - Purchase,$4.23,+600,63531,+1%,"+$2,540",,,,,WINT
+38,M,2020-01-21 20:52:25,2020-01-16,WINT,Huang James,"Dir, 10%",P - Purchase,$4.18,"+2,058",6416318,0%,"+$8,609",,,,,WINT
+39,,2020-01-03 16:41:48,2019-12-31,WINT,Huang James,"Dir, 10%",P - Purchase,$4.05,"+15,442",6414260,0%,"+$62,525",,,,,WINT
+40,M,2019-12-31 16:08:14,2019-12-27,WINT,Huang James,"Dir, 10%",P - Purchase,$3.74,"+5,000",6398818,0%,"+$18,724",,,,,WINT
+41,D,2019-12-10 19:55:08,2019-12-06,WINT,Lph II Investments Ltd,10%,P - Purchase,$3.02,"+1,655,629",4008234,+70%,"+$5,000,000",,,,,WINT
+42,D,2019-12-10 19:54:04,2019-12-06,WINT,Lee'S Pharmaceutical Holdings Ltd,10%,P - Purchase,$3.02,"+1,655,629",14450599,+13%,"+$5,000,000",,,,,WINT
+43,D,2019-12-10 16:36:01,2019-12-06,WINT,Huang James,"Dir, 10%",P - Purchase,$3.02,"+1,655,629",6393818,+35%,"+$5,000,000",,,,,WINT
+44,AD,2018-12-26 16:30:40,2018-12-21,WINT,Lee'S Pharmaceutical Holdings Ltd,10%,P - Purchase,$4.00,"+9,874,799",15715141,+169%,"+$39,459,228",,,,,WINT
+45,AD,2018-12-26 16:28:42,2018-12-21,WINT,Lph II Investments Ltd,10%,P - Purchase,$3.31,"+1,810,938",2352605,+334%,"+$5,994,205",,,,,WINT
+46,D,2018-04-06 13:54:19,2018-04-04,WINT,Lee'S Pharmaceutical Holdings Ltd,10%,P - Purchase,$4.80,"+541,667",2853271,+23%,"+$2,600,002",,,,,WINT

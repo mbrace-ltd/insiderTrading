@@ -1,0 +1,17 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-18 16:30:04,2021-03-17,CPB,Slavtcheff Craig,EVP,S - Sale,$48.88,-7000,36810,-16%,"-$342,153",,,,,CPB
+1,,2020-10-08 16:22:52,2020-10-08,CPB,Polomski Stanley,"VP, Controller",S - Sale,$48.07,-6075,31942,-16%,"-$292,025",,,,,CPB
+2,D,2020-03-06 16:15:35,2020-03-05,CPB,Ciongoli Adam G.,SVP,S - Sale+OE,$53.54,-98334,92386,-52%,"-$5,264,802",,,,,CPB
+3,D,2019-10-02 16:41:54,2019-09-30,CPB,Ciongoli Adam G.,SVP,S - Sale+OE,$47.16,-16096,95471,-14%,"-$759,087",,,,,CPB
+4,,2019-07-01 16:40:48,2019-06-28,CPB,Furbee Robert,SVP,S - Sale,$40.10,-6000,30822,-16%,"-$240,630",,,,,CPB
+5,D,2019-06-20 16:44:13,2019-06-20,CPB,Larrimore Randall W,Dir,S - Sale+OE,$41.36,-3400,15906,-18%,"-$140,629",,,,,CPB
+6,A,2019-06-19 17:36:39,2019-06-17,CPB,Polomski Stanley,"VP, Controller",S - Sale,$41.01,-9732,25454,-28%,"-$399,080",,,,,CPB
+7,,2019-06-18 17:08:19,2019-06-17,CPB,Polomski Stanley,"VP, Controller",S - Sale,$41.01,-9732,25454,-28%,"-$399,080",,,,,CPB
+8,D,2018-10-02 17:42:58,2018-10-02,CPB,Mignini Luca,SVP,P - Purchase,$36.41,5494,118862,+5%,"+$200,037",,,,,CPB
+9,,2018-06-07 15:53:36,2018-06-06,CPB,Hilado Maria Teresa,Dir,P - Purchase,$33.22,2000,4330,+86%,"+$66,431",,,,,CPB
+10,,2018-02-23 11:20:17,2018-02-21,CPB,Mignini Luca,SVP,P - Purchase,$45.53,4400,87814,+5%,"+$200,351",,,,,CPB
+11,,2017-12-29 09:32:00,2017-12-27,CPB,Larrimore Randall W,Dir,S - Sale,$48.69,-2242,15191,-13%,"-$109,163",,,,,CPB
+12,,2017-12-21 16:56:59,2017-12-21,CPB,Barroso Carlos,SVP,S - Sale,$48.86,-4300,29119,-13%,"-$210,098",,,,,CPB
+13,,2017-12-20 16:58:32,2017-12-20,CPB,Carolan Edward,SVP,S - Sale,$48.15,-6500,41510,-14%,"-$312,975",,,,,CPB
+14,,2017-10-10 15:16:13,2017-10-06,CPB,Perrin Charles R,Dir,S - Sale,$46.46,-2304,0,-100%,"-$107,046",,,,,CPB
+15,,2017-09-28 15:50:10,2017-09-27,CPB,Mignini Luca,SVP,P - Purchase,$46.47,4300,88178,+5%,"+$199,821",,,,,CPB

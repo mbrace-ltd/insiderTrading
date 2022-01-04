@@ -1,0 +1,19 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-06-30 12:39:00,2021-06-22,FRBK,Wildstein Harris,Dir,S - Sale,$4.33,-147955,686348,-18%,"-$640,121",,,,,FRBK
+1,,2020-10-26 16:00:49,2020-10-22,FRBK,Wildstein Harris,Dir,S - Sale,$2.35,-50000,834303,-6%,"-$117,500",,,,,FRBK
+2,M,2020-09-22 12:10:12,2020-09-17,FRBK,Wildstein Harris,Dir,P - Purchase,$2.00,"+73,737",884303,+9%,"+$147,227",,,,,FRBK
+3,DM,2020-03-04 13:33:00,2020-02-28,FRBK,Hill Vernon W II,Dir,P - Purchase,$3.00,"+100,000",4502150,+2%,"+$300,000",,,,,FRBK
+4,D,2020-03-04 13:25:29,2020-03-03,FRBK,Cavallaro Frank A.,CFO,P - Purchase,$3.00,"+4,575",18325,+33%,"+$13,723",,,,,FRBK
+5,,2019-05-23 13:24:38,2019-05-21,FRBK,Madonna Harry,Dir,P - Purchase,$5.10,"+10,000",698684,+1%,"+$51,017",,,,,FRBK
+6,,2019-05-16 15:26:31,2019-05-16,FRBK,Wildstein Harris,Dir,P - Purchase,$4.97,"+5,000",810566,+1%,"+$24,850",,,,,FRBK
+7,,2019-05-16 14:53:16,2019-05-15,FRBK,Tierney Brian,Dir,P - Purchase,$4.92,"+6,000",52913,+13%,"+$29,520",,,,,FRBK
+8,,2019-05-16 14:50:36,2019-05-15,FRBK,Spevak Barry,Dir,P - Purchase,$4.83,"+5,000",24999,+25%,"+$24,167",,,,,FRBK
+9,,2019-05-16 14:48:51,2019-05-15,FRBK,Flocco Theodore J Jr,Dir,P - Purchase,$4.87,"+5,000",53500,+10%,"+$24,342",,,,,FRBK
+10,,2019-05-16 13:05:22,2019-05-14,FRBK,Jacobs Lisa R.,Dir,P - Purchase,$4.84,"+2,900",8600,+51%,"+$14,026",,,,,FRBK
+11,,2019-05-09 09:18:22,2019-04-26,FRBK,Jacobs Lisa R.,Dir,P - Purchase,$5.00,"+1,500",5700,+36%,"+$7,500",,,,,FRBK
+12,D,2019-03-13 11:52:46,2018-08-07,FRBK,Young Tracie,Chief Risk Officer,S - Sale+OE,$7.74,-24000,1425,-94%,"-$185,760",,,,,FRBK
+13,D,2019-02-28 15:44:55,2019-02-26,FRBK,Logue Andrew J,"Pres, COO",S - Sale+OE,$6.42,-10000,25000,-29%,"-$64,200",,,,,FRBK
+14,M,2019-01-02 12:09:35,2018-12-28,FRBK,Jacobs Lisa R.,Dir,P - Purchase,$5.99,"+2,000",4200,+91%,"+$11,980",,,,,FRBK
+15,,2018-11-05 09:41:22,2018-11-01,FRBK,Flocco Theodore J Jr,Dir,P - Purchase,$6.79,"+10,000",48500,+26%,"+$67,924",,,,,FRBK
+16,,2018-08-01 15:57:05,2018-07-31,FRBK,Jacobs Lisa R.,Dir,P - Purchase,$8.12,"+1,200",2200,+120%,"+$9,739",,,,,FRBK
+17,,2018-02-23 14:10:01,2018-02-23,FRBK,Jacobs Lisa R.,Dir,P - Purchase,$8.43,"+1,000",1000,New,"+$8,425",,,,,FRBK

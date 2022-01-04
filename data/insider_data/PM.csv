@@ -1,0 +1,35 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-07-28 20:46:39,2021-07-27,PM,King Martin G.,"CEO, PMI America",S - Sale,$100.18,-21725,128484,-14%,"-$2,176,482",,,,,PM
+1,,2021-05-27 16:50:43,2021-05-25,PM,Azinovic Drago,"Pres Mid East, Africa, DF",S - Sale,$98.04,-15000,120396,-11%,"-$1,470,600",,,,,PM
+2,,2021-05-27 16:41:22,2021-05-25,PM,Riley Paul,"Pres East Asia, Australia",S - Sale,$98.04,-10984,38854,-22%,"-$1,076,871",,,,,PM
+3,,2021-05-26 16:10:31,2021-05-24,PM,De Wilde Frederic,"Pres, European Union Region",S - Sale,$97.76,-10000,186628,-5%,"-$977,600",,,,,PM
+4,,2021-05-12 16:28:12,2021-05-10,PM,Masseroli Mario,"Pres, Latin America, Canada",S - Sale,$98.31,-1734,14710,-11%,"-$170,470",,,,,PM
+5,,2021-04-29 15:40:23,2021-04-27,PM,King Martin G.,"CEO, PMI America",S - Sale,$94.51,-21066,150209,-12%,"-$1,990,979",,,,,PM
+6,,2021-04-23 16:35:53,2021-04-21,PM,Kennedy Stacey,"Pres South, Southeast Asia",S - Sale,$94.28,-10570,30239,-26%,"-$996,497",,,,,PM
+7,,2021-03-01 16:29:36,2021-02-25,PM,Bendotti Charles,"Global Head of People, Culture",S - Sale,$87.00,-19069,29656,-39%,"-$1,659,003",,,,,PM
+8,,2021-02-23 16:41:55,2021-02-19,PM,Calantzopoulos Andre,CEO,S - Sale,$86.37,-40000,880744,-4%,"-$3,454,816",,,,,PM
+9,,2021-02-10 16:23:31,2021-02-08,PM,Masseroli Mario,"Pres, Latin America, Canada",S - Sale,$85.05,-2000,16602,-11%,"-$170,090",,,,,PM
+10,,2021-02-08 16:41:15,2021-02-05,PM,Salzman Marian,"SVP, Global Communications",S - Sale,$84.39,-2000,23963,-8%,"-$168,780",,,,,PM
+11,,2020-09-02 15:25:31,2020-08-31,PM,Masseroli Mario,"Pres, Latin America, Canada",S - Sale,$80.10,-1500,11842,-11%,"-$120,152",,,,,PM
+12,M,2020-08-24 14:57:58,2020-08-20,PM,Camilleri Louis C,Dir,S - Sale,$77.73,-75000,336608,-18%,"-$5,829,979",,,,,PM
+13,,2020-08-12 16:05:57,2020-08-10,PM,Firestone Marc S,"Pres Ext Aff, GC",S - Sale,$77.99,-17000,191177,-8%,"-$1,325,745",,,,,PM
+14,,2020-02-28 16:34:18,2020-02-26,PM,Firestone Marc S,"Pres Ext Aff, GC",S - Sale,$86.27,-22000,208177,-10%,"-$1,897,984",,,,,PM
+15,,2020-02-21 16:25:39,2020-02-19,PM,Calantzopoulos Andre,CEO,S - Sale,$87.50,-50000,832385,-6%,"-$4,375,000",,,,,PM
+16,,2020-02-14 15:34:50,2020-02-12,PM,Camilleri Louis C,Dir,S - Sale,$88.33,-30000,407464,-7%,"-$2,649,933",,,,,PM
+17,,2020-01-07 17:21:07,2019-10-18,PM,Barth Werner,"SVP, Commercial",S - Sale,$81.44,-11000,48380,-19%,"-$895,788",,,,,PM
+18,,2019-07-25 15:27:44,2019-07-23,PM,Masseroli Mario,"Pres, Latin America, Canada",S - Sale,$87.42,-1100,7453,-13%,"-$96,162",,,,,PM
+19,M,2019-05-31 14:38:55,2019-05-29,PM,Kunst Michael R.,SrVP Commercial Transformation,P - Purchase,$79.66,1000,16310,+7%,"+$79,655",,,,,PM
+20,,2019-04-30 15:57:52,2019-04-29,PM,Kunst Michael R.,SrVP Commercial Transformation,P - Purchase,$84.67,2500,15310,+20%,"+$211,675",,,,,PM
+21,,2019-04-26 15:19:57,2019-04-24,PM,Camilleri Louis C,Dir,S - Sale,$83.54,-70000,433308,-14%,"-$5,848,101",,,,,PM
+22,,2019-04-24 15:18:33,2019-04-22,PM,Masseroli Mario,"Pres, Latin America, Canada",S - Sale,$84.32,-1200,8553,-12%,"-$101,185",,,,,PM
+23,,2019-02-22 16:11:12,2019-02-21,PM,Calantzopoulos Andre,CEO,S - Sale,$84.76,-50000,794901,-6%,"-$4,237,750",,,,,PM
+24,,2018-11-30 16:24:26,2018-11-29,PM,Camilleri Louis C,Dir,S - Sale,$86.98,-59495,501925,-11%,"-$5,174,905",,,,,PM
+25,M,2018-05-15 15:54:02,2018-05-11,PM,Li Jennifer,Dir,P - Purchase,$81.30,40000,62323,+179%,"+$3,251,982",,,,,PM
+26,,2018-05-15 15:50:25,2018-05-11,PM,Geissler Werner,Dir,P - Purchase,$81.44,48750,58026,+526%,"+$3,970,376",,,,,PM
+27,,2018-05-11 16:51:30,2018-05-11,PM,Camilleri Louis C,Dir,S - Sale,$82.06,-100000,560172,-15%,"-$8,206,215",,,,,PM
+28,,2018-05-01 15:05:37,2018-04-27,PM,Zielinski Miroslaw,"Pres, Science, Innovation",P - Purchase,$81.56,6000,221610,+3%,"+$489,360",,,,,PM
+29,,2018-04-25 15:33:38,2018-04-25,PM,Whitson Jerry,"Deputy Gen. Counsel, Corp. Sec",P - Purchase,$82.76,3000,54741,+6%,"+$248,282",,,,,PM
+30,,2018-02-23 16:36:46,2018-02-22,PM,Firestone Marc S,"Pres Ext Aff, GC",S - Sale,$104.63,-13650,175549,-7%,"-$1,428,145",,,,,PM
+31,,2018-02-23 16:29:50,2018-02-22,PM,Calantzopoulos Andre,CEO,S - Sale,$103.66,-49000,743765,-6%,"-$5,079,340",,,,,PM
+32,,2017-10-25 15:20:57,2017-10-24,PM,Camilleri Louis C,Chairman,S - Sale,$108.38,-108979,657167,-14%,"-$11,811,144",,,,,PM
+33,,2017-08-31 15:19:39,2017-08-30,PM,Azinovic Drago,"Pres EEMA, Duty Free",S - Sale,$116.00,-14000,79407,-15%,"-$1,624,000",,,,,PM

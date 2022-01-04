@@ -1,0 +1,76 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-09 16:46:35,2021-08-06,TGT,Liu Don H,Exec Officer,S - Sale,$261.93,-3000,62017,-5%,"-$785,790",,,,,TGT
+1,,2021-08-05 16:08:04,2021-08-04,TGT,Liu Don H,Exec Officer,S - Sale,$261.20,-13977,65017,-18%,"-$3,650,792",,,,,TGT
+2,,2021-07-20 15:17:25,2021-07-16,TGT,Liu Don H,Exec Officer,S - Sale,$253.90,-13985,78994,-15%,"-$3,550,792",,,,,TGT
+3,,2021-05-28 18:57:35,2021-05-27,TGT,Sylvester Cara A,Exec Officer,S - Sale,$227.56,-1950,7360,-21%,"-$443,732",,,,,TGT
+4,,2021-05-28 18:57:31,2021-05-27,TGT,Kremer Melissa K,Exec Officer,S - Sale,$226.19,-2603,9378,-22%,"-$588,773",,,,,TGT
+5,,2021-05-21 15:15:38,2021-05-20,TGT,Schindele Mark,Exec Officer,S - Sale,$218.05,-4758,8421,-36%,"-$1,037,482",,,,,TGT
+6,,2021-05-21 15:15:36,2021-05-20,TGT,Fiddelke Michael J,Exec Officer,S - Sale,$218.05,-5265,32507,-14%,"-$1,148,033",,,,,TGT
+7,,2021-05-21 15:15:24,2021-05-20,TGT,Liu Don H,Exec Officer,S - Sale,$218.05,-7225,95914,-7%,"-$1,575,411",,,,,TGT
+8,,2021-04-15 18:10:00,2021-04-13,TGT,McNamara Michael Edward,Exec Officer,S - Sale,$204.32,-31423,119166,-21%,"-$6,420,475",,,,,TGT
+9,,2021-04-12 14:14:43,2021-04-09,TGT,Kremer Melissa K,Exec Officer,S - Sale,$204.00,-1930,11981,-14%,"-$393,720",,,,,TGT
+10,,2021-04-12 14:14:36,2021-04-09,TGT,Hennington Christina,Exec Officer,S - Sale,$204.00,-2121,25663,-8%,"-$432,684",,,,,TGT
+11,,2021-04-08 19:00:24,2021-04-08,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$203.61,-2353,6265,-27%,"-$479,094",,,,,TGT
+12,,2021-04-08 19:00:17,2021-04-08,TGT,Boylan Katie M,Exec Officer,S - Sale,$203.12,-1600,12881,-11%,"-$324,999",,,,,TGT
+13,,2021-03-26 11:58:45,2021-03-25,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$192.45,-2282,6265,-27%,"-$439,167",,,,,TGT
+14,,2021-03-23 16:09:55,2021-03-19,TGT,Hennington Christina,Exec Officer,S - Sale,$183.00,-1852,25661,-7%,"-$338,916",,,,,TGT
+15,,2021-03-23 16:09:48,2021-03-19,TGT,Kremer Melissa K,Exec Officer,S - Sale,$188.00,-716,11981,-6%,"-$134,608",,,,,TGT
+16,D,2021-03-15 16:43:11,2021-03-12,TGT,Fiddelke Michael J,Exec Officer,S - Sale+OE,$179.48,-450,38448,-1%,"-$80,767",,,,,TGT
+17,,2021-03-05 16:34:37,2021-03-03,TGT,Cornell Brian C,Exec Officer,S - Sale,$174.23,-93364,313346,-23%,"-$16,266,763",,,,,TGT
+18,,2021-01-19 16:30:02,2021-01-14,TGT,Lundquist Stephanie A,Exec Officer,S - Sale,$198.34,-16894,58514,-22%,"-$3,350,680",,,,,TGT
+19,,2020-11-23 17:11:38,2020-11-19,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$169.50,-1220,8072,-13%,"-$206,790",,,,,TGT
+20,,2020-10-09 06:01:37,2020-10-07,TGT,Lundquist Stephanie A,Exec Officer,S - Sale,$161.00,-4471,75339,-6%,"-$719,831",,,,,TGT
+21,D,2020-09-30 16:12:40,2020-09-29,TGT,McNamara Michael Edward,Exec Officer,S - Sale+OE,$157.15,-27726,121190,-19%,"-$4,357,041",,,,,TGT
+22,M,2020-09-23 18:42:21,2020-09-21,TGT,Schindele Mark,Exec Officer,S - Sale,$151.56,-7213,9838,-42%,"-$1,093,199",,,,,TGT
+23,D,2020-09-21 17:22:28,2020-09-17,TGT,Hennington Christina,Exec Officer,S - Sale+OE,$148.17,-5825,21429,-21%,"-$863,067",,,,,TGT
+24,,2020-08-26 19:46:29,2020-08-25,TGT,Liu Don H,Exec Officer,S - Sale,$154.28,-2487,80991,-3%,"-$383,694",,,,,TGT
+25,D,2020-08-24 13:29:43,2020-08-20,TGT,Cornell Brian C,Exec Officer,S - Sale+OE,$153.11,-100000,405673,-20%,"-$15,311,313",,,,,TGT
+26,,2020-08-24 13:24:25,2020-08-20,TGT,Hennington Christina,Exec Officer,S - Sale,$154.93,-3564,18864,-16%,"-$552,171",,,,,TGT
+27,D,2020-08-24 13:24:18,2020-08-20,TGT,Fiddelke Michael J,Exec Officer,S - Sale+OE,$154.93,-391,26688,-1%,"-$60,578",,,,,TGT
+28,D,2020-08-24 13:21:01,2020-08-20,TGT,Kremer Melissa K,Exec Officer,S - Sale+OE,$152.40,-8206,10811,-43%,"-$1,250,597",,,,,TGT
+29,,2020-08-24 13:19:36,2020-08-20,TGT,Lundquist Stephanie A,Exec Officer,S - Sale,$153.09,-6631,79731,-8%,"-$1,015,140",,,,,TGT
+30,D,2020-08-24 13:17:34,2020-08-20,TGT,Ward Laysha,Exec Officer,S - Sale+OE,$154.04,-61094,90405,-40%,"-$9,410,944",,,,,TGT
+31,,2020-08-24 13:11:15,2020-08-19,TGT,Mulligan John J,Exec Officer,S - Sale,$148.93,-28571,247379,-10%,"-$4,255,108",,,,,TGT
+32,D,2020-08-06 17:18:14,2020-08-04,TGT,Liu Don H,Exec Officer,S - Sale+OE,$130.00,-8000,90647,-8%,"-$1,040,000",,,,,TGT
+33,,2020-07-27 19:04:54,2020-07-24,TGT,Liu Don H,Exec Officer,S - Sale,$125.00,-4000,68330,-6%,"-$500,000",,,,,TGT
+34,,2020-07-01 21:43:17,2020-06-30,TGT,Liu Don H,Exec Officer,S - Sale,$120.00,-4000,57865,-6%,"-$480,000",,,,,TGT
+35,DM,2020-06-04 19:35:10,2020-06-02,TGT,Austin Roxanne S,Dir,S - Sale+OE,$121.16,-17415,34838,-33%,"-$2,109,974",,,,,TGT
+36,D,2020-06-02 18:23:36,2020-05-29,TGT,Austin Roxanne S,Dir,S - Sale+OE,$120.04,-4109,44838,-8%,"-$493,250",,,,,TGT
+37,,2020-05-26 16:52:56,2020-05-21,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$119.34,-2500,9208,-21%,"-$298,360",,,,,TGT
+38,,2020-05-26 16:52:52,2020-05-22,TGT,Sando Jill,Exec Officer,S - Sale,$118.71,-2435,20261,-11%,"-$289,064",,,,,TGT
+39,,2020-05-13 18:04:46,2020-05-11,TGT,Cornell Brian C,Exec Officer,S - Sale,$120.00,-110000,403917,-21%,"-$13,200,000",,,,,TGT
+40,,2020-03-17 19:36:00,2020-03-17,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$102.00,-631,8692,-7%,"-$64,362",,,,,TGT
+41,,2020-03-11 19:54:03,2020-03-11,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$107.67,-464,7339,-6%,"-$49,961",,,,,TGT
+42,,2019-11-27 12:31:15,2019-11-25,TGT,Lundquist Stephanie A,Exec Officer,S - Sale,$127.00,-6630,27760,-19%,"-$842,010",,,,,TGT
+43,,2019-11-21 15:57:35,2019-11-20,TGT,Liu Don H,Exec Officer,S - Sale,$122.20,-2274,37616,-6%,"-$277,883",,,,,TGT
+44,,2019-10-10 18:57:12,2019-10-08,TGT,Liu Don H,Exec Officer,S - Sale,$110.00,-2000,39890,-5%,"-$220,000",,,,,TGT
+45,D,2019-09-09 17:02:56,2019-09-06,TGT,Ward Laysha,Exec Officer,S - Sale+OE,$110.23,-20000,72540,-22%,"-$2,204,600",,,,,TGT
+46,,2019-08-30 13:04:05,2019-08-29,TGT,McNamara Michael Edward,Exec Officer,S - Sale,$108.25,-20386,64517,-24%,"-$2,206,760",,,,,TGT
+47,,2019-08-28 15:30:50,2019-08-26,TGT,Tritton Mark J,Exec Officer,S - Sale,$105.00,-15000,20986,-42%,"-$1,575,000",,,,,TGT
+48,D,2019-08-26 20:07:05,2019-08-22,TGT,Mulligan John J,Exec Officer,S - Sale+OE,$104.77,-143873,183766,-44%,"-$15,072,820",,,,,TGT
+49,D,2019-08-26 20:07:00,2019-08-22,TGT,Ward Laysha,Exec Officer,S - Sale+OE,$104.61,-25681,72540,-26%,"-$2,686,498",,,,,TGT
+50,D,2019-08-26 20:06:56,2019-08-23,TGT,Lundquist Stephanie A,Exec Officer,S - Sale+OE,$104.99,-6951,34288,-17%,"-$729,785",,,,,TGT
+51,,2019-08-26 19:34:22,2019-08-23,TGT,Smith Cathy R,Exec Officer,S - Sale,$104.40,-8412,23645,-26%,"-$878,207",,,,,TGT
+52,,2019-08-26 19:25:10,2019-08-22,TGT,Potts Janna A.,Exec Officer,S - Sale,$106.50,-9540,18646,-34%,"-$1,015,968",,,,,TGT
+53,D,2019-08-26 19:25:06,2019-08-22,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale+OE,$104.66,-13540,7903,-63%,"-$1,417,082",,,,,TGT
+54,,2019-08-23 14:14:12,2019-08-21,TGT,Liu Don H,Exec Officer,S - Sale,$99.92,-4140,45921,-8%,"-$413,669",,,,,TGT
+55,,2019-07-10 14:52:35,2019-07-09,TGT,McNamara Michael Edward,Exec Officer,S - Sale,$88.79,-11891,84903,-12%,"-$1,055,784",,,,,TGT
+56,D,2019-06-17 12:52:11,2019-06-13,TGT,Austin Roxanne S,Dir,S - Sale+OE,$89.00,-4163,42532,-9%,"-$370,507",,,,,TGT
+57,D,2019-06-13 14:46:32,2019-06-12,TGT,Lundquist Stephanie A,Exec Officer,S - Sale+OE,$88.01,-8367,34286,-20%,"-$736,358",,,,,TGT
+58,,2019-05-24 12:07:50,2019-05-23,TGT,Potts Janna A.,Exec Officer,S - Sale,$79.00,-8759,28048,-24%,"-$691,961",,,,,TGT
+59,,2019-04-12 10:09:26,2019-04-11,TGT,Smith Cathy R,Exec Officer,S - Sale,$80.83,-20000,31883,-39%,"-$1,616,594",,,,,TGT
+60,,2019-04-11 19:26:22,2019-04-11,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$80.28,-1791,12836,-12%,"-$143,776",,,,,TGT
+61,,2019-03-28 13:06:35,2019-03-26,TGT,McNamara Michael Edward,Exec Officer,S - Sale,$79.18,-5186,77550,-6%,"-$410,609",,,,,TGT
+62,,2019-03-05 17:17:36,2019-03-01,TGT,Smith Cathy R,Exec Officer,S - Sale,$74.00,-30000,33334,-47%,"-$2,220,000",,,,,TGT
+63,,2018-10-10 15:52:15,2018-10-09,TGT,Lundquist Stephanie A,Exec Officer,S - Sale,$86.00,-2100,22832,-8%,"-$180,600",,,,,TGT
+64,D,2018-09-26 16:28:43,2018-09-24,TGT,Potts Janna A.,Exec Officer,S - Sale+OE,$88.00,-15172,21460,-41%,"-$1,335,136",,,,,TGT
+65,A,2018-09-10 17:03:42,2018-08-23,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale,$86.71,-9820,10314,-49%,"-$851,509",,,,,TGT
+66,D,2018-06-13 16:05:12,2018-06-11,TGT,Ward Laysha,Exec Officer,S - Sale+OE,$79.33,-43926,54996,-44%,"-$3,484,825",,,,,TGT
+67,,2018-06-06 16:44:47,2018-06-05,TGT,Liu Don H,Exec Officer,S - Sale,$78.00,-7000,55210,-11%,"-$546,000",,,,,TGT
+68,,2018-06-05 15:12:08,2018-06-04,TGT,Potts Janna A.,Exec Officer,S - Sale,$75.00,-5152,22621,-19%,"-$386,400",,,,,TGT
+69,,2018-05-17 15:11:59,2018-05-16,TGT,Liu Don H,Exec Officer,S - Sale,$75.00,-2735,62210,-4%,"-$205,125",,,,,TGT
+70,D,2018-04-04 19:05:18,2018-04-03,TGT,Mulligan John J,Exec Officer,S - Sale+OE,$69.37,-118373,127295,-48%,"-$8,211,405",,,,,TGT
+71,,2018-01-25 16:13:15,2018-01-23,TGT,Lundquist Stephanie A,Exec Officer,S - Sale,$78.08,-3000,17253,-15%,"-$234,231",,,,,TGT
+72,D,2018-01-22 16:08:08,2018-01-18,TGT,Harrison Robert M,Chief Accounting Officer,S - Sale+OE,$76.74,-8557,5791,-60%,"-$656,644",,,,,TGT
+73,D,2017-12-18 16:48:22,2017-12-15,TGT,Austin Roxanne S,Dir,S - Sale+OE,$62.61,-4705,36177,-12%,"-$294,571",,,,,TGT
+74,M,2017-09-18 17:12:50,2017-09-14,TGT,Jacqueline Hourigan Rice,Exec Officer,S - Sale,$59.37,-4679,12518,-27%,"-$277,799",,,,,TGT

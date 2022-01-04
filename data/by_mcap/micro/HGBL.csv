@@ -1,0 +1,45 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-16 19:50:46,2021-12-15,HGBL,Hexner Michael,Dir,P - Purchase,$1.49,"+16,778",115008,+17%,"+$24,999",,,,,HGBL
+1,,2021-12-06 18:59:55,2021-12-06,HGBL,Dove Ross,CEO,P - Purchase,$1.63,"+30,701",2137270,+1%,"+$50,043",,,,,HGBL
+2,,2021-12-02 16:11:55,2021-12-01,HGBL,Hexner Michael,Dir,P - Purchase,$1.60,"+15,500",98230,+19%,"+$24,800",,,,,HGBL
+3,,2021-11-30 18:07:09,2021-11-30,HGBL,Shimer Samuel L,Dir,P - Purchase,$1.51,"+8,800",145000,+6%,"+$13,288",,,,,HGBL
+4,,2021-11-29 10:32:02,2021-11-26,HGBL,Shimer Samuel L,Dir,P - Purchase,$1.59,"+1,200",136200,+1%,"+$1,908",,,,,HGBL
+5,,2021-11-19 10:54:19,2021-11-18,HGBL,Hexner Michael,Dir,P - Purchase,$1.74,"+2,200",82730,+3%,"+$3,828",,,,,HGBL
+6,,2021-11-15 14:31:07,2021-11-15,HGBL,Dove Ross,CEO,P - Purchase,$1.74,"+57,342",2106569,+3%,"+$99,775",,,,,HGBL
+7,,2021-11-15 14:13:00,2021-11-15,HGBL,Hexner Michael,Dir,P - Purchase,$1.80,"+20,000",80530,+33%,"+$36,000",,,,,HGBL
+8,,2021-11-12 18:15:02,2021-11-12,HGBL,Shimer Samuel L,Dir,P - Purchase,$1.59,"+11,611",135000,+9%,"+$18,461",,,,,HGBL
+9,,2021-11-12 13:23:25,2021-11-12,HGBL,Cobb Brian J.,"VP of Finance, Controller",P - Purchase,$1.68,"+10,375",55625,+23%,"+$17,396",,,,,HGBL
+10,M,2021-09-03 17:22:07,2021-09-01,HGBL,Silber Allan C,10%,S - Sale,$2.15,-53467,3620961,-1%,"-$115,085",,,,,HGBL
+11,M,2021-08-31 17:31:05,2021-08-27,HGBL,Silber Allan C,10%,S - Sale,$2.12,-71101,3674428,-2%,"-$150,954",,,,,HGBL
+12,M,2021-08-26 18:47:39,2021-08-24,HGBL,Silber Allan C,10%,S - Sale,$1.92,-155162,3745529,-4%,"-$298,289",,,,,HGBL
+13,,2021-08-25 20:15:40,2021-08-25,HGBL,Hexner Michael,Dir,P - Purchase,$1.90,"+34,504",26992,-459%,"+$65,515",,,,,HGBL
+14,,2021-08-25 17:05:04,2021-08-25,HGBL,Dove Ross,CEO,P - Purchase,$2.13,"+24,913",2049227,+1%,"+$53,065",,,,,HGBL
+15,,2021-08-25 11:59:24,2021-08-25,HGBL,Cobb Brian J.,"VP of Finance, Controller",P - Purchase,$1.85,"+10,500",49625,+27%,"+$19,425",,,,,HGBL
+16,,2021-08-20 17:53:57,2021-08-19,HGBL,Silber Allan C,10%,S - Sale,$1.79,-81400,3900691,-2%,"-$145,706",,,,,HGBL
+17,,2021-08-17 18:25:06,2021-08-13,HGBL,Silber Allan C,10%,S - Sale,$1.90,-2500,3982091,0%,"-$4,750",,,,,HGBL
+18,,2021-07-02 15:41:07,2021-06-30,HGBL,Silber Allan C,10%,S - Sale,$2.53,-681,3561926,0%,"-$1,726",,,,,HGBL
+19,DM,2021-05-11 17:28:42,2021-03-11,HGBL,Silber Allan C,10%,S - Sale+OE,$2.98,-601593,3985272,-13%,"-$1,790,755",,,,,HGBL
+20,,2021-03-11 11:32:01,2021-03-11,HGBL,Dove Ross,CEO,P - Purchase,$3.03,"+6,500",1844085,0%,"+$19,695",,,,,HGBL
+21,M,2020-10-06 18:11:09,2020-10-02,HGBL,"Topline Capital Management, LLC",See Explanation in Footnotes,P - Purchase,$1.76,"+908,937",4420000,+26%,"+$1,602,280",,,,,HGBL
+22,M,2020-10-06 17:33:21,2020-10-02,HGBL,"Topline Capital Partners, LP",10%,P - Purchase,$1.76,"+908,937",4420000,+26%,"+$1,602,280",,,,,HGBL
+23,,2020-10-05 18:44:37,2020-10-02,HGBL,Dove Ross,CEO,P - Purchase,$1.75,"+28,570",1837585,+2%,"+$49,998",,,,,HGBL
+24,,2020-08-11 14:04:42,2020-08-11,HGBL,Dove Ross,CEO,P - Purchase,$3.22,"+7,225",1809015,0%,"+$23,265",,,,,HGBL
+25,,2020-05-22 15:59:50,2020-05-22,HGBL,"Topline Capital Partners, LP",10%,P - Purchase,$1.09,"+264,000",3511063,+8%,"+$287,760",,,,,HGBL
+26,,2020-05-22 15:47:50,2020-05-22,HGBL,"Topline Capital Management, LLC",See Explanation in Footnotes,P - Purchase,$1.09,"+264,000",3511063,+8%,"+$287,760",,,,,HGBL
+27,,2020-05-22 14:10:51,2020-05-22,HGBL,Dove Ross,CEO,P - Purchase,$1.22,"+20,000",1801790,+1%,"+$24,400",,,,,HGBL
+28,,2020-03-18 13:03:17,2020-03-18,HGBL,West Scott Allen,CFO,P - Purchase,$0.69,"+1,000",407360,0%,+$692,,,,,HGBL
+29,,2019-12-16 11:11:43,2019-12-16,HGBL,Dove Ross,CEO,P - Purchase,$0.90,"+27,750",1781790,+2%,"+$24,947",,,,,HGBL
+30,,2019-11-13 12:58:50,2019-11-11,HGBL,Dove Ross,CEO,P - Purchase,$0.90,"+110,000",1754040,+7%,"+$99,000",,,,,HGBL
+31,M,2019-10-01 12:26:47,2019-09-27,HGBL,Hexner Michael,Dir,P - Purchase,$0.80,"+26,026",15,-100%,"+$20,893",,,,,HGBL
+32,,2019-09-19 12:20:26,2019-09-19,HGBL,Dove Ross,CEO,P - Purchase,$0.75,"+13,000",1644040,+1%,"+$9,724",,,,,HGBL
+33,,2019-09-17 16:25:42,2019-09-17,HGBL,West Scott Allen,CFO,P - Purchase,$0.73,"+3,882",406360,+1%,"+$2,814",,,,,HGBL
+34,,2019-08-09 11:10:07,2019-08-08,HGBL,Ludwig David Van,Pres of subsidiary,P - Purchase,$0.72,"+137,000",681605,+25%,"+$98,620",,,,,HGBL
+35,,2019-08-07 13:18:21,2019-08-07,HGBL,Dove Ross,CEO,P - Purchase,$0.69,"+14,440",1631040,+1%,"+$10,007",,,,,HGBL
+36,,2019-06-13 14:57:42,2019-06-13,HGBL,Dove Ross,CEO,P - Purchase,$0.70,"+16,500",1616600,+1%,"+$11,550",,,,,HGBL
+37,,2019-05-24 16:27:23,2019-05-24,HGBL,Dove Ross,CEO,P - Purchase,$0.64,"+28,500",1600100,+2%,"+$18,240",,,,,HGBL
+38,M,2019-05-20 17:23:10,2019-05-13,HGBL,Ludwig David Van,Pres of subsidiary,P - Purchase,$0.56,"+88,105",633000,+16%,"+$49,751",,,,,HGBL
+39,,2019-03-21 17:49:17,2019-03-18,HGBL,Demoss Emmett,Dir,P - Purchase,$0.50,"+5,000",30000,+20%,"+$2,500",,,,,HGBL
+40,,2018-09-14 17:40:19,2018-09-14,HGBL,Dove Ross,CEO,P - Purchase,$0.70,"+15,000",1574600,+1%,"+$10,500",,,,,HGBL
+41,,2018-03-30 18:47:54,2018-03-29,HGBL,West Scott Allen,"CFO, Heritage Global Inc.",P - Purchase,$0.39,"+41,005",402478,+11%,"+$15,992",,,,,HGBL
+42,,2018-03-26 09:15:31,2018-03-22,HGBL,West Scott Allen,"CFO, Heritage Global Inc.",P - Purchase,$0.35,"+28,073",361473,+8%,"+$9,854",,,,,HGBL
+43,,2018-03-22 06:53:54,2018-03-21,HGBL,West Scott Allen,"CFO, Heritage Global Inc.",P - Purchase,$0.36,"+68,500",333400,+26%,"+$24,318",,,,,HGBL

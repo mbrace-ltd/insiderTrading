@@ -1,0 +1,29 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-15 18:10:41,2021-11-15,PLBC,Gansert Heidi S,Dir,P - Purchase,$36.50,"+1,000",3125,+47%,"+$36,500",,,,,PLBC
+1,,2021-11-01 18:23:43,2021-11-01,PLBC,Belstock Richard L,"EVP, CFO",S - Sale,$37.46,-957,47925,-2%,"-$35,853",,,,,PLBC
+2,,2021-10-29 16:32:48,2021-10-29,PLBC,Belstock Richard L,"EVP, CFO",S - Sale,$37.45,-615,48882,-1%,"-$23,030",,,,,PLBC
+3,M,2021-10-28 18:28:28,2021-10-27,PLBC,Belstock Richard L,"EVP, CFO",S - Sale,$37.39,-428,49497,-1%,"-$16,003",,,,,PLBC
+4,,2021-08-03 14:46:52,2021-08-03,PLBC,Gansert Heidi S,Dir,P - Purchase,$31.95,"+1,000",2125,+89%,"+$31,950",,,,,PLBC
+5,,2021-07-30 17:40:33,2021-07-30,PLBC,Ascuaga Michonne R.,Dir,P - Purchase,$31.83,+838,4041,+26%,"+$26,674",,,,,PLBC
+6,,2020-06-01 11:47:34,2020-05-28,PLBC,Coldani Steven M.,Dir,P - Purchase,$18.90,+826,16802,+5%,"+$15,614",,,,,PLBC
+7,,2020-05-28 15:20:24,2020-05-27,PLBC,Ascuaga Michonne R.,Dir,P - Purchase,$19.43,"+1,079",3203,+51%,"+$20,961",,,,,PLBC
+8,,2020-03-02 10:55:41,2020-02-28,PLBC,Ascuaga Michonne R.,Dir,P - Purchase,$25.67,+101,2124,+5%,"+$2,593",,,,,PLBC
+9,,2020-02-25 14:59:18,2020-02-24,PLBC,Ascuaga Michonne R.,Dir,P - Purchase,$27.33,+475,2023,+31%,"+$12,982",,,,,PLBC
+10,,2019-11-01 12:44:48,2019-10-30,PLBC,Gansert Heidi S,Dir,P - Purchase,$22.25,"+1,125",1125,New,"+$25,031",,,,,PLBC
+11,M,2019-11-01 12:16:19,2019-07-24,PLBC,Ascuaga Michonne R.,Dir,P - Purchase,$24.14,"+1,548",1548,New,"+$37,368",,,,,PLBC
+12,,2019-10-22 15:33:51,2019-10-21,PLBC,Kenny Richard Francis,Dir,P - Purchase,$21.60,"+1,158",6474,+22%,"+$25,013",,,,,PLBC
+13,,2019-07-29 17:19:04,2019-07-26,PLBC,Moore Jeffrey T.,"EVP, CCO",P - Purchase,$24.93,"+1,000",1000,New,"+$24,930",,,,,PLBC
+14,,2019-07-25 18:30:01,2019-07-24,PLBC,Kenny Richard Francis,Dir,P - Purchase,$24.80,"+1,004",5316,+23%,"+$24,899",,,,,PLBC
+15,,2019-05-20 09:04:34,2019-05-17,PLBC,North Bj,"EVP, Chief Banking Officer",S - Sale,$24.84,-6400,0,-100%,"-$158,954",,,,,PLBC
+16,A,2019-03-05 17:41:50,2018-11-30,PLBC,McClintock Robert J,Dir,P - Purchase,$23.37,+815,102772,+1%,"+$19,051",,,,,PLBC
+17,AM,2019-03-05 17:40:04,2018-08-30,PLBC,McClintock Robert J,Dir,P - Purchase,$26.37,+676,101957,+1%,"+$17,828",,,,,PLBC
+18,,2019-02-05 15:33:55,2019-02-04,PLBC,Elliott William E,Dir,S - Sale,$24.56,-1000,73200,-1%,"-$24,565",,,,,PLBC
+19,,2018-12-03 14:33:11,2018-11-30,PLBC,McClintock Robert J,Dir,P - Purchase,$23.37,+815,101172,+1%,"+$19,051",,,,,PLBC
+20,,2018-11-29 14:56:11,2018-11-28,PLBC,Kenny Richard Francis,Dir,P - Purchase,$23.50,"+1,059",4312,+33%,"+$24,887",,,,,PLBC
+21,D,2018-11-19 19:40:55,2018-11-16,PLBC,Ryback Andrew J,"Pres, CEO",P - Purchase,$26.22,+600,54796,+1%,"+$15,732",,,,,PLBC
+22,,2018-11-14 18:13:27,2018-11-13,PLBC,Kenny Richard Francis,Dir,P - Purchase,$26.28,+953,3253,+41%,"+$25,045",,,,,PLBC
+23,M,2018-09-04 13:09:25,2018-08-30,PLBC,McClintock Robert J,Dir,P - Purchase,$26.37,+676,100357,+1%,"+$17,828",,,,,PLBC
+24,,2018-05-02 14:02:35,2018-05-01,PLBC,Elliott William E,Dir,S - Sale,$28.01,-2000,71000,-3%,"-$56,020",,,,,PLBC
+25,,2018-02-27 13:41:00,2018-02-23,PLBC,McClintock Robert J,Dir,P - Purchase,$24.88,"+1,000",99681,+1%,"+$24,875",,,,,PLBC
+26,,2018-02-14 20:21:07,2018-02-08,PLBC,Coldani Steven M.,Dir,P - Purchase,$24.09,"+2,000",15976,+14%,"+$48,180",,,,,PLBC
+27,,2018-02-08 15:17:03,2018-02-06,PLBC,Kenny Richard Francis,Dir,P - Purchase,$23.97,"+1,040",2300,+83%,"+$24,929",,,,,PLBC

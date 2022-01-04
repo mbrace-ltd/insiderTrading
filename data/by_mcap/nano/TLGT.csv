@@ -1,0 +1,13 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-05-27 14:12:21,2021-05-27,TLGT,Pate R Carter,Dir,P - Purchase,$0.55,"+30,000",30000,New,"+$16,491",,,,,TLGT
+1,M,2020-09-16 20:44:12,2020-08-19,TLGT,Life Sciences Opportunities Fund Instittutional II LP,"Dir, 10%",S - Sale,$1.39,-869283,17515,-98%,"-$1,209,146",,,,,TLGT
+2,,2019-06-04 14:41:20,2019-06-03,TLGT,Chaudhuri Bhaskar,Dir,P - Purchase,$0.70,"+10,000",10000,New,"+$7,005",,,,,TLGT
+3,,2019-06-03 13:49:34,2019-05-31,TLGT,Sabatino Thomas J Jr,Dir,P - Purchase,$0.66,"+25,000",25000,New,"+$16,520",,,,,TLGT
+4,,2019-05-31 18:30:09,2019-05-31,TLGT,Celentano John E,Dir,P - Purchase,$0.65,"+20,000",20000,New,"+$12,904",,,,,TLGT
+5,,2019-05-31 18:28:44,2019-05-31,TLGT,Gale James C,Dir,P - Purchase,$0.66,"+20,000",419624,+5%,"+$13,166",,,,,TLGT
+6,,2019-05-31 10:39:33,2019-05-30,TLGT,Ben-Maimon Carole,Dir,P - Purchase,$0.59,"+10,000",16000,+167%,"+$5,885",,,,,TLGT
+7,,2019-05-24 08:00:45,2019-05-23,TLGT,Grenfell-Gardner Jason,"Pres, CEO",P - Purchase,$0.69,"+25,000",119849,+26%,"+$17,335",,,,,TLGT
+8,,2019-05-24 08:00:19,2019-05-23,TLGT,Gale James C,Dir,P - Purchase,$0.69,"+20,000",399624,+5%,"+$13,814",,,,,TLGT
+9,,2018-12-14 12:52:01,2018-12-14,TLGT,Richardson Stephen,Chief Scientific Officer,P - Purchase,$1.78,"+12,000",51209,+31%,"+$21,372",,,,,TLGT
+10,,2018-12-14 12:48:42,2018-12-14,TLGT,Finio Damian,CFO,P - Purchase,$1.82,"+10,000",10000,New,"+$18,200",,,,,TLGT
+11,,2018-09-05 16:45:46,2018-09-04,TLGT,Grenfell-Gardner Jason,"Pres, CEO",S - Sale,$4.00,-52800,94849,-36%,"-$211,201",,,,,TLGT

@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2020-12-09 11:28:36,2020-11-30,LIXT,Ho Hung Tak,10%,P - Purchase,$4.75,"+42,105",0,-100%,"+$199,999",,,,,LIXT
+1,D,2020-12-07 19:39:06,2020-11-30,LIXT,Schwartzberg Gil,10%,P - Purchase,$4.75,"+105,264",1208388,+10%,"+$500,004",,,,,LIXT
+2,D,2020-12-04 16:55:24,2020-11-30,LIXT,Yen Yun,Dir,P - Purchase,$4.75,"+52,632",52632,New,"+$250,002",,,,,LIXT
+3,D,2020-12-03 14:55:28,2020-11-30,LIXT,Greenberg Robert,10%,P - Purchase,$4.75,"+52,632",994299,+6%,"+$250,002",,,,,LIXT
+4,D,2020-12-03 06:13:35,2020-11-30,LIXT,Palmedo Philip F,Dir,P - Purchase,$4.75,"+21,053",215389,+11%,"+$100,002",,,,,LIXT
+5,D,2020-12-03 06:07:28,2020-11-30,LIXT,Forman Stephen J.,Dir,P - Purchase,$4.75,"+21,053",37720,+126%,"+$100,002",,,,,LIXT
+6,D,2020-12-02 20:41:44,2020-11-30,LIXT,Kovach John S,"Pres, CEO, 10%",P - Purchase,$4.75,"+21,100",1540183,+1%,"+$100,225",,,,,LIXT
+7,D,2018-12-11 21:15:52,2018-12-07,LIXT,Schwartzberg Gil,10%,P - Purchase,$0.50,"+1,040,000",3175235,+49%,"+$520,000",,,,,LIXT
+8,D,2018-12-11 20:34:24,2018-12-07,LIXT,Palmedo Philip F,Dir,P - Purchase,$0.50,"+100,000",1166020,+9%,"+$50,000",,,,,LIXT
+9,D,2018-12-11 20:03:52,2018-12-07,LIXT,Forman Stephen J.,Dir,P - Purchase,$0.50,"+100,000",122500,+444%,"+$50,000",,,,,LIXT
+10,D,2018-12-11 19:49:00,2018-12-07,LIXT,Riggs Arthur,10%,P - Purchase,$0.50,"+1,260,000",6110000,+26%,"+$630,000",,,,,LIXT

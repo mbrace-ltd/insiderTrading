@@ -1,0 +1,16 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-09-07 18:29:19,2021-09-02,RSVR,Cook Stephen M.,Dir,P - Purchase,$8.76,"+31,515",1015661,+3%,"+$276,180",,,,,RSVR
+1,DM,2021-08-24 21:09:14,2021-08-23,RSVR,Rothstein Adam,Dir,P - Purchase,$7.81,"+17,000",161189,+12%,"+$132,770",,,,,RSVR
+2,A,2021-07-26 12:02:11,2021-07-23,ROCCU,Rothstein Adam,Dir,P - Purchase,$9.64,"+25,979",119189,+28%,"+$250,438",,,,,RSVR
+3,A,2021-07-26 12:00:39,2021-07-22,ROCCU,Rothstein Adam,Dir,P - Purchase,$9.77,"+5,021",93210,+6%,"+$49,055",,,,,RSVR
+4,,2021-07-23 21:46:08,2021-07-23,ROCCU,Rothstein Adam,Dir,P - Purchase,$9.64,"+25,979",144189,+22%,"+$250,438",,,,,RSVR
+5,D,2021-07-22 20:55:18,2021-07-22,ROCCU,Rothstein Adam,Dir,P - Purchase,$9.77,"+5,021",118210,+4%,"+$49,055",,,,,RSVR
+6,D,2020-12-17 16:18:41,2020-12-15,ROCCU,Friedberg Daniel M.,Dir,P - Purchase,$10.00,"+7,699",88189,+10%,"+$76,990",,,,,RSVR
+7,D,2020-12-17 16:18:23,2020-12-15,ROCCU,Lipman John C,COO,P - Purchase,$10.00,"+25,984",297638,+10%,"+$259,840",,,,,RSVR
+8,D,2020-12-17 16:18:04,2020-12-15,ROCCU,Chlm Sponsor-1 LLC,10%,P - Purchase,$10.00,"+29,016",332362,+10%,"+$290,160",,,,,RSVR
+9,D,2020-12-17 16:17:37,2020-12-15,ROCCU,"Cr Financial Holdings, Inc.",10%,P - Purchase,$10.00,"+180,562",2068252,+10%,"+$1,805,620",,,,,RSVR
+10,D,2020-12-17 16:17:20,2020-12-15,ROCCU,Gurewitz Aaron,Co-Pres,P - Purchase,$10.00,"+2,656",30425,+10%,"+$26,560",,,,,RSVR
+11,D,2020-12-17 16:17:03,2020-12-15,ROCCU,Hemmeter Molly,Dir,P - Purchase,$10.00,"+7,699",88189,+10%,"+$76,990",,,,,RSVR
+12,D,2020-12-17 16:17:00,2020-12-15,ROCCU,Rothstein Adam,Dir,P - Purchase,$10.00,"+7,699",88189,+10%,"+$76,990",,,,,RSVR
+13,D,2020-12-17 16:16:11,2020-12-15,ROCCU,Roth Gordon J,"CFO, 10%",P - Purchase,$10.00,"+182,641",2092064,+10%,"+$1,826,410",,,,,RSVR
+14,D,2020-12-17 16:15:48,2020-12-15,ROCCU,Roth Byron,"CEO, 10%",P - Purchase,$10.00,"+190,667",2184000,+10%,"+$1,906,670",,,,,RSVR

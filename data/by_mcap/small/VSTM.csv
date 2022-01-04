@@ -1,0 +1,15 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2020-12-07 11:15:35,2020-12-04,VSTM,Barberich Timothy J,Dir,P - Purchase,$2.17,"+50,000",218000,+30%,"+$108,500",,,,,VSTM
+1,,2020-06-29 18:29:45,2020-06-25,VSTM,"Ra Capital Management, L.P.",10%,S - Sale,$1.91,-1161300,16142051,-7%,"-$2,219,941",,,,,VSTM
+2,,2020-04-29 16:30:16,2020-04-27,VSTM,"Ra Capital Management, L.P.",10%,S - Sale,$2.31,-1301300,17303351,-7%,"-$3,002,099",,,,,VSTM
+3,,2019-03-19 16:12:30,2019-03-15,VSTM,Barberich Timothy J,Dir,P - Purchase,$3.21,"+33,000",168000,+24%,"+$105,930",,,,,VSTM
+4,,2018-10-02 19:16:13,2018-09-28,VSTM,Barberich Timothy J,Dir,P - Purchase,$7.31,"+5,000",135000,+4%,"+$36,550",,,,,VSTM
+5,,2018-10-02 19:11:19,2018-09-28,VSTM,Lobacki Joseph M,"EVP, CCO",P - Purchase,$7.30,"+3,000",10700,+39%,"+$21,900",,,,,VSTM
+6,D,2018-10-02 18:58:24,2018-09-28,VSTM,Paterson Dan,COO,P - Purchase,$7.00,"+3,000",77732,+4%,"+$21,000",,,,,VSTM
+7,D,2018-10-02 18:52:30,2018-09-28,VSTM,Forrester Robert,"Pres, CEO",P - Purchase,$7.00,"+2,000",231234,+1%,"+$14,000",,,,,VSTM
+8,,2018-10-02 18:49:27,2018-09-28,VSTM,Kauffman Michael,Dir,P - Purchase,$7.49,"+4,000",8000,+100%,"+$29,960",,,,,VSTM
+9,,2018-10-02 18:42:00,2018-09-28,VSTM,Stuglik Brian M,Dir,P - Purchase,$7.30,"+1,000",1000,New,"+$7,303",,,,,VSTM
+10,,2018-10-01 18:39:43,2018-09-27,VSTM,Forrester Robert,"Pres, CEO",P - Purchase,$7.00,"+10,500",229234,+5%,"+$73,500",,,,,VSTM
+11,,2018-10-01 18:35:53,2018-09-27,VSTM,Paterson Dan,COO,P - Purchase,$7.03,"+2,000",74732,+3%,"+$14,056",,,,,VSTM
+12,,2018-06-12 18:58:34,2018-06-08,VSTM,Lobacki Joseph M,"EVP, CCO",P - Purchase,$5.79,"+7,700",7700,New,"+$44,583",,,,,VSTM
+13,,2018-06-12 18:58:04,2018-06-08,VSTM,Bloom Steven H.,Chief Strategy Officer,P - Purchase,$5.98,"+3,000",3500,+600%,"+$17,940",,,,,VSTM

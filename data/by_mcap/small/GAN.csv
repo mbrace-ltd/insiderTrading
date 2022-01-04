@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-30 16:16:25,2021-11-22,GAN,Karlsen Glenn Anders,"CEO, Coolbet",P - Purchase,$10.90,"+10,000",66451,+18%,"+$109,000",,,,,GAN
+1,,2021-11-22 12:59:15,2021-11-19,GAN,McGill Seamus M,Dir,P - Purchase,$10.85,"+10,000",44866,+29%,"+$108,520",,,,,GAN
+2,,2021-11-18 16:40:00,2021-11-17,GAN,Smurfit Dermot S.,"Pres, CEO",S - Sale,$12.24,-155414,1699532,-8%,"-$1,902,112",,,,,GAN
+3,M,2021-11-17 21:45:16,2021-11-15,GAN,Smurfit Dermot S.,"Pres, CEO",S - Sale,$13.17,-44586,1854946,-2%,"-$587,295",,,,,GAN
+4,D,2021-10-25 21:55:13,2021-10-21,GAN,Smurfit Dermot S.,"Pres, CEO",S - Sale+OE,$16.50,-6439,1899532,0%,"-$106,244",,,,,GAN
+5,D,2021-10-22 21:55:10,2021-10-20,GAN,Smurfit Dermot S.,"Pres, CEO",S - Sale+OE,$16.50,-250,1899532,0%,"-$4,125",,,,,GAN
+6,D,2021-09-07 21:49:45,2021-09-07,GAN,Knock Simon,"EVP, CIO",S - Sale+OE,$18.00,-99934,0,-100%,"-$1,798,812",,,,,GAN
+7,D,2021-09-03 20:45:19,2021-09-02,GAN,Knock Simon,"EVP, CIO",S - Sale+OE,$18.00,-25066,0,-100%,"-$451,188",,,,,GAN
+8,,2021-08-23 21:45:01,2021-08-19,GAN,McGill Seamus M,Dir,P - Purchase,$14.20,"+1,000",30982,+3%,"+$14,200",,,,,GAN
+9,A,2021-08-23 09:20:09,2021-08-05,GAN,McGill Seamus M,Dir,S - Sale,$16.05,-85,29982,0%,"-$1,364",,,,,GAN
+10,AM,2021-08-23 09:16:30,2021-06-11,GAN,Smurfit Michael Jr.,Dir,S - Sale,$17.59,-7155,281905,-2%,"-$125,847",,,,,GAN
+11,A,2021-08-23 09:13:20,2021-05-26,GAN,Goldberg David,Dir,S - Sale,$17.14,-7500,20968,-26%,"-$128,550",,,,,GAN
+12,A,2021-08-20 20:54:15,2021-08-19,GAN,Smurfit Dermot S.,"Pres, CEO",P - Purchase,$13.85,"+18,100",1899532,+1%,"+$250,613",,,,,GAN
+13,,2021-08-19 21:26:59,2021-08-19,GAN,Smurfit Dermot S.,"Pres, CEO",P - Purchase,$13.85,"+18,100",180100,+11%,"+$250,613",,,,,GAN
+14,,2021-08-09 21:53:38,2021-08-05,GAN,McGill Seamus M,Dir,S - Sale,$16.05,-85,55483,0%,"-$1,364",,,,,GAN
+15,M,2021-06-14 20:34:23,2021-06-11,GAN,Smurfit Michael Jr.,Dir,S - Sale,$17.59,-7155,287084,-2%,"-$125,847",,,,,GAN
+16,,2021-05-28 21:04:31,2021-05-26,GAN,Goldberg David,Dir,S - Sale,$17.14,-7500,26147,-22%,"-$128,550",,,,,GAN
+17,D,2021-01-14 18:44:38,2021-01-12,GAN,Berman Jeffrey Bruce,"EVP, Chief Commercial Officer",S - Sale+OE,$24.00,-60000,0,-100%,"-$1,440,000",,,,,GAN
+18,DM,2021-01-12 20:37:56,2021-01-08,GAN,Berman Jeffrey Bruce,"EVP, Chief Commercial Officer",S - Sale+OE,$22.01,-30000,0,-100%,"-$660,222",,,,,GAN

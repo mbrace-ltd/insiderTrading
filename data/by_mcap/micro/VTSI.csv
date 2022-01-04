@@ -1,0 +1,9 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-15 12:50:35,2021-12-14,VTSI,Foxx Marsha J.,Chief Accounting Officer,P - Purchase,$6.22,+800,800,New,"+$4,976",,,,,VTSI
+1,,2021-11-19 18:28:29,2021-11-19,VTSI,Givens John F. II,Dir,P - Purchase,$7.57,"+1,000",1000,New,"+$7,570",,,,,VTSI
+2,D,2020-06-30 21:33:30,2020-06-26,VTSI,Ferris Robert D,"CEO, Pres, COB",S - Sale+OE,$3.48,-5000,362219,-1%,"-$17,400",,,,,VTSI
+3,D,2020-03-30 18:55:28,2020-03-27,VTSI,Brown Jeffrey Dale,Dir,P - Purchase,$2.29,"+1,740",9193,+23%,"+$3,981",,,,,VTSI
+4,D,2020-03-30 16:05:47,2020-03-27,VTSI,Ferris Robert D,"CEO, Pres, COB",P - Purchase,$2.32,"+5,000",362219,+1%,"+$11,584",,,,,VTSI
+5,,2020-03-30 16:05:41,2020-03-27,VTSI,Henry Judy A,"CFO, Treasurer, Secretary",P - Purchase,$2.30,"+2,475",5935,+72%,"+$5,692",,,,,VTSI
+6,,2019-05-22 14:20:54,2019-05-22,VTSI,Henry Judy A,"CFO, Treasurer, Secretary",P - Purchase,$2.98,"+3,460",3460,New,"+$10,311",,,,,VTSI
+7,,2018-06-05 17:44:00,2018-06-04,VTSI,Brown Jeffrey Dale,Dir,P - Purchase,$4.98,"+1,303",1753,+290%,"+$6,484",,,,,VTSI

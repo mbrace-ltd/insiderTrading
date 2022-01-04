@@ -1,0 +1,43 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-22 20:48:11,2021-11-18,COMM,Lorentzen Kyle David,"EVP, CFO",P - Purchase,$9.80,"+25,000",86900,+40%,"+$244,905",,,,,COMM
+1,M,2021-11-22 17:51:23,2021-11-18,COMM,Watts Claudius E. IV,Dir,P - Purchase,$9.78,"+35,000",410677,+9%,"+$342,240",,,,,COMM
+2,M,2021-11-10 21:02:18,2021-11-08,COMM,Watts Claudius E. IV,Dir,P - Purchase,$9.79,"+65,000",375677,+21%,"+$636,301",,,,,COMM
+3,,2021-11-09 16:09:04,2021-11-08,COMM,Choi Justin C,"SVP, GC, Sec",P - Purchase,$9.75,"+15,384",84709,+22%,"+$149,989",,,,,COMM
+4,,2021-08-17 16:51:36,2021-08-13,COMM,Watts Claudius E. IV,Dir,P - Purchase,$15.26,"+65,000",288677,+29%,"+$991,913",,,,,COMM
+5,,2021-08-17 16:47:33,2021-08-13,COMM,Treadway Charles L.,"Pres, CEO",P - Purchase,$14.93,"+33,400",533400,+7%,"+$498,665",,,,,COMM
+6,,2021-08-17 16:38:36,2021-08-13,COMM,Choi Justin C,"SVP, GC, Sec",P - Purchase,$15.18,"+16,425",69325,+31%,"+$249,264",,,,,COMM
+7,DM,2021-01-06 16:19:53,2021-01-04,COMM,Drendel Frank M,Dir,S - Sale+OE,$13.06,-639678,2538267,-20%,"-$8,356,186",,,,,COMM
+8,M,2020-03-16 18:09:34,2020-03-12,COMM,Watts Claudius E. IV,Dir,P - Purchase,$6.87,"+30,000",107577,+39%,"+$206,016",,,,,COMM
+9,,2020-03-16 16:12:35,2020-03-13,COMM,Edwards Marvin S Jr,"Pres, CEO",P - Purchase,$7.08,"+30,000",380408,+9%,"+$212,322",,,,,COMM
+10,,2020-03-12 16:23:45,2020-03-12,COMM,Wyatt Frank B II,"SVP, GC, Sec",P - Purchase,$6.80,"+25,000",107333,+30%,"+$169,905",,,,,COMM
+11,D,2020-01-07 16:03:47,2020-01-06,COMM,Drendel Frank M,Dir,S - Sale+OE,$13.19,-95334,2538267,-4%,"-$1,257,532",,,,,COMM
+12,D,2019-11-19 16:12:18,2019-11-15,COMM,Drendel Frank M,Dir,S - Sale+OE,$15.08,-153877,2538267,-6%,"-$2,319,819",,,,,COMM
+13,,2019-09-10 17:36:15,2019-09-09,COMM,Krause L William,Dir,P - Purchase,$11.87,"+21,250",80843,+36%,"+$252,248",,,,,COMM
+14,D,2019-06-19 16:17:21,2019-06-17,COMM,Drendel Frank M,Dir,S - Sale+OE,$15.84,-80800,2538267,-3%,"-$1,280,042",,,,,COMM
+15,,2019-05-24 13:43:56,2019-05-22,COMM,McClelland Bruce William,"EVP, COO",P - Purchase,$18.00,"+3,500",81483,+4%,"+$63,000",,,,,COMM
+16,D,2019-05-17 16:58:41,2019-05-15,COMM,Drendel Frank M,Dir,S - Sale+OE,$18.35,-80800,2538267,-3%,"-$1,482,324",,,,,COMM
+17,,2019-05-16 16:52:10,2019-05-14,COMM,McClelland Bruce William,"EVP, COO",P - Purchase,$18.28,"+4,000",77983,+5%,"+$73,120",,,,,COMM
+18,,2019-03-07 16:26:30,2019-03-06,COMM,Karlsson Peter U,"SVP of CommScope, Inc.",S - Sale,$22.63,-6517,74632,-8%,"-$147,462",,,,,COMM
+19,DM,2019-03-05 16:36:21,2019-03-01,COMM,Drendel Frank M,Dir,S - Sale+OE,$23.61,-280143,2538267,-10%,"-$6,614,952",,,,,COMM
+20,,2019-02-27 16:08:49,2019-02-25,COMM,Pease Alexander W,"EVP, CFO",P - Purchase,$22.94,+75,63471,0%,"+$1,721",,,,,COMM
+21,,2018-11-16 16:10:31,2018-11-15,COMM,Pease Alexander W,"EVP, CFO",P - Purchase,$18.70,"+40,000",63396,+171%,"+$747,812",,,,,COMM
+22,,2018-11-14 16:19:36,2018-11-14,COMM,Wyatt Frank B II,"SVP, GC, Sec",P - Purchase,$18.80,"+7,500",79880,+10%,"+$140,999",,,,,COMM
+23,,2018-11-14 16:14:45,2018-11-13,COMM,Clark Brooke B.,"SVP, Chief Accounting Officer",P - Purchase,$18.64,"+2,250",11677,+24%,"+$41,939",,,,,COMM
+24,,2018-11-14 16:07:14,2018-11-13,COMM,Watts Claudius E. IV,Dir,P - Purchase,$19.00,"+25,000",66335,+60%,"+$474,950",,,,,COMM
+25,,2018-11-13 16:12:49,2018-11-12,COMM,Mingle Robyn T,"SVP of CommScope, Inc.",P - Purchase,$19.47,"+5,100",27921,+22%,"+$99,293",,,,,COMM
+26,,2018-11-13 16:09:41,2018-11-12,COMM,Granow Robert W,SVP,P - Purchase,$19.60,"+4,000",25395,+19%,"+$78,400",,,,,COMM
+27,,2018-05-16 16:12:01,2018-05-14,COMM,Adams Austin A,Dir,P - Purchase,$29.90,"+5,000",27858,+22%,"+$149,500",,,,,COMM
+28,M,2018-05-15 16:27:48,2018-05-11,COMM,Kurk Morgan C S,"EVP, COO",P - Purchase,$29.27,"+5,000",46858,+12%,"+$146,359",,,,,COMM
+29,,2018-05-14 16:07:16,2018-05-11,COMM,Karlsson Peter U,"SVP of CommScope, Inc.",P - Purchase,$29.83,"+10,000",50819,+24%,"+$298,300",,,,,COMM
+30,,2018-05-11 15:19:24,2018-05-10,COMM,Mingle Robyn T,"SVP of CommScope, Inc.",P - Purchase,$29.42,"+1,693",22821,+8%,"+$49,808",,,,,COMM
+31,,2018-05-10 16:07:09,2018-05-08,COMM,Maguire Joanne M,Dir,P - Purchase,$29.60,+500,16521,+3%,"+$14,800",,,,,COMM
+32,,2018-05-08 16:14:14,2018-05-04,COMM,Yates Timothy T,Dir,P - Purchase,$28.06,"+3,000",44779,+7%,"+$84,193",,,,,COMM
+33,,2018-05-07 17:16:36,2018-05-04,COMM,Wyatt Frank B II,"SVP, GC, Sec",P - Purchase,$27.99,"+9,000",72380,+14%,"+$251,877",,,,,COMM
+34,,2018-05-07 17:09:50,2018-05-04,COMM,Pease Alexander W,"EVP, CFO",P - Purchase,$27.95,"+10,725",23396,+85%,"+$299,795",,,,,COMM
+35,,2018-05-07 16:41:23,2018-05-07,COMM,Granow Robert W,"SVP, Controller",P - Purchase,$28.63,"+1,500",21395,+8%,"+$42,943",,,,,COMM
+36,D,2018-03-23 16:05:28,2018-03-21,COMM,Drendel Frank M,Dir,S - Sale+OE,$40.22,-90186,2328514,-4%,"-$3,627,231",,,,,COMM
+37,D,2018-03-09 16:04:44,2018-03-07,COMM,Edwards Marvin S Jr,"Pres, CEO",S - Sale+OE,$40.03,-50000,293596,-15%,"-$2,001,740",,,,,COMM
+38,D,2018-02-22 16:22:54,2018-02-21,COMM,Armstrong Philip Martin Jr,"SVP, Corporate Finance",S - Sale+OE,$39.02,-10000,25739,-28%,"-$390,216",,,,,COMM
+39,D,2018-02-22 16:16:34,2018-02-20,COMM,Gray Stephen C,Dir,S - Sale+OE,$38.96,-28575,14064,-67%,"-$1,113,345",,,,,COMM
+40,D,2018-01-11 16:08:52,2018-01-09,COMM,Edwards Marvin S Jr,"Pres, CEO",S - Sale+OE,$38.66,-50000,277034,-15%,"-$1,933,165",,,,,COMM
+41,,2018-01-04 16:08:53,2018-01-02,COMM,Drendel Frank M,Dir,S - Sale,$38.02,-15000,2444357,-1%,"-$570,246",,,,,COMM

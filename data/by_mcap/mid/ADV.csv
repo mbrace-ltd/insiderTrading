@@ -1,0 +1,9 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-24 18:57:34,2021-03-23,ADV,Kaye Dean,CFO - North America,P - Purchase,$11.56,"+2,582",24457,+12%,"+$29,848",,,,,ADV
+1,,2021-03-24 18:54:40,2021-03-23,ADV,Stevens Brian,"CFO, COO",P - Purchase,$11.61,"+4,310",4310,New,"+$50,039",,,,,ADV
+2,,2021-03-24 18:51:29,2021-03-23,ADV,Griffin Jill L,"Pres, CCO",P - Purchase,$11.63,"+4,290",129290,+3%,"+$49,893",,,,,ADV
+3,M,2021-03-23 17:16:01,2021-03-19,ADV,Kilts James M,Dir,P - Purchase,$10.89,"+64,463",64463,New,"+$702,146",,,,,ADV
+4,,2021-03-22 21:53:14,2021-03-19,ADV,Domier Tanya L,CEO,P - Purchase,$11.07,"+27,250",27280,>999%,"+$301,658",,,,,ADV
+5,D,2019-07-24 19:36:51,2019-07-22,CPAA,Schena Joseph J,Dir,P - Purchase,$10.00,"+20,000",20000,New,"+$200,000",,,,,ADV
+6,D,2019-07-24 19:33:28,2019-07-22,CPAA,Rosenfeld Irene B,Dir,P - Purchase,$10.00,"+30,000",30000,New,"+$300,000",,,,,ADV
+7,D,2019-07-24 19:28:54,2019-07-22,CPAA,Klein Peter,Dir,P - Purchase,$10.00,"+30,000",30000,New,"+$300,000",,,,,ADV

@@ -1,0 +1,46 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-02 09:42:05,2021-07-29,NSC,Shaw Alan H.,"EVP, CMO",S - Sale+OE,$256.93,-5148,33616,-13%,"-$1,322,677",,,,,NSC
+1,,2021-06-02 11:22:54,2021-06-01,NSC,Mongeau Claude,Dir,P - Purchase,$282.69,2350,14350,+20%,"+$664,316",,,,,NSC
+2,,2021-05-25 16:37:14,2021-05-24,NSC,Squires James A,"COB, Pres, CEO",S - Sale,$278.08,-20000,123864,-14%,"-$5,561,614",,,,,NSC
+3,D,2021-05-20 16:05:01,2021-05-18,NSC,Squires James A,"COB, Pres, CEO",S - Sale+OE,$282.21,-70000,143860,-33%,"-$19,754,833",,,,,NSC
+4,D,2021-05-12 13:21:48,2021-05-11,NSC,Allison Clyde H Jr,"VP, Controller",S - Sale+OE,$288.30,-3700,41932,-8%,"-$1,066,710",,,,,NSC
+5,D,2021-02-22 12:23:25,2021-02-19,NSC,Adams Ann A,EVP-Chief Transform. Officer,S - Sale+OE,$255.00,-2460,7141,-26%,"-$627,300",,,,,NSC
+6,M,2021-02-12 17:40:13,2020-04-02,NSC,Shaw Alan H.,"EVP, CMO",P - Purchase,$190.09,113,30435,0%,"+$21,480",,,,,NSC
+7,M,2021-02-12 17:40:13,2020-08-04,NSC,Shaw Alan H.,"EVP, CMO",S - Sale,$211.56,-70,30435,0%,"-$14,809",,,,,NSC
+8,A,2021-02-12 17:13:07,2020-05-27,NSC,Shaw Alan H.,"EVP, CMO",S - Sale,$184.21,-254,21230,-1%,"-$46,788",,,,,NSC
+9,D,2021-02-03 19:45:35,2021-02-01,NSC,Shaw Alan H.,"EVP, CMO",S - Sale+OE,$239.58,-43,24031,0%,"-$10,302",,,,,NSC
+10,D,2021-02-02 16:47:37,2021-02-01,NSC,Adams Ann A,EVP-Chief Transform. Officer,S - Sale+OE,$239.00,-1417,7141,-17%,"-$338,663",,,,,NSC
+11,D,2021-02-01 15:57:29,2021-01-28,NSC,Adams Ann A,EVP-Chief Transform. Officer,S - Sale+OE,$239.10,-227,8165,-3%,"-$54,276",,,,,NSC
+12,D,2020-11-03 15:48:51,2020-11-02,NSC,Adams Ann A,EVP-Chief Transform. Officer,S - Sale+OE,$213.86,-1370,6748,-17%,"-$292,983",,,,,NSC
+13,,2020-08-13 08:09:41,2020-08-11,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale,$210.51,-1788,11088,-14%,"-$376,383",,,,,NSC
+14,,2020-08-03 13:02:54,2020-07-31,NSC,Squires James A,"COB, Pres, CEO",S - Sale,$186.68,-2715,136037,-2%,"-$506,848",,,,,NSC
+15,,2020-06-08 11:02:40,2020-06-05,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale,$195.02,-8918,12876,-41%,"-$1,739,196",,,,,NSC
+16,D,2020-06-08 08:05:56,2020-06-04,NSC,Squires James A,"COB, Pres, CEO",S - Sale+OE,$191.48,-50797,138748,-27%,"-$9,726,425",,,,,NSC
+17,D,2020-06-05 08:15:54,2020-06-03,NSC,Allison Clyde H Jr,"VP, Controller",S - Sale+OE,$192.65,-1593,39553,-4%,"-$306,890",,,,,NSC
+18,D,2020-06-04 10:09:48,2020-06-02,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale+OE,$182.96,-10080,21794,-32%,"-$1,844,217",,,,,NSC
+19,,2020-02-05 08:09:50,2020-02-03,NSC,Adams Ann A,EVP-Chief Transform. Officer,S - Sale,$208.16,-1336,6950,-16%,"-$278,102",,,,,NSC
+20,,2020-02-05 08:09:46,2020-02-04,NSC,Zampi Jason Andrew,"VP, Controller",S - Sale,$212.45,-1270,0,-100%,"-$269,810",,,,,NSC
+21,D,2020-02-03 17:18:37,2020-01-30,NSC,Adams Ann A,EVP-Chief Transform. Officer,S - Sale+OE,$211.83,-1118,8286,-12%,"-$236,826",,,,,NSC
+22,D,2020-02-03 17:18:33,2020-01-30,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale+OE,$212.84,-11000,21794,-34%,"-$2,341,202",,,,,NSC
+23,,2019-07-30 14:19:58,2019-07-29,NSC,Scanlon Jennifer F.,Dir,P - Purchase,$191.52,525,525,New,"+$100,546",,,,,NSC
+24,,2019-05-23 07:45:32,2019-05-21,NSC,Squires James A,"COB, Pres, CEO",S - Sale,$204.71,-3024,125099,-2%,"-$619,051",,,,,NSC
+25,,2019-05-06 10:28:14,2019-05-03,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale,$204.57,-2500,12949,-16%,"-$511,420",,,,,NSC
+26,,2019-02-15 14:19:57,2019-02-14,NSC,Zampi Jason Andrew,"VP, Controller",S - Sale,$181.34,-519,0,-100%,"-$94,117",,,,,NSC
+27,D,2019-02-14 13:19:51,2019-02-12,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale+OE,$180.24,-4761,14993,-24%,"-$858,097",,,,,NSC
+28,,2018-11-08 12:13:04,2018-11-07,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale,$172.55,-801,9436,-8%,"-$138,216",,,,,NSC
+29,D,2018-08-30 09:40:46,2018-08-29,NSC,Earhart Cynthia C,"EVP Finance, CFO",S - Sale+OE,$175.09,-2370,51706,-4%,"-$414,954",,,,,NSC
+30,D,2018-08-15 17:39:15,2018-08-13,NSC,Squires James A,"COB, Pres, CEO",S - Sale+OE,$171.73,-34077,105133,-24%,"-$5,851,931",,,,,NSC
+31,,2018-05-17 15:03:49,2018-05-16,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale,$151.33,-2000,10236,-16%,"-$302,661",,,,,NSC
+32,D,2018-05-11 15:28:54,2018-05-10,NSC,Earhart Cynthia C,"EVP, CFO",S - Sale+OE,$150.93,-6588,51706,-11%,"-$994,340",,,,,NSC
+33,D,2018-05-11 15:28:51,2018-05-11,NSC,Hurlbut Thomas E,"VP, Controller",S - Sale+OE,$152.00,-2760,0,-100%,"-$419,520",,,,,NSC
+34,D,2018-05-01 15:11:39,2018-04-27,NSC,Hurlbut Thomas E,"VP, Controller",S - Sale+OE,$145.51,-2762,0,-100%,"-$401,885",,,,,NSC
+35,,2018-02-20 15:54:48,2018-02-16,NSC,Hurlbut Thomas E,"VP, Controller",S - Sale,$142.90,-1000,4000,-20%,"-$142,896",,,,,NSC
+36,D,2018-02-20 15:54:44,2018-02-16,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale+OE,$143.62,-1699,11868,-13%,"-$244,011",,,,,NSC
+37,,2018-02-05 08:14:55,2018-02-01,NSC,Hurlbut Thomas E,"VP, Controller",S - Sale,$150.17,-467,5000,-9%,"-$70,130",,,,,NSC
+38,,2018-02-05 08:14:51,2018-02-01,NSC,Squires James A,"COB, Pres, CEO",S - Sale,$150.10,-10000,109302,-8%,"-$1,501,013",,,,,NSC
+39,D,2017-11-30 11:03:51,2017-11-29,NSC,Hurlbut Thomas E,"VP, Controller",S - Sale+OE,$134.71,-2370,4000,-37%,"-$319,251",,,,,NSC
+40,D,2017-11-22 14:22:39,2017-11-22,NSC,Hurlbut Thomas E,"VP, Controller",S - Sale+OE,$129.61,-6175,4000,-61%,"-$800,334",,,,,NSC
+41,D,2017-10-30 09:41:48,2017-10-26,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale+OE,$133.00,-3568,12298,-22%,"-$474,558",,,,,NSC
+42,,2017-08-30 16:07:57,2017-08-29,NSC,Hurlbut Thomas E,"VP, Controller",S - Sale,$118.80,-300,4000,-7%,"-$35,640",,,,,NSC
+43,D,2017-08-28 12:37:49,2017-08-25,NSC,Wheeler Michael Joseph,"EVP, COO",S - Sale+OE,$118.68,-2370,11150,-18%,"-$281,274",,,,,NSC
+44,D,2017-08-16 14:22:45,2017-08-15,NSC,Squires James A,"COB, Pres, CEO",S - Sale+OE,$119.95,-24407,112940,-18%,"-$2,927,620",,,,,NSC

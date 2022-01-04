@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-18 17:53:51,2021-03-17,CRON,Adler Jason Marc,Dir,S - Sale,$10.07,-714759,11909417,-6%,"-$7,194,550",,,,,CRON
+1,D,2021-03-16 18:21:07,2021-03-15,CRON,Adler Jason Marc,Dir,S - Sale+OE,$10.65,-452810,12624176,-3%,"-$4,823,649",,,,,CRON
+2,M,2021-03-15 18:04:33,2021-03-11,CRON,Gorenstein Michael Ryan,Exec COB,S - Sale,$10.35,-604411,8432536,-7%,"-$6,255,065",,,,,CRON
+3,D,2021-03-10 17:34:38,2021-03-09,CRON,Gorenstein Michael Ryan,Exec COB,S - Sale+OE,$10.00,-185000,9036947,-2%,"-$1,849,297",,,,,CRON
+4,DM,2021-03-04 17:39:44,2021-03-02,CRON,Gorenstein Michael Ryan,Exec COB,S - Sale+OE,$10.83,-344015,8432536,-4%,"-$3,724,796",,,,,CRON
+5,,2021-03-03 18:31:01,2021-03-01,CRON,Jacobson Jeffrey David,See Remarks,S - Sale,$13.60,-4500,0,-100%,"-$61,201",,,,,CRON
+6,,2020-11-18 17:02:52,2020-11-17,CRON,Adler Jason Marc,Dir,S - Sale,$7.33,-100000,7996798,-1%,"-$733,400",,,,,CRON
+7,,2020-11-13 16:34:21,2020-11-11,CRON,Adler Jason Marc,Dir,S - Sale,$7.30,-9300,5579092,0%,"-$67,890",,,,,CRON
+8,M,2020-11-10 20:09:10,2020-11-06,CRON,Adler Jason Marc,Dir,S - Sale,$7.70,-890700,8306098,-10%,"-$6,862,424",,,,,CRON
+9,,2020-11-10 20:07:19,2020-11-06,CRON,Gorenstein Michael Ryan,Exec COB,S - Sale,$7.23,-1289350,617447,-68%,"-$9,315,946",,,,,CRON
+10,,2020-08-11 17:28:00,2020-08-07,CRON,Abraham Todd Kevin,Chief Innovation Officer,P - Purchase,$5.78,"+15,000",15000,New,"+$86,756",,,,,CRON

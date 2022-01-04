@@ -1,0 +1,30 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-03 15:01:47,2021-12-03,MINM,Chynoweth Graham James,CEO,P - Purchase,$1.38,"+10,000",1177795,+1%,"+$13,800",,,,,MINM
+1,DM,2021-12-01 17:21:03,2021-11-29,MINM,Horowitz Joshua,Dir,P - Purchase,$1.27,"+19,849",1293775,+2%,"+$25,306",,,,,MINM
+2,,2021-08-26 15:02:34,2021-08-25,MINM,Zheng Nicole Elisabeth,"Pres, CMO",P - Purchase,$2.28,"+3,509",219134,+2%,"+$8,001",,,,,MINM
+3,,2021-08-25 20:31:42,2021-08-25,MINM,Doherty Sean Patrick,CFO,P - Purchase,$2.24,"+2,250",22250,+11%,"+$5,040",,,,,MINM
+4,D,2021-08-23 17:17:51,2021-08-23,MINM,Horowitz Joshua,Dir,P - Purchase,$2.18,"+20,000",1273926,+2%,"+$43,642",,,,,MINM
+5,M,2021-08-23 16:16:43,2021-08-19,MINM,Zheng Nicole Elisabeth,"Pres, CMO",P - Purchase,$2.28,+444,215630,0%,"+$1,012",,,,,MINM
+6,D,2021-07-30 10:01:14,2021-07-29,MINM,Horowitz Joshua,Dir,P - Purchase,$2.50,"+40,000",1253926,+3%,"+$100,000",,,,,MINM
+7,DM,2021-07-29 17:15:34,2021-03-12,MINM,Lauten John,COO,S - Sale+OE,$2.75,-27000,0,-100%,"-$74,220",,,,,MINM
+8,,2021-07-29 16:14:35,2021-07-29,MINM,Doherty Sean Patrick,CFO,P - Purchase,$2.50,"+20,000",20000,New,"+$50,000",,,,,MINM
+9,,2021-07-29 16:11:29,2021-07-29,MINM,Chynoweth Graham James,CEO,P - Purchase,$2.50,"+200,000",1167795,+21%,"+$500,000",,,,,MINM
+10,,2020-12-08 17:17:55,2020-12-04,ZMTP,Hitchcock Jeremy P.,"Exec COB, 10%",P - Purchase,$2.35,"+3,602,606",17767029,+25%,"+$8,465,404",,,,,MINM
+11,,2020-10-13 17:25:36,2020-10-09,ZMTP,Manning Terry,10%,S - Sale,$2.50,-180000,0,-100%,"-$450,000",,,,,MINM
+12,,2020-10-13 17:25:33,2020-10-09,ZMTP,Manning Rebecca L,10%,S - Sale,$2.50,-120673,0,-100%,"-$301,683",,,,,MINM
+13,,2020-10-13 17:24:10,2020-10-09,ZMTP,Folsom Elizabeth T,10%,S - Sale,$2.50,-390615,10340,-97%,"-$976,538",,,,,MINM
+14,D,2020-10-13 17:22:50,2020-10-09,ZMTP,Manning Frank Blase,"Dir, 10%",S - Sale+OE,$2.50,-2228273,0,-100%,"-$5,570,683",,,,,MINM
+15,,2020-10-13 17:19:08,2020-10-09,ZMTP,Kramer Bruce M,10%,S - Sale,$2.50,-390395,10340,-97%,"-$975,988",,,,,MINM
+16,D,2020-10-13 17:11:43,2020-10-09,ZMTP,Kramer Peter Robin,"Dir, 10%",S - Sale+OE,$2.50,-482053,6286,-99%,"-$1,205,133",,,,,MINM
+17,D,2020-10-13 17:08:43,2020-10-09,ZMTP,Donovan Joseph,"Dir, 10%",S - Sale+OE,$2.50,-142500,0,-100%,"-$356,250",,,,,MINM
+18,,2020-10-13 16:21:37,2020-10-09,ZMTP,Hitchcock Jeremy P.,"Exec COB, 10%",P - Purchase,$2.50,"+3,543,894",12386932,+40%,"+$8,859,735",,,,,MINM
+19,,2020-10-13 16:21:09,2020-10-09,ZMTP,Zulu Holdings LLC,10%,P - Purchase,$2.50,"+3,543,894",12379252,+40%,"+$8,859,735",,,,,MINM
+20,DM,2020-08-26 12:20:40,2020-08-24,ZMTP,Horowitz Joshua,Dir,P - Purchase,$1.90,"+15,000",1213926,+1%,"+$28,542",,,,,MINM
+21,,2020-08-05 17:05:23,2020-08-03,ZMTP,Manchester Management Co LLC,10%,S - Sale,$1.95,-7431071,0,-100%,"-$14,490,588",,,,,MINM
+22,,2020-08-04 20:00:49,2020-07-31,ZMTP,Zulu Holdings LLC,10%,P - Purchase,$1.95,"+4,285,717",8835358,+94%,"+$8,357,148",,,,,MINM
+23,,2020-08-04 19:58:27,2020-07-31,ZMTP,Hitchcock Jeremy P.,"Exec COB, 10%",P - Purchase,$1.95,"+4,285,717",8843038,+94%,"+$8,357,148",,,,,MINM
+24,,2020-05-28 18:38:39,2020-05-27,ZMTP,Zulu Holdings LLC,10%,P - Purchase,$1.52,"+822,368",4549641,+22%,"+$1,249,999",,,,,MINM
+25,,2020-01-28 12:17:00,2019-05-06,ZMTP,Wytanis Joseph,"Pres, COO",P - Purchase,$1.10,"+90,910",90910,New,"+$100,001",,,,,MINM
+26,,2020-01-28 09:17:20,2019-05-06,ZMTP,Kramer Peter Robin,Dir,P - Purchase,$1.10,"+90,910",405839,+29%,"+$100,001",,,,,MINM
+27,,2020-01-28 09:14:05,2019-05-06,ZMTP,Manning Frank Blase,"CEO, Acting CFO",P - Purchase,$1.10,"+313,634",1745773,+22%,"+$344,997",,,,,MINM
+28,,2020-01-13 16:43:49,2019-12-19,ZMTP,Hitchcock Jeremy P.,"Dir, 10%",P - Purchase,$1.30,"+7,680",7680,New,"+$9,984",,,,,MINM

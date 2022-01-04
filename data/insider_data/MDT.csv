@@ -1,0 +1,59 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-06-30 18:21:16,2021-06-28,MDT,Martha Geoffrey,CEO,S - Sale+OE,$125.29,-11500,81948,-12%,"-$1,440,835",,,,,MDT
+1,D,2021-06-22 17:58:36,2021-06-21,MDT,Wall Brett A.,"EVP, Pres Neuroscience",S - Sale+OE,$123.50,-115,21602,-1%,"-$14,203",,,,,MDT
+2,,2021-06-17 18:11:37,2021-06-15,MDT,Parkhill Karen L,"EVP, CFO",S - Sale,$124.47,-605,88038,-1%,"-$75,304",,,,,MDT
+3,D,2021-06-02 18:00:30,2021-06-01,MDT,Wall Brett A.,"EVP, Pres Neuroscience",S - Sale+OE,$128.07,-2473,21487,-10%,"-$316,717",,,,,MDT
+4,D,2021-06-01 17:55:29,2021-05-28,MDT,Liddicoat John R,"EVP, Pres of Americas",S - Sale+OE,$126.65,-34656,42551,-45%,"-$4,389,182",,,,,MDT
+5,D,2021-04-07 16:28:17,2021-04-05,MDT,Martha Geoffrey,CEO,S - Sale+OE,$118.83,-11712,81938,-13%,"-$1,391,737",,,,,MDT
+6,,2021-03-16 17:19:17,2021-03-15,MDT,Parkhill Karen L,"EVP, CFO",S - Sale,$119.12,-632,88371,-1%,"-$75,284",,,,,MDT
+7,D,2021-03-03 17:23:23,2021-03-02,MDT,Ten Hoedt Rob,"EVP, Pres EMEA",S - Sale+OE,$117.98,-7168,43797,-14%,"-$845,681",,,,,MDT
+8,,2020-12-30 16:42:21,2020-12-28,MDT,Surface Carol A,"SVP, CHRO",S - Sale,$114.90,-15000,34709,-30%,"-$1,723,500",,,,,MDT
+9,,2020-12-23 16:35:55,2020-12-22,MDT,Lerman Bradley E,"SVP GC, Corp Sec",S - Sale,$115.56,-2605,51543,-5%,"-$301,034",,,,,MDT
+10,,2020-12-21 17:06:16,2020-12-18,MDT,White Robert John,"EVP, Pres Medical Surgical",S - Sale,$115.46,-10930,46422,-19%,"-$1,261,978",,,,,MDT
+11,,2020-12-16 17:34:32,2020-12-15,MDT,Parkhill Karen L,"EVP, CFO",S - Sale,$114.33,-670,88712,-1%,"-$76,601",,,,,MDT
+12,D,2020-11-10 17:18:52,2020-11-09,MDT,Lerman Bradley E,"SVP GC, Corp Sec",S - Sale+OE,$113.13,-20715,54148,-28%,"-$2,343,488",,,,,MDT
+13,,2020-10-14 18:38:15,2020-10-09,MDT,Ishrak Omar,Exec COB,S - Sale,$108.40,-763,607622,0%,"-$82,709",,,,,MDT
+14,D,2020-10-09 17:12:45,2020-10-08,MDT,Lerman Bradley E,"SVP GC, Corp Sec",S - Sale+OE,$110.00,-20714,54325,-28%,"-$2,278,540",,,,,MDT
+15,,2020-10-09 17:10:01,2020-10-08,MDT,Anderson Richard H,Dir,P - Purchase,$108.52,4607,108953,+4%,"+$499,952",,,,,MDT
+16,,2020-09-25 17:42:03,2020-09-23,MDT,Ten Hoedt Rob,"EVP, Pres EMEA",S - Sale,$104.34,-9584,43476,-18%,"-$999,995",,,,,MDT
+17,,2020-09-16 17:40:16,2020-09-15,MDT,Parkhill Karen L,"EVP, CFO",S - Sale,$107.78,-702,89181,-1%,"-$75,662",,,,,MDT
+18,,2020-09-11 18:04:21,2020-09-09,MDT,Ten Hoedt Rob,"EVP, Pres EMEA",S - Sale,$105.05,-9563,53060,-15%,"-$1,004,593",,,,,MDT
+19,,2020-06-02 17:39:01,2020-05-29,MDT,Surface Carol A,"SVP, CHRO",S - Sale,$97.72,-2000,47998,-4%,"-$195,440",,,,,MDT
+20,,2020-02-24 08:56:57,2020-02-20,MDT,Ishrak Omar,"COB, CEO",P - Purchase,$113.68,8771,629272,+1%,"+$997,087",,,,,MDT
+21,D,2019-12-26 17:36:54,2019-12-24,MDT,Kuntz Richard,"SVP, Chief Medical, Science",S - Sale+OE,$113.58,-50856,71013,-42%,"-$5,776,101",,,,,MDT
+22,,2019-12-09 17:36:10,2019-12-06,MDT,Anderson Richard H,Dir,P - Purchase,$113.29,5000,102536,+5%,"+$566,450",,,,,MDT
+23,D,2019-12-03 16:25:30,2019-12-02,MDT,White Robert John,"EVP, Pres MITG",S - Sale+OE,$110.62,-52166,52068,-50%,"-$5,770,829",,,,,MDT
+24,D,2019-11-18 17:31:24,2019-11-15,MDT,Coyle Michael J,"EVP, Group Pres, Cardiac, Vasc",S - Sale+OE,$111.25,-36874,192616,-16%,"-$4,102,092",,,,,MDT
+25,D,2019-11-15 17:49:00,2019-11-14,MDT,Coyle Michael J,"EVP, Group Pres, Cardiac, Vasc",S - Sale+OE,$109.77,-2102,192616,-1%,"-$230,731",,,,,MDT
+26,D,2019-11-04 18:28:01,2019-11-01,MDT,White Robert John,"EVP, Pres MITG",S - Sale+OE,$109.33,-52165,52068,-50%,"-$5,702,995",,,,,MDT
+27,D,2019-11-04 18:26:05,2019-11-01,MDT,Coyle Michael J,"EVP, Group Pres, Cardiac, Vasc",S - Sale+OE,$109.50,-38976,192616,-17%,"-$4,267,872",,,,,MDT
+28,,2019-09-30 17:52:21,2019-09-27,MDT,Kuntz Richard,"SVP, Chief Medical, Science",S - Sale,$107.51,-21425,78816,-21%,"-$2,303,493",,,,,MDT
+29,D,2019-09-12 17:55:34,2019-09-10,MDT,Hakami Hooman,"EVP, Group Pres Diabetes",S - Sale+OE,$107.31,-82877,30761,-73%,"-$8,893,712",,,,,MDT
+30,,2019-08-06 17:53:22,2019-08-05,MDT,Lerman Bradley E,"SVP GC, Corp Sec",S - Sale,$100.31,-4000,52906,-7%,"-$401,240",,,,,MDT
+31,,2019-08-02 18:32:27,2019-08-02,MDT,Lerman Bradley E,"SVP GC, Corp Sec",S - Sale,$102.02,-6599,56906,-10%,"-$673,230",,,,,MDT
+32,,2019-08-02 18:29:43,2019-08-02,MDT,Kuntz Richard,"SVP, Chief Medical, Science",S - Sale,$102.02,-5719,100241,-5%,"-$583,452",,,,,MDT
+33,,2019-07-23 18:03:52,2019-07-22,MDT,Kuntz Richard,"SVP, Chief Medical, Science",S - Sale,$101.12,-3438,100127,-3%,"-$347,651",,,,,MDT
+34,,2019-06-18 17:31:55,2019-06-17,MDT,Surface Carol A,"SVP, CHRO",S - Sale,$97.66,-9000,36299,-20%,"-$878,976",,,,,MDT
+35,D,2019-06-14 16:51:21,2019-06-12,MDT,Hakami Hooman,"EVP, Group Pres Diabetes",S - Sale+OE,$97.49,-52664,42673,-55%,"-$5,134,213",,,,,MDT
+36,A,2019-06-12 18:18:18,2019-05-28,MDT,Ten Hoedt Rob,"EVP, Pres EMEA",S - Sale,$91.88,-9000,58785,-13%,"-$826,920",,,,,MDT
+37,,2019-06-07 17:34:56,2019-06-06,MDT,Martha Geoffrey,"EVP, GroupPres Restora Therap",S - Sale,$96.05,-11000,48918,-18%,"-$1,056,583",,,,,MDT
+38,,2019-05-29 17:37:53,2019-05-28,MDT,Ten Hoedt Rob,"EVP, Pres EMEA",S - Sale,$91.88,-9000,58785,-13%,"-$826,920",,,,,MDT
+39,,2019-05-28 19:54:25,2019-05-24,MDT,Anderson Richard H,Dir,P - Purchase,$92.40,10900,97217,+13%,"+$1,007,160",,,,,MDT
+40,,2019-01-09 12:28:43,2019-01-09,MDT,Parkhill Karen L,"EVP, CFO",P - Purchase,$83.87,3000,83680,+4%,"+$251,610",,,,,MDT
+41,,2019-01-09 12:27:01,2019-01-09,MDT,Ishrak Omar,"COB, CEO",P - Purchase,$84.05,12000,588337,+2%,"+$1,008,540",,,,,MDT
+42,D,2018-09-25 16:27:48,2018-09-24,MDT,Martha Geoffrey,"EVP, GroupPres Restora Therap",S - Sale+OE,$97.93,-49799,59202,-46%,"-$4,876,667",,,,,MDT
+43,D,2018-09-05 16:33:30,2018-08-31,MDT,Hakami Hooman,"EVP, Group Pres Diabetes",S - Sale+OE,$96.29,-26159,62647,-29%,"-$2,518,798",,,,,MDT
+44,D,2018-08-29 16:38:41,2018-08-28,MDT,Kuntz Richard,"SVP, Chief Medical, Science",S - Sale+OE,$95.88,-47176,105403,-31%,"-$4,523,089",,,,,MDT
+45,D,2018-08-24 16:32:32,2018-08-23,MDT,Pozen Robert C,Dir,S - Sale+OE,$95.94,-3218,60964,-5%,"-$308,738",,,,,MDT
+46,,2018-08-23 17:03:54,2018-08-23,MDT,Anderson Richard H,Dir,P - Purchase,$95.88,2600,84225,+3%,"+$249,285",,,,,MDT
+47,D,2018-08-23 16:36:38,2018-08-22,MDT,Coyle Michael J,"EVP, Group Pres, Cardiac, Vasc",S - Sale+OE,$95.50,-145544,204534,-42%,"-$13,899,161",,,,,MDT
+48,,2018-06-12 16:35:37,2018-06-11,MDT,Lerman Bradley E,"SVP GC, Corp Sec",S - Sale,$86.82,-8910,51842,-15%,"-$773,566",,,,,MDT
+49,,2018-06-11 16:36:51,2018-06-08,MDT,Kuntz Richard,"SVP, Chief Medical, Science",S - Sale,$87.13,-11500,105923,-10%,"-$1,001,995",,,,,MDT
+50,D,2018-03-14 17:27:43,2018-03-13,MDT,Lenehan James T,Dir,S - Sale+OE,$83.56,-1306,47028,-3%,"-$109,123",,,,,MDT
+51,DM,2018-03-06 16:09:01,2018-03-02,MDT,Surface Carol A,"SVP, CHRO",S - Sale+OE,$78.18,-24479,38905,-39%,"-$1,913,854",,,,,MDT
+52,D,2018-01-10 17:40:24,2018-01-09,MDT,Kuntz Richard,"SrVP, Chief Scien, Clin, Reg",S - Sale+OE,$86.21,-78526,117107,-40%,"-$6,769,726",,,,,MDT
+53,D,2018-01-08 17:07:54,2018-01-05,MDT,Hakami Hooman,"EVP, Group Pres Diabetes",S - Sale+OE,$85.00,-26158,65828,-28%,"-$2,223,430",,,,,MDT
+54,,2017-12-18 17:40:02,2017-12-15,MDT,Hanson Bryan C,"EVP, Pres, MITG",S - Sale,$82.82,-16000,88818,-15%,"-$1,325,120",,,,,MDT
+55,,2017-11-17 17:25:28,2017-11-16,MDT,Hanson Bryan C,"EVP, Pres, MITG",S - Sale,$79.02,-16000,109067,-13%,"-$1,264,320",,,,,MDT
+56,,2017-10-16 17:21:06,2017-10-16,MDT,Hanson Bryan C,"EVP, Pres, MITG",S - Sale,$78.03,-16000,124555,-11%,"-$1,248,480",,,,,MDT
+57,D,2017-09-18 19:11:04,2017-09-15,MDT,Ishrak Omar,"COB, CEO",S - Sale+OE,$81.63,-140407,540291,-21%,"-$11,461,423",,,,,MDT

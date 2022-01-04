@@ -1,0 +1,36 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-05-28 17:52:25,2021-05-27,PLD,Kennard Lydia H,Dir,S - Sale,$118.00,-10000,32773,-23%,"-$1,180,000",,,,,PLD
+1,,2020-06-11 16:28:54,2020-06-10,PLD,Fotiades George L,Dir,S - Sale,$96.38,-1339,22710,-6%,"-$129,053",,,,,PLD
+2,D,2020-04-29 19:09:23,2020-04-27,PLD,Kennard Lydia H,Dir,S - Sale+OE,$91.00,-6762,36262,-16%,"-$615,342",,,,,PLD
+3,D,2020-04-27 18:49:56,2020-04-24,PLD,Skelton Jeffrey L,Dir,S - Sale+OE,$89.20,-6762,48029,-12%,"-$603,170",,,,,PLD
+4,M,2019-07-31 13:09:23,2019-07-30,PLD,Reilly Eugene F,Chief Investment Officer,S - Sale,$81.72,-12500,7996,-61%,"-$1,021,540",,,,,PLD
+5,D,2019-07-24 18:44:03,2019-07-23,PLD,Olinger Thomas S,CFO,S - Sale+OE,$82.25,-13051,36786,-26%,"-$1,073,393",,,,,PLD
+6,,2019-06-12 19:53:49,2019-06-12,PLD,Hawkins Philip L,Dir,S - Sale,$78.72,-9000,35511,-20%,"-$708,480",,,,,PLD
+7,,2019-04-25 16:37:01,2019-04-24,PLD,Nekritz Edward S,"GC, Gen. Counsel",S - Sale,$75.01,-30671,22839,-57%,"-$2,300,639",,,,,PLD
+8,,2019-03-25 14:22:15,2019-03-21,PLD,Nekritz Edward S,"GC, Gen. Counsel",S - Sale,$71.86,-16059,53498,-23%,"-$1,154,021",,,,,PLD
+9,,2019-02-15 17:58:55,2019-02-13,PLD,Lyons Irving F III,Dir,S - Sale,$70.83,-30188,91816,-25%,"-$2,138,275",,,,,PLD
+10,,2019-02-12 12:38:58,2019-02-11,PLD,Reilly Eugene F,"CEO, The Americas",S - Sale,$71.07,-19000,20496,-48%,"-$1,350,330",,,,,PLD
+11,D,2019-02-08 15:42:58,2019-02-06,PLD,Skelton Jeffrey L,Dir,S - Sale+OE,$69.42,-14380,44090,-25%,"-$998,260",,,,,PLD
+12,D,2019-02-08 15:42:22,2019-02-07,PLD,Kennard Lydia H,Dir,S - Sale+OE,$70.24,-14380,32323,-31%,"-$1,010,051",,,,,PLD
+13,,2019-02-01 16:56:29,2019-01-30,PLD,Hawkins Philip L,Dir,S - Sale,$68.20,-15000,44511,-25%,"-$1,023,000",,,,,PLD
+14,,2019-02-01 16:53:51,2019-01-30,PLD,Nekritz Edward S,"GC, Gen. Counsel",S - Sale,$68.32,-32499,69557,-32%,"-$2,220,265",,,,,PLD
+15,,2018-12-21 16:45:18,2018-12-19,PLD,Zollars William D,Dir,S - Sale,$61.53,-1610,8270,-16%,"-$99,063",,,,,PLD
+16,D,2018-11-13 19:03:21,2018-11-09,PLD,Hawkins Philip L,Dir,S - Sale+OE,$67.23,-15000,59511,-20%,"-$1,008,470",,,,,PLD
+17,,2018-10-03 19:14:08,2018-09-28,PLD,Lyons Irving F III,Dir,P - Purchase,$66.89,71,121750,0%,"+$4,734",,,,,PLD
+18,D,2018-10-02 19:53:42,2018-09-28,PLD,Lyons Irving F III,Dir,S - Sale+OE,$67.45,-4808,121679,-4%,"-$324,300",,,,,PLD
+19,,2018-09-21 19:19:48,2018-09-21,PLD,Nekritz Edward S,"GC, Gen. Counsel",S - Sale,$67.66,-18099,107783,-14%,"-$1,224,568",,,,,PLD
+20,,2018-09-21 18:51:51,2018-09-20,PLD,Reilly Eugene F,"CEO, The Americas",S - Sale,$67.20,-15000,39496,-28%,"-$1,008,000",,,,,PLD
+21,D,2018-08-13 13:07:57,2018-08-09,PLD,Losh J Michael,Dir,S - Sale+OE,$65.63,-6762,25339,-21%,"-$443,790",,,,,PLD
+22,,2018-07-31 16:59:00,2018-07-27,PLD,Lyons Irving F III,Dir,S - Sale,$65.29,-1,126486,0%,-$65,,,,,PLD
+23,,2018-07-25 17:19:02,2018-07-23,PLD,Zollars William D,Dir,S - Sale,$62.45,-8020,11490,-41%,"-$500,849",,,,,PLD
+24,,2018-06-29 17:39:23,2018-06-28,PLD,Nekritz Edward S,"GC, Gen. Counsel",S - Sale,$64.87,-22213,125870,-15%,"-$1,440,957",,,,,PLD
+25,,2018-06-18 17:24:30,2018-06-15,PLD,Zollars William D,Dir,S - Sale,$64.06,-4750,19510,-20%,"-$304,285",,,,,PLD
+26,,2018-06-07 19:41:48,2018-06-07,PLD,Curless Michael S,Chief Investment Officer,S - Sale,$66.07,-14568,0,-100%,"-$962,508",,,,,PLD
+27,D,2018-05-08 16:37:33,2018-05-07,PLD,Skelton Jeffrey L,Dir,S - Sale+OE,$65.41,-3618,44090,-8%,"-$236,653",,,,,PLD
+28,D,2018-05-08 15:37:03,2018-05-04,PLD,Losh J Michael,Dir,S - Sale+OE,$65.38,-3618,25339,-12%,"-$236,545",,,,,PLD
+29,,2018-03-29 19:46:27,2018-03-28,PLD,Curless Michael S,Chief Investment Officer,S - Sale,$62.49,-14465,14568,-50%,"-$903,918",,,,,PLD
+30,,2018-02-08 19:25:45,2018-02-07,PLD,Zollars William D,Dir,S - Sale,$60.48,-4020,20225,-17%,"-$243,130",,,,,PLD
+31,,2017-12-28 17:35:23,2017-12-28,PLD,Nekritz Edward S,"GC, Gen. Counsel",S - Sale,$64.51,-15752,148060,-10%,"-$1,016,103",,,,,PLD
+32,D,2017-12-20 16:27:24,2017-12-18,PLD,Olinger Thomas S,CFO,S - Sale+OE,$66.33,-46200,37192,-55%,"-$3,064,446",,,,,PLD
+33,,2017-12-18 19:56:12,2017-12-14,PLD,Palazzolo Lori A,"Chief Accounting Officer, MD",S - Sale,$65.89,-4900,605,-89%,"-$322,861",,,,,PLD
+34,M,2017-11-30 18:45:26,2017-11-28,PLD,Reilly Eugene F,"CEO, The Americas",S - Sale,$66.55,-18000,63176,-22%,"-$1,197,900",,,,,PLD

@@ -1,0 +1,13 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2019-09-03 17:20:08,2019-08-30,FCFS,Graves James H,Dir,S - Sale,$99.33,-3597,21272,-14%,"-$357,290",,,,,FCFS
+1,,2019-08-02 18:18:51,2019-08-01,FCFS,Orr R Douglas,"EVP, CFO",S - Sale,$101.83,-2500,134000,-2%,"-$254,575",,,,,FCFS
+2,M,2019-05-03 18:20:39,2019-05-01,FCFS,Orr R Douglas,"EVP, CFO",S - Sale,$98.16,-12500,137500,-8%,"-$1,227,050",,,,,FCFS
+3,,2019-02-25 18:40:14,2019-02-25,FCFS,Orr R Douglas,"EVP, CFO",S - Sale,$90.00,-5000,150000,-3%,"-$450,000",,,,,FCFS
+4,,2019-02-21 18:38:40,2019-02-20,FCFS,Orr R Douglas,"EVP, CFO",S - Sale,$87.50,-2500,155000,-2%,"-$218,750",,,,,FCFS
+5,,2018-12-03 16:44:26,2018-11-30,FCFS,Graves James H,Dir,S - Sale,$89.11,-7000,23597,-23%,"-$623,770",,,,,FCFS
+6,,2018-11-08 18:18:54,2018-11-06,FCFS,Orr R Douglas,"EVP, CFO",S - Sale,$85.00,-2500,157500,-2%,"-$212,500",,,,,FCFS
+7,,2018-05-01 18:38:15,2018-05-01,FCFS,Faulkner Mikel D,Dir,P - Purchase,$85.89,"+1,700",5005,+51%,"+$146,013",,,,,FCFS
+8,,2018-03-15 18:02:34,2018-03-13,FCFS,Feehan Daniel R,Dir,S - Sale,$80.60,-17505,115789,-13%,"-$1,410,903",,,,,FCFS
+9,M,2018-02-23 18:04:20,2018-02-21,FCFS,Orr R Douglas,"EVP, CFO",S - Sale,$75.04,-10000,160000,-6%,"-$750,441",,,,,FCFS
+10,,2018-02-07 18:40:24,2018-02-05,FCFS,Stuart Thomas Brent,"Pres, COO",P - Purchase,$73.64,"+1,080",8283,+15%,"+$79,531",,,,,FCFS
+11,,2018-02-07 18:29:20,2018-02-05,FCFS,Orr R Douglas,"EVP, CFO",S - Sale,$73.43,-5000,170000,-3%,"-$367,150",,,,,FCFS

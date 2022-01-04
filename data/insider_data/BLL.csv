@@ -1,0 +1,77 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-19 16:49:19,2021-03-18,BLL,Morrison Scott C,"E.VP, C.F.O.",S - Sale,$82.50,-8653,502071,-2%,"-$713,873",,,,,BLL
+1,D,2020-12-14 18:08:01,2020-12-10,BLL,Knobel Jeff A,"VP, Treasurer",S - Sale+OE,$93.39,-24990,54004,-32%,"-$2,333,694",,,,,BLL
+2,D,2020-12-09 19:09:50,2020-12-09,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale+OE,$94.68,-94062,668225,-12%,"-$8,906,040",,,,,BLL
+3,,2020-12-07 18:12:41,2020-12-04,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$93.89,-30000,490614,-6%,"-$2,816,692",,,,,BLL
+4,,2020-11-20 17:30:11,2020-11-20,BLL,Baker Charles E,"VP, GC, CORP SEC",S - Sale,$97.35,-4272,199003,-2%,"-$415,859",,,,,BLL
+5,,2020-11-17 18:53:49,2020-11-16,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale,$95.83,-10000,39984,-20%,"-$958,309",,,,,BLL
+6,DM,2020-11-17 18:41:33,2020-11-13,BLL,Baker Charles E,"VP, GC, CORP SEC",S - Sale+OE,$95.49,-40000,205971,-16%,"-$3,819,490",,,,,BLL
+7,DM,2020-11-12 17:11:27,2020-11-10,BLL,Fisher Daniel William,"SVP, COO Global Bev Pkg",S - Sale+OE,$94.25,-8400,64924,-11%,"-$791,687",,,,,BLL
+8,,2020-09-03 14:00:35,2020-09-02,BLL,Baker Charles E,"VP,GC, CORP SEC",S - Sale,$81.91,-23146,238085,-9%,"-$1,895,778",,,,,BLL
+9,D,2020-08-25 17:34:06,2020-08-25,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale+OE,$77.41,-7887,45218,-15%,"-$610,496",,,,,BLL
+10,D,2020-08-20 09:34:23,2020-08-18,BLL,Carey Nate C,"VP, Controller",S - Sale+OE,$76.05,-3046,10877,-22%,"-$231,636",,,,,BLL
+11,,2020-06-10 08:15:36,2020-06-08,BLL,Knobel Jeff A,"VP, Treasurer",S - Sale,$72.98,-35000,68749,-34%,"-$2,554,384",,,,,BLL
+12,,2020-06-04 17:51:32,2020-06-04,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$75.09,-20000,409442,-5%,"-$1,501,750",,,,,BLL
+13,,2020-02-24 19:16:16,2020-02-21,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$76.93,-16491,511797,-3%,"-$1,268,653",,,,,BLL
+14,,2020-02-19 10:08:28,2020-02-14,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale,$77.50,-10000,47196,-17%,"-$774,957",,,,,BLL
+15,,2020-01-22 20:48:03,2020-01-22,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$71.51,-17920,448000,-4%,"-$1,281,488",,,,,BLL
+16,,2019-12-19 17:39:03,2019-12-19,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$63.90,-15411,447897,-3%,"-$984,691",,,,,BLL
+17,,2019-12-06 18:14:27,2019-12-06,BLL,Knobel Jeff A,"VP, Treasurer",S - Sale,$63.38,-6782,74446,-8%,"-$429,851",,,,,BLL
+18,,2019-12-05 18:57:30,2019-12-05,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$66.16,-9382,447602,-2%,"-$620,695",,,,,BLL
+19,,2019-11-20 20:01:55,2019-11-20,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$67.58,-15560,447602,-3%,"-$1,051,545",,,,,BLL
+20,,2019-11-06 19:52:28,2019-11-06,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$66.48,-9465,447602,-2%,"-$629,233",,,,,BLL
+21,A,2019-10-22 15:11:26,2019-10-07,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$72.62,-9577,438025,-2%,"-$695,482",,,,,BLL
+22,A,2019-10-22 15:11:07,2019-10-18,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$74.01,-16091,447602,-3%,"-$1,190,971",,,,,BLL
+23,,2019-10-18 19:08:48,2019-10-18,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$74.01,-16091,447602,-3%,"-$1,190,971",,,,,BLL
+24,,2019-10-08 16:25:16,2019-10-07,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$72.62,-9577,457005,-2%,"-$695,482",,,,,BLL
+25,,2019-09-11 08:56:57,2019-09-06,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$78.54,-9775,456933,-2%,"-$767,772",,,,,BLL
+26,A,2019-09-05 17:19:48,2019-08-23,BLL,Fisher Daniel William,"SVP, COO Global Bev Pkg",S - Sale,$79.79,-4745,34045,-12%,"-$378,588",,,,,BLL
+27,,2019-08-26 17:37:48,2019-08-23,BLL,Fisher Daniel William,"SVP, COO Global Bev Pkg",S - Sale,$79.79,-4745,35886,-12%,"-$378,588",,,,,BLL
+28,D,2019-08-23 15:14:31,2019-08-23,BLL,Carey Nate C,"VP, Controller",S - Sale+OE,$79.59,-7000,7653,-48%,"-$557,103",,,,,BLL
+29,M,2019-08-20 17:32:42,2019-08-19,BLL,Baker Charles E,"VP,GC, CORP SEC",S - Sale,$79.98,-48854,192598,-20%,"-$3,907,173",,,,,BLL
+30,DM,2019-08-20 17:32:30,2019-08-16,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale+OE,$79.53,-18244,37435,-33%,"-$1,450,974",,,,,BLL
+31,M,2019-08-16 19:21:33,2019-08-14,BLL,Taylor Stuart A II,Dir,S - Sale,$77.41,-48000,122966,-28%,"-$3,715,649",,,,,BLL
+32,,2019-08-13 13:23:14,2019-08-12,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$76.40,-17224,450790,-4%,"-$1,315,914",,,,,BLL
+33,,2019-08-07 16:05:13,2019-08-06,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$74.24,-9648,447277,-2%,"-$716,298",,,,,BLL
+34,,2019-07-09 16:02:03,2019-07-08,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$70.98,-9523,595051,-2%,"-$675,943",,,,,BLL
+35,,2019-06-11 17:48:49,2019-06-11,BLL,Fisher Daniel William,"SVP, COO Global Bev Pkg",S - Sale,$66.14,-5000,35882,-12%,"-$330,694",,,,,BLL
+36,,2019-06-07 15:57:32,2019-06-06,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$65.19,-9247,594686,-2%,"-$602,829",,,,,BLL
+37,,2019-05-21 16:01:30,2019-05-21,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale,$62.14,-6708,37400,-15%,"-$416,837",,,,,BLL
+38,,2019-05-20 16:02:40,2019-05-20,BLL,Knobel Jeff A,"VP, Treasurer",S - Sale,$62.28,-6300,71685,-8%,"-$392,343",,,,,BLL
+39,D,2019-05-17 16:16:30,2019-05-16,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale+OE,$63.06,-2897,445370,-1%,"-$182,685",,,,,BLL
+40,,2019-05-08 16:54:52,2019-05-06,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$61.66,-9111,625177,-1%,"-$561,774",,,,,BLL
+41,,2019-04-05 11:44:21,2019-04-04,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$57.97,-9100,625163,-1%,"-$527,527",,,,,BLL
+42,D,2019-03-12 16:07:28,2019-03-11,BLL,Carey Nate C,"VP, Controller",S - Sale+OE,$55.59,-1900,10134,-16%,"-$105,616",,,,,BLL
+43,,2019-03-07 11:11:51,2019-03-06,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$55.43,-8955,624926,-1%,"-$496,376",,,,,BLL
+44,D,2019-02-25 16:33:41,2019-02-25,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale+OE,$54.93,-5066,37379,-12%,"-$278,275",,,,,BLL
+45,,2019-02-14 16:00:25,2019-02-13,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$55.20,-91701,624916,-13%,"-$5,061,483",,,,,BLL
+46,D,2019-02-08 16:21:33,2019-02-07,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale+OE,$53.01,-13677,435765,-3%,"-$725,018",,,,,BLL
+47,,2019-02-07 09:16:20,2019-02-06,BLL,Fisher Daniel William,"SVP, COO Global Bev Pkg",S - Sale,$53.13,-7000,40499,-15%,"-$371,886",,,,,BLL
+48,D,2018-11-19 16:02:37,2018-11-16,BLL,Baker Charles E,"VP,GC, CORP SEC",S - Sale+OE,$50.50,-16647,220205,-7%,"-$840,674",,,,,BLL
+49,,2018-11-07 16:01:39,2018-11-05,BLL,Knobel Jeff A,"VP, Treasurer",S - Sale,$47.42,-6899,71606,-9%,"-$327,151",,,,,BLL
+50,,2018-09-20 16:17:22,2018-09-20,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$44.40,-25000,401970,-6%,"-$1,110,018",,,,,BLL
+51,,2018-09-20 16:14:20,2018-09-19,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale,$44.30,-7000,32414,-18%,"-$310,100",,,,,BLL
+52,,2018-09-12 16:14:06,2018-09-10,BLL,Hayes John A,"COB, Pres, C.E.O.",S - Sale,$43.00,-96667,495186,-16%,"-$4,156,681",,,,,BLL
+53,,2018-06-20 13:24:44,2018-06-20,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$35.80,-2143,416625,-1%,"-$76,719",,,,,BLL
+54,,2018-05-21 16:11:35,2018-05-18,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$37.81,-2167,416625,-1%,"-$81,934",,,,,BLL
+55,,2018-04-19 16:58:38,2018-04-19,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$41.18,-2225,416625,-1%,"-$91,628",,,,,BLL
+56,,2018-03-20 15:47:43,2018-03-20,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$39.89,-2228,416564,-1%,"-$88,873",,,,,BLL
+57,D,2018-03-09 12:14:52,2018-03-08,BLL,Hoover R David,Dir,S - Sale+OE,$40.71,-2200,1011490,0%,"-$89,562",,,,,BLL
+58,,2018-02-28 15:34:20,2018-02-27,BLL,Fisher Daniel William,"SVP, COO Global Bev Pkg",P - Purchase,$40.10,9000,35762,+34%,"+$360,900",,,,,BLL
+59,,2018-02-23 13:04:53,2018-02-23,BLL,Strain Robert D,"SVP BallCorp, Pres BATC",S - Sale,$39.56,-2500,36486,-6%,"-$98,900",,,,,BLL
+60,,2018-02-22 17:45:53,2018-02-22,BLL,Pauley Lisa Ann,"SVP, HR, Administration",S - Sale,$39.44,-18660,411725,-4%,"-$735,919",,,,,BLL
+61,,2018-02-21 18:37:00,2018-02-21,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$39.29,-2194,416373,-1%,"-$86,202",,,,,BLL
+62,,2018-02-20 09:53:24,2018-02-15,BLL,Pauley Lisa Ann,"SVP, HR, Administration",S - Sale,$38.89,-7017,430385,-2%,"-$272,890",,,,,BLL
+63,,2018-02-15 16:31:59,2018-02-15,BLL,Peterson James N,"SVP, COO Global MF, HHP Pkg",S - Sale,$38.90,-4384,48382,-8%,"-$170,532",,,,,BLL
+64,,2018-01-19 15:28:52,2018-01-19,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$38.62,-2591,398401,-1%,"-$100,065",,,,,BLL
+65,,2018-01-05 16:44:58,2018-01-05,BLL,Hayes John A,"COB, Pres, C.E.O..",S - Sale,$38.61,-6782,548833,-1%,"-$261,823",,,,,BLL
+66,,2017-12-22 16:10:47,2017-12-19,BLL,Fisher Daniel William,"SVP, COO Global Bev Pkg",S - Sale,$38.49,-980,11661,-8%,"-$37,718",,,,,BLL
+67,,2017-12-21 17:53:43,2017-12-20,BLL,Peterson James N,"SVP, COO Global MF, HHP Pkg",S - Sale,$38.05,-1349,38150,-3%,"-$51,329",,,,,BLL
+68,,2017-12-07 17:04:45,2017-12-06,BLL,Hayes John A,"COB, Pres, C.E.O..",S - Sale,$40.74,-5519,548420,-1%,"-$224,854",,,,,BLL
+69,,2017-11-06 18:09:32,2017-11-06,BLL,Hayes John A,"COB, Pres, C.E.O..",S - Sale,$41.29,-5695,578420,-1%,"-$235,148",,,,,BLL
+70,,2017-10-06 11:40:57,2017-10-05,BLL,Hayes John A,"COB, Pres, C.E.O..",S - Sale,$41.98,-5619,578322,-1%,"-$235,896",,,,,BLL
+71,,2017-09-20 17:28:27,2017-09-20,BLL,Pauley Lisa Ann,"SVP, HR, Administration",S - Sale,$40.79,-17090,410402,-4%,"-$697,110",,,,,BLL
+72,,2017-09-11 11:02:44,2017-09-08,BLL,Knobel Jeff A,"VP, Treasurer",S - Sale,$40.12,-5218,71248,-7%,"-$209,326",,,,,BLL
+73,,2017-09-07 11:16:19,2017-09-06,BLL,Hayes John A,"COB, Pres, C.E.O..",S - Sale,$39.73,-5545,578016,-1%,"-$220,283",,,,,BLL
+74,,2017-08-28 19:28:27,2017-08-25,BLL,Pauley Lisa Ann,"SVP, HR, Administration",S - Sale,$39.10,-39241,410354,-9%,"-$1,534,272",,,,,BLL
+75,,2017-08-15 16:21:36,2017-08-15,BLL,Morrison Scott C,"SVP, C.F.O.",S - Sale,$40.35,-13249,400401,-3%,"-$534,551",,,,,BLL

@@ -1,0 +1,15 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-10-04 13:06:07,2021-10-01,TAYD,Sopko Timothy John,CEO,P - Purchase,$11.25,"+1,000",4000,+33%,"+$11,250",,,,,TAYD
+1,M,2021-04-30 09:48:21,2021-04-28,TAYD,Carey Robert Michael,Dir,P - Purchase,$11.99,+500,2500,+25%,"+$5,996",,,,,TAYD
+2,,2021-04-29 18:04:01,2021-04-27,TAYD,Carey Robert Michael,Dir,P - Purchase,$11.99,"+2,000",2000,New,"+$23,971",,,,,TAYD
+3,,2021-03-30 14:14:21,2021-03-29,TAYD,Sopko Timothy John,CEO,P - Purchase,$10.94,"+1,053",3000,+54%,"+$11,521",,,,,TAYD
+4,M,2020-04-16 15:01:23,2020-01-28,TAYD,Sochet IRA,10%,P - Purchase,$12.12,"+21,216",459015,+5%,"+$257,052",,,,,TAYD
+5,A,2020-04-16 14:57:12,2020-03-13,TAYD,Sochet IRA,10%,S - Sale,$9.50,-5720,288229,-2%,"-$54,340",,,,,TAYD
+6,A,2020-03-30 15:36:11,2020-03-13,TAYD,Sochet IRA,10%,P - Purchase,$9.50,"+150,000",151526,>999%,"+$1,425,000",,,,,TAYD
+7,,2020-03-30 15:25:22,2020-03-26,TAYD,Sopko Timothy John,CEO,P - Purchase,$9.17,+947,1947,+95%,"+$8,683",,,,,TAYD
+8,M,2020-03-27 19:59:10,2020-03-11,TAYD,Sochet IRA,10%,P - Purchase,$9.24,"+151,534",459015,+49%,"+$1,399,806",,,,,TAYD
+9,M,2020-03-27 19:59:10,2020-03-11,TAYD,Sochet IRA,10%,S - Sale,$9.46,-163519,459015,-26%,"-$1,546,253",,,,,TAYD
+10,,2020-01-21 09:50:11,2020-01-14,TAYD,Sochet IRA,10%,P - Purchase,$12.09,"+9,819",449784,+2%,"+$118,712",,,,,TAYD
+11,,2020-01-14 16:58:00,2020-01-13,TAYD,Sochet IRA,10%,P - Purchase,$11.98,"+56,088",439965,+15%,"+$671,934",,,,,TAYD
+12,,2019-10-17 14:53:28,2019-10-09,TAYD,Sochet IRA,10%,P - Purchase,$10.98,"+11,450",383877,+3%,"+$125,721",,,,,TAYD
+13,,2019-10-03 15:56:03,2019-10-03,TAYD,Sopko Timothy John,CEO,P - Purchase,$10.77,"+1,000",1000,New,"+$10,770",,,,,TAYD

@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-24 08:00:49,2021-11-23,PALT,Abada Yoram,Dir,P - Purchase,$3.35,"+1,000",9000,+13%,"+$3,350",,,,,PALT
+1,M,2021-11-23 09:12:23,2021-11-19,PALT,Katz Jason,"CEO, Pres, COO, COB",P - Purchase,$3.78,"+15,000",787177,+2%,"+$56,650",,,,,PALT
+2,M,2021-08-26 16:00:21,2021-08-24,PALT,Katz Jason,"CEO, Pres, COO, COB, 10%",P - Purchase,$3.55,"+3,300",772177,0%,"+$11,715",,,,,PALT
+3,,2021-08-19 16:01:59,2021-08-17,PALT,Katz Jason,"CEO, Pres, COO, COB, 10%",P - Purchase,$3.24,"+2,030",768877,0%,"+$6,577",,,,,PALT
+4,M,2020-11-19 16:31:04,2020-11-17,PALT,Katz Jason,"CEO, Pres, COO, COB, 10%",P - Purchase,$1.25,"+10,000",766847,+1%,"+$12,500",,,,,PALT
+5,M,2020-08-19 16:41:32,2020-08-17,PALT,Katz Jason,"CEO, Pres, COO, COB, 10%",P - Purchase,$1.35,"+6,000",756847,+1%,"+$8,077",,,,,PALT
+6,M,2020-08-14 16:03:18,2020-08-12,PALT,Katz Jason,"CEO, Pres, COO, COB, 10%",P - Purchase,$1.50,"+2,500",750847,0%,"+$3,750",,,,,PALT
+7,,2020-06-03 17:23:02,2020-06-01,PALT,Katz Jason,"CEO, Pres, COO, COB, 10%",P - Purchase,$1.10,+650,748347,0%,+$715,,,,,PALT
+8,,2020-05-22 17:56:17,2020-05-21,PALT,Katz Jason,"CEO, Pres, COO, COB, 10%",P - Purchase,$1.17,"+4,000",747697,+1%,"+$4,680",,,,,PALT
+9,M,2020-05-22 17:12:00,2020-05-20,PALT,Lerner Clifford,Former 10% Owner,S - Sale,$1.22,-10000,682139,-1%,"-$12,160",,,,,PALT
+10,,2020-03-06 16:05:20,2020-03-04,PEER,Lerner Clifford,10%,S - Sale,$0.81,-10000,692139,-1%,"-$8,100",,,,,PALT
+11,,2020-02-21 18:06:53,2020-02-19,PEER,Lerner Clifford,10%,S - Sale,$1.27,-900,702139,0%,"-$1,143",,,,,PALT
+12,M,2019-12-18 16:06:02,2019-12-16,PEER,Lerner Clifford,10%,S - Sale,$1.21,-10500,703039,-1%,"-$12,685",,,,,PALT
+13,,2019-11-27 16:07:52,2019-11-25,PEER,Lerner Clifford,10%,S - Sale,$1.77,-1900,713539,0%,"-$3,363",,,,,PALT
+14,,2019-11-13 16:45:22,2019-11-11,PEER,Lerner Clifford,10%,S - Sale,$1.37,-900,715439,0%,"-$1,233",,,,,PALT
+15,M,2019-11-05 16:08:46,2019-11-01,PEER,Lerner Clifford,10%,S - Sale,$1.29,-17399,716339,-2%,"-$22,411",,,,,PALT
+16,M,2018-11-16 17:28:51,2018-11-14,PEER,Katz Jason,"COB of the Board, PRES, COO, 10%",P - Purchase,$4.92,"+5,197",743697,+1%,"+$25,565",,,,,PALT
+17,M,2018-05-31 17:00:13,2018-05-29,PEER,Katz Jason,"COB of the Board, PRES, COO, 10%",P - Purchase,$6.01,"+20,000",738500,+3%,"+$120,223",,,,,PALT
+18,,2018-05-10 16:05:20,2018-05-08,PEER,Lerner Clifford,"Dir, 10%",S - Sale,$5.00,-60000,753738,-7%,"-$300,000",,,,,PALT

@@ -1,0 +1,8 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-01-25 21:00:09,2021-01-15,FKWL,Jyoung Joon Won,"Dir, 10%",S - Sale,$5.19,-864064,1004948,-46%,"-$4,484,492",,,,,FKWL
+1,,2021-01-12 15:33:58,2020-12-31,FKWL,Lee Yun J,COO,S - Sale,$15.00,-50000,0,-100%,"-$750,000",,,,,FKWL
+2,,2021-01-12 15:33:42,2020-12-31,FKWL,Kim Oc,Pres,S - Sale,$15.00,-500000,1096695,-31%,"-$7,500,000",,,,,FKWL
+3,,2020-12-28 14:25:53,2020-12-16,FKWL,Lee Yun J,COO,P - Purchase,$0.45,"+8,291",8291,New,"+$3,731",,,,,FKWL
+4,A,2020-11-30 17:45:22,2020-05-07,FKWL,Lee Yun J,COO,P - Purchase,$2.00,"+10,000",51709,+24%,"+$20,000",,,,,FKWL
+5,,2020-10-05 15:58:51,2020-09-25,FKWL,Kim Oc,"Pres, 10%",P - Purchase,$2.50,"+400,000",1756695,+29%,"+$1,000,000",,,,,FKWL
+6,,2020-05-14 15:52:22,2020-05-07,FKWL,Lee Yun J,COO,S - Sale,$2.00,-10000,51709,-16%,"-$20,000",,,,,FKWL

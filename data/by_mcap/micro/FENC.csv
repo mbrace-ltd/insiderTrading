@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2020-05-06 16:05:16,2020-05-04,FENC,Southpoint Capital Advisors LP,10%,P - Purchase,$6.25,"+80,000",4077214,+2%,"+$500,000",,,,,FENC
+1,,2020-05-04 17:25:12,2020-04-30,FENC,Essetifin Spa,10%,P - Purchase,$6.25,"+768,000",3993694,+24%,"+$4,800,000",,,,,FENC
+2,M,2018-03-29 17:10:44,2018-03-08,FENC,"Manchester Management Pr, LLC",10%,S - Sale,$10.61,-914745,2916666,-24%,"-$9,704,023",,,,,FENC
+3,M,2018-03-29 17:07:06,2017-02-28,FENC,"Manchester Management Pr, LLC",10%,P - Purchase,$7.28,"+79,830",2323463,+4%,"+$581,310",,,,,FENC
+4,M,2018-03-29 17:07:06,2017-04-12,FENC,"Manchester Management Pr, LLC",10%,S - Sale,$9.22,-70100,2323463,-3%,"-$646,577",,,,,FENC
+5,M,2018-03-29 17:03:31,2016-08-23,FENC,"Manchester Management Pr, LLC",10%,P - Purchase,$2.01,"+96,000",3795681,+3%,"+$192,640",,,,,FENC
+6,M,2018-03-29 16:59:22,2016-01-27,FENC,"Manchester Management Pr, LLC",10%,P - Purchase,$2.06,"+190,850",4059013,+5%,"+$392,528",,,,,FENC
+7,M,2018-03-29 16:51:16,2015-12-29,FENC,Manchester Management Co LLC,10%,P - Purchase,$1.78,"+40,600",3508831,+1%,"+$72,304",,,,,FENC
+8,M,2018-03-29 16:48:42,2015-05-27,FENC,Manchester Management Co LLC,10%,P - Purchase,$1.65,"+102,960",3468231,+3%,"+$170,046",,,,,FENC
+9,M,2018-03-29 16:47:03,2014-12-24,FENC,Manchester Management Co LLC,10%,P - Purchase,$2.51,"+189,800",3365271,+6%,"+$475,668",,,,,FENC
+10,M,2018-03-29 16:45:19,2014-08-29,FENC,Manchester Management Co LLC,10%,P - Purchase,$2.48,"+82,666",3534803,+2%,"+$205,132",,,,,FENC

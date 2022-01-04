@@ -1,0 +1,55 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-08 11:39:51,2021-12-07,LFMD,Velge Bertrand,Dir,P - Purchase,$4.54,"+25,000",916666,+3%,"+$113,500",,,,,LFMD
+1,DM,2021-12-07 15:52:26,2020-04-15,LFMD,Velge Bertrand,Dir,P - Purchase,$1.08,"+501,041",1890723,+36%,"+$543,100",,,,,LFMD
+2,,2021-12-01 14:07:48,2021-12-01,LFMD,Bhatia Naveen,Dir,P - Purchase,$4.26,"+50,000",196349,+34%,"+$213,165",,,,,LFMD
+3,,2021-12-01 10:40:38,2021-11-30,LFMD,Benathen Marc David,CFO,P - Purchase,$4.09,"+7,831",27554,+40%,"+$32,029",,,,,LFMD
+4,,2021-11-30 14:43:21,2021-11-30,LFMD,Bhatia Naveen,Dir,P - Purchase,$3.88,"+50,000",146349,+52%,"+$193,800",,,,,LFMD
+5,,2021-11-23 11:58:24,2021-11-23,LFMD,Yecies Eric Harold,"CCO, GC",P - Purchase,$4.12,"+7,400",23500,+46%,"+$30,488",,,,,LFMD
+6,,2021-11-22 14:57:57,2021-11-18,LFMD,Ditrolio Joseph,Dir,P - Purchase,$4.89,"+2,000",22500,+10%,"+$9,780",,,,,LFMD
+7,,2021-11-18 10:03:02,2021-11-17,LFMD,Galluppi Stefan,CTO,P - Purchase,$4.80,"+1,848",1657641,0%,"+$8,875",,,,,LFMD
+8,,2021-11-16 15:17:59,2021-11-15,LFMD,Galluppi Stefan,CTO,P - Purchase,$4.55,"+2,197",1655793,0%,"+$9,995",,,,,LFMD
+9,,2021-09-15 15:42:49,2021-09-14,LFMD,Walters Happy David,Former Director,P - Purchase,$7.19,"+41,697",2148956,+2%,"+$299,655",,,,,LFMD
+10,,2021-08-25 11:56:10,2021-08-25,LFMD,Deutsch Corey,Chief Business Officer,P - Purchase,$7.69,"+6,400",123569,+5%,"+$49,241",,,,,LFMD
+11,,2021-08-23 11:50:47,2021-08-23,LFMD,Deutsch Corey,Chief Business Officer,P - Purchase,$7.37,"+4,000",117169,+4%,"+$29,475",,,,,LFMD
+12,,2021-08-19 15:24:38,2021-08-18,LFMD,Ditrolio Joseph,Dir,P - Purchase,$6.78,"+2,000",20500,+11%,"+$13,566",,,,,LFMD
+13,,2021-08-18 14:55:42,2021-08-18,LFMD,Deutsch Corey,Chief Business Officer,P - Purchase,$6.82,"+12,000",113169,+12%,"+$81,799",,,,,LFMD
+14,,2021-08-18 14:51:12,2021-08-18,LFMD,Benathen Marc David,CFO,P - Purchase,$7.27,"+3,067",19723,+18%,"+$22,286",,,,,LFMD
+15,,2021-05-24 16:00:46,2021-05-20,LFMD,Deutsch Corey,Chief Business Officer,P - Purchase,$12.31,"+30,000",101169,+42%,"+$369,300",,,,,LFMD
+16,,2021-05-24 15:59:01,2021-05-19,LFMD,Deutsch Corey,Chief Business Officer,P - Purchase,$8.85,"+22,539",71169,+46%,"+$199,470",,,,,LFMD
+17,,2021-05-21 17:07:03,2021-05-20,LFMD,Ditrolio Joseph,Dir,P - Purchase,$10.44,"+2,000",18500,+12%,"+$20,880",,,,,LFMD
+18,,2021-05-21 15:10:40,2021-05-19,LFMD,Schreiber Justin,CEO,P - Purchase,$8.54,"+3,500",2974284,0%,"+$29,890",,,,,LFMD
+19,,2021-05-21 11:54:48,2021-05-19,LFMD,Galluppi Stefan,CTO,P - Purchase,$10.40,"+3,796",1653596,0%,"+$39,478",,,,,LFMD
+20,,2021-05-19 15:41:50,2021-05-19,LFMD,Yecies Eric Harold,"CCO, GC",P - Purchase,$9.24,"+11,100",16100,+222%,"+$102,564",,,,,LFMD
+21,,2021-05-19 15:19:00,2021-05-19,LFMD,Benathen Marc David,CFO,P - Purchase,$8.91,"+1,416",16656,+9%,"+$12,610",,,,,LFMD
+22,,2021-05-19 11:44:25,2021-05-19,LFMD,Deutsch Corey,Chief Business Officer,P - Purchase,$8.85,"+22,539",71169,+46%,"+$199,470",,,,,LFMD
+23,A,2021-04-30 17:50:19,2021-02-25,LFMD,Roberts Brad Michael,COO,P - Purchase,$20.50,"+5,000",67632,+8%,"+$102,500",,,,,LFMD
+24,,2021-02-25 19:16:47,2021-02-25,LFMD,Yecies Eric Harold,Chief Compliance Officer,P - Purchase,$20.08,"+5,000",5000,New,"+$100,400",,,,,LFMD
+25,,2021-02-25 18:13:10,2021-02-25,LFMD,Roberts Brad Michael,COO,P - Purchase,$20.50,"+5,000",5000,New,"+$102,500",,,,,LFMD
+26,,2020-09-24 17:26:56,2020-09-23,CVLB,Galluppi Stefan,COO,S - Sale,$1.00,-401000,749000,-35%,"-$401,000",,,,,LFMD
+27,,2020-08-19 09:42:52,2020-08-18,CVLB,Walters Happy David,Dir,P - Purchase,$1.29,"+45,000",536300,+9%,"+$58,093",,,,,LFMD
+28,,2020-08-17 19:51:56,2020-08-17,CVLB,Walters Happy David,Dir,P - Purchase,$1.42,"+65,000",491300,+15%,"+$92,009",,,,,LFMD
+29,,2020-07-17 16:15:09,2020-07-16,CVLB,Walters Happy David,Dir,P - Purchase,$0.81,"+1,300",426300,0%,"+$1,047",,,,,LFMD
+30,,2020-02-18 16:57:39,2020-02-14,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.15,"+13,900",9493210,0%,"+$2,016",,,,,LFMD
+31,,2019-11-15 09:18:13,2019-11-14,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.17,"+75,000",9479310,+1%,"+$12,494",,,,,LFMD
+32,,2019-11-13 13:51:09,2019-11-08,CVLB,Walters Happy David,Dir,P - Purchase,$0.18,"+200,000",425000,+89%,"+$36,180",,,,,LFMD
+33,,2019-11-08 10:35:21,2019-11-07,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.17,"+49,487",9404310,+1%,"+$8,561",,,,,LFMD
+34,,2019-11-01 09:55:44,2019-10-30,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.16,"+74,128",9354823,+1%,"+$11,826",,,,,LFMD
+35,,2019-09-05 11:17:25,2019-09-03,CVLB,Walters Happy David,Dir,P - Purchase,$0.12,"+25,000",225000,+13%,"+$3,119",,,,,LFMD
+36,M,2019-08-28 11:17:52,2019-08-21,CVLB,Walters Happy David,Dir,P - Purchase,$0.13,"+69,000",200000,+53%,"+$8,957",,,,,LFMD
+37,,2019-08-21 11:00:22,2019-08-20,CVLB,Walters Happy David,Dir,P - Purchase,$0.12,"+25,000",131000,+24%,"+$3,000",,,,,LFMD
+38,M,2019-08-16 13:04:30,2019-08-05,CVLB,Walters Happy David,Dir,P - Purchase,$0.13,"+54,965",106000,+108%,"+$7,177",,,,,LFMD
+39,,2019-08-01 11:02:44,2019-07-31,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.13,"+50,000",9380695,+1%,"+$6,500",,,,,LFMD
+40,,2019-07-26 11:46:30,2019-07-25,CVLB,Walters Happy David,Dir,P - Purchase,$0.14,"+51,035",51035,New,"+$7,029",,,,,LFMD
+41,,2019-07-22 08:55:22,2019-04-25,CVLB,Galluppi Stefan,COO,P - Purchase,$0.16,"+4,687",1154687,0%,+$750,,,,,LFMD
+42,M,2019-07-17 15:44:59,2019-07-12,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.10,"+25,000",6830695,0%,"+$2,489",,,,,LFMD
+43,,2019-01-08 17:48:14,2019-01-04,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.17,"+15,695",5805695,0%,"+$2,636",,,,,LFMD
+44,M,2018-12-21 15:41:59,2018-12-19,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.18,"+51,701",3145000,+2%,"+$9,230",,,,,LFMD
+45,,2018-12-03 07:45:37,2018-11-30,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.20,"+30,000",3093299,+1%,"+$5,883",,,,,LFMD
+46,M,2018-11-29 07:55:23,2018-11-21,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.18,"+42,500",3063299,+1%,"+$7,625",,,,,LFMD
+47,,2018-11-21 07:51:33,2018-11-20,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.16,"+50,606",3020799,+2%,"+$8,304",,,,,LFMD
+48,D,2018-10-25 09:25:35,2018-09-12,CVLB,Ditrolio Joseph,Dir,P - Purchase,$0.27,"+10,000",82500,+14%,"+$2,653",,,,,LFMD
+49,,2018-08-27 16:50:46,2018-08-27,CVLB,Schreiber Justin,"CEO, 10%",P - Purchase,$0.29,"+34,000",2970193,+1%,"+$9,799",,,,,LFMD
+50,M,2018-05-24 08:00:18,2018-05-22,IMMD,Schreiber Justin,"CEO, 10%",P - Purchase,$0.22,"+105,000",5311193,+2%,"+$23,472",,,,,LFMD
+51,,2018-03-28 16:16:38,2018-03-27,IMMD,Schreiber Justin,"CEO, 10%",P - Purchase,$0.26,"+212,500",2831193,+8%,"+$55,250",,,,,LFMD
+52,,2018-02-20 20:00:08,2018-02-13,IMMD,McLaughlin Mark,10%,S - Sale,$0.23,-800000,5463449,-13%,"-$184,000",,,,,LFMD
+53,,2018-02-12 18:01:33,2018-02-08,IMMD,Schreiber Justin,"Pres, Immudyne PR, 10%",P - Purchase,$0.23,"+600,000",2618693,+30%,"+$138,000",,,,,LFMD

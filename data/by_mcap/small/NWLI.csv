@@ -1,0 +1,9 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-09-17 12:28:17,2021-09-16,NWLI,Perez Rey Jr,"NWLIC Pres, COO",P - Purchase,$200.00,110,110,New,"+$22,000",,,,,NWLI
+1,D,2018-06-18 12:31:54,2018-06-15,NWLI,Moody Russell S.,Advisory Director,S - Sale+OE,$314.50,-206,2957,-7%,"-$64,787",,,,,NWLI
+2,D,2018-06-14 14:40:10,2018-06-12,NWLI,Moody Robert L,10%,S - Sale+OE,$309.95,-168,1157896,0%,"-$52,072",,,,,NWLI
+3,D,2018-05-22 15:40:52,2018-05-21,NWLI,McLeod E Douglas,Dir,S - Sale+OE,$304.61,-206,2000,-9%,"-$62,750",,,,,NWLI
+4,D,2018-04-02 11:59:35,2018-03-29,NWLI,Moody-Dahlberg Frances A,Dir,S - Sale+OE,$304.88,-167,1850,-8%,"-$50,915",,,,,NWLI
+5,D,2018-03-14 12:21:39,2018-03-12,NWLI,Moody Ross R,"Pres, CEO",S - Sale+OE,$321.99,-212,4000,-5%,"-$68,262",,,,,NWLI
+6,D,2018-03-12 18:24:32,2018-03-09,NWLI,Moody Robert L,10%,S - Sale+OE,$320.58,-726,1159096,0%,"-$232,741",,,,,NWLI
+7,D,2018-03-07 10:18:45,2018-03-05,NWLI,Moody Ross R,"Pres, CEO",S - Sale+OE,$312.48,-608,0,-100%,"-$189,988",,,,,NWLI

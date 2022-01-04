@@ -1,0 +1,27 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-06 18:06:44,2021-12-02,DCTH,Michel Gerard J,See Remarks,P - Purchase,$8.61,"+23,200",59050,+65%,"+$199,752",,,,,DCTH
+1,,2021-07-01 10:47:09,2021-06-30,DCTH,Salamon Steven A J,Dir,P - Purchase,$12.76,"+5,500",419500,+1%,"+$70,180",,,,,DCTH
+2,,2021-07-01 10:45:34,2021-06-30,DCTH,"Rosalind Advisors, Inc.",Dir,P - Purchase,$12.76,"+5,500",421500,+1%,"+$70,180",,,,,DCTH
+3,A,2021-07-01 10:44:18,2021-06-28,DCTH,"Rosalind Advisors, Inc.",Dir,P - Purchase,$11.56,"+5,000",416000,+1%,"+$57,800",,,,,DCTH
+4,,2021-06-30 09:53:25,2021-06-28,DCTH,Salamon Steven A J,Dir,P - Purchase,$11.56,"+5,000",414000,+1%,"+$57,800",,,,,DCTH
+5,,2021-06-30 09:52:30,2021-06-28,DCTH,"Rosalind Advisors, Inc.",Dir,P - Purchase,$11.56,"+500,000",416000,-595%,"+$5,780,000",,,,,DCTH
+6,M,2021-06-29 13:46:43,2021-06-25,DCTH,Michel Gerard J,CEO,P - Purchase,$11.63,"+12,850",35850,+56%,"+$149,473",,,,,DCTH
+7,,2021-06-28 08:50:29,2021-06-24,DCTH,Salamon Steven A J,Dir,P - Purchase,$10.90,"+4,500",409000,+1%,"+$49,050",,,,,DCTH
+8,,2021-05-14 08:06:19,2021-05-13,DCTH,Purpura John,COO,P - Purchase,$9.42,"+4,000",18713,+27%,"+$37,680",,,,,DCTH
+9,,2021-04-05 12:34:42,2021-04-05,DCTH,Michel Gerard J,CEO,P - Purchase,$12.88,"+15,500",23000,+207%,"+$199,640",,,,,DCTH
+10,,2020-12-14 14:00:44,2020-12-11,DCTH,Michel Gerard J,CEO,P - Purchase,$13.25,"+7,500",7500,New,"+$99,375",,,,,DCTH
+11,,2020-11-20 16:05:09,2020-11-19,DCTH,Purpura John,COO,P - Purchase,$12.68,"+1,600",14713,+12%,"+$20,288",,,,,DCTH
+12,,2020-11-19 14:27:50,2020-11-17,DCTH,"Rosalind Advisors, Inc.",Dir,P - Purchase,$12.11,"+2,500",191500,+1%,"+$30,280",,,,,DCTH
+13,,2020-11-17 12:37:45,2020-11-17,DCTH,Salamon Steven A J,Dir,P - Purchase,$12.11,"+2,500",189500,+1%,"+$30,280",,,,,DCTH
+14,,2020-11-16 13:21:37,2020-11-13,DCTH,"Rosalind Advisors, Inc.",Dir,P - Purchase,$11.75,"+4,000",189000,+2%,"+$47,000",,,,,DCTH
+15,,2020-11-16 13:20:20,2020-11-16,DCTH,Aharon Gil,Dir,P - Purchase,$12.00,"+2,000",187000,+1%,"+$24,000",,,,,DCTH
+16,,2020-11-13 13:43:08,2020-11-13,DCTH,Salamon Steven A J,Dir,P - Purchase,$11.51,"+2,000",187000,+1%,"+$23,020",,,,,DCTH
+17,,2018-10-23 16:20:30,2018-09-28,DCTH,Purpura John,"EVP, Global Operations",P - Purchase,$1.75,"+5,500",5501,>999%,"+$9,625",,,,,DCTH
+18,,2018-10-23 16:19:21,2018-09-28,DCTH,Stoll Roger G Phd,Dir,P - Purchase,$1.75,"+4,900",5901,+490%,"+$8,575",,,,,DCTH
+19,,2018-10-23 16:16:53,2018-09-28,DCTH,Simpson Jennifer K.,"Pres, CEO",P - Purchase,$1.75,"+7,399",7500,>999%,"+$12,948",,,,,DCTH
+20,,2018-10-23 16:16:30,2018-09-28,DCTH,Keck Barbra,CFO,P - Purchase,$1.75,"+7,399",7500,>999%,"+$12,948",,,,,DCTH
+21,,2018-10-23 16:16:09,2018-09-28,DCTH,Rueckert William Dodge,Dir,P - Purchase,$1.75,"+6,500",7926,+456%,"+$11,375",,,,,DCTH
+22,,2018-08-02 21:25:26,2018-08-01,DCTH,Stoll Roger G Phd,Dir,P - Purchase,$2.47,"+1,000",1001,>999%,"+$2,466",,,,,DCTH
+23,,2018-08-02 21:06:49,2018-07-31,DCTH,Rueckert William Dodge,Dir,P - Purchase,$2.53,"+3,208",3209,>999%,"+$8,103",,,,,DCTH
+24,,2018-08-02 19:17:01,2018-08-01,DCTH,Keck Barbra,CFO,P - Purchase,$2.39,+100,101,>999%,+$239,,,,,DCTH
+25,,2018-08-02 19:01:43,2018-07-31,DCTH,Simpson Jennifer K.,"Pres, CEO",P - Purchase,$2.55,+100,101,>999%,+$255,,,,,DCTH

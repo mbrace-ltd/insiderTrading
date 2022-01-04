@@ -1,0 +1,41 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-05 12:36:26,2021-08-04,CAT,Maclennan David,Dir,P - Purchase,$206.20,500,1392,+56%,"+$103,100",,,,,CAT
+1,D,2021-06-07 14:30:47,2021-06-04,CAT,Creed Joseph E,Group Pres,S - Sale+OE,$245.12,-7699,16023,-32%,"-$1,887,179",,,,,CAT
+2,,2021-05-06 14:22:05,2021-05-05,CAT,Maclennan David,Dir,P - Purchase,$237.86,420,890,+89%,"+$99,901",,,,,CAT
+3,,2021-05-04 14:48:15,2021-05-03,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale,$230.00,-567,1610,-26%,"-$130,410",,,,,CAT
+4,D,2021-03-10 19:37:52,2021-03-08,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale+OE,$220.97,-5056,2172,-70%,"-$1,117,224",,,,,CAT
+5,D,2021-03-10 18:06:22,2021-03-08,CAT,Long Suzette M,"CLO, GC",S - Sale+OE,$219.67,-59311,10558,-85%,"-$13,028,610",,,,,CAT
+6,D,2021-03-10 18:05:54,2021-03-08,CAT,Johnson Denise C,Group Pres,S - Sale+OE,$219.82,-80695,0,-100%,"-$17,738,397",,,,,CAT
+7,D,2021-03-09 16:02:58,2021-03-05,CAT,De Lange Bob,Group Pres,S - Sale+OE,$214.56,-31888,36903,-46%,"-$6,841,760",,,,,CAT
+8,D,2021-02-03 16:17:37,2021-02-02,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale+OE,$190.76,-4018,1609,-71%,"-$766,474",,,,,CAT
+9,D,2020-12-08 08:27:12,2020-12-04,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale+OE,$179.50,-2318,1601,-59%,"-$416,081",,,,,CAT
+10,D,2020-12-04 09:31:43,2020-12-02,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale+OE,$173.26,-4634,1601,-74%,"-$802,887",,,,,CAT
+11,D,2020-11-10 18:48:43,2020-11-09,CAT,Johnson Denise C,Group Pres,S - Sale+OE,$175.00,-8894,11396,-44%,"-$1,556,450",,,,,CAT
+12,D,2020-11-06 14:26:45,2020-11-05,CAT,De Lange Bob,Group Pres,S - Sale+OE,$164.76,-2500,26804,-9%,"-$411,900",,,,,CAT
+13,D,2020-11-04 15:27:12,2020-11-02,CAT,Younessi Ramin,Group Pres,S - Sale+OE,$162.49,-13135,16177,-45%,"-$2,134,306",,,,,CAT
+14,,2020-11-02 19:11:11,2020-10-30,CAT,Younessi Ramin,Group Pres,S - Sale,$154.18,-20492,16177,-56%,"-$3,159,425",,,,,CAT
+15,,2020-11-02 19:10:52,2020-10-30,CAT,Long Suzette M,"GC, Corporate Sec.",S - Sale,$155.00,-3687,10549,-26%,"-$571,485",,,,,CAT
+16,,2020-10-30 18:29:11,2020-10-30,CAT,Ainsworth William P,Group Pres,S - Sale,$154.78,-12000,68832,-15%,"-$1,857,360",,,,,CAT
+17,D,2020-10-30 18:28:51,2020-10-29,CAT,Younessi Ramin,Group Pres,S - Sale+OE,$151.00,-18013,36669,-33%,"-$2,719,963",,,,,CAT
+18,D,2020-10-30 18:28:34,2020-10-29,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale+OE,$154.39,-6498,1595,-80%,"-$1,003,226",,,,,CAT
+19,D,2020-09-09 19:36:21,2020-09-08,CAT,De Lange Bob,Group Pres,S - Sale+OE,$147.00,-1575,26804,-6%,"-$231,525",,,,,CAT
+20,D,2020-09-09 18:59:57,2020-09-08,CAT,Johnson Denise C,Group Pres,S - Sale+OE,$146.74,-19549,11396,-63%,"-$2,868,620",,,,,CAT
+21,,2020-02-24 13:48:42,2020-02-20,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale,$137.83,-589,1568,-27%,"-$81,182",,,,,CAT
+22,,2019-11-06 14:15:03,2019-11-05,CAT,Johnson Denise C,Group Pres,S - Sale,$146.68,-5108,11609,-31%,"-$749,256",,,,,CAT
+23,D,2019-11-05 15:10:27,2019-11-01,CAT,Johnson Denise C,Group Pres,S - Sale+OE,$143.01,-68993,16910,-80%,"-$9,866,343",,,,,CAT
+24,D,2019-10-30 13:34:28,2019-10-29,CAT,Marvel Gary Michael,Chief Accounting Officer,S - Sale+OE,$139.38,-2180,1546,-59%,"-$303,848",,,,,CAT
+25,D,2019-10-29 15:19:02,2019-10-28,CAT,Johnson Denise C,Group Pres,S - Sale+OE,$140.00,-14777,16883,-47%,"-$2,068,780",,,,,CAT
+26,,2019-10-02 14:56:41,2019-09-30,CAT,Long Suzette M,"GC, Corporate Sec.",S - Sale,$126.34,-5019,13122,-28%,"-$634,100",,,,,CAT
+27,D,2018-10-30 19:22:44,2018-10-26,CAT,De Lange Bob,Group Pres,P - Purchase,$115.58,1080,11310,+11%,"+$124,826",,,,,CAT
+28,DM,2018-10-03 17:49:22,2018-10-01,CAT,Johnson Denise C,Group Pres,S - Sale+OE,$154.18,-35051,11562,-75%,"-$5,404,163",,,,,CAT
+29,D,2018-05-15 13:19:43,2018-05-11,CAT,Creed Joseph E,Interim CFO,S - Sale+OE,$155.67,-4532,8306,-35%,"-$705,496",,,,,CAT
+30,,2018-05-15 13:19:26,2018-05-14,CAT,Calhoun David L,Dir,P - Purchase,$155.37,5000,44579,+13%,"+$776,850",,,,,CAT
+31,D,2018-05-09 14:35:47,2018-05-07,CAT,Pellette Thomas A,Group Pres,S - Sale+OE,$150.17,-54481,33624,-62%,"-$8,181,361",,,,,CAT
+32,D,2018-02-02 20:56:45,2018-01-31,CAT,Pellette Thomas A,Group Pres,S - Sale+OE,$163.10,-95199,25883,-79%,"-$15,526,457",,,,,CAT
+33,,2018-01-31 15:17:40,2018-01-30,CAT,Long Suzette M,"GC, Corporate Sec.",S - Sale,$160.46,-528,20105,-3%,"-$84,723",,,,,CAT
+34,,2017-11-29 14:42:37,2017-11-27,CAT,Halverson Bradley M,"Group Pres, CFO",S - Sale,$137.67,-2600,26695,-9%,"-$357,942",,,,,CAT
+35,D,2017-11-28 17:40:35,2017-11-24,CAT,Copeland Jananne A.,Chief Accounting Officer,S - Sale+OE,$136.95,-3247,7605,-30%,"-$444,677",,,,,CAT
+36,D,2017-11-24 13:15:07,2017-11-21,CAT,Halverson Bradley M,"Group Pres, CFO",S - Sale+OE,$137.33,-17210,29295,-37%,"-$2,363,449",,,,,CAT
+37,D,2017-11-21 11:22:44,2017-11-17,CAT,Pellette Thomas A,Group Pres,S - Sale+OE,$135.69,-24547,25818,-49%,"-$3,330,782",,,,,CAT
+38,,2017-11-01 12:19:12,2017-10-30,CAT,Dickinson Daniel M,Dir,S - Sale,$137.09,-3813,6554,-37%,"-$522,724",,,,,CAT
+39,D,2017-10-30 17:15:11,2017-10-26,CAT,De Lange Bob,Group Pres,S - Sale+OE,$137.58,-1572,10230,-13%,"-$216,276",,,,,CAT

@@ -1,0 +1,32 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-06 16:17:04,2021-08-04,NWL,Malkoski Kristine Kay,Business Unit CEO - Food,P - Purchase,$24.97,150,10700,+1%,"+$3,746",,,,,NWL
+1,,2021-08-04 16:16:07,2021-08-02,NWL,Malkoski Kristine Kay,Business Unit CEO - Food,P - Purchase,$24.94,500,10550,+5%,"+$12,470",,,,,NWL
+2,,2021-05-11 16:16:41,2021-05-07,NWL,Peterson Christopher H,"CFO, Pres, Bus. Op.",S - Sale,$29.30,-39378,113101,-26%,"-$1,153,775",,,,,NWL
+3,,2020-03-16 16:17:10,2020-03-12,NWL,Hurd Laurel,"Pres, Learning, Development",P - Purchase,$12.80,4000,37304,+12%,"+$51,200",,,,,NWL
+4,M,2020-03-16 16:14:43,2020-03-12,NWL,Icahn Brett,"Dir, 10%",P - Purchase,$11.87,121304,1538908,+9%,"+$1,440,385",,,,,NWL
+5,,2020-03-11 18:47:46,2020-03-09,NWL,Icahn Brett,"Dir, 10%",P - Purchase,$13.22,238676,1017604,+31%,"+$3,154,127",,,,,NWL
+6,M,2020-03-11 18:44:55,2020-03-09,NWL,Icahn Carl C,10%,P - Purchase,$13.41,2585201,43704616,+6%,"+$34,656,512",,,,,NWL
+7,,2020-03-09 16:15:25,2020-03-05,NWL,Icahn Brett,Dir,P - Purchase,$14.47,100000,1178928,+9%,"+$1,447,300",,,,,NWL
+8,,2020-03-09 07:47:42,2020-03-06,NWL,Peterson Christopher H,"CFO, Pres, Bus. Op.",P - Purchase,$14.09,10000,49378,+25%,"+$140,930",,,,,NWL
+9,,2020-03-09 07:46:09,2020-03-05,NWL,Saligram Ravichandra Krishnamurty,"Pres, CEO",P - Purchase,$14.52,35000,35000,New,"+$508,344",,,,,NWL
+10,,2020-03-06 07:46:45,2020-03-04,NWL,Schmidt Robert Andrew,Chief Accounting Officer,P - Purchase,$15.07,2500,2500,New,"+$37,670",,,,,NWL
+11,M,2020-03-05 16:15:22,2020-03-03,NWL,Icahn Brett,Dir,P - Purchase,$15.97,320902,1078928,+42%,"+$5,124,190",,,,,NWL
+12,,2019-11-12 08:48:48,2019-11-07,NWL,Craigie James,Dir,P - Purchase,$20.00,12500,42843,+41%,"+$250,000",,,,,NWL
+13,,2019-08-19 18:28:33,2019-08-15,NWL,Todman Michael,Dir,P - Purchase,$15.76,5000,72184,+7%,"+$78,800",,,,,NWL
+14,,2018-11-28 16:21:01,2018-11-26,NWL,Cunningham James L III,"SVP, Chief Accounting Officer",S - Sale,$23.45,-22331,0,-100%,"-$523,637",,,,,NWL
+15,,2018-11-14 16:41:39,2018-11-12,NWL,Icahn Brett,Dir,P - Purchase,$20.03,100000,712835,+16%,"+$2,002,500",,,,,NWL
+16,,2018-08-14 16:06:33,2018-08-13,NWL,Polk Michael B,"Pres, CEO",P - Purchase,$20.63,10000,1137520,+1%,"+$206,300",,,,,NWL
+17,,2018-08-13 17:20:44,2018-08-09,NWL,Icahn Brett,Dir,P - Purchase,$21.00,110000,611098,+22%,"+$2,310,000",,,,,NWL
+18,,2018-08-08 16:09:25,2018-08-08,NWL,Campbell Patrick D,Dir,P - Purchase,$20.93,25000,26432,>999%,"+$523,250",,,,,NWL
+19,,2018-08-08 15:08:29,2018-08-08,NWL,Mather Courtney,Dir,P - Purchase,$20.50,50000,50000,New,"+$1,025,000",,,,,NWL
+20,,2018-08-08 11:25:40,2018-08-08,NWL,Craigie James,Dir,P - Purchase,$21.33,11500,15675,+275%,"+$245,295",,,,,NWL
+21,,2018-05-22 16:04:36,2018-05-21,NWL,Todman Michael,Dir,P - Purchase,$26.53,4000,61680,+7%,"+$106,120",,,,,NWL
+22,,2018-05-18 16:03:25,2018-05-18,NWL,Craigie James,Dir,P - Purchase,$26.67,1000,4175,+31%,"+$26,670",,,,,NWL
+23,A,2017-12-19 17:01:55,2017-10-02,NWL,Franklin Martin E,Dir,S - Sale,$29.60,-2047022,2047227,-50%,"-$60,591,851",,,,,NWL
+24,A,2017-12-19 17:00:48,2017-10-02,NWL,Ashken Ian G H,Dir,S - Sale,$29.60,-511322,511374,-50%,"-$15,135,131",,,,,NWL
+25,,2017-11-20 13:04:42,2017-11-20,NWL,Polk Michael B,CEO,P - Purchase,$28.22,7000,1015446,+1%,"+$197,540",,,,,NWL
+26,,2017-10-03 08:22:56,2017-10-02,NWL,Franklin Martin E,Dir,S - Sale,$0.00,-2047022,2047227,-50%,-$0,,,,,NWL
+27,,2017-10-03 08:22:25,2017-10-02,NWL,Ashken Ian G H,Dir,S - Sale,$0.00,-511322,511374,-50%,-$0,,,,,NWL
+28,M,2017-09-25 16:07:59,2017-03-21,NWL,Davies Richard B,"EVP, Chief Development Officer",P - Purchase,$44.65,100,13316,+1%,"+$4,465",,,,,NWL
+29,,2017-09-13 13:52:59,2017-09-11,NWL,Cowen Scott S,Dir,P - Purchase,$43.60,2000,87883,+2%,"+$87,200",,,,,NWL
+30,,2017-09-13 13:52:40,2017-09-13,NWL,Polk Michael B,CEO,P - Purchase,$43.61,5000,1008446,0%,"+$218,050",,,,,NWL

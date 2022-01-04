@@ -1,0 +1,22 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2020-09-14 17:52:07,2020-09-10,SNBP,Simpson Jennifer K.,"Pres, CEO",P - Purchase,$2.74,"+1,000",3424,+41%,"+$2,737",,,,,PBLA
+1,M,2020-09-09 21:28:27,2020-09-04,SNBP,Schaffer Paul W.,Dir,P - Purchase,$2.51,"+25,000",190085,+15%,"+$62,732",,,,,PBLA
+2,D,2020-09-01 17:48:42,2020-09-01,SNBP,Horvath Susan,"VP of Finance, CFO",P - Purchase,$0.00,"+2,424",13436,+22%,+$0,,,,,PBLA
+3,D,2020-09-01 17:48:11,2020-09-01,SNBP,Fratamico Arthur,Dir,P - Purchase,$0.00,"+2,424",2424,New,+$0,,,,,PBLA
+4,D,2020-09-01 17:47:40,2020-09-01,SNBP,Simpson Jennifer K.,"Pres, CEO",P - Purchase,$0.00,"+2,424",2424,New,+$0,,,,,PBLA
+5,D,2020-09-01 17:45:43,2020-09-01,SNBP,Cullen Michael T.,"Exec. COB, Pres, CEO, 10%",P - Purchase,$0.00,"+10,000",412571,+2%,+$0,,,,,PBLA
+6,A,2020-09-01 17:41:25,2020-05-22,SNBP,Cullen Michael T.,"Exec. COB, Pres, CEO, 10%",P - Purchase,$0.00,"+10,000",402571,+3%,+$0,,,,,PBLA
+7,D,2020-06-09 18:20:09,2020-06-05,SNBP,Schaffer Paul W.,Dir,P - Purchase,$0.00,"+10,000",165085,+6%,+$0,,,,,PBLA
+8,D,2020-06-09 18:19:31,2020-06-05,SNBP,Horvath Susan,"VP of Finance, CFO",P - Purchase,$0.00,"+2,500",11012,+29%,+$0,,,,,PBLA
+9,D,2020-05-27 15:22:41,2020-05-22,SNBP,Cullen Michael T.,"Exec. COB, Pres, CEO, 10%",P - Purchase,$0.00,"+10,000",402571,+3%,+$0,,,,,PBLA
+10,D,2019-09-24 17:35:41,2019-09-20,SNBP,Schaffer Paul W.,Dir,P - Purchase,$0.00,"+30,000",155085,+24%,+$0,,,,,PBLA
+11,D,2019-09-24 17:35:25,2019-09-20,SNBP,Gagnon Suzanne,Dir,P - Purchase,$0.00,"+7,142",51142,+16%,+$0,,,,,PBLA
+12,A,2019-09-24 17:34:46,2018-05-16,SNBP,Schaffer Paul W.,Dir,P - Purchase,$0.00,"+2,000",30665,+7%,+$0,,,,,PBLA
+13,D,2019-09-04 17:45:33,2019-08-30,SNBP,Horvath Susan,"VP of Finance, CFO",P - Purchase,$0.00,"+1,428",8512,+20%,+$0,,,,,PBLA
+14,D,2019-09-04 17:44:24,2019-08-30,SNBP,Cullen Michael T.,"Exec. COB, Pres, CEO, 10%",P - Purchase,$0.00,"+30,000",392571,+8%,+$0,,,,,PBLA
+15,,2019-08-26 21:17:40,2019-08-16,SNBP,Gilbertson Ryan Randall,10%,S - Sale,$3.00,-343411,212127,-62%,"-$1,030,233",,,,,PBLA
+16,D,2019-01-24 11:59:41,2018-08-15,SNBP,Gilbertson Ryan Randall,10%,S - Sale+OE,$0.00,-47025,555538,-8%,-$0,,,,,PBLA
+17,D,2018-06-14 17:20:30,2018-05-16,SNBP,Kaysen David B,"Pres, CEO",P - Purchase,$0.00,"+1,000",51000,+2%,+$0,,,,,PBLA
+18,D,2018-06-14 17:06:14,2018-05-16,SNBP,Schaffer Paul W.,Dir,P - Purchase,$0.00,"+5,000",1100052,0%,+$0,,,,,PBLA
+19,D,2018-02-22 17:37:54,2018-02-20,SNBP,Cullen Michael T.,"Exec COB, 10%",P - Purchase,$0.00,"+5,000",352076,+1%,+$0,,,,,PBLA
+20,D,2018-02-22 17:30:42,2018-02-20,SNBP,Mathiesen Jeffrey S,Dir,P - Purchase,$0.00,"+3,000",3000,New,+$0,,,,,PBLA

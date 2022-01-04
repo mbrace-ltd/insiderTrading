@@ -1,0 +1,14 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-14 09:10:53,2021-12-13,PDSB,Hill Matthew C,CFO,P - Purchase,$8.99,"+3,100",11925,+35%,"+$27,860",,,,,PDSB
+1,D,2021-06-21 16:30:48,2021-06-16,PDSB,Bloomquist Delyle W,See Remarks,P - Purchase,$9.88,"+10,000",798911,+1%,"+$98,778",,,,,PDSB
+2,D,2021-06-17 19:15:26,2021-06-15,PDSB,Glover Steve C,Dir,P - Purchase,$8.50,"+5,882",63790,+10%,"+$49,997",,,,,PDSB
+3,D,2021-06-17 19:09:59,2021-06-15,PDSB,Ali-Jackson Kamil,Dir,P - Purchase,$8.50,"+11,764",11764,New,"+$99,994",,,,,PDSB
+4,,2021-06-17 18:52:14,2021-06-15,PDSB,Van Voorhees Seth,CFO,P - Purchase,$8.50,"+17,647",17647,New,"+$150,000",,,,,PDSB
+5,D,2021-06-17 18:45:33,2021-06-15,PDSB,Freitag Gregory Gene,Dir,P - Purchase,$8.50,"+5,882",46153,+15%,"+$49,997",,,,,PDSB
+6,,2018-03-22 16:03:07,2018-03-22,EDGE,Macdonald R. Loch,Chief Scientific Officer,S - Sale,$16.41,-2500,570602,0%,"-$41,025",,,,,PDSB
+7,M,2018-03-21 11:34:18,2018-03-19,EDGE,Macdonald R. Loch,Chief Scientific Officer,S - Sale,$16.53,-10000,573102,-2%,"-$165,300",,,,,PDSB
+8,DM,2018-03-05 08:19:17,2018-03-01,EDGE,Leuthner Brian A,"Pres, CEO",S - Sale+OE,$14.95,-5000,455858,-1%,"-$74,725",,,,,PDSB
+9,M,2018-02-23 17:28:13,2018-02-22,EDGE,Leuthner Brian A,"Pres, CEO",S - Sale,$15.42,-5000,460858,-1%,"-$77,100",,,,,PDSB
+10,M,2018-02-22 17:00:56,2018-02-20,EDGE,Macdonald R. Loch,Chief Scientific Officer,S - Sale,$13.93,-12500,583102,-2%,"-$174,075",,,,,PDSB
+11,M,2018-02-02 21:15:55,2018-02-01,EDGE,Leuthner Brian A,"Pres, CEO",S - Sale,$13.05,-5000,465858,-1%,"-$65,250",,,,,PDSB
+12,M,2018-01-03 18:48:14,2018-01-02,EDGE,Leuthner Brian A,"Pres, CEO",S - Sale,$10.11,-5000,470858,-1%,"-$50,550",,,,,PDSB

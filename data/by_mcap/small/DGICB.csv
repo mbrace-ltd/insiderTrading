@@ -1,0 +1,69 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-23 15:37:51,2021-11-23,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.18,"+2,000",66130,+3%,"+$28,360",,,,,DGICB
+1,,2021-08-11 16:42:07,2021-08-11,DGICA,Huber Barry C,Dir,P - Purchase,$15.28,"+6,000",13367,+81%,"+$91,674",,,,,DGICB
+2,DM,2021-06-14 13:21:04,2021-06-11,DGICA,Moore Sewell Trezevant Jr,Dir,S - Sale+OE,$15.10,-12000,25155,-32%,"-$181,201",,,,,DGICB
+3,,2021-06-14 13:14:40,2021-06-11,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$15.22,"+200,000",15197031,+1%,"+$3,044,000",,,,,DGICB
+4,D,2021-06-07 08:49:28,2021-06-03,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$15.45,-1859,11436,-14%,"-$28,712",,,,,DGICB
+5,DM,2021-06-02 12:30:44,2021-06-01,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$15.27,-12000,7488,-62%,"-$183,195",,,,,DGICB
+6,DM,2021-05-17 15:22:18,2021-05-14,DGICA,Berlucchi Scott Andrew,Dir,S - Sale+OE,$15.01,-12000,6831,-64%,"-$180,161",,,,,DGICB
+7,DM,2021-05-11 12:48:37,2021-05-07,DGICA,Haefner Francis Joseph Jr,SVP,S - Sale+OE,$15.20,-35000,5295,-87%,"-$532,044",,,,,DGICB
+8,D,2021-04-29 15:00:41,2021-04-29,DGICA,Wampler Richard D II,Dir,S - Sale+OE,$15.51,-12000,8602,-58%,"-$186,158",,,,,DGICB
+9,,2021-03-11 17:07:25,2021-03-11,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.85,"+75,000",14997031,+1%,"+$1,113,750",,,,,DGICB
+10,D,2021-03-11 17:06:27,2021-03-11,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",S - Sale+OE,$14.85,-75000,8767,-90%,"-$1,113,750",,,,,DGICB
+11,DM,2021-03-11 17:05:26,2021-03-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.87,-35000,48752,-42%,"-$520,279",,,,,DGICB
+12,DM,2021-03-10 16:14:05,2021-03-08,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.91,-40000,48752,-45%,"-$596,385",,,,,DGICB
+13,D,2021-03-03 15:51:29,2021-03-01,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.46,-7500,8022,-48%,"-$108,459",,,,,DGICB
+14,D,2020-12-15 11:27:15,2020-12-14,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.15,-3500,7293,-32%,"-$49,525",,,,,DGICB
+15,D,2020-12-14 10:56:52,2020-09-03,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.78,-5437,659,-89%,"-$80,359",,,,,DGICB
+16,,2020-12-14 10:49:14,2020-12-14,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.16,"+100,000",14922031,+1%,"+$1,415,800",,,,,DGICB
+17,DM,2020-12-11 11:50:49,2020-12-10,DGICA,Wampler Richard D II,Dir,S - Sale+OE,$14.15,-8000,8102,-50%,"-$113,200",,,,,DGICB
+18,,2020-12-11 11:43:43,2020-12-10,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.22,"+35,000",14822031,0%,"+$497,700",,,,,DGICB
+19,D,2020-12-11 11:40:39,2020-12-10,DGICA,Kelley Richard George,SVP,S - Sale+OE,$14.22,-35000,32402,-52%,"-$497,700",,,,,DGICB
+20,DM,2020-12-09 16:16:55,2020-12-08,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$14.20,-8000,10936,-42%,"-$113,610",,,,,DGICB
+21,D,2020-12-08 16:12:33,2020-12-08,DGICA,Berlucchi Scott Andrew,Dir,S - Sale+OE,$14.04,-8000,6265,-56%,"-$112,320",,,,,DGICB
+22,DM,2020-12-04 12:34:50,2020-12-02,DGICA,Haefner Francis Joseph Jr,SVP,S - Sale+OE,$14.20,-35000,4710,-88%,"-$497,000",,,,,DGICB
+23,D,2020-12-02 14:48:21,2020-12-02,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.05,-452,14951,-3%,"-$6,351",,,,,DGICB
+24,D,2020-11-30 12:26:16,2020-11-25,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.50,-600,14951,-4%,"-$8,700",,,,,DGICB
+25,D,2020-11-25 15:50:29,2020-11-24,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.50,-8948,14951,-37%,"-$129,746",,,,,DGICB
+26,D,2020-11-25 15:44:06,2020-11-24,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.49,-14796,3658,-80%,"-$214,394",,,,,DGICB
+27,D,2020-11-18 16:35:05,2020-11-17,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.60,-5433,6867,-44%,"-$79,322",,,,,DGICB
+28,D,2020-11-17 16:06:43,2020-11-16,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-3600,3658,-50%,"-$52,704",,,,,DGICB
+29,D,2020-11-13 15:28:46,2020-11-13,DGICA,Long Robert Richard Jr,"Sr.VP, GC",S - Sale+OE,$14.31,-3000,59,-98%,"-$42,933",,,,,DGICB
+30,D,2020-11-10 16:22:22,2020-11-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-3298,3658,-47%,"-$48,283",,,,,DGICB
+31,D,2020-11-10 16:12:40,2020-11-10,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$14.49,-8000,6988,-53%,"-$115,958",,,,,DGICB
+32,D,2020-11-04 16:46:51,2020-11-03,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-5259,3658,-59%,"-$76,992",,,,,DGICB
+33,D,2020-11-03 17:02:01,2020-11-02,DGICA,Bixenman Dennis Joseph,Dir,S - Sale+OE,$14.14,-12000,5655,-68%,"-$169,626",,,,,DGICB
+34,D,2020-09-16 16:08:25,2020-09-14,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.74,-200,6867,-3%,"-$2,948",,,,,DGICB
+35,D,2020-09-15 16:16:04,2020-09-11,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.60,-1094,3658,-23%,"-$15,973",,,,,DGICB
+36,,2020-09-14 12:43:55,2020-09-10,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.79,"+180,000",10132692,+2%,"+$2,662,920",,,,,DGICB
+37,D,2020-09-14 12:43:17,2020-09-10,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$14.79,-75000,79939,-48%,"-$1,109,550",,,,,DGICB
+38,D,2020-09-14 12:42:30,2020-09-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.79,-50000,46946,-52%,"-$739,700",,,,,DGICB
+39,D,2020-09-14 12:41:22,2020-09-10,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",S - Sale+OE,$14.79,-55000,7862,-87%,"-$813,670",,,,,DGICB
+40,D,2020-09-14 12:40:01,2020-09-10,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.70,-2197,6867,-24%,"-$32,296",,,,,DGICB
+41,DM,2020-09-11 08:42:41,2020-09-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.90,-810,3658,-18%,"-$12,065",,,,,DGICB
+42,D,2020-09-11 08:35:51,2020-09-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-5400,7267,-43%,"-$80,190",,,,,DGICB
+43,A,2020-08-24 16:33:11,2020-08-20,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.55,"+2,000",50862,+4%,"+$27,100",,,,,DGICB
+44,,2020-08-21 09:03:24,2020-08-20,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.55,"+2,000",50796,+4%,"+$27,100",,,,,DGICB
+45,,2020-08-17 09:48:44,2020-08-14,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.87,"+101,667",14607031,+1%,"+$1,511,585",,,,,DGICB
+46,D,2020-08-17 09:23:37,2020-08-14,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$14.87,-45000,79353,-36%,"-$669,060",,,,,DGICB
+47,D,2020-08-17 09:19:05,2020-08-14,DGICA,Pandey Sanjay,"SVP, Chief Info Officer",S - Sale+OE,$14.87,-56667,6547,-90%,"-$842,525",,,,,DGICB
+48,D,2020-08-17 09:11:43,2020-08-13,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.99,-850,749,-53%,"-$12,742",,,,,DGICB
+49,DM,2020-08-12 20:01:03,2020-08-11,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.94,-8713,749,-92%,"-$130,212",,,,,DGICB
+50,,2020-08-10 11:30:38,2020-08-05,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.35,"+2,000",48796,+4%,"+$28,700",,,,,DGICB
+51,D,2020-06-11 10:02:20,2020-06-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.95,-600,6704,-8%,"-$8,970",,,,,DGICB
+52,DM,2020-06-10 09:43:02,2020-06-08,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.95,-6143,3551,-63%,"-$91,838",,,,,DGICB
+53,DM,2020-06-09 09:47:01,2020-06-05,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.91,-7316,6704,-52%,"-$109,080",,,,,DGICB
+54,D,2020-06-01 09:27:45,2020-05-28,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.95,-2684,6704,-29%,"-$40,126",,,,,DGICB
+55,AD,2020-05-28 14:34:48,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-10000,6704,-60%,"-$148,500",,,,,DGICB
+56,D,2020-05-28 12:43:35,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-10000,6704,-60%,"-$148,500",,,,,DGICB
+57,D,2020-05-28 12:43:35,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",P - Purchase,$13.64,"+10,000",6704,-303%,"+$136,400",,,,,DGICB
+58,,2020-03-12 12:35:23,2020-03-12,DGICA,Hess Jack Lee,Dir,P - Purchase,$12.44,"+1,200",46725,+3%,"+$14,925",,,,,DGICB
+59,,2020-03-12 09:30:21,2020-03-10,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$13.80,+500,10936,+5%,"+$6,900",,,,,DGICB
+60,D,2019-11-07 16:15:08,2019-11-06,DGICA,Bixenman Dennis Joseph,Dir,S - Sale+OE,$14.81,-8000,5155,-61%,"-$118,480",,,,,DGICB
+61,,2019-06-04 08:44:02,2019-06-03,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.43,"+1,000",36629,+3%,"+$14,430",,,,,DGICB
+62,,2019-05-10 13:30:01,2019-05-09,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.92,"+2,000",35573,+6%,"+$27,840",,,,,DGICB
+63,M,2018-11-21 11:39:23,2018-11-19,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.61,"+3,000",33015,+10%,"+$40,840",,,,,DGICB
+64,M,2018-11-08 10:39:29,2018-11-07,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.71,"+3,000",29963,+11%,"+$41,120",,,,,DGICB
+65,,2018-08-28 13:22:00,2018-08-27,DGICA,Gilmartin Patricia A,Dir,S - Sale,$14.65,-8229,500,-94%,"-$120,555",,,,,DGICB
+66,,2018-08-07 15:26:27,2018-08-07,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$14.36,+200,8936,+2%,"+$2,872",,,,,DGICB
+67,,2018-05-02 11:52:33,2018-04-30,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.00,"+7,000",14505364,0%,"+$147,000",,,,,DGICB

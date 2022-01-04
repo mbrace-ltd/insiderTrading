@@ -1,0 +1,10 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-07 16:13:16,2021-12-06,XENE,Von Seggern Christopher,Chief Commercial Officer,P - Purchase,$24.40,"+4,000",4000,New,"+$97,600",,,,,XENE
+1,,2021-11-16 20:40:42,2021-11-15,XENE,Pimstone Simon N.,Dir,S - Sale,$31.33,-17557,210186,-8%,"-$550,061",,,,,XENE
+2,D,2021-06-01 16:11:00,2021-05-28,XENE,Robin Sherrington,"EVP, Strategy, Innovation",S - Sale+OE,$18.81,-6067,32232,-16%,"-$114,120",,,,,XENE
+3,D,2021-06-01 16:07:31,2021-05-27,XENE,Holler Frank A,Dir,S - Sale+OE,$18.68,-11064,144837,-7%,"-$206,701",,,,,XENE
+4,M,2020-06-02 16:50:22,2020-05-29,XENE,Pimstone Simon N.,CEO,S - Sale,$14.16,-8000,271646,-3%,"-$113,240",,,,,XENE
+5,,2019-09-24 18:14:15,2019-09-20,XENE,Pimstone Simon N.,CEO,S - Sale,$9.51,-10395,274582,-4%,"-$98,856",,,,,XENE
+6,M,2019-09-20 16:15:21,2019-09-19,XENE,Holler Frank A,Dir,S - Sale,$9.32,-12806,118955,-10%,"-$119,336",,,,,XENE
+7,DM,2019-09-18 18:43:09,2019-09-17,XENE,Holler Frank A,Dir,S - Sale+OE,$9.30,-9437,131761,-7%,"-$87,778",,,,,XENE
+8,D,2019-09-17 16:46:28,2019-09-13,XENE,Azab Mohammad,Dir,S - Sale+OE,$9.31,-23,57561,0%,-$214,,,,,XENE

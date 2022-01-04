@@ -1,0 +1,35 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-14 16:05:37,2021-12-10,STRR,Eberwein Jeffrey E.,"Exec COB, 10%",P - Purchase,$3.25,"+650,000",2138268,+44%,"+$2,112,500",,,,,STRR
+1,M,2021-11-24 17:02:05,2021-11-22,STRR,Eberwein Jeffrey E.,Exec COB,S - Sale,$10.52,-19000,1488268,-1%,"-$199,875",,,,,STRR
+2,,2021-08-24 17:14:26,2021-08-20,STRR,Eberwein Jeffrey E.,Exec COB,S - Sale,$10.49,-1058,1503549,0%,"-$11,103",,,,,STRR
+3,,2020-12-01 17:16:59,2020-11-30,DRAD,Noble David J.,COO; CFO,S - Sale,$2.97,-3000,50478,-6%,"-$8,910",,,,,STRR
+4,DM,2020-11-20 18:07:37,2020-11-18,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$2.50,"+20,000",1467249,+1%,"+$49,928",,,,,STRR
+5,,2020-06-15 19:59:59,2020-06-11,DRAD,Eberwein Jeffrey E.,Dir,S - Sale,$7.91,-1514,1631375,0%,"-$11,976",,,,,STRR
+6,D,2020-05-29 20:03:03,2020-05-28,DRAD,Quain Mitchell I,Dir,P - Purchase,$2.24,"+22,000",46278,+91%,"+$49,280",,,,,STRR
+7,D,2020-05-29 19:59:47,2020-05-28,DRAD,Noble David J.,COO; CFO,P - Purchase,$2.24,"+20,000",51562,+63%,"+$44,800",,,,,STRR
+8,D,2020-05-29 19:57:17,2020-05-28,DRAD,Molchan Matthew G.,"Pres, CEO",P - Purchase,$2.24,"+2,000",27735,+8%,"+$4,480",,,,,STRR
+9,D,2020-05-29 19:52:39,2020-05-28,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$2.24,"+44,000",1632889,+3%,"+$98,560",,,,,STRR
+10,D,2020-05-29 19:47:37,2020-05-28,DRAD,Cunnion Michael A.,Dir,P - Purchase,$2.24,"+5,000",15047,+50%,"+$11,200",,,,,STRR
+11,,2019-11-25 09:58:28,2019-11-20,DRAD,Cannell Capital LLC,10%,S - Sale,$3.19,-20293,202826,-9%,"-$64,666",,,,,STRR
+12,D,2019-09-12 16:46:31,2019-09-10,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$10.00,"+300,000",1585092,+23%,"+$3,000,000",,,,,STRR
+13,,2019-05-20 15:30:45,2019-05-20,DRAD,Noble David J.,COO; Interim CFO,P - Purchase,$0.64,"+30,000",205000,+17%,"+$19,200",,,,,STRR
+14,D,2019-05-17 16:06:19,2019-05-17,DRAD,Noble David J.,COO; Interim CFO,P - Purchase,$0.65,"+8,538",175000,+5%,"+$5,550",,,,,STRR
+15,,2019-05-16 21:19:22,2019-05-15,DRAD,Quain Mitchell I,Dir,P - Purchase,$0.75,"+38,000",204803,+23%,"+$28,380",,,,,STRR
+16,M,2019-05-16 20:04:55,2019-05-15,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$0.68,"+40,000",869152,+5%,"+$27,200",,,,,STRR
+17,,2019-05-14 21:17:41,2019-05-13,DRAD,Quain Mitchell I,Dir,P - Purchase,$0.68,"+69,000",166803,+71%,"+$46,920",,,,,STRR
+18,M,2019-05-14 20:58:50,2019-05-13,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$0.67,"+10,000",829152,+1%,"+$6,680",,,,,STRR
+19,M,2019-05-09 19:46:39,2019-05-08,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$0.69,"+260,000",819152,+46%,"+$178,600",,,,,STRR
+20,,2019-03-19 16:14:37,2019-03-15,DRAD,Cunnion Michael A.,Dir,P - Purchase,$0.80,"+16,242",49992,+48%,"+$12,994",,,,,STRR
+21,,2019-03-18 20:33:49,2019-03-15,DRAD,Quain Mitchell I,Dir,P - Purchase,$0.76,"+97,803",97803,New,"+$74,330",,,,,STRR
+22,,2019-03-18 20:29:52,2019-03-15,DRAD,Molchan Matthew G.,"Pres, CEO",P - Purchase,$0.85,"+20,000",162396,+14%,"+$17,000",,,,,STRR
+23,,2019-03-18 20:26:38,2019-03-15,DRAD,Climaco John M,Dir,P - Purchase,$0.82,"+6,000",56600,+12%,"+$4,920",,,,,STRR
+24,,2019-03-18 16:51:59,2019-03-15,DRAD,Noble David James,COO; Interim CFO,P - Purchase,$0.82,"+40,000",75000,+114%,"+$32,800",,,,,STRR
+25,,2019-03-15 16:45:43,2019-03-15,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$0.74,"+15,000",559152,+3%,"+$11,100",,,,,STRR
+26,M,2018-11-16 18:21:10,2018-11-15,DRAD,Noble David James,COO,P - Purchase,$1.05,"+15,842",35000,+83%,"+$16,662",,,,,STRR
+27,,2018-11-13 09:00:27,2018-11-09,DRAD,Eberwein Jeffrey E.,Dir,P - Purchase,$1.15,"+25,000",544152,+5%,"+$28,750",,,,,STRR
+28,M,2018-09-12 17:17:36,2018-09-10,DRAD,Cannell Capital LLC,10%,P - Purchase,$1.75,"+68,594",2231136,+3%,"+$120,110",,,,,STRR
+29,,2018-09-10 17:56:45,2018-09-06,DRAD,Cannell Capital LLC,10%,P - Purchase,$1.74,+800,2162542,0%,"+$1,388",,,,,STRR
+30,D,2018-05-25 16:06:47,2018-05-23,DRAD,Lott Virgil,"Pres, Diagnostic Imaging",S - Sale+OE,$1.75,-200,69454,0%,-$350,,,,,STRR
+31,D,2018-03-01 19:48:39,2018-02-28,DRAD,Molchan Matthew G.,"Pres, CEO",P - Purchase,$2.14,"+25,000",99079,+34%,"+$53,500",,,,,STRR
+32,,2018-01-25 17:48:25,2018-01-23,DRAD,Cannell Capital LLC,10%,P - Purchase,$2.65,"+65,508",2161742,+3%,"+$173,858",,,,,STRR
+33,,2017-12-29 16:46:15,2017-12-28,DRAD,Cannell Capital LLC,10%,S - Sale,$2.99,-8300,2096234,0%,"-$24,816",,,,,STRR

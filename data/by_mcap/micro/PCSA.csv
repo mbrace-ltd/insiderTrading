@@ -1,0 +1,19 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-16 16:37:12,2021-12-14,PCSA,Lin Patrick,Chief Business - Strategy Off,P - Purchase,$4.00,"+3,000",429390,+1%,"+$12,000",,,,,PCSA
+1,M,2021-12-07 16:36:14,2021-12-03,PCSA,Yorke Justin W,Dir,S - Sale,$4.78,-9700,543740,-2%,"-$46,383",,,,,PCSA
+2,,2021-12-07 16:33:59,2021-12-03,PCSA,Lin Patrick,Chief Business - Strategy Off,P - Purchase,$4.80,"+3,500",426390,+1%,"+$16,795",,,,,PCSA
+3,,2021-08-30 16:33:50,2021-08-26,PCSA,Lin Patrick,Chief Business - Strategy Off,P - Purchase,$6.02,"+4,000",422890,+1%,"+$24,088",,,,,PCSA
+4,,2021-06-23 17:12:13,2021-06-23,PCSA,Young David,"CEO, 10%",P - Purchase,$7.67,"+10,000",1638235,+1%,"+$76,716",,,,,PCSA
+5,,2021-06-22 18:07:57,2021-06-22,PCSA,Floyd Robert Michael,COO,P - Purchase,$7.03,"+2,000",131851,+2%,"+$14,058",,,,,PCSA
+6,,2021-06-22 17:13:51,2021-06-21,PCSA,Lin Patrick,Chief Business - Strategy Off,P - Purchase,$6.65,"+2,000",401737,+1%,"+$13,300",,,,,PCSA
+7,,2021-06-22 17:09:57,2021-06-21,PCSA,Stanker James H,CFO,P - Purchase,$6.81,"+1,000",36510,+3%,"+$6,810",,,,,PCSA
+8,AM,2021-05-05 12:53:35,2021-04-06,PCSA,Besser James E,See Remarks,S - Sale,$10.77,-447771,1053300,-30%,"-$4,821,342",,,,,PCSA
+9,AM,2021-05-05 12:13:16,2021-02-18,PCSA,Besser James E,10%,S - Sale,$11.49,-28929,1501071,-2%,"-$332,289",,,,,PCSA
+10,M,2021-04-15 16:33:38,2021-04-13,PCSA,Yorke Justin W,Dir,S - Sale,$9.60,-16200,548978,-3%,"-$155,464",,,,,PCSA
+11,M,2021-04-08 18:05:20,2021-04-06,PCSA,Besser James E,See Remarks,S - Sale,$10.77,-447771,1053300,-30%,"-$4,821,342",,,,,PCSA
+12,M,2021-02-22 20:13:49,2021-02-18,PCSA,Besser James E,10%,S - Sale,$11.49,-28929,1501071,-2%,"-$332,289",,,,,PCSA
+13,,2020-10-13 18:33:08,2020-10-02,PCSA,Besser James E,10%,P - Purchase,$4.04,"+30,000",1530000,+2%,"+$121,200",,,,,PCSA
+14,A,2020-10-05 17:33:16,2020-10-01,PCSA,Stanker James H,CFO,P - Purchase,$4.00,"+6,000",47248,+15%,"+$24,000",,,,,PCSA
+15,A,2020-10-05 17:31:44,2020-10-01,PCSA,Lin Patrick,Chief Business - Strategy Off,P - Purchase,$4.00,"+31,250",399737,+8%,"+$125,000",,,,,PCSA
+16,,2020-10-05 16:43:54,2020-10-01,PCSA,Stanker James H,CFO,P - Purchase,$2.10,"+6,000",47248,+15%,"+$12,600",,,,,PCSA
+17,,2020-10-05 16:42:08,2020-10-01,PCSA,Lin Patrick,Chief Business - Strategy Off,P - Purchase,$2.10,"+31,250",399737,+8%,"+$65,625",,,,,PCSA

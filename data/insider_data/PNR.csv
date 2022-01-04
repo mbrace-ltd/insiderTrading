@@ -1,0 +1,29 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-05-12 16:45:19,2021-05-10,PNR,Jacko John H,"EVP, Chief Growth Officer",S - Sale+OE,$69.51,-30979,19334,-62%,"-$2,153,407",,,,,PNR
+1,D,2020-12-03 19:15:09,2020-12-01,PNR,Glenn T Michael,Dir,S - Sale+OE,$52.35,-4225,20863,-17%,"-$221,179",,,,,PNR
+2,D,2020-10-27 16:49:11,2020-10-23,PNR,Jones David A /wi,Dir,S - Sale+OE,$51.75,-10532,15471,-41%,"-$545,074",,,,,PNR
+3,D,2020-10-14 16:43:49,2020-10-12,PNR,Bryan Glynis,Dir,S - Sale+OE,$50.00,-10532,21976,-32%,"-$526,600",,,,,PNR
+4,D,2020-02-25 16:25:40,2020-02-21,PNR,Borin Mark C,"EVP, CFO",S - Sale+OE,$44.71,-37755,45608,-45%,"-$1,687,982",,,,,PNR
+5,D,2020-02-05 16:21:23,2020-02-03,PNR,Frykman Karl R.,"EVP, COO",S - Sale+OE,$43.38,-19321,62068,-24%,"-$838,145",,,,,PNR
+6,D,2020-02-05 16:18:21,2020-02-03,PNR,Borin Mark C,"EVP, CFO",S - Sale+OE,$43.50,-33501,30650,-52%,"-$1,457,277",,,,,PNR
+7,D,2019-12-04 16:18:01,2019-12-02,PNR,Glenn T Michael,Dir,S - Sale+OE,$44.23,-6116,18586,-25%,"-$270,511",,,,,PNR
+8,D,2019-11-13 16:20:30,2019-11-11,PNR,Jones David A /wi,Dir,S - Sale+OE,$43.11,-6116,13194,-32%,"-$263,644",,,,,PNR
+9,D,2019-11-05 17:12:57,2019-11-01,PNR,Bryan Glynis,Dir,S - Sale+OE,$42.00,-6116,19699,-24%,"-$256,872",,,,,PNR
+10,D,2019-04-03 16:36:54,2019-04-01,PNR,Sarcevic Ademir,"SVP, Chief Accounting Officer",S - Sale+OE,$45.00,-2435,328,-88%,"-$109,575",,,,,PNR
+11,,2019-03-05 16:41:56,2019-03-04,PNR,Sarcevic Ademir,"SVP, Chief Accounting Officer",S - Sale,$42.88,-266,8426,-3%,"-$11,406",,,,,PNR
+12,D,2019-02-05 16:27:09,2019-02-01,PNR,Frykman Karl R.,"EVP, COO",S - Sale+OE,$41.28,-10241,49044,-17%,"-$422,748",,,,,PNR
+13,D,2019-01-04 17:09:59,2019-01-03,PNR,Sarcevic Ademir,"SVP, Chief Accounting Officer",S - Sale+OE,$37.61,-1287,9018,-12%,"-$48,404",,,,,PNR
+14,D,2018-12-06 16:24:21,2018-12-03,PNR,Glenn T Michael,Dir,S - Sale+OE,$43.40,-17133,16869,-50%,"-$743,572",,,,,PNR
+15,D,2018-09-20 16:32:45,2018-09-18,PNR,Bryan Glynis,Dir,S - Sale+OE,$45.00,-17133,17982,-49%,"-$770,985",,,,,PNR
+16,,2018-08-15 16:58:34,2018-08-13,PNR,Peltz Matthew H.,Dir,S - Sale,$42.15,-1700000,12039444,-12%,"-$71,655,000",,,,,PNR
+17,,2018-07-05 16:40:06,2018-07-02,PNR,Sarcevic Ademir,"SVP, Chief Accounting Officer",S - Sale,$41.67,-1042,0,-100%,"-$43,420",,,,,PNR
+18,,2018-06-01 17:19:50,2018-05-30,PNR,Peltz Matthew H.,Dir,S - Sale,$44.14,-1675000,13739444,-11%,"-$73,926,125",,,,,PNR
+19,DM,2018-04-19 17:38:49,2018-04-17,PNR,Hogan Randall J,"COB, Chief Exec. Officer",S - Sale+OE,$71.50,-100000,96187,-51%,"-$7,150,000",,,,,PNR
+20,,2018-01-18 17:02:36,2018-01-03,PNR,Stauch John L,"EVP, CFO",S - Sale,$70.30,-2392,71140,-3%,"-$168,166",,,,,PNR
+21,D,2017-11-27 16:56:47,2017-11-27,PNR,Garden Edward P,Dir,P - Purchase,$69.22,9966,15411807,0%,"+$689,820",,,,,PNR
+22,D,2017-11-22 16:27:04,2017-11-21,PNR,Frykman Karl R.,Pres Aquatic Systems,S - Sale+OE,$70.00,-7385,35295,-17%,"-$516,950",,,,,PNR
+23,DM,2017-11-20 20:01:30,2017-11-17,PNR,Garden Edward P,Dir,P - Purchase,$68.41,384571,15401841,+3%,"+$26,307,395",,,,,PNR
+24,D,2017-11-20 20:01:30,2017-11-16,PNR,Garden Edward P,Dir,S - Sale+OE,$67.60,-183661,15401841,-1%,"-$12,415,477",,,,,PNR
+25,D,2017-11-03 16:19:49,2017-11-01,PNR,Monahan William T,Dir,S - Sale+OE,$70.27,-10000,40656,-20%,"-$702,721",,,,,PNR
+26,D,2017-11-03 16:15:36,2017-11-01,PNR,Frykman Karl R.,Pres Aquatic Systems,S - Sale+OE,$70.24,-11386,35288,-24%,"-$799,765",,,,,PNR
+27,D,2017-10-02 16:20:26,2017-09-28,PNR,Merriman Ronald,Dir,S - Sale+OE,$67.00,-5200,16643,-24%,"-$348,400",,,,,PNR

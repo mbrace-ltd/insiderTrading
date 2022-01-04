@@ -1,0 +1,35 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-18 14:45:08,2021-03-17,PRGO,Parker Geoffrey M.,Dir,P - Purchase,$41.29,2500,16591,+18%,"+$103,218",,,,,PRGO
+1,,2021-03-11 15:57:17,2021-03-10,PRGO,Janish Ronald Craig,"EVP, Gbl Ops, SC, CTO",S - Sale,$41.23,-2662,16304,-14%,"-$109,766",,,,,PRGO
+2,,2021-01-07 12:31:59,2021-01-06,PRGO,Sorota Richard S,"EVP, Pres CSCA",P - Purchase,$43.48,7513,7513,New,"+$326,665",,,,,PRGO
+3,,2020-11-10 14:18:32,2020-11-09,PRGO,Classon Rolf A,Dir,P - Purchase,$46.75,2137,10870,+24%,"+$99,898",,,,,PRGO
+4,,2020-11-10 11:48:19,2020-11-09,PRGO,Samuels Theodore R. II,Dir,P - Purchase,$46.91,4500,32408,+16%,"+$211,112",,,,,PRGO
+5,,2020-08-11 10:58:27,2020-08-11,PRGO,Andersen Svend,"EVP, Pres CHCI",P - Purchase,$53.01,2828,18230,+18%,"+$149,910",,,,,PRGO
+6,,2020-05-11 17:05:16,2020-05-07,PRGO,Farrington Thomas,"EVP, CIO",S - Sale,$52.13,-2000,15611,-11%,"-$104,254",,,,,PRGO
+7,,2020-05-11 16:36:57,2020-05-07,PRGO,Janish Ronald Craig,"EVP, Global Op., Supply Chain",S - Sale,$51.90,-2595,13115,-17%,"-$134,671",,,,,PRGO
+8,,2020-03-17 19:04:41,2020-03-13,PRGO,Samuels Theodore R. II,Dir,P - Purchase,$42.50,2000,21854,+10%,"+$85,000",,,,,PRGO
+9,,2019-12-23 13:31:20,2019-12-20,PRGO,Kingma Todd W,"EVP, GC",S - Sale,$54.91,-2300,31984,-7%,"-$126,293",,,,,PRGO
+10,,2019-11-13 13:33:59,2019-11-11,PRGO,Quinn Grainne,"EVP, Chief Medical Officer",S - Sale,$49.08,-2050,3047,-40%,"-$100,614",,,,,PRGO
+11,,2019-11-12 11:43:53,2019-11-08,PRGO,Janish Ronald Craig,"EVP, Global Op., Supply Chain",S - Sale,$49.90,-2424,10481,-19%,"-$120,967",,,,,PRGO
+12,,2019-08-23 16:15:02,2019-08-22,PRGO,Winowiecki Ronald,CFO,S - Sale,$48.03,-826,6952,-11%,"-$39,674",,,,,PRGO
+13,,2019-08-13 12:08:33,2019-08-09,PRGO,Samuels Theodore R. II,Dir,P - Purchase,$46.97,4000,19854,+25%,"+$187,893",,,,,PRGO
+14,,2018-11-14 09:47:28,2018-11-13,PRGO,Samuels Theodore R. II,Dir,P - Purchase,$65.40,3500,11883,+42%,"+$228,902",,,,,PRGO
+15,,2018-11-13 06:15:56,2018-11-12,PRGO,Parker Geoffrey M.,Dir,P - Purchase,$65.35,3000,8879,+51%,"+$196,058",,,,,PRGO
+16,,2018-11-09 13:56:01,2018-11-09,PRGO,Andersen Svend,"EVP, Pres CHCI",P - Purchase,$63.01,3900,7200,+118%,"+$245,739",,,,,PRGO
+17,,2018-11-09 13:53:25,2018-11-09,PRGO,Kingma Todd W,"EVP, GC",P - Purchase,$63.99,3200,23587,+16%,"+$204,768",,,,,PRGO
+18,,2018-11-09 13:51:17,2018-11-09,PRGO,Kessler Murray S,CEO,P - Purchase,$63.79,15683,15683,New,"+$1,000,373",,,,,PRGO
+19,,2018-08-16 15:30:27,2018-08-14,PRGO,Andersen Svend,"EVP, Pres CHCI",P - Purchase,$69.43,7200,7200,New,"+$499,896",,,,,PRGO
+20,DM,2018-05-17 21:03:13,2018-05-15,PRGO,Smith Jeffrey C,Dir,P - Purchase,$75.45,400000,10041953,+4%,"+$30,179,268",,,,,PRGO
+21,,2018-03-07 16:46:25,2018-03-05,PRGO,Roehrhoff Uwe,CEO,P - Purchase,$81.85,7500,7500,New,"+$613,863",,,,,PRGO
+22,D,2017-12-29 11:45:15,2017-12-28,PRGO,Kingma Todd W,"EVP, GC",S - Sale+OE,$88.52,-1500,19252,-7%,"-$132,780",,,,,PRGO
+23,,2017-12-19 18:54:57,2017-12-14,PRGO,Wesolowski John,"EVP, Pres Rx",P - Purchase,$85.80,700,909,+335%,"+$60,060",,,,,PRGO
+24,,2017-12-19 18:52:42,2017-09-07,PRGO,Wesolowski John,"EVP, Pres Rx",S - Sale,$82.39,-202,1047,-16%,"-$16,620",,,,,PRGO
+25,,2017-12-11 20:30:25,2017-12-07,PRGO,Wesolowski John,"EVP, Pres Rx",S - Sale,$83.09,-450,209,-68%,"-$37,390",,,,,PRGO
+26,M,2017-11-30 18:28:47,2017-11-28,PRGO,Wesolowski John,"EVP, Pres Rx",S - Sale,$87.20,-388,280,-58%,"-$33,834",,,,,PRGO
+27,D,2017-11-20 14:53:31,2017-11-16,PRGO,Farrington Thomas,"EVP, CIO",S - Sale+OE,$87.26,-213,5070,-4%,"-$18,585",,,,,PRGO
+28,,2017-09-14 19:18:38,2017-09-12,PRGO,Janish Ronald Craig,"EVP, Global Op., Supply Chain",S - Sale,$88.71,-261,5972,-4%,"-$23,154",,,,,PRGO
+29,,2017-09-14 19:13:49,2017-09-12,PRGO,Needham Jeffrey,"EVP, Pres CHC Americas",S - Sale,$89.49,-3595,9718,-27%,"-$321,707",,,,,PRGO
+30,,2017-09-11 16:56:20,2017-09-07,PRGO,Kochan Sharon,"EVP, GM International",S - Sale,$81.36,-318,10481,-3%,"-$25,874",,,,,PRGO
+31,,2017-09-05 14:33:29,2017-08-31,PRGO,Kochan Sharon,"EVP, GM International",S - Sale,$79.03,-1500,10799,-12%,"-$118,545",,,,,PRGO
+32,,2017-09-01 12:13:21,2017-08-30,PRGO,Farrington Thomas,"EVP, CIO",S - Sale,$76.90,-616,4853,-11%,"-$47,370",,,,,PRGO
+33,,2017-08-22 17:24:52,2017-08-18,PRGO,Farrington Thomas,"EVP, CIO",S - Sale,$78.40,-865,4234,-17%,"-$67,812",,,,,PRGO

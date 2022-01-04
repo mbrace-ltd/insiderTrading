@@ -1,0 +1,19 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-12 16:27:38,2021-11-10,JRVR,Brown Thomas Lynn,Dir,P - Purchase,$29.16,"+3,000",3000,New,"+$87,480",,,,,JRVR
+1,A,2021-02-18 17:20:33,2019-03-01,JRVR,Crow Michael E,Principal Accounting Officer,S - Sale,$40.57,-12500,36360,-26%,"-$507,136",,,,,JRVR
+2,M,2020-11-19 16:13:48,2020-11-17,JRVR,Heinlein Daniel,"Pres, CEO-Casualty Rein Sgmt",S - Sale,$50.40,-4416,23187,-16%,"-$222,564",,,,,JRVR
+3,,2020-11-18 16:34:27,2020-11-17,JRVR,Doran Sarah C.,CFO,S - Sale,$50.13,-14012,42038,-25%,"-$702,423",,,,,JRVR
+4,,2020-08-05 17:03:01,2020-08-04,JRVR,Myron Robert Patrick,"Pres, COO",S - Sale,$44.70,-65000,251183,-21%,"-$2,905,184",,,,,JRVR
+5,,2020-06-11 17:07:36,2020-06-10,JRVR,Cowell Janet Raye,Dir,S - Sale,$40.89,-1115,5792,-16%,"-$45,587",,,,,JRVR
+6,,2020-05-15 16:15:59,2020-05-14,JRVR,Doran Sarah C.,CFO,P - Purchase,$29.40,"+2,555",46270,+6%,"+$75,117",,,,,JRVR
+7,,2020-05-08 16:48:34,2020-05-07,JRVR,Abram J Adam,CEO,P - Purchase,$31.86,"+15,384",471416,+3%,"+$490,076",,,,,JRVR
+8,,2020-03-13 16:22:08,2020-03-12,JRVR,Abram J Adam,CEO,P - Purchase,$33.40,"+15,000",456032,+3%,"+$501,062",,,,,JRVR
+9,,2019-11-15 16:48:28,2019-11-14,JRVR,Cowell Janet Raye,Dir,P - Purchase,$35.72,+699,5759,+14%,"+$24,968",,,,,JRVR
+10,M,2019-11-13 16:12:43,2019-11-11,JRVR,Abram J Adam,CEO,P - Purchase,$35.41,"+14,285",442110,+3%,"+$505,856",,,,,JRVR
+11,,2018-05-17 16:02:18,2018-05-15,JRVR,Martin Bryan,Dir,S - Sale,$36.00,-3297238,3822,-100%,"-$118,700,568",,,,,JRVR
+12,,2018-05-17 16:02:03,2018-05-15,JRVR,Zwillinger David,Dir,S - Sale,$36.00,-3297238,3822,-100%,"-$118,700,568",,,,,JRVR
+13,,2018-05-17 16:01:40,2018-05-15,JRVR,"D. E. Shaw Oculus Portfolios, L.L.C.",See footnotes,S - Sale,$36.00,-3297238,0,-100%,"-$118,700,568",,,,,JRVR
+14,M,2018-05-16 17:40:35,2018-05-14,JRVR,Oakes Michael T,Dir,S - Sale,$36.51,-17305,13672,-56%,"-$631,844",,,,,JRVR
+15,,2018-05-09 17:20:16,2018-05-08,JRVR,Oakes Michael T,Dir,S - Sale,$37.51,-22695,30977,-42%,"-$851,380",,,,,JRVR
+16,D,2018-03-14 16:22:05,2018-03-13,JRVR,Hartman Steven J,"Pres, CEO-Sp Adm Ins Sgmt",S - Sale+OE,$34.63,-25000,59335,-30%,"-$865,775",,,,,JRVR
+17,,2018-03-01 16:12:24,2018-02-28,JRVR,Cowell Janet Raye,Dir,P - Purchase,$33.16,"+1,206",3872,+45%,"+$39,991",,,,,JRVR

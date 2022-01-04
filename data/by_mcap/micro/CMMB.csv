@@ -1,0 +1,4 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-12-08 07:29:37,2021-12-06,CMMB,Cohen Neil Harris,Dir,P - Purchase,$7.43,"+2,000",4409,+83%,"+$14,860",,,,,CMMB
+1,D,2021-03-26 10:27:04,2021-03-16,CMMB,Cohen Neil Harris,Dir,P - Purchase,$41.51,"+2,409",2409,New,"+$99,998",,,,,CMMB
+2,D,2021-03-18 21:42:28,2021-03-16,CMMB,Thiel Peter,10%,P - Purchase,$0.00,"+230,536",1108509,+26%,+$0,,,,,CMMB

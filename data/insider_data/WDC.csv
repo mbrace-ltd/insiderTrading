@@ -1,0 +1,54 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-02-02 17:03:39,2021-01-29,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$59.92,-22735,61478,-27%,"-$1,362,170",,,,,WDC
+1,,2020-06-04 20:00:45,2020-06-03,WDC,Sundberg Lori S,"EVP, Chief Human Res Officer",S - Sale,$45.66,-1300,44322,-3%,"-$59,352",,,,,WDC
+2,,2020-02-14 17:27:13,2020-02-12,WDC,Cordano Michael D,"Pres, COO",S - Sale,$70.51,-9816,227081,-4%,"-$692,153",,,,,WDC
+3,,2020-02-07 18:32:26,2020-02-05,WDC,Cordano Michael D,"Pres, COO",S - Sale,$70.16,-200,236897,0%,"-$14,032",,,,,WDC
+4,D,2020-02-04 19:24:28,2020-02-04,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$69.00,-4387,51771,-8%,"-$302,703",,,,,WDC
+5,,2020-02-04 19:23:41,2020-01-31,WDC,Cordano Michael D,"Pres, COO",S - Sale,$66.26,-10015,237097,-4%,"-$663,640",,,,,WDC
+6,D,2020-01-23 19:20:12,2020-01-23,WDC,Cordano Michael D,"Pres, COO",S - Sale+OE,$70.80,-14706,247112,-6%,"-$1,041,139",,,,,WDC
+7,,2020-01-16 19:15:00,2020-01-14,WDC,Cordano Michael D,"Pres, COO",S - Sale,$70.15,-2034,261818,-1%,"-$142,681",,,,,WDC
+8,M,2020-01-09 18:10:28,2020-01-07,WDC,Milligan Stephen D,CEO,S - Sale,$68.32,-11785,427100,-3%,"-$805,111",,,,,WDC
+9,D,2019-12-23 17:06:01,2019-12-20,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$59.79,-4663,51771,-8%,"-$278,815",,,,,WDC
+10,M,2019-12-17 18:32:15,2019-12-13,WDC,Cordano Michael D,"Pres, COO",S - Sale,$56.74,-7684,263852,-3%,"-$435,991",,,,,WDC
+11,D,2019-11-12 20:16:20,2019-11-08,WDC,Massengill Matthew E,Dir,S - Sale+OE,$52.17,-3110,19777,-14%,"-$162,234",,,,,WDC
+12,,2019-11-07 18:15:16,2019-11-05,WDC,Cordano Michael D,"Pres, COO",S - Sale,$55.09,-300,271310,0%,"-$16,526",,,,,WDC
+13,M,2019-11-04 19:09:10,2019-10-31,WDC,Cordano Michael D,"Pres, COO",S - Sale,$55.16,-10265,271610,-4%,"-$566,245",,,,,WDC
+14,DM,2019-09-06 19:49:44,2019-09-04,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$59.99,-92043,51771,-64%,"-$5,521,268",,,,,WDC
+15,,2019-08-22 18:10:00,2019-08-21,WDC,Sundberg Lori S,"EVP, Chief Human Res Officer",S - Sale,$56.82,-3442,29312,-11%,"-$195,575",,,,,WDC
+16,M,2019-03-13 18:08:21,2019-03-11,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale,$50.00,-17623,141221,-11%,"-$881,150",,,,,WDC
+17,D,2018-11-06 18:07:37,2018-11-05,WDC,Massengill Matthew E,Dir,S - Sale+OE,$47.68,-1681,16667,-9%,"-$80,148",,,,,WDC
+18,D,2018-08-06 21:33:13,2018-08-06,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$67.65,-4387,100854,-4%,"-$296,781",,,,,WDC
+19,DM,2018-08-06 21:31:27,2018-08-03,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale+OE,$68.36,-3447,185368,-2%,"-$235,624",,,,,WDC
+20,D,2018-08-01 18:47:39,2018-07-30,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale+OE,$70.83,-24938,191025,-12%,"-$1,766,359",,,,,WDC
+21,,2018-06-13 19:30:13,2018-06-11,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale,$82.43,-525,95435,-1%,"-$43,276",,,,,WDC
+22,D,2018-06-07 18:18:14,2018-06-05,WDC,Denero Henry T,Dir,S - Sale+OE,$85.65,-6492,13640,-32%,"-$556,051",,,,,WDC
+23,D,2018-05-30 19:46:26,2018-05-29,WDC,Sivaram Srinivasan,"EVP, Memory Technology",S - Sale+OE,$86.36,-63879,84460,-43%,"-$5,516,525",,,,,WDC
+24,D,2018-05-24 19:31:01,2018-05-22,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$88.53,-1208,95435,-1%,"-$106,944",,,,,WDC
+25,,2018-05-24 19:30:38,2018-05-22,WDC,Price Paula A,Dir,S - Sale,$87.65,-3288,10079,-25%,"-$288,193",,,,,WDC
+26,D,2018-05-16 19:23:27,2018-05-14,WDC,Milligan Stephen D,CEO,S - Sale+OE,$80.94,-16510,137425,-11%,"-$1,336,319",,,,,WDC
+27,D,2018-05-16 19:23:08,2018-05-16,WDC,Lambert Michael D,Dir,S - Sale+OE,$85.88,-11542,21104,-35%,"-$991,202",,,,,WDC
+28,D,2018-05-08 18:43:34,2018-05-04,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$76.64,-4386,95435,-4%,"-$336,143",,,,,WDC
+29,DM,2018-03-13 20:14:42,2018-03-12,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$102.92,-16166,95435,-14%,"-$1,663,867",,,,,WDC
+30,DM,2018-03-13 20:14:16,2018-03-09,WDC,Milligan Stephen D,CEO,S - Sale+OE,$100.12,-53264,137425,-28%,"-$5,333,000",,,,,WDC
+31,,2018-03-13 20:08:49,2018-03-09,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale,$98.64,-7026,207604,-3%,"-$693,064",,,,,WDC
+32,,2018-03-08 19:20:19,2018-03-07,WDC,Milligan Stephen D,CEO,S - Sale,$94.49,-23155,139716,-14%,"-$2,187,916",,,,,WDC
+33,D,2018-02-27 19:17:56,2018-02-23,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$88.53,-1208,38945,-3%,"-$106,944",,,,,WDC
+34,D,2018-02-21 20:11:41,2018-02-21,WDC,Sivaram Srinivasan,"EVP, Memory Technology",S - Sale+OE,$86.71,-10865,85548,-11%,"-$942,109",,,,,WDC
+35,D,2018-02-05 20:27:02,2018-02-05,WDC,Milligan Stephen D,CEO,S - Sale+OE,$84.00,-16511,162871,-9%,"-$1,386,902",,,,,WDC
+36,D,2018-02-05 20:26:17,2018-02-05,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale+OE,$84.20,-4466,83917,-5%,"-$376,037",,,,,WDC
+37,DM,2018-02-01 19:30:46,2018-01-30,WDC,Ray Michael Charles,"EVP, GC, Sec",S - Sale+OE,$86.73,-35009,38945,-47%,"-$3,036,484",,,,,WDC
+38,D,2018-01-31 18:33:51,2018-01-29,WDC,Milligan Stephen D,CEO,S - Sale+OE,$88.12,-90755,162871,-36%,"-$7,997,178",,,,,WDC
+39,D,2017-12-21 18:25:26,2017-12-19,WDC,Cordano Michael D,"Pres, COO",S - Sale+OE,$85.00,-1401,69159,-2%,"-$119,085",,,,,WDC
+40,D,2017-11-13 20:04:50,2017-11-13,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale+OE,$88.13,-4467,83917,-5%,"-$393,677",,,,,WDC
+41,D,2017-11-13 20:03:58,2017-11-13,WDC,Cordano Michael D,"Pres, COO",S - Sale+OE,$88.13,-1397,69159,-2%,"-$123,118",,,,,WDC
+42,,2017-11-09 20:12:07,2017-11-08,WDC,Massengill Matthew E,Dir,S - Sale,$86.53,-2677,18259,-13%,"-$231,640",,,,,WDC
+43,D,2017-11-03 21:12:09,2017-11-01,WDC,Lambert Michael D,Dir,S - Sale+OE,$89.36,-1063,21104,-5%,"-$94,984",,,,,WDC
+44,D,2017-11-01 21:21:24,2017-11-01,WDC,Cote Kathleen A,Dir,S - Sale+OE,$90.63,-2000,14421,-12%,"-$181,260",,,,,WDC
+45,,2017-11-01 21:20:56,2017-10-30,WDC,Denero Henry T,Dir,S - Sale,$85.97,-4097,10834,-27%,"-$352,199",,,,,WDC
+46,D,2017-09-20 18:56:11,2017-09-18,WDC,Cordano Michael D,"Pres, COO",S - Sale+OE,$88.71,-9404,70940,-12%,"-$834,210",,,,,WDC
+47,D,2017-09-13 19:39:17,2017-09-12,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale+OE,$87.63,-1446,83917,-2%,"-$126,713",,,,,WDC
+48,D,2017-08-24 20:18:20,2017-08-23,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale+OE,$88.49,-1517,86690,-2%,"-$134,239",,,,,WDC
+49,D,2017-08-21 20:07:47,2017-08-18,WDC,Bhatia Manish H,EVP Silicon Operations,S - Sale+OE,$82.38,-20130,69692,-22%,"-$1,658,217",,,,,WDC
+50,,2017-08-16 19:37:17,2017-08-16,WDC,Sivaram Srinivasan,EVP Memory Technology,S - Sale,$85.00,-3098,74741,-4%,"-$263,330",,,,,WDC
+51,D,2017-08-16 19:37:02,2017-08-14,WDC,Long Mark P,"Pres WD Capital, CSO, CFO",S - Sale+OE,$80.97,-1517,86690,-2%,"-$122,831",,,,,WDC
+52,,2017-08-16 19:36:41,2017-08-14,WDC,Cordano Michael D,"Pres, COO",S - Sale,$82.55,-3670,76779,-5%,"-$302,975",,,,,WDC

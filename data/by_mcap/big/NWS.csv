@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-09 16:42:28,2021-12-07,NWS,Murdoch Keith Rupert,Exec COB,S - Sale,$21.79,-1000000,3191804,-24%,"-$21,790,400",,,,,NWS
+1,D,2021-08-17 16:12:13,2021-08-16,NWS,Pitofsky David B,GC,S - Sale+OE,$23.55,-22000,80477,-21%,"-$518,199",,,,,NWS
+2,M,2021-03-15 16:13:31,2021-03-11,NWS,Murdoch Keith Rupert,Exec COB,P - Purchase,$26.05,"+500,000",3182358,+19%,"+$13,023,183",,,,,NWS
+3,,2021-03-08 16:08:27,2021-03-05,NWS,Murdoch Keith Rupert,Exec COB,P - Purchase,$24.09,"+500,000",2682358,+23%,"+$12,044,800",,,,,NWS
+4,,2021-02-09 16:06:21,2021-02-09,NWS,Pitofsky David B,GC,S - Sale,$21.82,-16000,47305,-25%,"-$349,181",,,,,NWS
+5,,2020-11-25 17:15:17,2020-11-25,NWS,Thomson Robert J,CEO,S - Sale,$17.97,-70000,2000,-97%,"-$1,258,243",,,,,NWS
+6,,2020-06-05 16:09:29,2020-06-05,NWS,Pitofsky David B,GC,S - Sale,$13.26,-11433,22866,-33%,"-$151,603",,,,,NWS
+7,M,2019-09-11 16:32:39,2019-09-09,NWS,Halpin Kevin,Deputy CFO,S - Sale,$14.42,-34937,42562,-45%,"-$503,844",,,,,NWS
+8,D,2019-08-15 17:10:58,2019-08-15,NWS,Pitofsky David B,GC,S - Sale+OE,$13.83,-30919,34299,-47%,"-$427,740",,,,,NWS
+9,D,2019-08-15 17:07:09,2019-08-13,NWS,Halpin Kevin,Deputy CFO,S - Sale+OE,$14.22,-18749,77499,-19%,"-$266,645",,,,,NWS
+10,D,2018-08-15 16:28:51,2018-08-15,NWS,Thomson Robert J,CEO,P - Purchase,$14.13,"+72,000",72000,New,"+$1,017,144",,,,,NWS

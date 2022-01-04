@@ -1,0 +1,23 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-05-07 16:04:26,2021-05-07,C,Whitaker Michael,"Head of Enterprise O, T",S - Sale,$74.56,-20313,122235,-14%,"-$1,514,493",,,,,C
+1,,2021-05-07 16:02:40,2021-05-07,C,Reiner Gary M,Dir,S - Sale,$73.96,-18000,22879,-44%,"-$1,331,262",,,,,C
+2,,2021-05-07 16:01:39,2021-05-07,C,Mason Mark,CFO,S - Sale,$74.03,-15366,112387,-12%,"-$1,137,487",,,,,C
+3,,2020-10-16 16:02:42,2020-10-14,C,Reiner Gary M,Dir,S - Sale,$102.74,-485,37281,-1%,"-$49,829",,,,,C
+4,,2020-10-16 16:01:30,2020-10-14,C,Jacobs Lew W IV,Dir,P - Purchase,$44.09,10000,22900,+78%,"+$440,857",,,,,C
+5,M,2020-09-04 16:03:13,2016-01-25,C,Costello Ellen,Dir,P - Purchase,$54.58,7845,31528,+33%,"+$428,163",,,,,C
+6,M,2020-09-04 16:03:13,2016-07-25,C,Costello Ellen,Dir,S - Sale,$51.95,-4710,31528,-13%,"-$244,705",,,,,C
+7,,2019-08-29 16:01:35,2019-08-27,C,Whitaker Michael,"Head of Enterprise O, T",S - Sale,$62.03,-7500,100848,-7%,"-$465,248",,,,,C
+8,,2019-04-23 16:01:49,2019-04-22,C,Bird Stephen,"CEO, Global Consumer Bank",S - Sale,$69.33,-30000,356626,-8%,"-$2,079,900",,,,,C
+9,,2019-02-21 16:02:17,2019-02-19,C,Cowles James C,"CEO, Europe,Middle East, Afric",S - Sale,$64.26,-50000,278349,-15%,"-$3,212,945",,,,,C
+10,,2019-02-15 16:48:09,2019-02-13,C,Whitaker Michael,"Head of Enterprise O, T",S - Sale,$63.24,-7000,124215,-5%,"-$442,708",,,,,C
+11,,2019-02-15 16:44:06,2019-02-15,C,Hu W. Bradford,CHIEF RISK OFFICER,S - Sale,$64.27,-5420,94835,-5%,"-$348,343",,,,,C
+12,,2018-08-10 16:01:29,2018-08-08,C,Aristeguieta Francisco,"CEO, Asia Pacific",S - Sale,$72.36,-15000,99237,-13%,"-$1,085,400",,,,,C
+13,,2018-07-23 16:02:18,2018-07-19,C,Akram Raja,"Controller,Chief Acc. Officer",S - Sale,$69.21,-500,8261,-6%,"-$34,605",,,,,C
+14,,2018-05-18 16:01:50,2018-05-16,C,Gerspach John C,CFO,S - Sale,$72.31,-12966,370094,-3%,"-$937,571",,,,,C
+15,,2018-03-01 16:13:39,2018-02-27,C,Murray Joseph Michael,Head of HR,S - Sale,$77.39,-3400,50960,-6%,"-$263,126",,,,,C
+16,,2018-03-01 16:13:05,2018-02-27,C,Hu W. Bradford,CHIEF RISK OFFICER,S - Sale,$76.38,-8010,74406,-10%,"-$611,804",,,,,C
+17,,2018-03-01 16:12:26,2018-02-27,C,Gerspach John C,CFO,S - Sale,$77.56,-7000,383060,-2%,"-$542,920",,,,,C
+18,,2018-03-01 16:11:54,2018-02-27,C,Fraser Jane Nind,"CEO, Latin America",S - Sale,$77.56,-32400,109665,-23%,"-$2,512,944",,,,,C
+19,,2018-03-01 16:11:19,2018-02-27,C,Forese James A.,Pres,S - Sale,$77.43,-6466,530826,-1%,"-$500,666",,,,,C
+20,,2018-03-01 16:10:41,2018-02-28,C,Callahan Don,"Head of Operations, Technology",S - Sale,$76.63,-7000,295031,-2%,"-$536,410",,,,,C
+21,,2017-08-14 16:15:14,2017-08-10,C,Aristeguieta Francisco,"CEO, Asia Pacific",S - Sale,$67.55,-40000,88285,-31%,"-$2,702,164",,,,,C

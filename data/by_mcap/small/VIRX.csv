@@ -1,0 +1,9 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,DM,2021-11-29 19:50:19,2021-11-26,VIRX,Rojkjaer Lisa,Chief Medical Officer,S - Sale+OE,$4.81,-4541,38463,-11%,"-$21,847",,,,,VIRX
+1,DM,2021-11-29 19:48:53,2021-11-26,VIRX,Chevallard Daniel R.,"CFO, COO",S - Sale+OE,$4.81,-7579,72958,-9%,"-$36,464",,,,,VIRX
+2,DM,2021-11-29 19:46:46,2021-11-26,VIRX,Royston Ivor,"CEO, Pres",S - Sale+OE,$4.81,-27747,589888,-4%,"-$133,495",,,,,VIRX
+3,,2021-11-15 17:59:52,2021-11-15,VIRX,Royston Ivor,"CEO, Pres",P - Purchase,$5.56,"+8,000",567198,+1%,"+$44,480",,,,,VIRX
+4,D,2020-06-05 15:18:29,2020-05-29,SNSS,Gullotta Tina,"VP, Finance",P - Purchase,$0.33,"+6,000",20500,+41%,"+$1,989",,,,,VIRX
+5,DM,2020-04-02 15:30:39,2019-05-31,SNSS,Quinn William P.,See Remarks,P - Purchase,$0.51,"+12,000",127697,+10%,"+$6,070",,,,,VIRX
+6,,2019-07-15 16:15:23,2019-07-15,SNSS,"Aisling Capital Iv, LP",10%,P - Purchase,$0.60,"+2,500,000",10100000,+33%,"+$1,500,000",,,,,VIRX
+7,,2018-12-12 16:57:44,2018-12-10,SNSS,Quinn William P.,"CFO,Sr.VP Finance, Corp.Dev.",P - Purchase,$0.47,"+40,000",52000,+333%,"+$18,800",,,,,VIRX

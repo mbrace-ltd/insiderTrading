@@ -1,0 +1,19 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-05-17 17:42:09,2021-05-13,BA,Hibbard Carol J.,Controller,S - Sale,$224.97,-2000,7569,-21%,"-$449,940",,,,,BA
+1,,2021-02-04 17:54:42,2021-02-02,BA,Colbert Theodore III,"EVP, Pres, CEO, BGS",S - Sale,$200.80,-5000,50566,-9%,"-$1,004,000",,,,,BA
+2,D,2021-02-04 17:54:32,2021-02-02,BA,Keating Timothy John,"EVP, Government Operations",S - Sale+OE,$202.15,-21737,80563,-21%,"-$4,394,135",,,,,BA
+3,,2020-08-07 17:42:18,2020-08-05,BA,Mollenkopf Steven M,Dir,P - Purchase,$173.36,1152,1152,New,"+$199,711",,,,,BA
+4,D,2019-02-15 16:55:11,2019-02-13,BA,Capozzi Heidi B,"SVP, HR",S - Sale+OE,$410.84,-2916,24911,-10%,"-$1,198,009",,,,,BA
+5,,2019-02-12 20:16:28,2019-02-12,BA,Luttig J Michael,"EVP, GC",S - Sale,$410.46,-8500,20309,-30%,"-$3,488,886",,,,,BA
+6,D,2019-02-12 20:14:23,2019-02-11,BA,Colbert Theodore III,"CIO, SVP, Info, Analytics",S - Sale+OE,$408.85,-2137,55978,-4%,"-$873,712",,,,,BA
+7,,2019-02-12 17:41:37,2019-02-08,BA,McAllister Kevin G,"EVP, Pres, CEO, BCA",S - Sale,$398.27,-12637,123207,-9%,"-$5,032,938",,,,,BA
+8,D,2019-02-12 17:41:33,2019-02-08,BA,Smith Gregory D,"CFO, EVP, Ent Perf, Strategy",S - Sale+OE,$401.38,-19500,141246,-12%,"-$7,826,910",,,,,BA
+9,D,2019-02-06 17:15:04,2019-02-04,BA,Keating Timothy John,"EVP, Government Operations",S - Sale+OE,$395.48,-26557,70305,-27%,"-$10,502,619",,,,,BA
+10,D,2018-11-13 17:09:02,2018-11-09,BA,Ramos Jenette E,"SVP, Mfg, Supply Chain, Opera",S - Sale+OE,$367.52,-1640,9112,-15%,"-$602,733",,,,,BA
+11,,2018-10-31 16:33:10,2018-10-29,BA,Sands Diana L,"SVP, Internal Gov, Admin",S - Sale,$350.07,-5000,21468,-19%,"-$1,750,350",,,,,BA
+12,,2018-05-10 17:54:07,2018-05-09,BA,Luttig J Michael,"EVP, GC",S - Sale,$344.13,-9000,28372,-24%,"-$3,097,170",,,,,BA
+13,,2018-05-08 17:39:34,2018-05-07,BA,Hyslop Gregory L,"CTO, SVP, Eng., Test, Tech",S - Sale,$340.27,-2241,19384,-10%,"-$762,543",,,,,BA
+14,,2018-05-08 17:39:30,2018-05-04,BA,Sands Diana L,"SVP, Internal Gov, Admin",S - Sale,$328.04,-4500,26315,-15%,"-$1,476,180",,,,,BA
+15,,2018-05-08 17:38:26,2018-05-04,BA,Verbeck Robert E,"SVP Fin, Corporate Controller",S - Sale,$333.90,-2840,10399,-21%,"-$948,261",,,,,BA
+16,,2018-05-07 18:52:09,2018-05-03,BA,Capozzi Heidi B,"SVP, HR",S - Sale,$329.84,-1132,24534,-4%,"-$373,379",,,,,BA
+17,D,2018-02-12 18:59:24,2018-02-08,BA,Smith Gregory D,"CFO, EVP, Ent Perf, Strategy",S - Sale+OE,$337.43,-36079,143371,-20%,"-$12,174,118",,,,,BA

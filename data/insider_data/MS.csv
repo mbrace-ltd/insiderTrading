@@ -1,0 +1,47 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-07-23 16:17:29,2021-07-21,MS,Yeshaya Sharon,CFO,S - Sale,$95.64,-2500,23724,-10%,"-$239,104",,,,,MS
+1,A,2021-06-03 17:46:41,2020-04-17,MS,Luczo Stephen J,Dir,P - Purchase,$38.59,29000,211616,+16%,"+$1,119,229",,,,,MS
+2,,2021-04-21 16:06:16,2021-04-19,MS,Simkowitz Daniel A,Head of Investment Management,S - Sale,$80.06,-73162,269464,-21%,"-$5,856,984",,,,,MS
+3,,2021-02-18 16:17:37,2021-02-16,MS,Hotsuki Keishi,Chief Risk Officer,S - Sale,$76.25,-22746,256786,-8%,"-$1,734,383",,,,,MS
+4,,2021-02-11 16:08:35,2021-02-09,MS,Rooney Robert P,"Head of Tech, Ops, Resilience",S - Sale,$74.36,-15169,230896,-6%,"-$1,128,012",,,,,MS
+5,,2021-01-22 16:39:31,2021-01-21,MS,Brodsky Jeffrey S,CHRO,S - Sale,$74.57,-18500,154387,-11%,"-$1,379,545",,,,,MS
+6,,2021-01-22 16:37:07,2021-01-21,MS,Grossman Eric F,GC,S - Sale,$74.74,-29000,264661,-10%,"-$2,167,567",,,,,MS
+7,M,2021-01-22 16:35:43,2021-01-21,MS,Saperstein Andrew M,Head of Wealth Management,S - Sale,$73.05,-30050,157368,-16%,"-$2,195,061",,,,,MS
+8,,2021-01-22 16:34:56,2021-01-21,MS,Pick Edward N,Head of Inst'l Securities,S - Sale,$75.10,-100000,522992,-16%,"-$7,510,200",,,,,MS
+9,,2021-01-22 16:33:45,2021-01-22,MS,Pruzan Jonathan,CFO,S - Sale,$74.53,-18880,259357,-7%,"-$1,407,060",,,,,MS
+10,,2021-01-22 16:29:50,2021-01-22,MS,Gorman James P,"COB, CEO",S - Sale,$73.12,-175000,1075922,-14%,"-$12,796,122",,,,,MS
+11,,2020-11-16 16:44:44,2020-11-12,MS,Olayan Hutham S,Dir,P - Purchase,$55.40,25000,218478,+13%,"+$1,385,000",,,,,MS
+12,M,2020-10-21 20:44:06,2020-06-24,MS,Mitsubishi Ufj Financial Group Inc,10%,S - Sale,$0.97,-1020124,377084583,0%,"-$986,986",,,,,MS
+13,M,2020-10-21 20:42:47,2019-05-14,MS,Mitsubishi Ufj Financial Group Inc,10%,P - Purchase,$44.34,1609,377084707,0%,"+$71,323",,,,,MS
+14,M,2020-10-21 20:42:47,2019-09-06,MS,Mitsubishi Ufj Financial Group Inc,10%,S - Sale,$54.91,-1498,377084707,0%,"-$82,279",,,,,MS
+15,M,2020-10-21 20:41:17,2016-10-24,MS,Mitsubishi Ufj Financial Group Inc,10%,P - Purchase,$49.12,2866,404866655,0%,"+$140,789",,,,,MS
+16,M,2020-10-21 20:41:17,2016-11-30,MS,Mitsubishi Ufj Financial Group Inc,10%,S - Sale,$50.54,-3437,404866655,0%,"-$173,721",,,,,MS
+17,M,2020-10-21 20:39:57,2013-10-28,MS,Mitsubishi Ufj Financial Group Inc,10%,P - Purchase,$30.18,1,432017152,0%,+$28,,,,,MS
+18,M,2020-10-21 20:39:57,2013-12-18,MS,Mitsubishi Ufj Financial Group Inc,10%,S - Sale,$31.24,0,432017152,0%,-$15,,,,,MS
+19,,2020-07-23 16:12:14,2020-07-21,MS,Rooney Robert P,"Head of Tech, Ops, Resilience",S - Sale,$52.18,-18355,209542,-8%,"-$957,843",,,,,MS
+20,,2020-07-22 16:11:46,2020-07-20,MS,Hotsuki Keishi,Chief Risk Officer,S - Sale,$52.00,-19000,243666,-7%,"-$988,000",,,,,MS
+21,,2020-07-21 16:13:03,2020-07-17,MS,Saperstein Andrew M,Head of Wealth Management,S - Sale,$52.56,-28846,119594,-19%,"-$1,516,195",,,,,MS
+22,,2020-07-21 16:10:43,2020-07-17,MS,Grossman Eric F,GC,S - Sale,$52.84,-54420,250835,-18%,"-$2,875,531",,,,,MS
+23,,2020-07-17 16:14:59,2020-07-17,MS,Gorman James P,"COB, CEO",S - Sale,$52.39,-150000,1197952,-11%,"-$7,858,067",,,,,MS
+24,,2020-04-28 16:46:05,2020-04-28,MS,Brodsky Jeffrey S,CHRO,S - Sale,$40.57,-18174,146044,-11%,"-$737,319",,,,,MS
+25,,2020-04-20 16:14:58,2020-04-17,MS,Luczo Stephen J,Dir,P - Purchase,$38.68,19000,193122,+11%,"+$734,871",,,,,MS
+26,,2020-03-02 16:33:01,2020-02-28,MS,Luczo Stephen J,Dir,P - Purchase,$44.97,50000,174122,+40%,"+$2,248,735",,,,,MS
+27,,2020-02-24 16:09:50,2020-02-21,MS,Luczo Stephen J,Dir,P - Purchase,$53.00,50000,124122,+67%,"+$2,649,955",,,,,MS
+28,,2019-12-02 16:28:18,2019-11-27,MS,Wirth Paul C,Deputy CFO,S - Sale,$49.62,-25000,146816,-15%,"-$1,240,500",,,,,MS
+29,,2019-12-02 16:27:04,2019-11-27,MS,Hotsuki Keishi,Chief Risk Officer,S - Sale,$49.78,-26000,228530,-10%,"-$1,294,249",,,,,MS
+30,,2019-11-22 16:14:56,2019-11-21,MS,Rooney Robert P,"Head of Tech, Ops, Resilience",S - Sale,$49.13,-51105,183448,-22%,"-$2,511,003",,,,,MS
+31,DM,2019-09-20 16:06:50,2014-04-23,MS,Mitsubishi Ufj Financial Group Inc,10%,P - Purchase,$1.01,1894000,0,-100%,"+$1,909,076",,,,,MS
+32,DM,2019-09-20 16:06:50,2014-05-06,MS,Mitsubishi Ufj Financial Group Inc,10%,S - Sale+OE,$1.04,-1894000,0,-100%,"-$1,964,000",,,,,MS
+33,,2019-04-22 16:07:40,2019-04-18,MS,Simkowitz Daniel A,Head of Investment Management,P - Purchase,$47.57,7000,194554,+4%,"+$332,979",,,,,MS
+34,,2019-02-28 16:13:11,2019-02-26,MS,Wirth Paul C,Deputy CFO,S - Sale,$42.40,-25000,169031,-13%,"-$1,060,073",,,,,MS
+35,,2019-01-23 16:53:53,2019-01-18,MS,Brodsky Jeffrey S,CHRO,S - Sale,$43.38,-15565,116358,-12%,"-$675,152",,,,,MS
+36,,2018-02-16 16:19:26,2018-02-16,MS,Pruzan Jonathan,CFO,S - Sale,$55.35,-52204,130054,-29%,"-$2,889,361",,,,,MS
+37,,2018-02-16 16:18:35,2018-02-14,MS,Brodsky Jeffrey S,CHRO,S - Sale,$54.97,-11054,106061,-9%,"-$607,600",,,,,MS
+38,,2018-02-16 16:17:45,2018-02-14,MS,Grossman Eric F,GC,S - Sale,$54.72,-17421,188674,-8%,"-$953,296",,,,,MS
+39,,2018-02-16 16:16:09,2018-02-15,MS,Gorman James P,"COB, CEO",S - Sale,$55.34,-100000,1267821,-7%,"-$5,533,810",,,,,MS
+40,M,2018-02-15 16:09:35,2018-02-13,MS,Simkowitz Daniel A,Head of Investment Management,S - Sale,$53.55,-87050,145299,-37%,"-$4,661,615",,,,,MS
+41,,2017-11-30 16:05:22,2017-11-28,MS,Hotsuki Keishi,Chief Risk Officer,S - Sale,$50.00,-25000,207270,-11%,"-$1,250,000",,,,,MS
+42,,2017-11-27 16:39:32,2017-11-24,MS,Darling Alistair,Dir,S - Sale,$49.29,-3850,14218,-21%,"-$189,785",,,,,MS
+43,,2017-10-25 16:07:06,2017-10-23,MS,Kelleher Thomas Colm,Pres,S - Sale,$50.59,-40000,692037,-5%,"-$2,023,516",,,,,MS
+44,,2017-10-20 16:16:30,2017-10-18,MS,Grossman Eric F,GC,S - Sale,$49.83,-26083,206203,-11%,"-$1,299,638",,,,,MS
+45,,2017-10-20 16:15:24,2017-10-18,MS,Brodsky Jeffrey S,CHRO,S - Sale,$50.07,-16397,115530,-12%,"-$821,024",,,,,MS

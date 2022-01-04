@@ -1,0 +1,35 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-17 12:31:44,2021-12-16,FXNC,Sprinkle C Ray,Dir,S - Sale,$22.44,-2200,17357,-11%,"-$49,359",,,,,FXNC
+1,,2021-12-07 12:47:14,2021-12-06,FXNC,Holt George Edwin III,Dir,P - Purchase,$23.00,+66,21629,0%,"+$1,518",,,,,FXNC
+2,,2021-12-02 15:32:31,2021-11-30,FXNC,Brannock Boyce E,Dir,P - Purchase,$22.32,+88,3176,+3%,"+$1,964",,,,,FXNC
+3,M,2021-03-30 17:40:25,2021-03-29,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$18.12,"+5,510",234764,+2%,"+$99,826",,,,,FXNC
+4,M,2021-03-19 16:44:56,2021-03-17,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$18.29,"+8,299",258354,+3%,"+$151,820",,,,,FXNC
+5,,2020-11-18 11:58:53,2020-11-16,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$14.39,"+2,000",86255,+2%,"+$28,788",,,,,FXNC
+6,M,2020-11-16 13:50:10,2020-11-12,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$14.21,"+6,002",84255,+8%,"+$85,281",,,,,FXNC
+7,M,2020-11-12 16:34:40,2020-11-09,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$14.45,"+6,711",78253,+9%,"+$96,965",,,,,FXNC
+8,M,2020-11-09 14:34:30,2020-11-05,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$14.06,"+4,086",71542,+6%,"+$57,450",,,,,FXNC
+9,M,2020-11-05 16:37:34,2020-11-03,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$13.97,"+2,867",67456,+4%,"+$40,066",,,,,FXNC
+10,,2020-10-29 12:16:23,2020-10-27,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$13.79,+7,64589,0%,+$97,,,,,FXNC
+11,,2020-09-30 10:08:49,2020-09-29,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$14.60,+100,64582,0%,"+$1,460",,,,,FXNC
+12,M,2020-09-29 16:48:26,2020-09-25,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$14.45,+572,64482,+1%,"+$8,266",,,,,FXNC
+13,,2020-09-25 14:12:18,2020-09-24,FXNC,Smith Gerald F Jr,Dir,P - Purchase,$14.42,"+2,001",63910,+3%,"+$28,848",,,,,FXNC
+14,,2020-09-24 14:18:53,2020-09-23,FXNC,Wilkins III James R,Dir,P - Purchase,$13.70,"+2,200",105668,+2%,"+$30,137",,,,,FXNC
+15,,2020-08-31 10:01:19,2020-08-27,FXNC,Wilkins III James R,Dir,P - Purchase,$13.80,"+1,000",103468,+1%,"+$13,800",,,,,FXNC
+16,,2020-08-21 08:49:47,2020-08-19,FXNC,Wilkins III James R,Dir,P - Purchase,$13.75,"+1,000",102468,+1%,"+$13,754",,,,,FXNC
+17,,2020-08-19 11:21:14,2020-08-18,FXNC,Wilkins III James R,Dir,P - Purchase,$13.90,"+1,000",101468,+1%,"+$13,900",,,,,FXNC
+18,,2020-05-29 13:02:40,2020-05-28,FXNC,Wilkins III James R,Dir,P - Purchase,$12.65,+623,269120,0%,"+$7,881",,,,,FXNC
+19,,2020-05-15 13:38:34,2020-05-13,FXNC,Wilkins III James R,Dir,P - Purchase,$14.20,"+5,638",12924,+77%,"+$80,060",,,,,FXNC
+20,,2020-05-14 10:54:18,2020-05-12,FXNC,Wilkins III James R,Dir,P - Purchase,$14.20,"+6,310",16039,+65%,"+$89,571",,,,,FXNC
+21,,2020-05-12 15:35:18,2020-05-08,FXNC,Wilkins III James R,Dir,P - Purchase,$15.63,+631,631,New,"+$9,863",,,,,FXNC
+22,,2020-03-16 16:06:31,2020-03-12,FXNC,Brannock Boyce E,Dir,P - Purchase,$15.60,+45,1988,+2%,+$702,,,,,FXNC
+23,,2020-02-06 16:41:07,2020-02-06,FXNC,Funk William Michael,Dir,P - Purchase,$20.25,+500,12520,+4%,"+$10,125",,,,,FXNC
+24,,2020-02-04 16:36:17,2020-02-04,FXNC,Funk William Michael,Dir,P - Purchase,$20.17,+500,12020,+4%,"+$10,086",,,,,FXNC
+25,A,2019-09-26 10:20:18,2019-08-07,FXNC,Brannock Boyce E,Dir,P - Purchase,$18.50,+150,1943,+8%,"+$2,775",,,,,FXNC
+26,,2019-09-19 14:05:20,2019-09-19,FXNC,Funk William Michael,Dir,P - Purchase,$18.48,+500,11520,+5%,"+$9,240",,,,,FXNC
+27,,2019-08-06 11:48:43,2019-08-05,FXNC,Funk William Michael,Dir,P - Purchase,$18.75,+500,10520,+5%,"+$9,375",,,,,FXNC
+28,,2018-10-31 16:18:41,2018-10-31,FXNC,Funk William Michael,Dir,P - Purchase,$19.75,+300,10020,+3%,"+$5,925",,,,,FXNC
+29,,2018-10-31 09:52:01,2018-10-30,FXNC,Funk William Michael,Dir,P - Purchase,$19.75,+700,9720,+8%,"+$13,825",,,,,FXNC
+30,,2018-08-27 16:53:15,2018-08-27,FXNC,Funk William Michael,Dir,P - Purchase,$21.75,+560,9020,+7%,"+$12,180",,,,,FXNC
+31,,2018-06-11 10:35:41,2018-06-08,FXNC,Wilkins III James R,Dir,S - Sale,$19.95,-7864,267547,-3%,"-$156,887",,,,,FXNC
+32,,2018-03-02 14:30:58,2018-03-02,FXNC,Funk William Michael,Dir,P - Purchase,$18.49,+587,8010,+8%,"+$10,854",,,,,FXNC
+33,,2017-12-28 16:32:42,2017-12-28,FXNC,Funk William Michael,Dir,P - Purchase,$18.00,+766,7423,+12%,"+$13,788",,,,,FXNC

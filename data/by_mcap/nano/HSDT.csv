@@ -1,0 +1,13 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-15 08:00:14,2021-11-12,HSDT,Andreeff Dane,"Pres, CEO, 10%",P - Purchase,$8.00,"+37,500",6142,-120%,"+$300,000",,,,,HSDT
+1,,2021-09-16 16:05:12,2021-09-15,HSDT,Andreeff Dane,"Pres, CEO, 10%",P - Purchase,$14.72,"+10,000",5942,-246%,"+$147,222",,,,,HSDT
+2,,2021-09-13 16:05:23,2021-09-10,HSDT,Andreeff Dane,"Pres, CEO, 10%",P - Purchase,$14.96,"+10,000",5630,-229%,"+$149,629",,,,,HSDT
+3,M,2021-09-09 16:06:42,2021-09-07,HSDT,Andreeff Dane,"Pres, CEO, 10%",P - Purchase,$14.84,"+10,450",5318,-204%,"+$155,097",,,,,HSDT
+4,,2020-05-19 16:39:08,2020-05-15,HSDT,Andreeff Dane,Dir,P - Purchase,$0.56,"+100,000",21582,-128%,"+$56,000",,,,,HSDT
+5,AM,2020-05-19 12:58:02,2020-05-13,HSDT,Andreeff Dane,Dir,P - Purchase,$0.57,"+200,000",18530,-110%,"+$113,500",,,,,HSDT
+6,M,2018-06-27 20:47:51,2018-06-25,HSDT,Andreeff Dane,Dir,P - Purchase,$10.10,"+10,000",792703,+1%,"+$101,025",,,,,HSDT
+7,D,2018-04-17 19:02:43,2018-04-13,HSDT,Griffin Thomas E,Dir,P - Purchase,$7.47,"+3,346",3346,New,"+$24,995",,,,,HSDT
+8,D,2017-12-26 17:36:21,2017-12-22,HSDT,Walter Blane,Dir,P - Purchase,$1.96,"+382,653",422653,+957%,"+$750,000",,,,,HSDT
+9,D,2017-12-26 17:33:03,2017-12-22,HSDT,Laviscount Joyce N,"CFO, COO",P - Purchase,$1.96,"+79,082",129306,+157%,"+$155,001",,,,,HSDT
+10,D,2017-12-26 17:32:09,2017-12-22,HSDT,Deschamps Philippe,"Pres, CEO",P - Purchase,$1.96,"+127,551",3389442,+4%,"+$250,000",,,,,HSDT
+11,D,2017-12-26 17:30:56,2017-12-22,HSDT,Andreeff Dane,Dir,P - Purchase,$1.96,"+255,101",789435,+48%,"+$499,998",,,,,HSDT

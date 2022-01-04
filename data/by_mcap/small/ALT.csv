@@ -1,0 +1,18 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-03-01 19:00:23,2021-03-01,ALT,Hodges Philip,Dir,S - Sale,$16.08,-6000,26579,-18%,"-$96,480",,,,,ALT
+1,,2020-12-11 19:00:08,2020-12-10,ALT,Schafer Klaus,Dir,P - Purchase,$11.99,"+2,000",8900,+29%,"+$23,980",,,,,ALT
+2,M,2020-12-02 19:05:12,2020-11-30,ALT,Hodges Philip,Dir,S - Sale,$12.51,-3727,32579,-10%,"-$46,614",,,,,ALT
+3,,2020-12-02 19:05:08,2020-11-30,ALT,Gill John,Dir,S - Sale,$11.92,-8425,11199,-43%,"-$100,426",,,,,ALT
+4,,2020-11-13 18:00:14,2020-11-12,ALT,Schafer Klaus,Dir,S - Sale,$9.91,-10150,6900,-60%,"-$100,587",,,,,ALT
+5,,2020-11-13 18:00:11,2020-11-12,ALT,Pisano Wayne,Dir,S - Sale,$9.90,-10352,8498,-55%,"-$102,485",,,,,ALT
+6,,2020-11-13 18:00:09,2020-11-12,ALT,Harris Matthew Scott,Dir,S - Sale,$10.02,-4015,4069,-50%,"-$40,230",,,,,ALT
+7,,2020-06-15 15:23:08,2020-06-15,ALT,"Venrock Healthcare Capital Partners Iii, L.P.",10%,P - Purchase,$7.54,"+1,500,000",4500000,+50%,"+$11,310,000",,,,,ALT
+8,M,2020-05-28 18:34:43,2020-05-26,ALT,"Venrock Healthcare Capital Partners Iii, L.P.",10%,P - Purchase,$8.74,"+1,303,636",3000000,+77%,"+$11,395,493",,,,,ALT
+9,M,2020-05-18 16:45:20,2020-05-14,ALT,Velocity Pharmaceutical Holdings LLC,10%,S - Sale,$4.79,-200000,1687250,-11%,"-$957,100",,,,,ALT
+10,,2019-09-05 17:04:11,2019-09-05,ALT,Garg Vipin K,"Pres, CEO",P - Purchase,$2.10,"+20,000",342907,+6%,"+$42,000",,,,,ALT
+11,,2018-10-11 16:18:55,2018-10-09,ALT,Pisano Wayne,Dir,P - Purchase,$4.59,"+2,000",2000,New,"+$9,180",,,,,ALT
+12,,2018-05-29 18:17:36,2018-05-25,ALT,Enright William,"Pres, CEO",P - Purchase,$0.51,"+1,300",365839,0%,+$660,,,,,ALT
+13,,2018-02-23 16:21:22,2017-06-06,ALT,Roberts M Scot,Chief Scientific Officer,P - Purchase,$4.42,+449,449,New,"+$1,985",,,,,ALT
+14,,2018-01-03 16:54:22,2017-12-29,ALT,Sayare Mitchel,Dir,P - Purchase,$1.95,"+5,100",32650,+19%,"+$9,963",,,,,ALT
+15,M,2018-01-02 17:09:50,2017-12-28,ALT,Schaffer Derace L,Dir,P - Purchase,$1.92,"+97,410",601846,+19%,"+$187,450",,,,,ALT
+16,M,2017-12-27 18:27:00,2017-12-22,ALT,Schaffer Derace L,Dir,P - Purchase,$1.76,"+147,130",504436,+41%,"+$259,356",,,,,ALT

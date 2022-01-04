@@ -1,0 +1,23 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-02 17:47:57,2021-10-29,SPRO,"Aquilo Capital Management, LLC",10%,P - Purchase,$17.53,"+150,000",4713688,+3%,"+$2,630,175",,,,,SPRO
+1,,2021-10-04 11:36:44,2021-09-30,SPRO,"Aquilo Capital Management, LLC",10%,P - Purchase,$18.65,"+134,543",4563688,+3%,"+$2,509,173",,,,,SPRO
+2,M,2021-09-15 19:21:42,2021-09-13,SPRO,"Aquilo Capital Management, LLC",10%,P - Purchase,$18.56,"+46,366",4429145,+1%,"+$860,547",,,,,SPRO
+3,,2021-09-10 17:21:53,2021-09-09,SPRO,"Aquilo Capital Management, LLC",10%,P - Purchase,$18.50,"+24,749",4382779,+1%,"+$457,792",,,,,SPRO
+4,M,2021-09-01 17:42:57,2021-08-30,SPRO,"Aquilo Capital Management, LLC",10%,P - Purchase,$18.42,"+92,687",8667415,+1%,"+$1,707,519",,,,,SPRO
+5,M,2021-08-27 17:11:07,2021-08-26,SPRO,"Aquilo Capital Management, LLC",10%,P - Purchase,$16.67,"+36,939",4265343,+1%,"+$615,854",,,,,SPRO
+6,M,2021-08-24 16:28:00,2021-08-20,SPRO,"Aquilo Capital Management, LLC",10%,P - Purchase,$15.51,"+399,195",4228404,+10%,"+$6,192,042",,,,,SPRO
+7,,2021-02-10 13:35:13,2021-02-08,SPRO,"Aquilo Capital Management, LLC",10%,S - Sale,$21.74,-3000,3829209,0%,"-$65,215",,,,,SPRO
+8,M,2021-02-04 18:46:54,2021-02-01,SPRO,"Aquilo Capital Management, LLC",10%,S - Sale,$19.02,-100000,3832209,-3%,"-$1,901,987",,,,,SPRO
+9,M,2020-12-18 16:43:14,2020-12-16,SPRO,"Aquilo Capital Management, LLC",10%,S - Sale,$18.80,-264933,3932209,-6%,"-$4,981,260",,,,,SPRO
+10,D,2020-12-18 16:15:08,2020-12-16,SPRO,Larkin Cristina,COO,S - Sale+OE,$19.00,-12000,1500,-89%,"-$228,000",,,,,SPRO
+11,,2020-11-10 19:14:26,2020-11-09,SPRO,"Aquilo Capital Management, LLC",10%,S - Sale,$13.77,-125900,4197142,-3%,"-$1,734,071",,,,,SPRO
+12,M,2020-11-06 20:48:12,2020-11-04,SPRO,"Aquilo Capital Management, LLC",10%,S - Sale,$14.09,-174100,4323042,-4%,"-$2,452,948",,,,,SPRO
+13,DM,2020-11-05 19:00:10,2020-11-03,SPRO,Mahadevia Ankit,"CEO, Pres",S - Sale+OE,$14.39,-9507,65817,-13%,"-$136,825",,,,,SPRO
+14,D,2020-10-27 17:32:27,2020-10-23,SPRO,Mahadevia Ankit,"CEO, Pres",S - Sale+OE,$14.25,-20,65817,0%,-$285,,,,,SPRO
+15,DM,2020-10-15 20:24:39,2020-10-13,SPRO,Mahadevia Ankit,"CEO, Pres",S - Sale+OE,$14.28,-14472,65817,-18%,"-$206,709",,,,,SPRO
+16,D,2020-09-10 21:51:25,2020-09-08,SPRO,Mahadevia Ankit,"CEO, Pres",S - Sale+OE,$14.25,-774,65817,-1%,"-$11,030",,,,,SPRO
+17,DM,2020-07-09 18:48:00,2020-07-07,SPRO,Mahadevia Ankit,"CEO, Pres",S - Sale+OE,$14.29,-3047,65817,-4%,"-$43,552",,,,,SPRO
+18,,2018-07-17 17:01:46,2018-07-17,SPRO,Glaxosmithkline Plc,10%,P - Purchase,$12.50,"+80,000",1934006,+4%,"+$1,000,000",,,,,SPRO
+19,D,2018-07-06 21:45:24,2018-07-05,SPRO,Larkin Cristina,COO,S - Sale+OE,$17.50,-4000,1500,-73%,"-$70,000",,,,,SPRO
+20,D,2018-07-06 21:44:42,2018-07-05,SPRO,Sendek Joel,CFO,S - Sale+OE,$17.50,-2000,15181,-12%,"-$35,000",,,,,SPRO
+21,DM,2018-07-06 21:41:52,2018-07-05,SPRO,Mahadevia Ankit,See Remarks,S - Sale+OE,$17.63,-4676,65817,-7%,"-$82,437",,,,,SPRO

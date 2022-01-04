@@ -1,0 +1,25 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-11-02 19:28:13,2021-08-13,PETV,Johnson Scott Mitchell,Dir,P - Purchase,$4.50,"+4,000",14575,+38%,"+$18,000",,,,,PETV
+1,DM,2021-11-02 19:28:13,2021-05-04,PETV,Johnson Scott Mitchell,Dir,S - Sale+OE,$8.08,-3526,14575,-19%,"-$28,485",,,,,PETV
+2,,2021-10-06 17:06:52,2021-10-05,PETV,Martin James Rudolph,Dir,P - Purchase,$2.46,"+1,600",86684,+2%,"+$3,937",,,,,PETV
+3,,2021-09-15 14:31:23,2021-09-14,PETV,Martin James Rudolph,Dir,P - Purchase,$2.96,"+1,200",85084,+1%,"+$3,552",,,,,PETV
+4,,2021-09-14 12:04:00,2021-09-13,PETV,Martin James Rudolph,Dir,P - Purchase,$3.24,"+7,000",83884,+9%,"+$22,665",,,,,PETV
+5,,2021-09-07 12:53:44,2021-09-02,PETV,Folkes Robert J.,CFO,P - Purchase,$3.91,"+10,000",13000,+333%,"+$39,124",,,,,PETV
+6,,2021-08-26 14:58:21,2021-08-25,PETV,Martin James Rudolph,Dir,P - Purchase,$2.67,"+2,000",76884,+3%,"+$5,336",,,,,PETV
+7,D,2021-08-13 14:41:41,2021-08-11,PETV,Martin James Rudolph,Dir,P - Purchase,$3.82,"+7,500",74884,+11%,"+$28,649",,,,,PETV
+8,,2021-06-04 16:29:27,2021-06-02,PETV,Deming David Don,Dir,P - Purchase,$7.00,+800,15112,+6%,"+$5,600",,,,,PETV
+9,,2021-06-01 16:07:42,2021-05-28,PETV,Folkes Robert J.,CFO,P - Purchase,$7.00,"+3,000",3000,New,"+$21,000",,,,,PETV
+10,,2021-05-26 16:04:28,2021-04-24,PETV,Martin James Joseph,Dir,P - Purchase,$7.00,"+3,000",67384,+5%,"+$21,000",,,,,PETV
+11,,2020-07-17 13:01:29,2020-07-16,PETV,Johnson Scott Mitchell,Dir,P - Purchase,$0.80,"+5,000",544152,+1%,"+$4,000",,,,,PETV
+12,,2020-07-16 11:31:48,2020-07-13,PETV,Martin James Rudolph,Dir,P - Purchase,$0.90,"+3,000",166535,+2%,"+$2,700",,,,,PETV
+13,,2020-07-14 14:43:07,2020-07-09,PETV,Johnson Scott Mitchell,Dir,P - Purchase,$0.77,+925,539152,0%,+$712,,,,,PETV
+14,D,2020-07-10 11:56:38,2020-07-08,PETV,Johnson Scott Mitchell,Dir,P - Purchase,$0.83,"+4,070",538227,+1%,"+$3,378",,,,,PETV
+15,DM,2020-07-10 11:26:36,2020-06-30,PETV,Martin James Rudolph,Dir,P - Purchase,$0.51,"+38,684",163535,+31%,"+$19,768",,,,,PETV
+16,DM,2020-06-10 10:58:22,2020-05-29,PETV,Martin James Rudolph,Dir,P - Purchase,$0.33,"+26,780",235952,+13%,"+$8,862",,,,,PETV
+17,,2019-12-04 12:27:00,2019-11-29,PETV,Martin James Rudolph,Dir,P - Purchase,$0.40,"+2,500",83445,+3%,"+$1,000",,,,,PETV
+18,,2019-11-15 12:51:12,2019-11-14,PETV,Martin James Rudolph,Dir,P - Purchase,$0.40,"+10,000",89938,+13%,"+$4,000",,,,,PETV
+19,,2019-11-07 14:19:04,2019-11-04,PETV,Martin James Rudolph,Dir,P - Purchase,$0.41,"+2,500",79938,+3%,"+$1,025",,,,,PETV
+20,,2019-10-09 16:11:24,2019-10-03,PETV,Martin James Rudolph,Dir,P - Purchase,$0.40,"+2,500",77438,+3%,+$988,,,,,PETV
+21,A,2019-10-09 16:10:35,2019-09-03,PETV,Martin James Rudolph,Dir,P - Purchase,$0.34,"+4,250",74938,+6%,"+$1,445",,,,,PETV
+22,,2019-09-18 13:41:41,2019-09-03,PETV,Martin James Rudolph,Dir,P - Purchase,$0.32,"+9,250",145626,+7%,"+$2,945",,,,,PETV
+23,,2018-09-19 15:55:45,2018-03-01,PETV,Deming David Don,Dir,P - Purchase,$1.81,"+1,000",1000,New,"+$1,810",,,,,PETV

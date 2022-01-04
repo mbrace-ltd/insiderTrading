@@ -1,0 +1,39 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-11-15 17:33:37,2021-11-11,RMCF,Geygan Jeffrey Richart Geygan,Dir,P - Purchase,$9.02,"+2,842",508127,+1%,"+$25,641",,,,,RMCF
+1,M,2021-11-12 12:58:33,2021-11-09,RMCF,Geygan Jeffrey Richart Geygan,Dir,P - Purchase,$9.04,"+13,529",505285,+3%,"+$122,356",,,,,RMCF
+2,,2021-10-29 19:45:29,2021-10-27,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$8.71,"+4,958",490979,+1%,"+$43,184",,,,,RMCF
+3,,2021-10-25 19:00:34,2021-10-21,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$8.50,"+13,570",486021,+3%,"+$115,345",,,,,RMCF
+4,,2021-10-22 19:12:00,2021-10-22,RMCF,Dudley Edward L,"SVP Sales, Marketing",S - Sale,$8.71,-5000,57063,-8%,"-$43,556",,,,,RMCF
+5,,2021-10-21 15:09:08,2021-10-21,RMCF,Coupe Donna L.,VP Franchise Support,S - Sale,$8.44,-7000,19933,-26%,"-$59,052",,,,,RMCF
+6,,2021-10-19 19:17:18,2021-10-15,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$8.20,"+2,000",472451,0%,"+$16,400",,,,,RMCF
+7,M,2021-10-12 21:44:54,2021-10-07,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$7.58,"+12,247",470451,+3%,"+$92,805",,,,,RMCF
+8,M,2021-10-06 19:06:12,2021-10-04,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$7.22,"+18,183",458204,+4%,"+$131,354",,,,,RMCF
+9,,2021-09-28 19:00:12,2021-09-24,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$7.42,"+6,397",440021,+1%,"+$47,466",,,,,RMCF
+10,M,2021-09-09 18:06:15,2021-09-07,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$8.25,"+66,735",433624,+18%,"+$550,514",,,,,RMCF
+11,M,2021-09-02 18:19:40,2021-08-31,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$7.89,"+36,888",366889,+11%,"+$291,160",,,,,RMCF
+12,,2021-08-30 18:37:33,2021-08-26,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$7.73,"+10,000",330001,+3%,"+$77,300",,,,,RMCF
+13,M,2021-08-25 20:09:11,2021-08-23,RMCF,Radoff Bradley Louis,See Explanation of Responses,P - Purchase,$7.20,"+15,001",320001,+5%,"+$107,988",,,,,RMCF
+14,,2020-02-18 15:27:22,2020-02-14,RMCF,Pope Gregory L,SVP Franchise Development,S - Sale,$8.36,-4208,80472,-5%,"-$35,179",,,,,RMCF
+15,,2020-02-13 16:20:25,2020-02-12,RMCF,Pope Gregory L,SVP Franchise Development,S - Sale,$8.40,-1292,84680,-2%,"-$10,853",,,,,RMCF
+16,,2020-02-06 11:57:55,2020-02-06,RMCF,Crail Franklin E,Dir,S - Sale,$8.30,-1736,454760,0%,"-$14,409",,,,,RMCF
+17,,2020-02-05 18:50:30,2020-02-05,RMCF,Crail Franklin E,Dir,S - Sale,$8.32,-17312,456496,-4%,"-$144,080",,,,,RMCF
+18,,2020-01-30 17:59:35,2020-01-30,RMCF,Crail Franklin E,Dir,S - Sale,$8.50,-46,473808,0%,-$391,,,,,RMCF
+19,,2020-01-29 18:27:05,2020-01-29,RMCF,Crail Franklin E,Dir,S - Sale,$8.52,-6709,473854,-1%,"-$57,133",,,,,RMCF
+20,,2020-01-24 18:03:08,2020-01-24,RMCF,Crail Franklin E,Dir,S - Sale,$8.70,-106,480563,0%,-$922,,,,,RMCF
+21,,2020-01-23 17:48:12,2020-01-23,RMCF,Crail Franklin E,Dir,S - Sale,$8.70,-4091,480669,-1%,"-$35,592",,,,,RMCF
+22,,2020-01-15 16:29:48,2020-01-15,RMCF,Coupe Donna L.,VP Franchise Support,S - Sale,$8.76,-4000,27051,-13%,"-$35,040",,,,,RMCF
+23,,2020-01-09 18:24:21,2020-01-08,RMCF,Engle Clyde Wm,Dir,S - Sale,$8.86,-2668,5572,-32%,"-$23,638",,,,,RMCF
+24,,2020-01-09 18:12:43,2020-01-08,RMCF,Merryman Bryan J,"CEO, CFO Treasurer",P - Purchase,$8.86,"+2,668",142668,+2%,"+$23,638",,,,,RMCF
+25,AM,2018-07-31 20:14:34,2018-07-30,RMCF,Merryman Bryan J,"COO, CFO Treasurer",S - Sale,$10.29,-10000,40000,-20%,"-$102,943",,,,,RMCF
+26,M,2018-07-31 16:53:34,2018-07-30,RMCF,Merryman Bryan J,"COO, CFO Treasurer",S - Sale,$10.29,-10000,20000,-33%,"-$102,943",,,,,RMCF
+27,,2018-07-30 16:43:41,2018-07-30,RMCF,Dudley Edward L,"VP Sales, Marketing",S - Sale,$10.35,-4500,37063,-11%,"-$46,575",,,,,RMCF
+28,,2018-05-16 16:49:49,2018-05-15,RMCF,Pope Gregory L,SVP Franchise Development,S - Sale,$11.50,-4000,55048,-7%,"-$46,000",,,,,RMCF
+29,,2018-05-15 12:22:12,2018-05-15,RMCF,Coupe Donna L.,VP Franchise Support,S - Sale,$11.50,-2000,10695,-16%,"-$23,007",,,,,RMCF
+30,,2018-02-14 15:52:52,2018-02-12,RMCF,Capdevielle Scott G,Dir,S - Sale,$12.38,-962,5728,-14%,"-$11,912",,,,,RMCF
+31,M,2018-02-09 17:12:02,2018-02-08,RMCF,Capdevielle Scott G,Dir,S - Sale,$12.27,-1922,6690,-22%,"-$23,582",,,,,RMCF
+32,M,2018-02-07 19:38:36,2018-02-06,RMCF,Capdevielle Scott G,Dir,S - Sale,$12.22,-1922,8612,-18%,"-$23,483",,,,,RMCF
+33,,2018-02-05 18:10:54,2018-02-05,RMCF,Capdevielle Scott G,Dir,S - Sale,$12.27,-961,10534,-8%,"-$11,792",,,,,RMCF
+34,,2018-02-05 12:16:46,2018-02-02,RMCF,Capdevielle Scott G,Dir,S - Sale,$12.32,-961,11495,-8%,"-$11,836",,,,,RMCF
+35,,2018-01-23 12:17:51,2018-01-22,RMCF,Merryman Bryan J,"COO, CFO Treasurer",S - Sale,$12.39,-17330,0,-100%,"-$214,719",,,,,RMCF
+36,AM,2018-01-22 16:45:38,2018-01-18,RMCF,Merryman Bryan J,"COO, CFO Treasurer",S - Sale,$12.23,-20000,47330,-30%,"-$244,681",,,,,RMCF
+37,M,2018-01-22 15:37:57,2018-01-18,RMCF,Merryman Bryan J,"COO, CFO Treasurer",S - Sale,$12.23,-20000,50000,-29%,"-$244,681",,,,,RMCF

@@ -1,0 +1,24 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-09-14 14:45:52,2021-09-13,AVT,McMullen Elizabeth,Global VP - Operations,S - Sale,$38.47,-3251,19380,-14%,"-$125,066",,,,,AVT
+1,,2021-05-28 17:08:30,2021-05-27,AVT,Jacobson Kenneth A,"Controller, PAO",S - Sale,$44.70,-5360,25051,-18%,"-$239,600",,,,,AVT
+2,,2021-05-25 18:12:01,2021-05-24,AVT,Arnold Ken E.,"SVP, Chief People Officer",S - Sale,$44.68,-3500,15344,-19%,"-$156,375",,,,,AVT
+3,,2021-05-10 18:01:10,2021-05-07,AVT,Chan Leng Jin,CIO,S - Sale,$44.29,-10000,22654,-31%,"-$442,915",,,,,AVT
+4,D,2021-05-10 16:44:17,2021-05-06,AVT,Gallagher Philip R,CEO,S - Sale+OE,$43.57,-23128,121160,-16%,"-$1,007,738",,,,,AVT
+5,D,2021-05-06 19:29:01,2021-05-04,AVT,Gallagher Philip R,"CEO, Pres",S - Sale+OE,$42.62,-21152,121160,-15%,"-$901,502",,,,,AVT
+6,D,2021-02-10 13:26:27,2021-02-09,AVT,Schumann William H,Dir,S - Sale+OE,$38.23,-4535,0,-100%,"-$173,373",,,,,AVT
+7,,2020-12-18 11:04:02,2020-12-16,AVT,Badhorn Dayna,"Global VP, Strategic Planning",P - Purchase,$32.02,+22,19156,0%,+$704,,,,,AVT
+8,,2020-12-07 12:59:41,2020-12-03,AVT,Khaykin Oleg,Dir,P - Purchase,$32.28,"+9,000",9000,New,"+$290,520",,,,,AVT
+9,D,2020-05-27 15:56:51,2020-05-26,AVT,Miller Maryann G.,"SVP, Chief Admin Officer",S - Sale+OE,$29.00,-11456,54193,-17%,"-$332,224",,,,,AVT
+10,,2020-03-12 15:57:08,2020-03-12,AVT,Liguori Thomas,CFO,P - Purchase,$25.24,"+4,000",77221,+5%,"+$100,964",,,,,AVT
+11,A,2019-12-05 12:53:00,2019-12-05,AVT,Lawrence James A,Dir,S - Sale,$41.07,-13109,210435,-6%,"-$538,387",,,,,AVT
+12,,2019-12-05 12:21:21,2019-12-05,AVT,Lawrence James A,Dir,S - Sale,$41.07,-13109,231055,-5%,"-$538,387",,,,,AVT
+13,M,2019-12-05 11:50:42,2019-12-03,AVT,Lawrence James A,Dir,S - Sale,$39.55,-263891,223544,-54%,"-$10,437,570",,,,,AVT
+14,D,2019-09-12 13:11:55,2019-09-11,AVT,Schumann William H,Dir,S - Sale+OE,$44.78,-13288,0,-100%,"-$595,037",,,,,AVT
+15,D,2019-09-10 14:48:31,2019-09-09,AVT,Gallagher Philip R,Pres,S - Sale+OE,$43.94,-24184,134370,-15%,"-$1,062,645",,,,,AVT
+16,,2019-05-10 14:57:44,2019-05-09,AVT,Lawrence James A,Dir,S - Sale,$45.20,-20620,500000,-4%,"-$932,106",,,,,AVT
+17,M,2019-05-02 19:07:25,2019-05-01,AVT,Lawrence James A,Dir,S - Sale,$47.48,-187495,520620,-26%,"-$8,902,486",,,,,AVT
+18,M,2019-05-02 18:45:31,2019-05-01,AVT,Jacobson Kenneth A,"Controller, PAO",S - Sale,$47.92,-7796,11458,-40%,"-$373,602",,,,,AVT
+19,D,2018-12-03 17:17:14,2018-11-29,AVT,Gallagher Philip R,Pres,S - Sale+OE,$43.18,-24068,119220,-17%,"-$1,039,256",,,,,AVT
+20,D,2018-09-18 19:50:31,2018-09-14,AVT,Miller Maryann G.,SVP,S - Sale+OE,$47.99,-15024,74281,-17%,"-$721,039",,,,,AVT
+21,D,2018-02-21 19:04:49,2018-02-16,AVT,Gallagher Philip R,Pres,S - Sale+OE,$42.00,-14292,67230,-18%,"-$600,264",,,,,AVT
+22,,2018-02-15 17:45:59,2018-02-13,AVT,Summers Kevin V,CIO,S - Sale,$40.67,-1511,5354,-22%,"-$61,452",,,,,AVT

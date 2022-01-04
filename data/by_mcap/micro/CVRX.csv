@@ -1,0 +1,9 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-11-19 17:54:43,2021-11-18,CVRX,Jain Mudit K.,Dir,P - Purchase,$14.39,"+1,175",936183,0%,"+$16,910",,,,,CVRX
+1,,2021-08-16 16:35:08,2021-08-12,CVRX,Jain Mudit K.,Dir,P - Purchase,$19.72,+625,935008,0%,"+$12,328",,,,,CVRX
+2,D,2021-07-07 16:47:51,2021-07-02,CVRX,Nea Partners 10 L P,10%,P - Purchase,$18.00,"+250,250",2199471,+13%,"+$4,504,500",,,,,CVRX
+3,D,2021-07-07 16:47:06,2021-07-02,CVRX,New Enterprise Associates 10 L P,10%,P - Purchase,$18.00,"+225,500",2026083,+13%,"+$4,059,000",,,,,CVRX
+4,D,2021-07-06 16:38:14,2021-07-02,CVRX,Glaxosmithkline Plc,10%,P - Purchase,$18.00,"+275,000",1007583,+38%,"+$4,950,000",,,,,CVRX
+5,M,2021-07-02 17:04:31,2021-06-30,CVRX,Nehra John M,Dir,P - Purchase,$18.03,"+27,877",28366,>999%,"+$502,647",,,,,CVRX
+6,DM,2021-07-02 17:04:05,2021-07-01,CVRX,Jain Mudit K.,Dir,P - Purchase,$18.03,"+223,222",934383,+31%,"+$4,025,096",,,,,CVRX
+7,D,2021-07-02 17:03:02,2021-07-02,CVRX,Pardo Geoffrey B,Dir,P - Purchase,$18.00,"+275,000",1829022,+18%,"+$4,950,000",,,,,CVRX

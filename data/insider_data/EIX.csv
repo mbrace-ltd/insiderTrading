@@ -1,0 +1,10 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-04 12:48:16,2021-08-02,EIX,Taylor Peter J.,Dir,S - Sale,$54.69,-230,22396,-1%,"-$12,579",,,,,EIX
+1,,2021-05-04 14:02:30,2021-05-03,EIX,Taylor Peter J.,Dir,S - Sale,$59.61,-230,19997,-1%,"-$13,710",,,,,EIX
+2,,2021-03-10 15:28:40,2021-03-09,EIX,Trent Keith,Dir,P - Purchase,$57.40,271,5289,+5%,"+$15,557",,,,,EIX
+3,D,2021-03-03 17:26:39,2021-03-01,EIX,Taylor Peter J.,Dir,S - Sale+OE,$54.60,-230,17663,-1%,"-$12,558",,,,,EIX
+4,,2020-11-03 19:14:01,2020-11-02,EIX,Taylor Peter J.,Dir,S - Sale,$56.91,-230,15183,-1%,"-$13,089",,,,,EIX
+5,,2020-08-04 11:54:52,2020-08-03,EIX,Taylor Peter J.,Dir,S - Sale,$55.33,-230,15413,-1%,"-$12,726",,,,,EIX
+6,,2020-05-05 16:16:20,2020-05-04,EIX,Taylor Peter J.,Dir,S - Sale,$56.16,-230,12817,-2%,"-$12,917",,,,,EIX
+7,D,2017-11-17 12:27:57,2017-11-15,EIX,Litzinger Ronald L,"Pres Edison Energy Group, Inc",S - Sale+OE,$82.00,-224718,65615,-77%,"-$18,427,634",,,,,EIX
+8,D,2017-08-17 12:25:22,2017-08-15,EIX,Litzinger Ronald L,"Pres Edison Energy Group, Inc",S - Sale+OE,$80.54,-224715,65615,-77%,"-$18,098,866",,,,,EIX

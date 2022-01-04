@@ -1,0 +1,47 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,DM,2021-03-19 09:07:09,2021-03-17,TSN,Miller Shane,Group Pres Fresh Meats,S - Sale+OE,$76.62,-10000,15819,-39%,"-$766,200",,,,,TSN
+1,,2021-03-10 10:54:18,2021-03-08,TSN,Nichol Jason,Chief Customer Officer,S - Sale,$74.00,-1114,4863,-19%,"-$82,432",,,,,TSN
+2,,2020-08-06 16:26:30,2020-08-05,TSN,Martin Chad Roderick,Group Pres Poultry,S - Sale,$63.04,-3048,22721,-12%,"-$192,145",,,,,TSN
+3,,2020-05-15 10:15:02,2020-05-13,TSN,Rouse Scott,"EVP, Chief Customer Officer",S - Sale,$58.12,-600,34489,-2%,"-$34,872",,,,,TSN
+4,,2020-01-16 16:46:24,2020-01-15,TSN,White Noel W,CEO,S - Sale,$91.29,-17417,158400,-10%,"-$1,590,048",,,,,TSN
+5,,2019-12-19 13:55:10,2019-12-17,TSN,Stouffer Stephen R,Group Pres Fresh Meats,S - Sale,$90.16,-15723,44657,-26%,"-$1,417,529",,,,,TSN
+6,A,2019-12-19 13:51:51,2019-05-16,TSN,Stouffer Stephen R,Group Pres Fresh Meats,S - Sale,$83.02,-12000,46638,-20%,"-$996,298",,,,,TSN
+7,,2019-12-02 13:04:16,2019-11-28,TSN,Rouse Scott,"EVP, Chief Customer Officer",S - Sale,$0.00,-836,36923,-2%,-$0,,,,,TSN
+8,,2019-12-02 13:03:51,2019-12-02,TSN,Thurber Robert C.,Dir,S - Sale,$89.22,-40,53586,0%,"-$3,569",,,,,TSN
+9,,2019-12-02 13:03:29,2019-11-28,TSN,O'Mara Noelle,Group Pres Prepared Foods,S - Sale,$0.00,-358,11964,-3%,-$0,,,,,TSN
+10,,2019-12-02 13:03:09,2019-11-28,TSN,Ramsey Douglas Wayne,Group Pres McDonalds,S - Sale,$0.00,-627,31504,-2%,-$0,,,,,TSN
+11,,2019-12-02 13:02:43,2019-11-28,TSN,Martin Chad Roderick,Group Pres Poultry,S - Sale,$0.00,-582,27443,-2%,-$0,,,,,TSN
+12,D,2019-11-18 16:39:12,2019-11-14,TSN,Oleksiuk Mary,"EVP, CHRO",S - Sale+OE,$92.22,-28382,86963,-25%,"-$2,617,276",,,,,TSN
+13,D,2019-08-09 11:07:53,2019-08-07,TSN,Rouse Scott,"EVP, Chief Customer Officer",S - Sale+OE,$86.45,-16294,31277,-34%,"-$1,408,616",,,,,TSN
+14,D,2019-08-08 07:18:09,2019-08-06,TSN,Grimes Sally,Group Pres Prepared Foods,S - Sale+OE,$85.00,-57774,99376,-37%,"-$4,910,790",,,,,TSN
+15,D,2019-08-08 07:17:45,2019-08-06,TSN,Oleksiuk Mary,"EVP, CHRO",S - Sale+OE,$82.60,-43592,86457,-34%,"-$3,600,643",,,,,TSN
+16,,2019-05-17 15:25:11,2019-05-16,TSN,Stouffer Stephen R,Group Pres Fresh Meats,S - Sale,$83.02,-12000,47044,-20%,"-$996,298",,,,,TSN
+17,D,2019-05-16 10:11:14,2019-05-14,TSN,Ramsey Douglas Wayne,Group Pres McDonnalds,S - Sale+OE,$81.79,-21166,25756,-45%,"-$1,731,274",,,,,TSN
+18,D,2019-05-10 17:24:20,2019-03-15,TSN,Grimes Sally,Group Pres Prepared Foods,S - Sale+OE,$78.00,-83490,99241,-46%,"-$6,512,220",,,,,TSN
+19,D,2019-05-09 10:37:53,2019-05-08,TSN,Oleksiuk Mary,"EVP, CHRO",S - Sale+OE,$77.09,-44967,86001,-34%,"-$3,466,708",,,,,TSN
+20,D,2019-05-09 10:37:21,2019-05-07,TSN,Martin Chad Roderick,Group Pres Poultry,S - Sale+OE,$77.24,-6300,22875,-22%,"-$486,628",,,,,TSN
+21,A,2019-04-01 17:33:44,2019-03-11,TSN,Rouse Scott,"EVP, Chief Customer Officer",S - Sale,$64.22,-2500,30738,-8%,"-$160,550",,,,,TSN
+22,,2019-03-13 17:07:14,2019-03-11,TSN,Rouse Scott,"EVP, Chief Customer Officer",S - Sale,$64.22,-2500,18535,-12%,"-$160,550",,,,,TSN
+23,D,2019-02-26 13:49:28,2019-02-22,TSN,Martin Chad Roderick,Group Pres Poultry,S - Sale+OE,$62.36,-8233,20629,-29%,"-$513,383",,,,,TSN
+24,ADM,2018-12-19 11:39:32,2017-11-16,TSN,Rouse Scott,"EVP, Chief Customer Officer",S - Sale+OE,$77.49,-17113,19726,-46%,"-$1,326,018",,,,,TSN
+25,,2018-12-19 11:38:50,2018-12-17,TSN,Thurber Robert C.,Dir,S - Sale,$54.45,-500,50389,-1%,"-$27,226",,,,,TSN
+26,,2018-12-10 14:53:10,2018-12-06,TSN,Banister Gaurdie E. Jr.,Dir,P - Purchase,$58.01,6897,36322,+23%,"+$400,107",,,,,TSN
+27,,2018-07-05 13:55:56,2018-07-01,TSN,Hayes Thomas P,"Pres, CEO",S - Sale,$68.85,-20202,84244,-19%,"-$1,390,908",,,,,TSN
+28,,2018-07-05 13:55:25,2018-07-01,TSN,Grimes Sally,Group Pres Prepared Foods,S - Sale,$68.85,-19258,74977,-20%,"-$1,325,913",,,,,TSN
+29,,2018-07-05 13:54:58,2018-07-01,TSN,White Noel W,"Grp Pres FM, Intl",S - Sale,$68.85,-9012,121851,-7%,"-$620,476",,,,,TSN
+30,,2018-06-19 11:38:55,2018-06-15,TSN,Rouse Scott,Chief Customer Officer,S - Sale,$71.81,-150,23248,-1%,"-$10,772",,,,,TSN
+31,,2018-03-19 11:42:45,2018-03-15,TSN,Stouffer Stephen R,Pres Fresh Meats,S - Sale,$74.22,-15489,33446,-32%,"-$1,149,594",,,,,TSN
+32,,2018-02-20 10:55:26,2018-02-15,TSN,Banister Gaurdie E. Jr.,Dir,S - Sale,$75.56,-7800,29306,-21%,"-$589,394",,,,,TSN
+33,,2018-02-12 14:09:30,2018-02-09,TSN,Schomburger Jeffrey K,Dir,P - Purchase,$74.83,2700,7023,+62%,"+$202,041",,,,,TSN
+34,,2017-12-26 11:38:13,2017-12-22,TSN,White Noel W,"Grp Pres FM, Intl",S - Sale,$80.96,-24575,129263,-16%,"-$1,989,543",,,,,TSN
+35,D,2017-12-20 12:49:09,2017-12-19,TSN,Hayes Thomas P,"Pres, CEO",S - Sale+OE,$81.63,-53874,103595,-34%,"-$4,397,611",,,,,TSN
+36,D,2017-12-07 11:02:24,2017-12-06,TSN,Van Bebber David L,GC,S - Sale+OE,$83.26,-164348,200680,-45%,"-$13,683,122",,,,,TSN
+37,,2017-12-06 09:25:42,2017-12-05,TSN,Thurber Robert C.,Dir,S - Sale,$83.41,-60,48020,0%,"-$5,005",,,,,TSN
+38,D,2017-12-01 13:46:27,2017-11-30,TSN,White Noel W,"Grp Pres FM, Intl",S - Sale+OE,$82.15,-113640,153742,-43%,"-$9,335,291",,,,,TSN
+39,DM,2017-12-01 13:46:12,2017-11-29,TSN,Leatherby Dennis,CFO,S - Sale+OE,$82.09,-115293,154223,-43%,"-$9,464,212",,,,,TSN
+40,,2017-11-29 18:21:15,2017-11-29,TSN,Stouffer Stephen R,Pres Fresh Meats,S - Sale,$81.23,-9238,48795,-16%,"-$750,379",,,,,TSN
+41,D,2017-11-28 10:35:12,2017-11-27,TSN,Calaway Curt,"SVP Controller, CAO",S - Sale+OE,$81.01,-21200,23366,-48%,"-$1,717,412",,,,,TSN
+42,D,2017-11-21 16:46:37,2017-11-21,TSN,Stouffer Stephen R,Pres Fresh Meats,S - Sale+OE,$79.55,-7754,58033,-12%,"-$616,794",,,,,TSN
+43,,2017-11-20 15:47:15,2017-11-16,TSN,Rouse Scott,Chief Customer Officer,S - Sale,$77.26,-1000,19726,-5%,"-$77,260",,,,,TSN
+44,D,2017-08-15 16:37:38,2017-08-14,TSN,Leatherby Dennis,CFO,S - Sale+OE,$65.97,-145100,146699,-50%,"-$9,572,475",,,,,TSN
+45,M,2017-08-14 17:06:05,2017-08-11,TSN,Durham Mikel A.,Dir,P - Purchase,$65.77,2809,7776,+57%,"+$184,757",,,,,TSN

@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-02-02 16:40:15,2021-02-02,CUEN,Daniel Ran,CFO,P - Purchase,$0.00,"+20,000",20000,New,+$0,,,,,CUEN
+1,,2020-12-08 14:24:44,2020-12-01,CUEN,Maimon Arik,CEO,P - Purchase,$3.13,+100,4052517,0%,+$313,,,,,CUEN
+2,,2020-11-30 21:25:55,2020-11-20,CUEN,Maimon Arik,CEO,P - Purchase,$2.98,+900,4052417,0%,"+$2,684",,,,,CUEN
+3,,2020-08-21 14:45:12,2020-08-17,CUEN,Bruk Yochanon,Dir,P - Purchase,$4.62,"+1,000",1000,New,"+$4,623",,,,,CUEN
+4,M,2020-08-19 21:49:19,2020-08-13,CUEN,Maimon Arik,CEO,P - Purchase,$4.45,"+1,501",401023,0%,"+$6,680",,,,,CUEN
+5,DM,2019-01-24 15:45:02,2018-12-20,CUEN,Maimon Arik,"COB, CEO, 10%",P - Purchase,$3.14,"+2,909",239364,+1%,"+$9,146",,,,,CUEN
+6,M,2018-08-17 14:04:06,2018-03-28,NXGH,Vargas Harrison,Former 10% Owner,P - Purchase,$0.03,"+4,206,747",35582109,+13%,"+$115,157",,,,,CUEN
+7,AM,2018-01-26 16:58:33,2018-01-02,NXGH,Vargas Harrison,10%,P - Purchase,$0.05,"+915,506",31375362,+3%,"+$47,510",,,,,CUEN
+8,A,2018-01-26 16:58:33,2018-01-08,NXGH,Vargas Harrison,10%,S - Sale,$0.04,-60000,31375362,0%,"-$2,340",,,,,CUEN
+9,M,2018-01-25 17:16:00,2018-01-02,NXGH,Vargas Harrison,10%,P - Purchase,$0.05,"+915,506",31293253,+3%,"+$47,510",,,,,CUEN
+10,,2018-01-25 17:16:00,2018-01-08,NXGH,Vargas Harrison,10%,S - Sale,$0.04,-60000,31293253,0%,"-$2,340",,,,,CUEN

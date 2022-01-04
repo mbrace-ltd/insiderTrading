@@ -1,0 +1,23 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-26 18:14:47,2021-11-23,PRVA,Sullivan William M,Dir,S - Sale,$27.70,-568055,6356713,-8%,"-$15,732,283",,,,,PRVA
+1,,2021-11-26 18:11:14,2021-11-23,PRVA,Butler Jeffrey B,Dir,S - Sale,$27.70,-429877,4812312,-8%,"-$11,905,444",,,,,PRVA
+2,D,2021-11-26 18:08:05,2021-11-23,PRVA,Bartrum Thomas,"EVP, GC",S - Sale+OE,$27.70,-28910,27391,-51%,"-$800,662",,,,,PRVA
+3,D,2021-11-26 18:03:56,2021-11-23,PRVA,Morris Matthew Shawn,CEO,S - Sale+OE,$27.70,-339062,121739,-74%,"-$9,390,322",,,,,PRVA
+4,D,2021-11-26 18:00:16,2021-11-23,PRVA,Mehrotra Parth,"Pres, COO",S - Sale+OE,$27.70,-157929,97391,-62%,"-$4,373,844",,,,,PRVA
+5,,2021-11-26 13:15:44,2021-11-23,PRVA,"Pamplona Capital Partners Iii, L.P.",10%,S - Sale,$27.70,-1791175,20019808,-8%,"-$49,606,592",,,,,PRVA
+6,,2021-11-24 21:07:27,2021-11-23,PRVA,Bernstein Jeffrey Daniel,Dir,S - Sale,$27.70,-2505732,28676936,-8%,"-$69,396,248",,,,,PRVA
+7,,2021-11-24 21:06:25,2021-11-23,PRVA,"Mbd Advisors, L.L.C.",10%,S - Sale,$27.70,-2505732,28676936,-8%,"-$69,396,248",,,,,PRVA
+8,,2021-11-24 21:05:33,2021-11-23,PRVA,Goldman Sachs Group Inc,10%,S - Sale,$27.70,-2505732,28676936,-8%,"-$69,396,248",,,,,PRVA
+9,D,2021-11-24 18:18:36,2021-11-22,PRVA,Morris Matthew Shawn,CEO,S - Sale+OE,$28.12,-29228,121739,-19%,"-$821,891",,,,,PRVA
+10,D,2021-11-17 18:04:04,2021-11-16,PRVA,Mehrotra Parth,"Pres, COO",S - Sale+OE,$30.67,-5000,145216,-3%,"-$153,344",,,,,PRVA
+11,D,2021-11-10 19:11:32,2021-11-09,PRVA,Mehrotra Parth,"Pres, COO",S - Sale+OE,$30.96,-7500,145216,-5%,"-$232,203",,,,,PRVA
+12,,2021-11-09 18:07:52,2021-11-05,PRVA,Mountcastle David,CFO,S - Sale,$27.38,-28079,47826,-37%,"-$768,931",,,,,PRVA
+13,D,2021-11-08 20:05:15,2021-11-04,PRVA,Morris Matthew Shawn,CEO,S - Sale+OE,$28.07,-1200,121739,-1%,"-$33,687",,,,,PRVA
+14,D,2021-11-04 19:56:43,2021-11-02,PRVA,Mehrotra Parth,"Pres, COO",S - Sale+OE,$25.51,-5000,145216,-3%,"-$127,560",,,,,PRVA
+15,M,2021-05-05 21:29:31,2021-04-29,PRVA,"Mbd Advisors, L.L.C.",10%,P - Purchase,$34.63,"+10,050",79178470,0%,"+$348,030",,,,,PRVA
+16,M,2021-05-05 21:29:31,2021-04-30,PRVA,"Mbd Advisors, L.L.C.",10%,S - Sale,$21.63,-16710050,79178470,-17%,"-$361,402,315",,,,,PRVA
+17,M,2021-05-05 21:27:50,2021-04-29,PRVA,Goldman Sachs Group Inc,10%,P - Purchase,$34.63,"+10,050",79178470,0%,"+$348,030",,,,,PRVA
+18,M,2021-05-05 21:27:50,2021-04-30,PRVA,Goldman Sachs Group Inc,10%,S - Sale,$21.63,-16710050,79178470,-17%,"-$361,402,315",,,,,PRVA
+19,,2021-05-05 18:31:28,2021-05-03,PRVA,"Brighton Health Group Holdings, LLC",10%,S - Sale,$21.62,-16700000,79178470,-17%,"-$361,054,000",,,,,PRVA
+20,,2021-05-05 18:19:02,2021-05-03,PRVA,Bernstein Jeffrey Daniel,Dir,S - Sale,$21.62,-16700000,79178470,-17%,"-$361,054,000",,,,,PRVA
+21,,2021-05-05 11:11:24,2021-05-03,PRVA,"Pamplona Capital Partners Iii, L.P.",10%,S - Sale,$21.62,-16700000,79178470,-17%,"-$361,054,000",,,,,PRVA

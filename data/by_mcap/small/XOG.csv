@@ -1,0 +1,13 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2020-12-23 15:54:02,2020-12-23,XOG,Christ Eric J,"VP, GC, Corp Sec",S - Sale,$0.04,-108890,101687,-52%,"-$3,811",,,,,XOG
+1,,2020-12-23 15:53:06,2020-12-23,XOG,Leidel Peter A,Dir,S - Sale,$0.04,-88572,1000,-99%,"-$3,321",,,,,XOG
+2,,2020-12-09 18:27:14,2020-12-04,XOG,Leidel Peter A,Dir,S - Sale,$0.05,-85000,89572,-49%,"-$4,046",,,,,XOG
+3,M,2020-06-30 19:24:56,2020-06-26,XOG,Owens Matthew R,"Pres, CEO",S - Sale,$0.15,-1248668,80522,-94%,"-$186,051",,,,,XOG
+4,AM,2020-06-26 11:23:29,2020-06-23,XOG,Owens Matthew R,"Pres, CEO",S - Sale,$0.32,-1248668,1329190,-48%,"-$404,444",,,,,XOG
+5,M,2020-06-25 21:36:14,2020-06-23,XOG,Owens Matthew R,"Pres, CEO",S - Sale,$0.31,-881117,1329190,-40%,"-$273,559",,,,,XOG
+6,,2020-06-23 16:10:48,2020-06-22,XOG,Owens Matthew R,"Pres, CEO",S - Sale,$0.33,-624334,2577858,-19%,"-$205,406",,,,,XOG
+7,,2020-06-23 16:05:06,2020-06-19,XOG,Chronister Marvin M,Dir,S - Sale,$0.38,-31553,93019,-25%,"-$11,990",,,,,XOG
+8,,2019-12-06 17:10:08,2019-11-29,XOG,Goldman Sachs Group Inc,10%,S - Sale,$1.46,-7001,10624314,0%,"-$10,221",,,,,XOG
+9,,2019-06-24 18:10:00,2019-06-24,XOG,Erickson Mark,"COB, CEO",S - Sale,$4.08,-70024,4960980,-1%,"-$285,810",,,,,XOG
+10,M,2019-03-04 16:22:53,2019-02-28,XOG,Evans Donald L,Dir,P - Purchase,$4.25,"+40,000",183019,+28%,"+$170,140",,,,,XOG
+11,,2017-12-22 16:30:17,2017-12-20,XOG,Owens Matthew R,"Pres, Dir",S - Sale,$14.81,-400000,5222098,-7%,"-$5,922,000",,,,,XOG

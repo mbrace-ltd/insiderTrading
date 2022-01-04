@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-06-22 17:28:48,2021-06-21,ECPG,Olle Laura,Dir,S - Sale,$47.64,-958,26310,-4%,"-$45,639",,,,,ECPG
+1,,2021-05-07 17:51:02,2021-05-06,ECPG,Bell Ryan B,"Pres, MCM",S - Sale,$45.00,-5000,37735,-12%,"-$225,000",,,,,ECPG
+2,D,2021-03-15 16:59:42,2021-03-11,ECPG,Bell Ryan B,"Pres, MCM",S - Sale+OE,$40.45,-12047,42735,-22%,"-$487,301",,,,,ECPG
+3,,2020-11-17 18:10:35,2020-11-16,ECPG,Hannam Wendy,Dir,P - Purchase,$31.01,"+2,500",26706,+10%,"+$77,525",,,,,ECPG
+4,,2019-03-21 17:22:05,2019-03-19,ECPG,Jcf III Europe Holdings L.P.,10%,S - Sale,$30.17,-1500000,2827644,-35%,"-$45,255,000",,,,,ECPG
+5,,2018-11-13 06:21:41,2018-11-09,ECPG,Masih Ashish,"Pres, CEO",P - Purchase,$24.26,"+12,500",114187,+12%,"+$303,250",,,,,ECPG
+6,,2018-11-13 06:18:28,2018-11-09,ECPG,Clark Jonathan C,"EVP, CFO, Treasurer",P - Purchase,$24.04,"+20,000",89774,+29%,"+$480,800",,,,,ECPG
+7,D,2018-03-16 16:37:21,2018-03-14,ECPG,Grinberg Paul,"Pres, International",S - Sale+OE,$44.16,-19275,170168,-10%,"-$851,255",,,,,ECPG
+8,D,2018-02-27 20:25:20,2018-02-26,ECPG,Grinberg Paul,"Pres, International",S - Sale+OE,$41.88,-19273,182245,-10%,"-$807,210",,,,,ECPG
+9,D,2018-01-18 16:34:53,2018-01-17,ECPG,Grinberg Paul,"Pres, International",S - Sale+OE,$40.82,-19273,198185,-9%,"-$786,728",,,,,ECPG
+10,D,2017-12-29 16:12:50,2017-12-26,ECPG,Grinberg Paul,"Pres, International",S - Sale+OE,$42.43,-38546,214125,-15%,"-$1,635,325",,,,,ECPG

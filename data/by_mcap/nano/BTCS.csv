@@ -1,0 +1,4 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,E,2021-04-23 12:22:32,2021-04-22,BTCS,Allen Charles W,"CEO, CFO",P - Purchase,$0.81,"+7,009",2007009,0%,"+$5,700",,,,,BTCS
+1,,2019-02-08 21:30:11,2019-02-08,BTCS,Handerhan Michal,COO,S - Sale,$0.01,-2437627,0,-100%,"-$29,252",,,,,BTCS
+2,,2018-12-12 17:00:14,2018-12-12,BTCS,Allen Charles W,"CEO, CFO",S - Sale,$0.02,-1857829,0,-100%,"-$37,157",,,,,BTCS

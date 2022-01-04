@@ -1,0 +1,53 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-06-29 16:19:29,2021-06-25,ALLE,Petratis David D,"COB, Pres, CEO",S - Sale,$139.38,-2841,277100,-1%,"-$395,980",,,,,ALLE
+1,,2021-06-21 16:20:30,2021-06-16,ALLE,Petratis David D,"COB, Pres, CEO",S - Sale,$138.70,-2841,279941,-1%,"-$394,042",,,,,ALLE
+2,D,2021-06-03 16:18:45,2021-06-01,ALLE,Eckersley Timothy P,SVP-Allegion International,S - Sale+OE,$141.83,-7882,34039,-19%,"-$1,117,865",,,,,ALLE
+3,D,2021-06-02 18:05:44,2021-05-28,ALLE,Eckersley Timothy P,SVP-Allegion International,S - Sale+OE,$140.99,-3496,34039,-9%,"-$492,901",,,,,ALLE
+4,AD,2021-06-02 18:00:42,2021-05-25,ALLE,Eckersley Timothy P,SVP-Allegion International,S - Sale+OE,$139.81,-5392,34039,-14%,"-$753,878",,,,,ALLE
+5,D,2021-05-27 16:21:26,2021-05-25,ALLE,Eckersley Timothy P,SVP-Allegion International,S - Sale+OE,$139.49,-1896,34039,-5%,"-$264,473",,,,,ALLE
+6,D,2021-05-25 16:50:12,2021-05-21,ALLE,Eckersley Timothy P,SVP-Allegion International,S - Sale+OE,$139.49,-1300,34039,-4%,"-$181,337",,,,,ALLE
+7,D,2021-05-20 16:18:06,2021-05-18,ALLE,Eckersley Timothy P,SVP-Allegion International,S - Sale+OE,$138.99,-3195,34039,-9%,"-$444,073",,,,,ALLE
+8,,2021-05-20 16:15:52,2021-05-18,ALLE,Meador Shelley A,"SVP - HR, Communications",S - Sale,$138.07,-5500,12568,-30%,"-$759,359",,,,,ALLE
+9,D,2021-05-18 16:16:18,2021-05-14,ALLE,Farrer Cynthia D,"VP - Global Ops, ISC",S - Sale+OE,$141.00,-1740,3268,-35%,"-$245,340",,,,,ALLE
+10,D,2021-05-13 16:26:06,2021-05-11,ALLE,Ranck Douglas P,"VP, Controller, CAO",S - Sale+OE,$140.21,-5800,4535,-56%,"-$813,194",,,,,ALLE
+11,D,2021-05-13 16:23:15,2021-05-11,ALLE,Martens Robert C.,"SVP Chief Innovation, Design",S - Sale+OE,$139.77,-1856,5457,-25%,"-$259,418",,,,,ALLE
+12,D,2021-05-13 16:20:50,2021-05-11,ALLE,Braun Jeffrey N,"SVP, GC",S - Sale+OE,$139.55,-7259,12106,-37%,"-$1,012,981",,,,,ALLE
+13,,2020-11-13 16:16:16,2020-11-11,ALLE,Martens Robert C.,"SVP Chief Innovation, Design",S - Sale,$118.34,-734,5481,-12%,"-$86,862",,,,,ALLE
+14,,2020-11-12 16:18:53,2020-11-09,ALLE,Eckersley Timothy P,SVP - Americas,S - Sale,$106.25,-6427,27181,-19%,"-$682,869",,,,,ALLE
+15,,2020-11-12 16:16:54,2020-11-09,ALLE,Braun Jeffrey N,"SVP, GC",S - Sale,$111.74,-385,10577,-4%,"-$43,022",,,,,ALLE
+16,D,2020-08-14 16:17:30,2020-08-12,ALLE,Wood Jeffrey M,SVP - Asia Pacific,S - Sale+OE,$104.04,-5402,6131,-47%,"-$562,031",,,,,ALLE
+17,D,2020-03-10 16:16:38,2020-03-06,ALLE,Martens Robert C.,"SVP Chief Innovation, Design",S - Sale+OE,$117.66,-1765,6263,-22%,"-$207,674",,,,,ALLE
+18,,2020-03-09 16:16:15,2020-03-05,ALLE,Kemp Tracy L,"SVP-Chief Cust., Digital Ofr.",S - Sale,$121.51,-4801,8510,-36%,"-$583,384",,,,,ALLE
+19,D,2020-02-26 16:18:26,2020-02-25,ALLE,Meador Shelley A,"SVP - HR, Communications",S - Sale+OE,$127.07,-6558,14958,-30%,"-$833,319",,,,,ALLE
+20,,2020-02-26 16:16:31,2020-02-24,ALLE,Braun Jeffrey N,"SVP, GC, Secretary",S - Sale,$125.44,-4405,10962,-29%,"-$552,563",,,,,ALLE
+21,DM,2020-02-21 16:17:19,2020-02-19,ALLE,Petratis David D,"COB, Pres, CEO",S - Sale+OE,$131.00,-170823,250447,-41%,"-$22,376,874",,,,,ALLE
+22,,2020-02-21 16:16:01,2020-02-19,ALLE,Ranck Douglas P,"VP, Controller, CAO",S - Sale,$133.97,-3525,2450,-59%,"-$472,244",,,,,ALLE
+23,DM,2019-11-27 16:15:42,2019-11-25,ALLE,Eckersley Timothy P,SVP - Americas,S - Sale+OE,$119.85,-15000,27710,-35%,"-$1,797,800",,,,,ALLE
+24,D,2019-11-19 16:18:52,2019-11-15,ALLE,Eckersley Timothy P,SVP - Americas,S - Sale+OE,$119.18,-4643,27710,-14%,"-$553,353",,,,,ALLE
+25,D,2019-11-05 16:17:05,2019-11-01,ALLE,Braun Jeffrey N,"SVP, GC, Secretary",S - Sale+OE,$117.79,-3147,10200,-24%,"-$370,673",,,,,ALLE
+26,D,2019-11-04 16:19:57,2019-10-31,ALLE,Kemp Tracy L,"SVP-Chief Cust., Digital Ofr.",S - Sale+OE,$115.84,-17860,10365,-63%,"-$2,068,902",,,,,ALLE
+27,,2019-11-04 16:16:20,2019-10-31,ALLE,Muhlenkamp Chris E,"SVP - Global Ops, ISC",S - Sale,$115.57,-2916,12339,-19%,"-$336,993",,,,,ALLE
+28,D,2019-11-01 16:20:22,2019-10-30,ALLE,Eckersley Timothy P,SVP - Americas,S - Sale+OE,$116.13,-10000,27710,-27%,"-$1,161,250",,,,,ALLE
+29,AD,2019-10-31 16:17:31,2019-03-05,ALLE,Kemp Tracy L,"SVP-Chief Cust., Digital Ofr.",S - Sale+OE,$90.62,-4995,10125,-33%,"-$452,642",,,,,ALLE
+30,D,2019-10-30 16:16:37,2019-10-28,ALLE,Eckersley Timothy P,SVP - Americas,S - Sale+OE,$116.28,-2364,27710,-8%,"-$274,874",,,,,ALLE
+31,D,2019-10-29 16:55:21,2019-10-25,ALLE,Shannon Patrick S,"Sr. V. Pres, CFO",S - Sale+OE,$114.55,-20421,49806,-29%,"-$2,339,226",,,,,ALLE
+32,D,2019-06-13 16:11:10,2019-06-12,ALLE,Braun Jeffrey N,"SVP, GC, Secretary, CCO",S - Sale+OE,$104.44,-6218,11292,-36%,"-$649,402",,,,,ALLE
+33,,2019-06-13 16:09:05,2019-06-12,ALLE,Ranck Douglas P,"VP, Controller, CAO",S - Sale,$104.64,-3036,5442,-36%,"-$317,678",,,,,ALLE
+34,AD,2019-05-01 17:25:37,2019-04-30,ALLE,Wood Jeffrey M,"SVP, Pres - Asia Pacific",S - Sale+OE,$99.17,-5357,3286,-62%,"-$531,254",,,,,ALLE
+35,D,2019-05-01 16:22:08,2019-04-30,ALLE,Wood Jeffrey M,"SVP, Pres - Asia Pacific",S - Sale+OE,$99.17,-5357,3286,-62%,"-$531,254",,,,,ALLE
+36,D,2019-03-15 16:02:26,2019-03-14,ALLE,Muhlenkamp Chris E,"SVP - Global Ops, ISC",S - Sale+OE,$88.96,-12034,15255,-44%,"-$1,070,545",,,,,ALLE
+37,,2019-03-07 16:02:53,2019-02-15,ALLE,Muhlenkamp Chris E,"SVP - Global Ops, ISC",S - Sale,$91.56,-618,19342,-3%,"-$56,625",,,,,ALLE
+38,,2019-03-06 16:02:34,2019-03-05,ALLE,Kemp Tracy L,"SVP, CIO",S - Sale,$90.53,-2793,10125,-22%,"-$252,850",,,,,ALLE
+39,,2019-03-01 16:04:43,2019-02-28,ALLE,Braun Jeffrey N,"SVP, GC, Secretary, CCO",S - Sale,$90.29,-2211,11292,-16%,"-$199,631",,,,,ALLE
+40,,2019-03-01 16:03:46,2019-02-27,ALLE,Ranck Douglas P,"VP, Controller, CAO",S - Sale,$89.26,-3400,8478,-29%,"-$303,470",,,,,ALLE
+41,,2019-03-01 16:02:32,2019-02-27,ALLE,Eckersley Timothy P,"SVP, Pres - Americas",S - Sale,$88.95,-11175,27643,-29%,"-$994,016",,,,,ALLE
+42,D,2019-02-22 16:03:07,2019-02-20,ALLE,Shannon Patrick S,"Sr. V. Pres, CFO",S - Sale+OE,$87.44,-34898,46905,-43%,"-$3,051,517",,,,,ALLE
+43,,2018-09-12 16:04:13,2018-09-11,ALLE,Ranck Douglas P,"V. Pres, Controller",S - Sale,$89.78,-3200,10348,-24%,"-$287,296",,,,,ALLE
+44,,2018-04-19 16:02:46,2018-02-15,ALLE,Eckersley Timothy P,SVP,S - Sale,$82.26,-421,43057,-1%,"-$34,662",,,,,ALLE
+45,D,2018-03-14 16:03:00,2018-03-13,ALLE,Kemp Tracy L,SVP,S - Sale+OE,$86.01,-14821,10069,-60%,"-$1,274,754",,,,,ALLE
+46,D,2018-03-12 16:06:32,2018-03-09,ALLE,Shannon Patrick S,"Sr. V. Pres, CFO",S - Sale+OE,$85.83,-20200,53955,-27%,"-$1,733,831",,,,,ALLE
+47,D,2018-03-09 16:02:44,2018-03-08,ALLE,Ranck Douglas P,"V. Pres, Controller",S - Sale+OE,$84.64,-10480,13629,-43%,"-$887,027",,,,,ALLE
+48,D,2018-03-02 16:02:19,2018-02-28,ALLE,Muhlenkamp Chris E,SVP,S - Sale+OE,$85.51,-8553,17527,-33%,"-$731,367",,,,,ALLE
+49,,2018-02-28 16:05:17,2018-02-28,ALLE,Muhlenkamp Chris E,SVP,S - Sale,$86.33,-3944,17527,-18%,"-$340,471",,,,,ALLE
+50,,2018-02-27 16:03:00,2018-02-26,ALLE,Eckersley Timothy P,SVP,S - Sale,$86.40,-7970,36855,-18%,"-$688,596",,,,,ALLE
+51,D,2018-02-23 16:02:40,2018-02-22,ALLE,Braun Jeffrey N,"SVP, GC",S - Sale+OE,$0.00,-3501,7344,-32%,-$0,,,,,ALLE

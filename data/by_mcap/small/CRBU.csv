@@ -1,0 +1,5 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-12-08 18:06:01,2021-12-07,CRBU,McClung Barbara G,GC,P - Purchase,$2.69,"+6,127",348971,+2%,"+$16,482",,,,,CRBU
+1,D,2021-10-21 18:12:38,2021-10-20,CRBU,McClung Barbara G,GC,P - Purchase,$2.69,"+9,219",342844,+3%,"+$24,799",,,,,CRBU
+2,D,2021-10-13 19:31:12,2021-10-12,CRBU,Kanner Steven,Chief Scientific Officer,P - Purchase,$1.92,"+114,860",215031,+115%,"+$220,757",,,,,CRBU
+3,D,2021-10-12 19:33:00,2021-10-11,CRBU,Fischesser Ryan,"VP of Finance, Controller",P - Purchase,$2.69,"+1,746",100559,+2%,"+$4,697",,,,,CRBU

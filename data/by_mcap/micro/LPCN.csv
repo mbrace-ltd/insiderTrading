@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-18 19:23:09,2021-11-18,LPCN,Patel Mahesh V.,"CEO, Pres",P - Purchase,$1.09,"+25,000",1253090,+2%,"+$27,250",,,,,LPCN
+1,,2021-01-04 14:09:06,2020-12-31,LPCN,Higuchi John W.,Dir,S - Sale,$1.35,-6700,693548,-1%,"-$9,054",,,,,LPCN
+2,D,2020-12-17 16:06:16,2020-12-16,LPCN,Patel Mahesh V.,CEO,S - Sale+OE,$1.35,-15000,1228090,-1%,"-$20,250",,,,,LPCN
+3,D,2020-12-17 16:05:47,2020-12-16,LPCN,Brown Morgan R,"EVP, CFO",S - Sale+OE,$1.35,-8437,194504,-4%,"-$11,390",,,,,LPCN
+4,D,2020-12-08 16:50:55,2020-12-04,LPCN,Patel Mahesh V.,CEO,S - Sale+OE,$1.57,-43500,1198090,-4%,"-$68,134",,,,,LPCN
+5,D,2020-12-08 16:50:36,2020-12-04,LPCN,Brown Morgan R,CFO,S - Sale+OE,$1.57,-17250,174816,-9%,"-$27,024",,,,,LPCN
+6,,2020-03-18 11:20:17,2020-03-17,LPCN,Higuchi John W.,Dir,P - Purchase,$0.32,"+220,000",696498,+46%,"+$69,542",,,,,LPCN
+7,,2020-01-02 11:22:12,2019-12-31,LPCN,Patel Mahesh V.,"CEO, Pres",P - Purchase,$0.38,"+40,000",973612,+4%,"+$15,340",,,,,LPCN
+8,,2019-12-10 13:00:48,2019-12-10,LPCN,Patel Mahesh V.,"Pres, CEO",P - Purchase,$0.40,"+25,000",933612,+3%,"+$9,975",,,,,LPCN
+9,D,2019-12-06 10:42:20,2019-12-04,LPCN,Brown Morgan R,"EVP, Chief Financial Office",S - Sale+OE,$0.41,-17250,63812,-21%,"-$7,076",,,,,LPCN
+10,D,2019-12-06 10:42:06,2019-12-04,LPCN,Patel Mahesh V.,"CEO, Pres",S - Sale+OE,$0.41,-43500,908612,-5%,"-$17,835",,,,,LPCN
+11,,2019-11-26 11:14:16,2019-11-26,LPCN,Patel Mahesh V.,"Pres, CEO",P - Purchase,$0.43,"+25,000",807112,+3%,"+$10,696",,,,,LPCN
+12,,2019-11-18 16:18:59,2019-11-18,LPCN,Patel Mahesh V.,"CEO, Pres",P - Purchase,$0.40,"+50,000",782112,+7%,"+$20,095",,,,,LPCN
+13,D,2018-01-02 18:16:17,2017-12-29,LPCN,Bass Gregory Brooks,Chief Commercial Officer,S - Sale+OE,$3.47,-3750,5625,-40%,"-$13,023",,,,,LPCN
+14,D,2018-01-02 18:16:06,2017-12-29,LPCN,Patel Mahesh V.,"CEO, Pres",S - Sale+OE,$3.48,-6000,722112,-1%,"-$20,867",,,,,LPCN
+15,D,2018-01-02 18:15:52,2017-12-29,LPCN,Brown Morgan R,"EVP, CFO",S - Sale+OE,$3.47,-2813,23562,-11%,"-$9,773",,,,,LPCN
+16,D,2018-01-02 18:15:40,2017-12-29,LPCN,Hill Stephen A,Dir,S - Sale+OE,$3.47,-1250,5250,-19%,"-$4,342",,,,,LPCN
+17,D,2018-01-02 18:15:28,2017-12-29,LPCN,Ono Richard Dana,Dir,S - Sale+OE,$3.47,-875,4875,-15%,"-$3,033",,,,,LPCN
+18,D,2018-01-02 18:14:52,2017-12-29,LPCN,Fink Jeffrey Arvin,Dir,S - Sale+OE,$3.47,-938,937,-50%,"-$3,258",,,,,LPCN

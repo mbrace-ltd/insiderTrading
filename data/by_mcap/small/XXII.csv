@@ -1,0 +1,14 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-12-16 16:28:52,2021-12-14,XXII,Zercher Michael,"Pres, COO",S - Sale+OE,$2.16,-23147,1064985,-2%,"-$50,037",,,,,XXII
+1,,2021-09-30 16:33:15,2021-09-30,XXII,Mish James A,CEO,P - Purchase,$2.88,"+20,000",668475,+3%,"+$57,600",,,,,XXII
+2,,2021-06-11 16:23:51,2021-06-10,XXII,Fleet Clifford B,Dir,S - Sale,$4.78,-125000,233932,-35%,"-$597,500",,,,,XXII
+3,A,2021-04-01 12:39:56,2021-03-31,XXII,Mish James A,CEO,P - Purchase,$3.23,"+15,000",715000,+2%,"+$48,450",,,,,XXII
+4,,2021-03-31 16:37:26,2021-03-31,XXII,Mish James A,CEO,P - Purchase,$3.23,"+15,000",715000,+2%,"+$48,450",,,,,XXII
+5,D,2021-03-19 16:07:42,2021-03-17,XXII,Sanders Richard M.,Dir,S - Sale+OE,$2.72,-47227,392536,-11%,"-$128,457",,,,,XXII
+6,,2021-03-17 16:31:59,2021-03-16,XXII,O'Brien Roger D,Dir,P - Purchase,$2.86,"+52,400",179223,+41%,"+$149,864",,,,,XXII
+7,,2020-11-17 14:32:11,2020-11-17,XXII,Mish James A,CEO,P - Purchase,$0.93,"+100,000",250000,+67%,"+$92,800",,,,,XXII
+8,D,2020-06-30 16:34:48,2020-06-29,XXII,Sullivan Nora B,Dir,P - Purchase,$0.78,"+22,000",308523,+8%,"+$17,160",,,,,XXII
+9,DM,2020-06-05 16:13:09,2020-06-04,XXII,Sullivan Nora B,Dir,P - Purchase,$0.82,"+101,325",286523,+55%,"+$83,222",,,,,XXII
+10,M,2019-08-28 16:31:35,2019-08-26,XXII,Fleet Clifford B,"Pres, CEO",P - Purchase,$1.90,"+100,000",100000,New,"+$190,048",,,,,XXII
+11,D,2019-06-19 16:47:42,2019-06-17,XXII,James Thomas L.,"VP, GC, Sec'y.",S - Sale+OE,$2.11,-48000,80000,-38%,"-$101,198",,,,,XXII
+12,D,2018-07-03 12:18:54,2018-06-29,XXII,James Thomas L.,"VP, GC, Sec'y.",S - Sale+OE,$2.44,-50000,50000,-50%,"-$121,925",,,,,XXII

@@ -1,0 +1,10 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-19 14:29:19,2021-11-18,CTLP,Feeney Sean E,CEO,P - Purchase,$9.42,"+5,200",26752,+24%,"+$48,984",,,,,CTLP
+1,,2020-11-12 17:17:18,2020-11-10,USAT,Pollock James M,Chief Compliance Officer,P - Purchase,$8.75,+750,5112,+17%,"+$6,563",,,,,CTLP
+2,D,2019-12-31 17:25:47,2019-12-30,USAT,Pollock James M,Chief Compliance Officer,P - Purchase,$6.69,"+2,189",4362,+101%,"+$14,644",,,,,CTLP
+3,D,2019-12-09 17:00:16,2019-12-04,USAT,Pollock James M,Chief Compliance Officer,P - Purchase,$6.91,"+2,173",2173,New,"+$15,015",,,,,CTLP
+4,M,2019-10-16 17:10:51,2019-10-14,USAT,Hudson Executive Capital LP,10%,P - Purchase,$7.08,"+245,000",10385172,+2%,"+$1,734,518",,,,,CTLP
+5,M,2019-09-26 17:52:17,2019-09-24,USAT,Hudson Executive Capital LP,10%,P - Purchase,$4.58,"+1,801,000",10140172,+22%,"+$8,245,239",,,,,CTLP
+6,D,2019-09-23 17:34:13,2019-09-23,USAT,Hudson Executive Capital LP,10%,P - Purchase,$4.46,"+143,200",8339172,+2%,"+$638,672",,,,,CTLP
+7,D,2019-08-05 17:18:01,2019-08-01,USAT,Hudson Executive Capital LP,10%,P - Purchase,$6.93,"+1,000,252",8195972,+14%,"+$6,931,746",,,,,CTLP
+8,DM,2017-12-29 16:26:16,2017-12-12,USAT,Moschner Albin F,Dir,S - Sale+OE,$9.45,-20000,338926,-6%,"-$188,937",,,,,CTLP

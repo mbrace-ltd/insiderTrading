@@ -1,0 +1,55 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-05-21 14:11:19,2021-05-20,PFG,Tallett Elizabeth E,Retired Director,S - Sale,$64.94,-22800,44432,-34%,"-$1,480,632",,,,,PFG
+1,,2021-05-04 15:09:56,2021-05-03,PFG,Strable-Soethout Deanna D,"EVP, CFO",S - Sale,$65.07,-15915,92391,-15%,"-$1,035,589",,,,,PFG
+2,,2021-03-02 11:47:51,2021-02-26,PFG,Strable-Soethout Deanna D,"EVP, CFO",S - Sale,$57.15,-3496,105174,-3%,"-$199,796",,,,,PFG
+3,,2021-03-01 15:06:57,2021-02-25,PFG,Dunbar Timothy Mark,Retired Officer,S - Sale,$60.40,-10000,58698,-15%,"-$604,000",,,,,PFG
+4,,2021-02-24 13:22:37,2021-02-22,PFG,Lawler Julia M,Retired Officer,S - Sale,$59.85,-3000,49998,-6%,"-$179,550",,,,,PFG
+5,D,2021-02-10 13:55:04,2021-02-08,PFG,Lawler Julia M,Retired Officer,S - Sale+OE,$53.93,-8410,52998,-14%,"-$453,551",,,,,PFG
+6,D,2021-02-05 16:20:59,2021-02-03,PFG,Dunbar Timothy Mark,Retired Officer,S - Sale+OE,$51.11,-11125,70998,-14%,"-$568,599",,,,,PFG
+7,,2021-01-08 13:31:43,2021-01-06,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$50.09,-1094,53998,-2%,"-$54,803",,,,,PFG
+8,,2020-12-11 14:26:25,2020-12-09,PFG,Strable-Soethout Deanna D,"EVP, CFO",S - Sale,$51.00,-19160,105037,-15%,"-$977,160",,,,,PFG
+9,,2020-12-03 10:02:49,2020-12-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$50.00,-1000,48499,-2%,"-$50,000",,,,,PFG
+10,,2020-11-20 12:24:11,2020-11-18,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$50.00,-11000,49499,-18%,"-$550,000",,,,,PFG
+11,,2020-06-30 18:58:52,2020-06-26,PFG,Gelatt Daniel,Dir,P - Purchase,$35.52,28148,193824,+17%,"+$999,823",,,,,PFG
+12,,2020-03-12 09:00:47,2020-03-10,PFG,Gelatt Daniel,Dir,P - Purchase,$35.52,28148,193824,+17%,"+$999,823",,,,,PFG
+13,,2020-03-05 16:35:12,2020-03-03,PFG,Strable-Soethout Deanna D,"EVP, CFO",S - Sale,$45.84,-10562,122781,-8%,"-$484,177",,,,,PFG
+14,,2019-12-04 11:57:09,2019-12-02,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$54.63,-1000,54028,-2%,"-$54,630",,,,,PFG
+15,,2019-11-04 15:38:31,2019-11-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$53.94,-1000,55028,-2%,"-$53,940",,,,,PFG
+16,,2019-10-03 15:40:48,2019-10-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$57.56,-1000,56028,-2%,"-$57,560",,,,,PFG
+17,,2019-09-04 15:02:06,2019-09-03,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$52.95,-1000,56904,-2%,"-$52,950",,,,,PFG
+18,,2019-08-02 10:32:07,2019-08-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$57.99,-1000,57904,-2%,"-$57,990",,,,,PFG
+19,D,2019-07-22 11:50:33,2019-07-18,PFG,Valdes Luis E.,"Pres - Int'l Asset Mgmt, Accum",S - Sale+OE,$59.54,-11829,58223,-17%,"-$704,299",,,,,PFG
+20,D,2019-07-02 18:22:31,2019-07-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale+OE,$58.54,-1000,58904,-2%,"-$58,540",,,,,PFG
+21,D,2019-06-26 16:07:28,2019-06-24,PFG,Valdes Luis E.,"Pres - Int'l Asset Mgmt, Accum",S - Sale+OE,$57.67,-47661,57485,-45%,"-$2,748,610",,,,,PFG
+22,,2019-06-03 17:11:31,2019-06-03,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$51.50,-1000,59210,-2%,"-$51,500",,,,,PFG
+23,,2019-05-01 17:19:27,2019-05-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$57.25,-1000,60210,-2%,"-$57,250",,,,,PFG
+24,D,2019-04-02 17:18:08,2019-04-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale+OE,$50.74,-1000,60339,-2%,"-$50,740",,,,,PFG
+25,,2019-03-04 12:31:35,2019-03-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$52.38,-1000,61197,-2%,"-$52,380",,,,,PFG
+26,,2019-02-05 12:05:50,2019-02-01,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$50.17,-1000,62197,-2%,"-$50,170",,,,,PFG
+27,,2019-01-22 16:34:18,2019-01-18,PFG,Lawler Julia M,"EVP, Chief Risk Officer",S - Sale,$50.00,-1000,63197,-2%,"-$50,000",,,,,PFG
+28,D,2019-01-18 09:16:34,2019-01-17,PFG,Friedrich Amy Christine,Pres - USIS,S - Sale+OE,$49.00,-900,27296,-3%,"-$44,100",,,,,PFG
+29,,2018-11-06 16:22:48,2018-11-05,PFG,Gelatt Daniel,Dir,P - Purchase,$48.10,25000,138694,+22%,"+$1,202,500",,,,,PFG
+30,D,2018-10-09 15:56:58,2018-10-05,PFG,Friedrich Amy Christine,Pres - USIS,S - Sale+OE,$61.00,-1700,26982,-6%,"-$103,700",,,,,PFG
+31,D,2018-09-05 11:36:35,2018-09-04,PFG,McCaughan James P,Pres - Global Asset Mgmt.,S - Sale+OE,$55.42,-20000,149329,-12%,"-$1,108,400",,,,,PFG
+32,D,2018-08-03 15:29:33,2018-08-02,PFG,McCaughan James P,Pres - Global Asset Mgmt.,S - Sale+OE,$55.44,-20000,159329,-11%,"-$1,108,800",,,,,PFG
+33,D,2018-07-06 11:19:48,2018-07-02,PFG,McCaughan James P,Pres - Global Asset Mgmt.,S - Sale+OE,$52.72,-20000,169329,-11%,"-$1,054,400",,,,,PFG
+34,D,2018-06-05 16:35:13,2018-06-04,PFG,McCaughan James P,Pres - Global Asset Mgmt.,S - Sale+OE,$56.31,-20000,178960,-10%,"-$1,126,200",,,,,PFG
+35,D,2018-02-27 16:35:03,2018-02-26,PFG,Valdes Luis E.,"Pres - Int'l Asset Mgmt, Accum",S - Sale+OE,$64.02,-27662,52319,-35%,"-$1,770,921",,,,,PFG
+36,D,2018-01-09 17:16:46,2018-01-08,PFG,Houston Daniel Joseph,"COB, Pres, CEO",S - Sale+OE,$72.02,-19856,165736,-11%,"-$1,430,029",,,,,PFG
+37,D,2018-01-09 17:15:38,2018-01-08,PFG,Scholten Gary P,"EVP, Ch Info Officer",S - Sale+OE,$71.59,-24310,64564,-27%,"-$1,740,353",,,,,PFG
+38,D,2018-01-08 16:19:04,2018-01-05,PFG,Houston Daniel Joseph,"COB, Pres, CEO",S - Sale+OE,$72.01,-69894,165736,-30%,"-$5,033,067",,,,,PFG
+39,D,2018-01-03 17:08:08,2018-01-02,PFG,Dunbar Timothy Mark,"EVP, Chief Investment Officer",S - Sale+OE,$70.23,-16400,43436,-27%,"-$1,151,796",,,,,PFG
+40,D,2017-12-15 15:58:37,2017-12-14,PFG,Valdes Luis E.,"Pres - Int'l Asset Mgmt, Accum",S - Sale+OE,$70.04,-47662,52319,-48%,"-$3,338,246",,,,,PFG
+41,D,2017-12-04 17:10:48,2017-12-01,PFG,Everett Nora Mary,Pres - RIS,S - Sale+OE,$70.16,-17290,30010,-37%,"-$1,213,066",,,,,PFG
+42,D,2017-12-04 17:10:13,2017-12-01,PFG,Shaff Karen E,"EVP, Gen'l Counsel, Secretary, 10%",S - Sale+OE,$69.51,-50561,73006,-41%,"-$3,514,495",,,,,PFG
+43,D,2017-11-29 09:04:12,2017-11-28,PFG,Strable-Soethout Deanna D,"EVP, CFO",S - Sale+OE,$70.07,-18905,93539,-17%,"-$1,324,673",,,,,PFG
+44,D,2017-11-29 09:02:43,2017-11-28,PFG,Houston Daniel Joseph,"COB, Pres, CEO",S - Sale+OE,$70.05,-37080,165694,-18%,"-$2,597,454",,,,,PFG
+45,D,2017-10-20 17:21:25,2017-10-19,PFG,Shaff Karen E,"EVP, Gen'l Counsel, Secretary, 10%",S - Sale+OE,$68.01,-10588,89212,-11%,"-$720,090",,,,,PFG
+46,D,2017-10-20 17:20:45,2017-10-19,PFG,Everett Nora Mary,Pres - RIS,S - Sale+OE,$68.00,-1297,30741,-4%,"-$88,196",,,,,PFG
+47,D,2017-10-20 17:19:52,2017-10-19,PFG,Houston Daniel Joseph,"COB, Pres, CEO",S - Sale+OE,$68.04,-93968,165694,-36%,"-$6,393,583",,,,,PFG
+48,D,2017-10-19 15:47:37,2017-10-18,PFG,Houston Daniel Joseph,"COB, Pres, CEO",S - Sale+OE,$68.00,-38097,165694,-19%,"-$2,590,596",,,,,PFG
+49,D,2017-10-19 14:22:53,2017-10-18,PFG,Shaff Karen E,"EVP, Gen'l Counsel, Secretary, 10%",S - Sale+OE,$68.00,-17082,89212,-16%,"-$1,161,576",,,,,PFG
+50,D,2017-10-19 14:10:47,2017-10-18,PFG,Everett Nora Mary,Pres - RIS,S - Sale+OE,$68.00,-12398,30741,-29%,"-$843,064",,,,,PFG
+51,DM,2017-09-12 16:49:41,2017-09-11,PFG,McCaughan James P,Pres - Global Asset Mgmt.,S - Sale+OE,$62.33,-6193,195819,-3%,"-$386,038",,,,,PFG
+52,ADM,2017-09-08 15:34:27,2017-09-05,PFG,McCaughan James P,Pres - Global Asset Mgmt.,S - Sale+OE,$62.12,-8953,195819,-4%,"-$556,127",,,,,PFG
+53,D,2017-09-06 11:20:44,2017-09-05,PFG,McCaughan James P,Pres - Global Asset Mgmt.,S - Sale+OE,$62.10,-60814,195819,-24%,"-$3,776,549",,,,,PFG

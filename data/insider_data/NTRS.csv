@@ -1,0 +1,94 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-07-28 17:45:45,2021-07-27,NTRS,Thomas Shundrawn A,"Pres , Asset Management",S - Sale+OE,$112.47,-5000,51662,-9%,"-$562,350",,,,,NTRS
+1,,2021-05-24 17:12:50,2021-05-21,NTRS,St Clair Joyce,EVP,S - Sale,$120.00,-6568,65754,-9%,"-$788,160",,,,,NTRS
+2,D,2021-05-18 18:42:11,2021-05-14,NTRS,Tyler Jason J.,"EVP, CFO",S - Sale+OE,$120.03,-3014,21439,-12%,"-$361,770",,,,,NTRS
+3,,2021-05-18 18:41:28,2021-05-14,NTRS,Gossett Mark C,EVP,S - Sale,$119.91,-3276,12125,-21%,"-$392,825",,,,,NTRS
+4,,2021-05-18 18:41:03,2021-05-17,NTRS,Cherecwich Peter,"Pres, C, IS",S - Sale,$120.51,-15000,54203,-22%,"-$1,807,650",,,,,NTRS
+5,D,2021-05-13 18:03:29,2021-05-11,NTRS,Fradkin Steven L,"Pres, Wealth Management",S - Sale+OE,$118.67,-36064,221550,-14%,"-$4,279,743",,,,,NTRS
+6,D,2021-05-10 17:28:10,2021-05-07,NTRS,Thomas Shundrawn A,"Pres , Asset Management",S - Sale+OE,$118.26,-2741,51662,-5%,"-$324,151",,,,,NTRS
+7,DM,2021-05-07 20:56:21,2021-05-05,NTRS,O'Grady Michael,"COB, Pres, CEO",S - Sale+OE,$117.74,-96700,204464,-32%,"-$11,385,085",,,,,NTRS
+8,D,2021-05-07 20:55:57,2021-05-05,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$116.83,-6755,25199,-21%,"-$789,187",,,,,NTRS
+9,D,2021-04-30 16:56:08,2021-04-29,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$114.37,-13500,25199,-35%,"-$1,543,995",,,,,NTRS
+10,,2021-04-28 18:12:54,2021-04-26,NTRS,South Thomas A,EVP,S - Sale,$109.65,-1000,25816,-4%,"-$109,650",,,,,NTRS
+11,D,2021-04-26 18:23:14,2021-04-22,NTRS,Thomas Shundrawn A,"Pres , Asset Management",S - Sale+OE,$107.48,-4748,51662,-8%,"-$510,315",,,,,NTRS
+12,,2021-04-26 18:22:56,2021-04-23,NTRS,St Clair Joyce,EVP,S - Sale,$107.42,-9248,74615,-11%,"-$993,420",,,,,NTRS
+13,D,2021-04-26 18:22:38,2021-04-23,NTRS,Parker Teresa,EVP,S - Sale+OE,$109.52,-4916,64901,-7%,"-$538,417",,,,,NTRS
+14,,2021-04-26 18:22:18,2021-04-23,NTRS,Allnutt Lauren E,"EVP, Controller",S - Sale,$109.57,-375,3774,-9%,"-$41,089",,,,,NTRS
+15,,2021-03-15 18:45:29,2021-03-12,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale,$102.18,-10000,28699,-26%,"-$1,021,800",,,,,NTRS
+16,,2021-02-01 17:40:46,2021-01-28,NTRS,Fradkin Steven L,"Pres, Wealth Management",S - Sale,$91.50,-8473,216062,-4%,"-$775,280",,,,,NTRS
+17,,2020-12-07 18:15:24,2020-12-07,NTRS,St Clair Joyce,EVP,S - Sale,$94.24,-10000,72927,-12%,"-$942,400",,,,,NTRS
+18,D,2020-12-01 17:51:17,2020-11-30,NTRS,Allnutt Lauren E,"EVP, Controller",S - Sale+OE,$95.37,-1286,3382,-28%,"-$122,646",,,,,NTRS
+19,,2020-11-25 16:54:08,2020-11-24,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale,$97.29,-1100,28220,-4%,"-$107,019",,,,,NTRS
+20,,2020-11-25 16:52:08,2020-11-24,NTRS,Cherecwich Peter,"Pres, C, IS",S - Sale,$97.24,-15400,58314,-21%,"-$1,497,496",,,,,NTRS
+21,,2020-11-19 18:09:52,2020-11-18,NTRS,Parker Teresa,EVP,S - Sale,$94.26,-2289,56680,-4%,"-$215,761",,,,,NTRS
+22,D,2020-11-13 17:48:54,2020-11-11,NTRS,St Clair Joyce,EVP,S - Sale+OE,$90.05,-29154,83188,-26%,"-$2,625,318",,,,,NTRS
+23,D,2020-11-12 18:28:21,2020-11-10,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$91.55,-5355,29320,-15%,"-$490,250",,,,,NTRS
+24,D,2020-11-05 18:00:18,2020-11-03,NTRS,Fradkin Steven L,"Pres, Wealth Management",S - Sale+OE,$82.88,-7117,216363,-3%,"-$589,857",,,,,NTRS
+25,,2020-06-05 17:35:56,2020-06-03,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale,$84.82,-5000,29320,-15%,"-$424,100",,,,,NTRS
+26,,2020-05-29 18:11:23,2020-05-27,NTRS,Gossett Mark C,EVP,S - Sale,$83.08,-5115,11113,-32%,"-$424,954",,,,,NTRS
+27,,2020-03-11 17:51:24,2020-03-10,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale,$72.31,-4500,34320,-12%,"-$325,395",,,,,NTRS
+28,D,2020-02-21 17:53:24,2020-02-20,NTRS,Cherecwich Peter,"Pres, C, IS",S - Sale+OE,$103.19,-32403,79093,-29%,"-$3,343,666",,,,,NTRS
+29,D,2020-02-21 17:53:04,2020-02-20,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$104.07,-3708,43767,-8%,"-$385,892",,,,,NTRS
+30,D,2020-02-10 17:06:29,2020-02-06,NTRS,Parker Teresa,EVP,S - Sale+OE,$102.84,-1057,47050,-2%,"-$108,702",,,,,NTRS
+31,D,2020-01-27 17:58:33,2020-01-24,NTRS,Parker Teresa,EVP,S - Sale+OE,$102.78,-16790,47050,-26%,"-$1,725,651",,,,,NTRS
+32,D,2019-12-12 19:22:58,2019-12-11,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$109.28,-14046,32863,-30%,"-$1,534,947",,,,,NTRS
+33,,2019-11-25 18:22:50,2019-11-22,NTRS,Bowman Biff,"EVP, CFO",S - Sale,$106.53,-13208,75533,-15%,"-$1,407,048",,,,,NTRS
+34,D,2019-11-08 16:31:13,2019-11-07,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$107.85,-11534,32863,-26%,"-$1,243,942",,,,,NTRS
+35,,2019-10-31 16:54:53,2019-10-30,NTRS,St Clair Joyce,EVP,S - Sale,$100.52,-8110,73305,-10%,"-$815,217",,,,,NTRS
+36,DM,2019-10-29 19:56:45,2019-10-25,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$102.28,-52455,32863,-61%,"-$5,365,148",,,,,NTRS
+37,,2019-10-02 17:09:42,2019-04-03,NTRS,Harrison Dean M,Dir,S - Sale,$93.99,-4,10562,0%,-$376,,,,,NTRS
+38,,2019-09-16 16:40:34,2019-09-13,NTRS,South Thomas A,EVP,S - Sale,$98.54,-1000,18289,-5%,"-$98,540",,,,,NTRS
+39,D,2019-09-16 16:40:15,2019-09-13,NTRS,Leech Wilson,"EVP, Chief Risk Officer",S - Sale+OE,$99.26,-4377,44723,-9%,"-$434,461",,,,,NTRS
+40,D,2019-08-06 16:33:35,2019-08-02,NTRS,Bowman Biff,"EVP, CFO",S - Sale+OE,$92.81,-46204,91559,-34%,"-$4,288,357",,,,,NTRS
+41,DM,2019-07-30 16:46:45,2019-07-26,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale+OE,$99.47,-31595,48776,-39%,"-$3,142,858",,,,,NTRS
+42,,2019-06-14 18:46:28,2019-06-14,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale,$86.88,-12156,60776,-17%,"-$1,056,113",,,,,NTRS
+43,D,2019-04-26 18:53:45,2019-04-25,NTRS,Thomas Shundrawn A,"Pres , Asset Management",S - Sale+OE,$97.65,-11084,34561,-24%,"-$1,082,353",,,,,NTRS
+44,,2019-04-26 18:53:06,2019-04-25,NTRS,Parker Teresa,EVP,S - Sale,$97.50,-3000,47491,-6%,"-$292,500",,,,,NTRS
+45,,2018-12-17 19:50:33,2018-12-13,NTRS,Potter Stephen N,Vice COB,S - Sale,$86.90,-141,92317,0%,"-$12,282",,,,,NTRS
+46,D,2018-08-09 18:39:51,2018-08-09,NTRS,Bowman Biff,CFO,S - Sale+OE,$111.11,-21352,73963,-22%,"-$2,372,421",,,,,NTRS
+47,D,2018-08-08 18:29:28,2018-08-08,NTRS,Cherecwich Peter,"Pres, C, IS",S - Sale+OE,$111.35,-19761,46792,-30%,"-$2,200,387",,,,,NTRS
+48,,2018-08-06 18:55:31,2018-08-06,NTRS,Schreuder Jana R,COO,S - Sale,$110.00,-9699,91543,-10%,"-$1,066,890",,,,,NTRS
+49,,2018-07-26 19:01:53,2018-07-24,NTRS,St Clair Joyce,EVP,S - Sale,$112.00,-3166,66955,-5%,"-$354,592",,,,,NTRS
+50,D,2018-07-24 17:12:25,2018-07-20,NTRS,Thomas Shundrawn A,"Pres , Asset Management",S - Sale+OE,$107.88,-4740,25101,-16%,"-$511,351",,,,,NTRS
+51,,2018-07-24 17:11:27,2018-07-20,NTRS,Parker Teresa,EVP,S - Sale,$108.23,-5606,35857,-14%,"-$606,737",,,,,NTRS
+52,D,2018-07-24 17:10:59,2018-07-23,NTRS,Morrison William L,Vice COB,S - Sale+OE,$110.87,-13886,63665,-18%,"-$1,539,541",,,,,NTRS
+53,,2018-07-19 17:39:54,2018-07-18,NTRS,St Clair Joyce,EVP,S - Sale,$110.00,-3166,72410,-4%,"-$348,260",,,,,NTRS
+54,,2018-05-16 19:09:46,2018-05-15,NTRS,Schreuder Jana R,COO,S - Sale,$107.38,-2913,101239,-3%,"-$312,798",,,,,NTRS
+55,,2018-05-08 18:39:40,2018-05-07,NTRS,Cohodes Jeffrey D.,EVP,S - Sale,$105.15,-14979,24294,-38%,"-$1,575,042",,,,,NTRS
+56,D,2018-05-08 18:39:22,2018-05-07,NTRS,Blake Aileen B,"EVP, Controller",S - Sale+OE,$105.15,-7163,23998,-23%,"-$753,221",,,,,NTRS
+57,,2018-04-24 18:30:46,2018-04-24,NTRS,Schreuder Jana R,COO,S - Sale,$108.08,-2627,104152,-2%,"-$283,926",,,,,NTRS
+58,M,2018-04-03 19:48:51,2015-02-25,NTRS,Harrison Dean M,Dir,P - Purchase,$72.95,1018,6118,+20%,"+$74,259",,,,,NTRS
+59,,2018-04-03 19:48:51,2017-05-01,NTRS,Harrison Dean M,Dir,S - Sale,$90.13,-2,6118,0%,-$180,,,,,NTRS
+60,,2018-03-13 17:27:00,2018-03-09,NTRS,Schreuder Jana R,COO,S - Sale,$110.00,-4807,106779,-4%,"-$528,770",,,,,NTRS
+61,,2018-03-09 18:41:27,2018-03-08,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale,$106.79,-6000,55473,-10%,"-$640,740",,,,,NTRS
+62,,2018-03-02 18:25:04,2018-03-01,NTRS,Schreuder Jana R,COO,S - Sale,$105.14,-3730,111586,-3%,"-$392,172",,,,,NTRS
+63,D,2018-02-27 19:00:50,2018-02-26,NTRS,Pembleton Susan Gillian,"EVP, HR",S - Sale+OE,$108.36,-16198,23270,-41%,"-$1,755,182",,,,,NTRS
+64,D,2018-02-27 19:00:32,2018-02-27,NTRS,Morrison William L,Vice COB,S - Sale+OE,$109.18,-46053,63664,-42%,"-$5,028,142",,,,,NTRS
+65,,2018-02-27 18:59:59,2018-02-27,NTRS,Bowman Biff,CFO,S - Sale,$108.53,-13811,75353,-15%,"-$1,498,908",,,,,NTRS
+66,,2018-02-20 18:03:42,2018-02-16,NTRS,Morrison William L,Vice COB,S - Sale,$105.08,-20000,61931,-24%,"-$2,101,600",,,,,NTRS
+67,D,2018-02-20 18:03:25,2018-02-16,NTRS,Cohodes Jeffrey D.,EVP,S - Sale+OE,$105.27,-6898,35160,-16%,"-$726,152",,,,,NTRS
+68,D,2018-02-12 18:56:31,2018-02-12,NTRS,Cohodes Jeffrey D.,EVP,S - Sale+OE,$98.75,-11982,36662,-25%,"-$1,183,198",,,,,NTRS
+69,,2018-02-01 18:55:08,2018-01-31,NTRS,Potter Stephen N,Vice COB,S - Sale,$105.55,-7103,109657,-6%,"-$749,722",,,,,NTRS
+70,DM,2018-02-01 18:54:51,2018-01-30,NTRS,Leech Wilson,"EVP, Chief Risk Officer",S - Sale+OE,$106.17,-8958,34010,-21%,"-$951,063",,,,,NTRS
+71,,2018-01-30 18:00:26,2018-01-26,NTRS,Potter Stephen N,Vice COB,S - Sale,$106.14,-10000,116760,-8%,"-$1,061,400",,,,,NTRS
+72,D,2018-01-30 18:00:08,2018-01-26,NTRS,Parker Teresa,EVP,S - Sale+OE,$106.18,-10118,32215,-24%,"-$1,074,310",,,,,NTRS
+73,D,2018-01-30 17:59:50,2018-01-26,NTRS,Cohodes Jeffrey D.,EVP,S - Sale+OE,$105.29,-30917,36662,-46%,"-$3,255,251",,,,,NTRS
+74,,2018-01-30 17:59:34,2018-01-26,NTRS,Blake Aileen B,"EVP, Controller",S - Sale,$105.32,-3000,22188,-12%,"-$315,960",,,,,NTRS
+75,,2017-12-05 18:53:18,2017-12-01,NTRS,Morrison William L,Vice COB,S - Sale,$96.48,-30000,67934,-31%,"-$2,894,400",,,,,NTRS
+76,D,2017-12-05 18:52:43,2017-12-04,NTRS,Cherecwich Peter,"Pres, C, IS",S - Sale+OE,$99.09,-7331,33003,-18%,"-$726,429",,,,,NTRS
+77,DM,2017-12-04 18:46:47,2017-11-30,NTRS,Schreuder Jana R,COO,S - Sale+OE,$99.20,-18489,98216,-16%,"-$1,834,117",,,,,NTRS
+78,D,2017-11-30 19:07:18,2017-11-29,NTRS,Waddell Frederick H,"COB, CEO",S - Sale+OE,$97.95,-44658,456688,-9%,"-$4,374,268",,,,,NTRS
+79,D,2017-11-30 19:07:02,2017-11-29,NTRS,St Clair Joyce,EVP,S - Sale+OE,$97.51,-18489,64587,-22%,"-$1,802,862",,,,,NTRS
+80,,2017-11-30 19:06:47,2017-11-30,NTRS,Cherecwich Peter,"Pres, C, IS",S - Sale,$97.63,-5128,33003,-13%,"-$500,647",,,,,NTRS
+81,,2017-10-25 20:16:25,2017-10-25,NTRS,Morrison William L,Vice COB,S - Sale,$94.34,-11058,97934,-10%,"-$1,043,212",,,,,NTRS
+82,D,2017-10-20 16:37:53,2017-10-18,NTRS,Waddell Frederick H,"COB, CEO",S - Sale+OE,$95.64,-177964,460740,-28%,"-$17,020,143",,,,,NTRS
+83,D,2017-10-20 16:37:38,2017-10-18,NTRS,St Clair Joyce,EVP,S - Sale+OE,$95.00,-7665,64587,-11%,"-$728,175",,,,,NTRS
+84,,2017-10-10 19:26:37,2017-10-06,NTRS,Blake Aileen B,"EVP, Controller",S - Sale,$94.00,-1000,23130,-4%,"-$94,000",,,,,NTRS
+85,D,2017-09-28 17:04:29,2017-09-27,NTRS,Waddell Frederick H,"COB, CEO",S - Sale+OE,$92.00,-100000,460560,-18%,"-$9,200,000",,,,,NTRS
+86,,2017-09-28 17:04:04,2017-09-27,NTRS,Parker Teresa,EVP,S - Sale,$92.00,-8000,33286,-19%,"-$736,000",,,,,NTRS
+87,,2017-09-28 17:03:43,2017-09-27,NTRS,Blake Aileen B,"EVP, Controller",S - Sale,$92.00,-1000,24130,-4%,"-$92,000",,,,,NTRS
+88,,2017-09-12 19:00:02,2017-09-11,NTRS,Schreuder Jana R,COO,S - Sale,$90.00,-5581,98212,-5%,"-$502,290",,,,,NTRS
+89,,2017-09-12 18:59:42,2017-09-11,NTRS,Browne Robert P,"EVP, Chief Investment Officer",S - Sale,$90.21,-11000,48132,-19%,"-$992,310",,,,,NTRS
+90,,2017-08-29 16:28:45,2017-08-28,NTRS,Blake Aileen B,"EVP, Controller",S - Sale,$90.00,-1000,25130,-4%,"-$90,000",,,,,NTRS
+91,,2017-08-23 17:58:00,2017-08-23,NTRS,St Clair Joyce,EVP,S - Sale,$89.32,-13814,64585,-18%,"-$1,233,866",,,,,NTRS
+92,D,2017-08-16 18:26:36,2017-08-14,NTRS,Blake Aileen B,"EVP, Controller",S - Sale+OE,$88.45,-7762,26130,-23%,"-$686,539",,,,,NTRS

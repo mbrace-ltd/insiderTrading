@@ -1,0 +1,4 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2018-10-22 20:37:32,2018-10-18,GLG,Jie Yang,GM of NY Office,S - Sale,$0.63,-310000,262245,-54%,"-$195,000",,,,,GLG
+1,D,2018-02-14 06:19:45,2017-12-12,CCCR,Jie Yang,GM,P - Purchase,$3.50,"+150,000",542875,+38%,"+$525,000",,,,,GLG
+2,D,2018-02-14 06:19:45,2018-02-08,CCCR,Jie Yang,GM,S - Sale+OE,$1.50,-3761411,542875,-87%,"-$5,642,117",,,,,GLG

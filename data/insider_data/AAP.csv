@@ -1,0 +1,11 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-06-21 10:35:30,2021-06-16,AAP,Bailo Carla Jean,Dir,P - Purchase,$197.80,400,1964,+26%,"+$79,119",,,,,AAP
+1,,2021-06-09 18:10:08,2021-06-08,AAP,Schechtman Natalie,EVP HR,S - Sale,$197.58,-3200,5545,-37%,"-$632,256",,,,,AAP
+2,,2020-06-16 16:10:23,2020-06-15,AAP,Greco Thomas,"Pres, CEO",P - Purchase,$136.13,7285,132473,+6%,"+$991,707",,,,,AAP
+3,D,2020-06-09 17:53:42,2020-06-05,AAP,Finley Tammy M,"EVP, GC, Corp Sec",S - Sale+OE,$146.52,-88,13137,-1%,"-$12,894",,,,,AAP
+4,,2020-06-09 17:51:32,2020-06-04,AAP,Page Andrew E,"SVP, Controller, CAO",S - Sale,$141.38,-720,7008,-9%,"-$101,794",,,,,AAP
+5,,2018-11-19 13:53:34,2018-11-16,AAP,Dias Fiona P,Dir,S - Sale,$177.54,-1048,11693,-8%,"-$186,066",,,,,AAP
+6,,2018-08-17 13:38:23,2018-08-17,AAP,Travis Nigel,Dir,P - Purchase,$159.70,1250,1250,New,"+$199,625",,,,,AAP
+7,,2018-03-23 10:46:33,2018-03-21,AAP,Greco Thomas,"Pres, CEO",P - Purchase,$115.77,8640,135081,+7%,"+$1,000,253",,,,,AAP
+8,D,2018-03-05 15:45:13,2018-03-02,AAP,Finley Tammy M,"EVP, GC, Corp Sec",S - Sale+OE,$116.35,-342,10391,-3%,"-$39,792",,,,,AAP
+9,,2018-02-26 15:47:16,2018-02-23,AAP,Brouillard John C.,Dir,S - Sale,$116.08,-1745,26184,-6%,"-$202,560",,,,,AAP

@@ -1,0 +1,5 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-10-28 21:49:21,2021-10-28,TMTS,Subin Neil S,10%,P - Purchase,$10.00,"+1,105,000",1605000,+221%,"+$11,050,000",,,,,TMTS
+1,,2020-10-26 08:00:26,2020-10-22,TMTSU,Edidin Eric J,Dir,P - Purchase,$9.92,"+5,000",65000,+8%,"+$49,600",,,,,TMTS
+2,,2020-10-21 20:55:16,2020-10-19,TMTSU,Subin Neil S,10%,P - Purchase,$10.00,"+500,000",500000,New,"+$5,000,000",,,,,TMTS
+3,,2020-10-21 20:54:42,2020-10-19,TMTSU,Edidin Eric J,Dir,P - Purchase,$10.00,"+60,000",10000,-120%,"+$599,700",,,,,TMTS

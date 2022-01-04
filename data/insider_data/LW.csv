@@ -1,0 +1,15 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-03 16:24:14,2021-08-02,LW,Werner Thomas P.,"Pres, CEO",S - Sale+OE,$67.16,-69382,351802,-16%,"-$4,659,945",,,,,LW
+1,,2021-08-02 09:15:20,2021-07-29,LW,Jurgensen William G,Dir,P - Purchase,$68.65,2151,151597,+1%,"+$147,666",,,,,LW
+2,D,2021-04-13 16:54:43,2021-04-12,LW,Werner Thomas P.,"Pres, CEO",S - Sale+OE,$78.46,-69500,313584,-18%,"-$5,453,165",,,,,LW
+3,D,2021-01-15 19:43:24,2021-01-15,LW,Werner Thomas P.,"Pres, CEO",S - Sale+OE,$77.65,-69500,313179,-18%,"-$5,396,675",,,,,LW
+4,,2021-01-14 16:30:53,2021-01-13,LW,Spytek Eryk J,"SVP, GC",S - Sale,$75.00,-6183,33829,-15%,"-$463,725",,,,,LW
+5,,2020-07-30 18:57:18,2020-07-30,LW,Niblock Robert A,Dir,P - Purchase,$59.70,2500,4320,+137%,"+$149,250",,,,,LW
+6,,2020-01-22 16:44:09,2020-01-21,LW,Smith Michael Jared,SVP,S - Sale,$91.22,-5500,59505,-8%,"-$501,727",,,,,LW
+7,,2020-01-09 17:27:03,2020-01-09,LW,Miller Sharon L.,SVP,S - Sale,$91.15,-3943,52832,-7%,"-$359,387",,,,,LW
+8,,2020-01-09 17:24:53,2020-01-09,LW,Madarieta Bernadette M,"VP, Controller",S - Sale,$91.47,-3472,11332,-23%,"-$317,573",,,,,LW
+9,,2020-01-08 16:54:05,2020-01-08,LW,Jurgensen William G,Dir,P - Purchase,$92.01,18000,146536,+14%,"+$1,656,189",,,,,LW
+10,,2020-01-08 16:51:11,2020-01-08,LW,Spytek Eryk J,"SVP, GC, Corp Sec",S - Sale,$92.07,-6000,42877,-12%,"-$552,436",,,,,LW
+11,,2020-01-08 16:48:45,2020-01-08,LW,McNutt Robert,"SVP, CFO",S - Sale,$91.20,-8696,59111,-13%,"-$793,075",,,,,LW
+12,,2019-10-23 16:57:51,2019-10-22,LW,Madarieta Bernadette M,"VP, Controller",S - Sale,$75.59,-1320,14777,-8%,"-$99,772",,,,,LW
+13,,2018-01-09 16:37:01,2018-01-08,LW,Bensen Peter J,Dir,P - Purchase,$58.18,5000,6935,+258%,"+$290,910",,,,,LW

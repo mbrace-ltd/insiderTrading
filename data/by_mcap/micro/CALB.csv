@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-11-23 16:43:31,2021-11-22,CALB,Doiguchi Wayne S.,Dir,S - Sale,$19.06,-1500,24099,-6%,"-$28,590",,,,,CALB
+1,,2021-09-09 17:00:24,2021-09-09,CALB,Doiguchi Wayne S.,Dir,S - Sale,$17.35,-500,25599,-2%,"-$8,675",,,,,CALB
+2,M,2021-08-09 19:13:06,2021-08-06,CALB,Dorrance Thomas M.,CTO,S - Sale,$18.00,-2000,23251,-8%,"-$36,000",,,,,CALB
+3,M,2021-06-15 17:14:59,2021-05-26,CALB,Doiguchi Wayne S.,Dir,S - Sale,$19.11,-2000,24702,-7%,"-$38,210",,,,,CALB
+4,,2020-09-08 17:42:55,2020-09-04,CALB,Doiguchi Wayne S.,Dir,S - Sale,$12.45,-1500,26202,-5%,"-$18,675",,,,,CALB
+5,,2020-08-27 18:32:21,2020-08-26,CALB,Cortese Stephen A.,Dir,P - Purchase,$13.39,+169,211577,0%,"+$2,263",,,,,CALB
+6,,2020-08-26 20:46:48,2020-08-24,CALB,Cortese Stephen A.,Dir,P - Purchase,$13.29,+388,211408,0%,"+$5,157",,,,,CALB
+7,,2020-08-25 21:00:53,2020-08-21,CALB,Cortese Stephen A.,Dir,P - Purchase,$13.24,"+4,112",211020,+2%,"+$54,443",,,,,CALB
+8,M,2020-08-21 17:42:09,2020-08-19,CALB,Cortese Stephen A.,Dir,P - Purchase,$13.21,"+10,500",206908,+5%,"+$138,751",,,,,CALB
+9,,2020-08-03 17:05:59,2020-07-30,CALB,Armanino Andrew J.,Dir,P - Purchase,$13.58,"+1,500",109559,+1%,"+$20,370",,,,,CALB
+10,,2020-06-17 16:49:43,2020-06-15,CALB,Cortese Stephen A.,Dir,P - Purchase,$14.60,+35,189963,0%,+$511,,,,,CALB

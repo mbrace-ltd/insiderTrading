@@ -1,0 +1,81 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-17 17:06:38,2021-12-15,NCNO,Rudow David,"CFO, Treasurer",S - Sale,$56.88,-2500,47632,-5%,"-$142,202",,,,,NCNO
+1,,2021-12-17 17:04:36,2021-12-15,NCNO,Naude Pierre,CEO,S - Sale,$55.34,-50000,631960,-7%,"-$2,767,193",,,,,NCNO
+2,,2021-12-03 17:00:24,2021-12-01,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$61.17,-1289,243404,-1%,"-$78,850",,,,,NCNO
+3,D,2021-11-03 17:04:08,2021-11-02,NCNO,Rudow David,"CFO, Treasurer",S - Sale+OE,$75.46,-11169,50132,-18%,"-$842,813",,,,,NCNO
+4,D,2021-11-03 17:03:21,2021-11-02,NCNO,Sellers Jeanette,VP of Accounting,S - Sale+OE,$75.46,-159,19045,-1%,"-$11,998",,,,,NCNO
+5,,2021-11-03 17:02:27,2021-11-01,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$74.48,-6000,244693,-2%,"-$446,884",,,,,NCNO
+6,D,2021-10-19 17:01:15,2021-10-15,NCNO,Price Trisha,Chief Innovation Officer,S - Sale+OE,$73.64,-20000,221316,-8%,"-$1,472,816",,,,,NCNO
+7,,2021-10-13 17:04:32,2021-10-11,NCNO,Glover Joshua L,"Pres, Chief Rev Officer",S - Sale,$69.79,-20000,102894,-16%,"-$1,395,888",,,,,NCNO
+8,,2021-10-05 17:11:35,2021-10-01,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$71.25,-6000,250693,-2%,"-$427,492",,,,,NCNO
+9,,2021-09-20 17:17:38,2021-09-16,NCNO,Ruh William J,Dir,S - Sale,$77.50,-20000,278889,-7%,"-$1,550,000",,,,,NCNO
+10,,2021-09-17 17:49:39,2021-09-15,NCNO,Rudow David,"CFO, Treasurer",S - Sale,$74.04,-7500,36301,-17%,"-$555,300",,,,,NCNO
+11,,2021-09-17 17:48:37,2021-09-15,NCNO,Naude Pierre,CEO,S - Sale,$74.79,-50000,681960,-7%,"-$3,739,671",,,,,NCNO
+12,D,2021-09-09 17:32:01,2021-09-07,NCNO,Orenstein Gregory,"Chief Corp Dev, Strat Officer",S - Sale+OE,$74.98,-26500,41559,-39%,"-$1,987,007",,,,,NCNO
+13,,2021-09-09 17:30:46,2021-09-07,NCNO,Ruh William J,Dir,S - Sale,$74.89,-55000,298889,-16%,"-$4,118,756",,,,,NCNO
+14,M,2021-09-03 17:01:18,2021-09-01,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$69.76,-6000,256693,-2%,"-$418,549",,,,,NCNO
+15,D,2021-08-04 18:23:23,2021-08-03,NCNO,Glover Joshua L,Chief Revenue Officer,S - Sale+OE,$63.33,-5690,122894,-4%,"-$360,359",,,,,NCNO
+16,D,2021-08-04 18:21:23,2021-08-03,NCNO,Price Trisha,Chief Product Officer,S - Sale+OE,$63.33,-5690,153895,-4%,"-$360,359",,,,,NCNO
+17,D,2021-08-04 18:19:04,2021-08-03,NCNO,Orenstein Gregory,"Chief Corp Dev, Legal Officer",S - Sale+OE,$63.33,-4018,41559,-9%,"-$254,468",,,,,NCNO
+18,D,2021-08-04 18:17:17,2021-08-03,NCNO,Naude Pierre,"Pres, CEO",S - Sale+OE,$63.33,-11378,731960,-2%,"-$720,591",,,,,NCNO
+19,D,2021-08-04 18:15:18,2021-08-03,NCNO,Sellers Jeanette,VP of Accounting,S - Sale+OE,$63.33,-997,5284,-16%,"-$63,142",,,,,NCNO
+20,D,2021-08-04 18:14:40,2021-08-03,NCNO,Desmond Sean,Chief Customer Success Officer,S - Sale+OE,$63.33,-5690,75571,-7%,"-$360,359",,,,,NCNO
+21,,2021-08-04 17:01:09,2021-08-02,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$64.20,-2000,262693,-1%,"-$128,405",,,,,NCNO
+22,D,2021-07-20 17:05:43,2021-07-16,NCNO,Price Trisha,Chief Product Officer,S - Sale+OE,$65.84,-20000,147085,-12%,"-$1,316,817",,,,,NCNO
+23,D,2021-07-15 17:01:56,2021-07-13,NCNO,Sellers Jeanette,VP of Accounting,S - Sale+OE,$63.17,-8144,4093,-67%,"-$514,496",,,,,NCNO
+24,,2021-07-06 17:01:05,2021-07-01,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$61.17,-2000,262005,-1%,"-$122,332",,,,,NCNO
+25,M,2021-06-22 17:01:08,2021-06-17,NCNO,Ruh William J,Dir,S - Sale,$64.35,-15000,351201,-4%,"-$965,318",,,,,NCNO
+26,,2021-06-17 17:00:44,2021-06-16,NCNO,Rudow David,"CFO, Treasurer",S - Sale,$62.57,-2500,43801,-5%,"-$156,413",,,,,NCNO
+27,D,2021-06-10 17:43:02,2021-06-09,NCNO,Price Trisha,Chief Product Officer,S - Sale+OE,$62.28,-6184,147085,-4%,"-$385,164",,,,,NCNO
+28,D,2021-06-10 17:40:12,2021-06-09,NCNO,Desmond Sean,Chief Customer Success Officer,S - Sale+OE,$62.28,-6184,35761,-15%,"-$385,164",,,,,NCNO
+29,D,2021-06-10 17:39:32,2021-06-09,NCNO,Naude Pierre,"Pres, CEO",S - Sale+OE,$62.28,-14563,1034812,-1%,"-$907,042",,,,,NCNO
+30,DM,2021-06-10 17:38:19,2021-06-08,NCNO,Glover Joshua L,Chief Revenue Officer,S - Sale+OE,$62.63,-26184,116084,-18%,"-$1,639,964",,,,,NCNO
+31,D,2021-06-10 17:36:16,2021-06-09,NCNO,Sellers Jeanette,VP of Accounting,S - Sale+OE,$62.28,-1791,6237,-22%,"-$111,551",,,,,NCNO
+32,D,2021-06-10 17:35:45,2021-06-09,NCNO,Orenstein Gregory,"Chief Corp Dev, Legal Officer",S - Sale+OE,$62.28,-8111,36827,-18%,"-$505,186",,,,,NCNO
+33,D,2021-06-10 17:35:00,2021-06-09,NCNO,Rudow David,"CFO, Treasurer",S - Sale+OE,$62.28,-6184,46301,-12%,"-$385,164",,,,,NCNO
+34,DM,2021-06-09 17:00:43,2021-06-07,NCNO,Orenstein Gregory,"Chief Corp Dev, Legal Officer",S - Sale+OE,$63.47,-26500,27266,-49%,"-$1,681,836",,,,,NCNO
+35,,2021-06-03 17:00:50,2021-06-01,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$61.36,-2000,256505,-1%,"-$122,723",,,,,NCNO
+36,,2021-05-04 16:59:45,2021-05-03,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$64.03,-2000,258505,-1%,"-$128,057",,,,,NCNO
+37,D,2021-04-19 17:17:18,2021-04-15,NCNO,Price Trisha,Chief Product Officer,S - Sale+OE,$69.56,-20000,141176,-12%,"-$1,391,200",,,,,NCNO
+38,DM,2021-04-19 17:16:02,2021-04-15,NCNO,Naude Pierre,"Pres, CEO",S - Sale+OE,$67.78,-351205,1017362,-26%,"-$23,803,488",,,,,NCNO
+39,,2021-04-15 17:00:37,2021-04-13,NCNO,Rudow David,"CFO, Treasurer",S - Sale,$70.68,-2500,38892,-6%,"-$176,700",,,,,NCNO
+40,D,2021-04-13 19:45:18,2021-04-09,NCNO,Horing Jeff,"Dir, 10%",S - Sale+OE,$68.84,-2500,31266147,0%,"-$172,103",,,,,NCNO
+41,D,2021-04-08 19:51:51,2021-04-07,NCNO,Glover Joshua L,Chief Revenue Officer,S - Sale+OE,$71.50,-20000,108675,-16%,"-$1,429,960",,,,,NCNO
+42,M,2021-04-07 21:38:39,2021-04-05,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$70.71,-6000,260505,-2%,"-$424,233",,,,,NCNO
+43,,2021-04-07 21:37:13,2021-04-05,NCNO,Kilday Pamela,Dir,S - Sale,$70.00,-3748,3752,-50%,"-$262,360",,,,,NCNO
+44,D,2021-04-07 21:29:00,2021-04-05,NCNO,Orenstein Gregory,"Chief Corp Dev, Legal Officer",S - Sale+OE,$68.83,-26500,27266,-49%,"-$1,823,973",,,,,NCNO
+45,,2021-02-05 21:30:45,2021-02-04,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$75.01,-400000,9344958,-4%,"-$30,004,000",,,,,NCNO
+46,M,2021-02-03 21:08:05,2021-02-01,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$72.23,-150906,9744958,-2%,"-$10,900,602",,,,,NCNO
+47,M,2021-02-01 19:24:59,2021-01-28,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$72.44,-86359,9895864,-1%,"-$6,255,476",,,,,NCNO
+48,M,2021-01-27 21:17:27,2021-01-26,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$74.73,-175309,9982223,-2%,"-$13,101,471",,,,,NCNO
+49,M,2021-01-25 21:30:07,2021-01-22,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$74.71,-410000,10157532,-4%,"-$30,629,873",,,,,NCNO
+50,,2021-01-22 16:05:11,2021-01-21,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$71.23,-16320,10567532,0%,"-$1,162,465",,,,,NCNO
+51,M,2021-01-21 16:05:09,2021-01-19,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$71.41,-17949,10583852,0%,"-$1,281,731",,,,,NCNO
+52,,2021-01-19 21:16:16,2021-01-15,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$72.36,-57068,10601801,-1%,"-$4,129,401",,,,,NCNO
+53,,2021-01-15 21:26:58,2021-01-13,NCNO,Lunsford Jeffrey W,Dir,S - Sale,$70.49,-24495,266505,-8%,"-$1,726,704",,,,,NCNO
+54,ADM,2021-01-15 21:23:47,2021-01-11,NCNO,Lunsford Jeffrey W,Dir,S - Sale+OE,$71.03,-50000,291000,-15%,"-$3,551,692",,,,,NCNO
+55,,2021-01-14 19:28:54,2021-01-13,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$72.00,-300,10658869,0%,"-$21,600",,,,,NCNO
+56,D,2021-01-13 21:45:37,2021-01-12,NCNO,Desmond Sean,Chief Customer Success Officer,S - Sale+OE,$70.03,-64331,6732,-91%,"-$4,505,132",,,,,NCNO
+57,DM,2021-01-13 21:45:31,2021-01-11,NCNO,Sellers Jeanette,VP of Accounting,S - Sale+OE,$72.08,-22753,850,-96%,"-$1,639,946",,,,,NCNO
+58,DM,2021-01-13 21:45:18,2021-01-11,NCNO,Glover Joshua L,Chief Revenue Officer,S - Sale+OE,$70.34,-43866,66975,-40%,"-$3,085,630",,,,,NCNO
+59,DM,2021-01-13 21:44:40,2021-01-11,NCNO,Price Trisha,Chief Product Officer,S - Sale+OE,$71.39,-47909,99476,-33%,"-$3,420,237",,,,,NCNO
+60,D,2021-01-13 21:44:39,2021-01-12,NCNO,Lake Spencer,Dir,S - Sale+OE,$70.62,-875,1625,-35%,"-$61,789",,,,,NCNO
+61,DM,2021-01-13 21:43:52,2021-01-11,NCNO,Lunsford Jeffrey W,Dir,S - Sale+OE,$71.03,-50000,352500,-12%,"-$3,551,692",,,,,NCNO
+62,D,2021-01-13 21:43:41,2021-01-12,NCNO,Orenstein Gregory,"Chief Corp Dev, Legal Officer",S - Sale+OE,$70.16,-68496,5646,-92%,"-$4,805,615",,,,,NCNO
+63,DM,2021-01-13 21:43:38,2021-01-12,NCNO,Rudow David,"CFO, Treasurer",S - Sale+OE,$70.45,-12434,12566,-50%,"-$875,968",,,,,NCNO
+64,D,2021-01-13 21:43:19,2021-01-12,NCNO,Naude Pierre,"Pres, CEO",S - Sale+OE,$70.34,-11433,518567,-2%,"-$804,197",,,,,NCNO
+65,,2021-01-13 20:36:15,2021-01-11,NCNO,"Salesforce.Com, Inc.",10%,S - Sale,$72.53,-101300,10659169,-1%,"-$7,346,915",,,,,NCNO
+66,D,2020-10-13 17:10:40,2020-10-13,NCNO,Horing Jeff,"Dir, 10%",S - Sale+OE,$72.00,-4814802,33201349,-13%,"-$346,665,744",,,,,NCNO
+67,,2020-10-13 17:09:22,2020-10-13,NCNO,"Insight Holdings Group, LLC",10%,S - Sale,$72.00,-2232751,4056739,-35%,"-$160,758,072",,,,,NCNO
+68,,2020-10-13 17:07:59,2020-10-13,NCNO,"Insight Holdings Group, LLC",10%,S - Sale,$72.00,-2582051,219009,-92%,"-$185,907,672",,,,,NCNO
+69,D,2020-10-13 17:01:26,2020-10-13,NCNO,Price Trisha,Chief Product Officer,S - Sale+OE,$72.00,-66225,92743,-42%,"-$4,768,200",,,,,NCNO
+70,D,2020-10-13 17:01:22,2020-10-13,NCNO,Sellers Jeanette,VP of Accounting,S - Sale+OE,$72.00,-11934,850,-93%,"-$859,248",,,,,NCNO
+71,D,2020-10-13 17:01:05,2020-10-13,NCNO,Glover Joshua L,Chief Revenue Officer,S - Sale+OE,$72.00,-69637,58341,-54%,"-$5,013,864",,,,,NCNO
+72,D,2020-10-13 17:00:56,2020-10-13,NCNO,Lunsford Jeffrey W,Dir,S - Sale+OE,$72.00,-61500,338500,-15%,"-$4,428,000",,,,,NCNO
+73,D,2020-10-13 17:00:49,2020-10-13,NCNO,Desmond Sean,Chief Customer Success Officer,S - Sale+OE,$72.00,-90000,0,-100%,"-$6,480,000",,,,,NCNO
+74,D,2020-10-13 17:00:31,2020-10-13,NCNO,Orenstein Gregory,"Chief Corp Dev, Legal Officer",S - Sale+OE,$72.00,-74476,1000,-99%,"-$5,362,272",,,,,NCNO
+75,D,2020-10-13 17:00:20,2020-10-13,NCNO,Lake Spencer,Dir,S - Sale+OE,$72.00,-11400,0,-100%,"-$820,800",,,,,NCNO
+76,D,2020-07-16 18:03:11,2020-07-16,NCNO,Orenstein Gregory,"Chief Corp Dev, Legal Officer",P - Purchase,$31.00,"+1,000",1000,New,"+$31,000",,,,,NCNO
+77,D,2020-07-16 18:02:28,2020-07-16,NCNO,Glover Joshua L,Chief Revenue Officer,P - Purchase,$31.00,+250,70037,0%,"+$7,750",,,,,NCNO
+78,D,2020-07-16 18:01:25,2020-07-16,NCNO,Sellers Jeanette,VP of Accounting,P - Purchase,$31.00,+850,850,New,"+$26,350",,,,,NCNO
+79,D,2020-07-16 18:00:18,2020-07-16,NCNO,Collins Steven A,Dir,P - Purchase,$31.00,"+32,250",32250,New,"+$999,750",,,,,NCNO

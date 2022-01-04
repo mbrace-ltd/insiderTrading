@@ -1,0 +1,28 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-06 10:17:04,2021-08-04,BFC,Molepske Michael B.,"CEO, Pres",P - Purchase,$69.50,"+1,000",107816,+1%,"+$69,500",,,,,BFC
+1,M,2021-02-08 12:14:26,2021-02-04,BFC,Bourbulas Mary Kay,Dir,P - Purchase,$68.89,+600,3745,+19%,"+$41,336",,,,,BFC
+2,,2021-01-28 10:15:27,2021-01-26,BFC,Bourbulas Mary Kay,Dir,P - Purchase,$69.99,"+1,000",3145,+47%,"+$69,990",,,,,BFC
+3,M,2020-11-27 10:30:19,2020-11-24,BFC,Bourbulas Mary Kay,Dir,P - Purchase,$67.85,"+1,200",2145,+127%,"+$81,420",,,,,BFC
+4,,2020-11-24 16:48:27,2020-11-20,BFC,Molepske Michael B.,CEO,S - Sale,$65.00,-5000,101041,-5%,"-$325,000",,,,,BFC
+5,,2020-11-05 18:36:53,2020-11-05,BFC,Holmes Robert W.,Dir,S - Sale,$62.33,-20578,179829,-10%,"-$1,282,627",,,,,BFC
+6,,2020-05-20 16:59:32,2020-05-19,BFC,Bourbulas Mary Kay,Dir,P - Purchase,$55.00,+100,945,+12%,"+$5,500",,,,,BFC
+7,,2020-05-19 14:45:52,2020-05-18,BFC,Bourbulas Mary Kay,Dir,P - Purchase,$56.00,+100,845,+13%,"+$5,600",,,,,BFC
+8,,2020-05-15 16:41:38,2020-05-15,BFC,Bourbulas Mary Kay,Dir,P - Purchase,$49.50,+171,745,+30%,"+$8,465",,,,,BFC
+9,A,2020-05-13 12:17:03,2020-05-07,BFC,Lemahieu Kevin M.,CFO,P - Purchase,$50.30,"+1,030",15959,+7%,"+$51,809",,,,,BFC
+10,A,2020-03-24 15:34:18,2020-03-02,BFC,Molepske Michael B.,CEO,P - Purchase,$60.37,"+2,192",2192,New,"+$132,331",,,,,BFC
+11,,2020-03-04 17:53:28,2020-03-02,BFC,Molepske Michael B.,Dir,P - Purchase,$60.45,"+2,492",100460,+3%,"+$150,631",,,,,BFC
+12,,2020-02-24 12:36:13,2020-02-24,BFC,Ansay Michael G.,Dir,S - Sale,$63.01,-9270,58590,-14%,"-$584,103",,,,,BFC
+13,M,2020-02-20 16:46:44,2020-02-18,BFC,Ansay Michael G.,Dir,S - Sale,$63.52,-824,67860,-1%,"-$52,338",,,,,BFC
+14,M,2020-02-18 14:42:12,2020-02-13,BFC,Ansay Michael G.,Dir,S - Sale,$63.56,-2000,68684,-3%,"-$127,115",,,,,BFC
+15,,2020-01-03 17:10:03,2019-12-31,BFC,Ansay Michael G.,Dir,S - Sale,$70.00,-229,70684,0%,"-$16,030",,,,,BFC
+16,,2019-12-26 17:32:55,2019-12-23,BFC,Ansay Michael G.,Dir,S - Sale,$70.00,-364,70913,-1%,"-$25,480",,,,,BFC
+17,M,2019-12-18 16:55:04,2019-12-16,BFC,Ansay Michael G.,Dir,S - Sale,$69.07,-7528,71277,-10%,"-$519,983",,,,,BFC
+18,,2019-12-16 16:06:30,2019-12-13,BFC,Ansay Michael G.,Dir,S - Sale,$69.00,-500,78805,-1%,"-$34,500",,,,,BFC
+19,M,2019-12-02 17:08:38,2019-11-27,BFC,Ansay Michael G.,Dir,S - Sale,$69.32,-4659,79305,-6%,"-$322,956",,,,,BFC
+20,,2019-08-22 16:07:19,2019-08-20,BFC,Ansay Michael G.,Dir,S - Sale,$55.12,-2149,83964,-2%,"-$118,446",,,,,BFC
+21,,2019-05-22 17:14:54,2019-05-22,BFC,Lemahieu Kevin M.,CFO,S - Sale,$68.00,-700,14081,-5%,"-$47,600",,,,,BFC
+22,,2019-04-23 15:30:46,2019-04-23,BFC,Ansay Michael G.,Dir,P - Purchase,$62.00,+80,86113,0%,"+$4,960",,,,,BFC
+23,,2019-01-29 14:06:06,2019-01-29,BFC,Ansay Michael G.,Dir,P - Purchase,$47.94,+103,85856,0%,"+$4,938",,,,,BFC
+24,,2018-11-30 16:20:12,2018-11-28,BFC,Molepske Michael B.,"Pres, CEO",P - Purchase,$48.23,+100,92591,0%,"+$4,823",,,,,BFC
+25,,2018-11-09 15:58:15,2018-11-08,BFC,Molepske Michael B.,"Pres, CEO",P - Purchase,$48.22,"+3,711",92491,+4%,"+$178,962",,,,,BFC
+26,,2018-11-02 09:18:47,2018-11-01,BFC,Ansay Michael G.,Dir,P - Purchase,$52.25,+75,85753,0%,"+$3,919",,,,,BFC

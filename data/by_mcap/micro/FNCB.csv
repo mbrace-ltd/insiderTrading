@@ -1,0 +1,51 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-09-10 13:22:50,2021-09-09,FNCB,Bracey William G.,Dir,P - Purchase,$7.99,"+11,900",145091,+9%,"+$95,123",,,,,FNCB
+1,,2021-08-24 07:33:55,2021-08-20,FNCB,Denaples Louis A Jr,Dir,P - Purchase,$7.94,"+5,038",282865,+2%,"+$40,002",,,,,FNCB
+2,,2021-05-19 16:07:46,2021-05-18,FNCB,Drust Richard D,"SVP, RETAIL BANKING OFFICER",S - Sale,$7.22,-544,12362,-4%,"-$3,925",,,,,FNCB
+3,,2021-05-19 16:04:30,2021-05-18,FNCB,Westington Stephanie A.,"SVP, CONTROLLER",S - Sale,$7.22,-615,15784,-4%,"-$4,438",,,,,FNCB
+4,,2021-05-19 15:57:58,2021-05-18,FNCB,Honick Ronald S. Jr.,"SVP, OPS, TECH SVS OFFICER",S - Sale,$7.22,-1635,10587,-13%,"-$11,798",,,,,FNCB
+5,,2021-05-19 15:55:53,2021-05-18,FNCB,McGuigan William,"SVP, AUDIT OFFICER",S - Sale,$7.22,-1290,5302,-20%,"-$9,308",,,,,FNCB
+6,A,2021-02-23 15:51:50,2020-05-13,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$5.49,"+6,666",108257,+7%,"+$36,584",,,,,FNCB
+7,,2020-07-30 08:36:14,2020-07-29,FNCB,McGuigan William,"SVP, AUDIT OFFICER",S - Sale,$5.71,-1495,5187,-22%,"-$8,530",,,,,FNCB
+8,,2020-06-01 16:37:16,2020-05-28,FNCB,Drust Richard D,"SVP, RETAIL BANKING OFFICER",S - Sale,$6.11,-387,10528,-4%,"-$2,366",,,,,FNCB
+9,,2020-06-01 16:36:07,2020-05-28,FNCB,Westington Stephanie A.,"SVP, CONTROLLER",S - Sale,$6.11,-437,13693,-3%,"-$2,672",,,,,FNCB
+10,,2020-06-01 16:34:42,2020-05-28,FNCB,McGuigan William,"SVP, AUDIT OFFICER",S - Sale,$6.11,-304,6176,-5%,"-$1,858",,,,,FNCB
+11,,2020-05-15 15:15:09,2020-05-13,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$5.49,"+6,666",108257,+7%,"+$36,584",,,,,FNCB
+12,,2020-05-15 11:32:28,2020-05-13,FNCB,Eckel Keith W.,Dir,P - Purchase,$5.50,"+2,000",10270,+24%,"+$11,000",,,,,FNCB
+13,,2020-03-17 10:08:33,2020-03-13,FNCB,Dhaduk Vithalbhai D,Dir,S - Sale,$5.70,-10500,107455,-9%,"-$59,850",,,,,FNCB
+14,,2020-03-17 10:06:05,2020-03-09,FNCB,Dhaduk Vithalbhai D,Dir,S - Sale,$5.97,-7644,117955,-6%,"-$45,635",,,,,FNCB
+15,,2020-03-17 10:03:08,2020-03-09,FNCB,Dhaduk Vithalbhai D,Dir,S - Sale,$5.67,-10000,125599,-7%,"-$56,700",,,,,FNCB
+16,,2019-12-09 15:11:56,2019-12-09,FNCB,McGuigan William,"SVP, AUDIT OFFICER",S - Sale,$7.80,-375,4618,-8%,"-$2,925",,,,,FNCB
+17,,2019-11-07 16:28:35,2019-11-06,FNCB,Bone James M Jr,"EVP, CFO",S - Sale,$7.64,-2000,40559,-5%,"-$15,280",,,,,FNCB
+18,,2019-09-05 08:34:05,2019-09-04,FNCB,Kinney Lisa L,"SVP, RETAIL LENDING OFFICER",S - Sale,$7.18,-3000,7032,-30%,"-$21,540",,,,,FNCB
+19,,2019-08-29 09:07:46,2019-08-28,FNCB,Denaples Louis A Jr,Dir,P - Purchase,$7.34,"+4,572",257530,+2%,"+$33,540",,,,,FNCB
+20,,2019-08-06 17:02:23,2019-08-06,FNCB,McGuigan William,AUDIT OFFICER,S - Sale,$7.25,-1200,4984,-19%,"-$8,700",,,,,FNCB
+21,A,2019-07-11 07:33:08,2019-02-08,FNCB,Bone James M Jr,"EVP, CFO",P - Purchase,$7.00,+714,36179,+2%,"+$4,998",,,,,FNCB
+22,,2019-05-23 09:29:37,2019-05-21,FNCB,Westington Stephanie A.,"SVP, CONTROLLER",S - Sale,$7.76,-608,11506,-5%,"-$4,718",,,,,FNCB
+23,,2019-05-23 09:25:20,2019-05-21,FNCB,Honick Ronald S. Jr.,"OPS, TECH SERVICES OFFICER",S - Sale,$7.76,-542,7514,-7%,"-$4,206",,,,,FNCB
+24,,2019-02-12 12:53:31,2019-02-08,FNCB,Coccia Joseph A,Dir,P - Purchase,$7.00,"+10,714",173959,+7%,"+$74,998",,,,,FNCB
+25,,2019-02-08 15:59:15,2019-02-08,FNCB,Moses John P,Dir,P - Purchase,$7.00,"+14,285",99162,+17%,"+$99,995",,,,,FNCB
+26,,2019-02-08 15:57:22,2019-02-08,FNCB,Melone Thomas J.,Dir,P - Purchase,$7.00,"+3,571",4371,+446%,"+$24,997",,,,,FNCB
+27,,2019-02-08 15:53:06,2019-02-08,FNCB,Lambert Kathleen McCarthy,Dir,P - Purchase,$7.00,"+2,857",5357,+114%,"+$19,999",,,,,FNCB
+28,,2019-02-08 15:49:06,2019-02-08,FNCB,Denaples Louis A Jr,Dir,P - Purchase,$7.00,"+142,857",249589,+134%,"+$999,999",,,,,FNCB
+29,,2019-02-08 15:47:49,2019-02-08,FNCB,Denaples Joseph L,Dir,P - Purchase,$7.00,"+21,428",296230,+8%,"+$149,996",,,,,FNCB
+30,,2019-02-08 15:46:31,2019-02-08,FNCB,Denaples Dominick L,Dir,P - Purchase,$7.00,"+14,289",81575,+21%,"+$100,023",,,,,FNCB
+31,,2019-02-08 15:45:15,2019-02-08,FNCB,Collins Raymond Gregory,CHIEF BANKING OFFICER,P - Purchase,$7.00,"+1,071",1071,New,"+$7,497",,,,,FNCB
+32,,2019-02-08 15:44:02,2019-02-08,FNCB,Champi Gerard A,"Pres, CEO",P - Purchase,$7.00,"+2,571",61866,+4%,"+$17,997",,,,,FNCB
+33,,2019-02-08 15:42:49,2019-02-08,FNCB,Bone James M Jr,"EVP, CFO",P - Purchase,$7.00,"+1,247",36567,+4%,"+$8,729",,,,,FNCB
+34,,2019-02-08 15:41:26,2019-02-08,FNCB,Bracey William G.,Dir,P - Purchase,$7.00,"+17,856",128019,+16%,"+$124,992",,,,,FNCB
+35,,2018-06-18 11:02:25,2018-06-14,FNCB,Bone James M Jr,"EVP, CFO",S - Sale,$8.24,-4000,35000,-10%,"-$32,976",,,,,FNCB
+36,,2018-06-15 10:26:52,2018-06-15,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.00,"+5,000",127966,+4%,"+$45,000",,,,,FNCB
+37,M,2018-06-14 10:01:08,2018-06-14,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$8.88,"+4,467",121404,+4%,"+$39,662",,,,,FNCB
+38,,2018-06-06 17:09:17,2018-06-06,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.06,"+4,053",118499,+4%,"+$36,720",,,,,FNCB
+39,M,2018-06-01 14:24:36,2018-06-01,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.10,+383,114346,0%,"+$3,485",,,,,FNCB
+40,,2018-05-30 16:54:53,2018-05-30,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.21,"+2,714",111713,+2%,"+$25,003",,,,,FNCB
+41,,2018-05-29 17:06:54,2018-05-29,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.22,"+1,100",111349,+1%,"+$10,142",,,,,FNCB
+42,,2018-05-25 13:51:15,2018-05-25,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.21,"+1,550",110249,+1%,"+$14,276",,,,,FNCB
+43,,2018-05-17 16:45:25,2018-05-15,FNCB,Westington Stephanie A.,"SVP, CONTROLLER",S - Sale,$9.13,-594,10107,-6%,"-$5,425",,,,,FNCB
+44,,2018-05-17 16:43:12,2018-05-15,FNCB,Honick Ronald S. Jr.,"OPS, TECH SERVICES OFFICER",S - Sale,$9.11,-2376,6309,-27%,"-$21,656",,,,,FNCB
+45,M,2018-05-17 14:46:45,2018-05-14,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.23,"+16,000",93999,+21%,"+$147,600",,,,,FNCB
+46,,2018-05-17 14:17:26,2018-05-16,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.10,+200,108699,0%,"+$1,820",,,,,FNCB
+47,,2018-04-27 13:25:15,2018-04-26,FNCB,Lambert Kathleen McCarthy,Dir,P - Purchase,$9.54,"+2,500",2500,New,"+$23,850",,,,,FNCB
+48,M,2018-03-21 11:52:54,2018-03-07,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$9.23,"+20,000",72499,+38%,"+$184,670",,,,,FNCB
+49,,2017-12-20 11:36:47,2017-12-18,FNCB,Dhaduk Vithalbhai D,Dir,P - Purchase,$7.00,"+5,000",129998,+4%,"+$35,000",,,,,FNCB

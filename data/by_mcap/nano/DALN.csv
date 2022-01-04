@@ -1,0 +1,36 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-16 20:12:18,2021-08-16,DALN,Larkin Christine E,"SVP, GC, Secretary",S - Sale,$6.78,-2095,0,-100%,"-$14,204",,,,,DALN
+1,M,2020-06-04 16:35:22,2020-06-02,AHC,Beckert John A,Dir,P - Purchase,$1.73,"+15,000",55640,+37%,"+$25,889",,,,,DALN
+2,M,2020-05-14 17:02:09,2020-05-13,AHC,Murray Mary K,"EVP, CFO, Treas., Asst. Sec'y",P - Purchase,$1.62,"+13,000",25478,+104%,"+$20,999",,,,,DALN
+3,,2020-05-14 16:58:06,2020-05-13,AHC,Moise Grant,"Pres, Publisher, TDMN",P - Purchase,$1.74,"+11,500",25235,+84%,"+$20,010",,,,,DALN
+4,,2020-03-02 16:45:17,2020-03-02,AHC,Decherd Robert W,"COB, Pres, CEO",P - Purchase,$4.00,"+1,000",312663,0%,"+$4,000",,,,,DALN
+5,M,2020-02-20 16:31:20,2020-02-18,AHC,Decherd Robert W,"COB, Pres, CEO",P - Purchase,$4.98,"+127,844",2274042,+6%,"+$637,220",,,,,DALN
+6,,2019-12-10 17:59:47,2019-12-09,AHC,Moroney James M III,Dir,P - Purchase,$5.00,"+378,010",33441,-110%,"+$1,890,050",,,,,DALN
+7,,2019-12-10 17:59:47,2019-12-09,AHC,Moroney James M III,Dir,S - Sale,$4.70,-652773,33441,-95%,"-$3,065,247",,,,,DALN
+8,,2019-12-10 17:51:40,2019-12-09,AHC,Decherd Robert W,"COB, Pres, CEO",P - Purchase,$4.63,"+720,399",2146198,+51%,"+$3,335,751",,,,,DALN
+9,,2019-05-21 16:26:51,2019-05-21,AHC,Beckert John A,Dir,P - Purchase,$3.90,"+5,000",40640,+14%,"+$19,500",,,,,DALN
+10,,2019-05-16 16:48:21,2019-05-15,AHC,Moroney James M III,Dir,S - Sale,$4.01,-2000,232059,-1%,"-$8,020",,,,,DALN
+11,M,2019-05-14 18:11:34,2019-05-13,AHC,Moroney James M III,Dir,S - Sale,$4.03,-27256,234059,-10%,"-$109,742",,,,,DALN
+12,M,2019-05-10 17:45:55,2019-05-08,AHC,Moroney James M III,Dir,S - Sale,$4.01,-24542,261315,-9%,"-$98,412",,,,,DALN
+13,,2019-05-10 16:15:37,2019-05-09,AHC,Beckert John A,Dir,P - Purchase,$3.95,"+3,200",35640,+10%,"+$12,640",,,,,DALN
+14,M,2019-05-08 17:28:39,2019-05-07,AHC,Beckert John A,Dir,P - Purchase,$3.83,"+5,525",32440,+21%,"+$21,168",,,,,DALN
+15,,2019-05-03 16:00:46,2019-05-03,AHC,Decherd Robert W,"COB, Pres, CEO",P - Purchase,$4.70,"+143,419",1425799,+11%,"+$673,676",,,,,DALN
+16,,2019-04-25 17:22:31,2019-04-24,AHC,Moroney James M III,Dir,S - Sale,$4.00,-102,285857,0%,-$408,,,,,DALN
+17,M,2019-04-23 17:57:54,2019-04-22,AHC,Moroney James M III,Dir,S - Sale,$4.00,-3145,285959,-1%,"-$12,580",,,,,DALN
+18,,2019-04-18 16:47:54,2019-04-17,AHC,Moroney James M III,Dir,S - Sale,$4.00,-1800,289104,-1%,"-$7,200",,,,,DALN
+19,,2019-04-12 16:34:43,2019-04-11,AHC,Moroney James M III,Dir,S - Sale,$4.00,-455,290904,0%,"-$1,820",,,,,DALN
+20,M,2019-03-05 17:14:14,2019-03-04,AHC,Moroney James M III,Dir,S - Sale,$4.01,-11650,291359,-4%,"-$46,710",,,,,DALN
+21,,2019-03-04 17:17:48,2019-03-01,AHC,Moroney James M III,Dir,S - Sale,$4.02,-1547,303009,-1%,"-$6,219",,,,,DALN
+22,M,2019-02-28 16:42:59,2019-02-27,AHC,Moroney James M III,Dir,S - Sale,$4.04,-5603,304556,-2%,"-$22,612",,,,,DALN
+23,M,2019-02-22 17:06:30,2019-02-21,AHC,Moroney James M III,Dir,S - Sale,$4.01,-12000,317359,-4%,"-$48,120",,,,,DALN
+24,M,2019-02-20 16:43:42,2019-02-19,AHC,Moroney James M III,Dir,S - Sale,$4.00,-6985,329359,-2%,"-$27,940",,,,,DALN
+25,M,2019-02-15 16:27:15,2019-02-14,AHC,Moroney James M III,Dir,S - Sale,$4.00,-2115,336344,-1%,"-$8,460",,,,,DALN
+26,M,2019-02-13 16:34:11,2019-02-12,AHC,Moroney James M III,Dir,S - Sale,$4.05,-8600,338459,-2%,"-$34,864",,,,,DALN
+27,M,2019-02-06 17:16:31,2019-02-05,AHC,Moroney James M III,Dir,S - Sale,$4.14,-21496,347059,-6%,"-$88,963",,,,,DALN
+28,M,2019-02-04 17:46:17,2019-02-01,AHC,Moroney James M III,Dir,S - Sale,$4.02,-3204,368555,-1%,"-$12,876",,,,,DALN
+29,M,2019-01-31 17:43:00,2019-01-30,AHC,Moroney James M III,Dir,S - Sale,$4.02,-6700,371759,-2%,"-$26,930",,,,,DALN
+30,M,2019-01-25 16:59:28,2019-01-24,AHC,Moroney James M III,Dir,S - Sale,$4.07,-8700,378459,-2%,"-$35,430",,,,,DALN
+31,M,2019-01-23 17:22:18,2019-01-22,AHC,Moroney James M III,Dir,S - Sale,$4.33,-6500,387159,-2%,"-$28,129",,,,,DALN
+32,M,2019-01-18 16:50:28,2019-01-17,AHC,Moroney James M III,Dir,S - Sale,$4.34,-23400,393659,-6%,"-$101,640",,,,,DALN
+33,M,2019-01-16 17:24:17,2019-01-15,AHC,Moroney James M III,Dir,S - Sale,$4.22,-5000,417059,-1%,"-$21,099",,,,,DALN
+34,,2018-05-08 16:56:15,2018-05-08,AHC,Ohara Michael Joseph,"SVP, CIO",S - Sale,$4.95,-3387,0,-100%,"-$16,766",,,,,DALN

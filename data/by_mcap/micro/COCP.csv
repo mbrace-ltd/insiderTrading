@@ -1,0 +1,4 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-23 18:02:05,2021-08-20,COCP,Pfenniger Richard C Jr,Dir,P - Purchase,$1.03,"+40,000",40000,New,"+$41,120",,,,,COCP
+1,,2021-05-06 18:00:16,2021-05-04,COCP,Schinazi Raymond F,10%,S - Sale,$2.95,-575000,7674960,-7%,"-$1,696,250",,,,,COCP
+2,M,2019-10-29 17:03:31,2019-10-23,COCP,Schinazi Raymond F,10%,P - Purchase,$1.12,"+16,935",10253456,0%,"+$19,037",,,,,COCP

@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2020-06-24 16:07:47,2020-06-22,VRME,Laffer Arthur B,Dir,P - Purchase,$4.60,"+10,800",57521,+23%,"+$49,680",,,,,VRME
+1,D,2020-06-24 16:07:06,2020-06-22,VRME,Geller Marshall S,Dir,P - Purchase,$4.60,"+7,000",157341,+5%,"+$32,200",,,,,VRME
+2,,2019-11-25 16:05:15,2019-11-21,VRME,Laffer Arthur B,Dir,P - Purchase,$0.06,"+416,050",656050,+173%,"+$23,964",,,,,VRME
+3,M,2019-06-10 20:20:24,2019-06-06,VRME,Blickman Laurence J,10%,S - Sale,$0.16,-1041436,9555295,-10%,"-$165,024",,,,,VRME
+4,,2018-07-25 16:05:15,2018-07-24,VRME,Blickman Laurence J,"Dir, 10%",P - Purchase,$0.25,"+10,000",16323246,0%,"+$2,486",,,,,VRME
+5,,2018-07-18 16:05:14,2018-07-17,VRME,Blickman Laurence J,"Dir, 10%",P - Purchase,$0.25,"+4,000",16313246,0%,"+$1,001",,,,,VRME
+6,,2018-07-10 16:05:15,2018-07-06,VRME,Blickman Laurence J,"Dir, 10%",P - Purchase,$0.23,+300,16309246,0%,+$68,,,,,VRME
+7,,2018-07-03 16:05:16,2018-06-29,VRME,Blickman Laurence J,"Dir, 10%",P - Purchase,$0.22,"+10,000",16308946,0%,"+$2,200",,,,,VRME
+8,,2018-03-06 16:07:33,2018-03-02,VRME,Blickman Laurence J,"Dir, 10%",P - Purchase,$0.12,"+299,681",14026359,+2%,"+$35,962",,,,,VRME
+9,,2018-02-26 16:11:27,2018-02-22,VRME,Blickman Laurence J,"Dir, 10%",P - Purchase,$0.25,"+84,000",13726678,+1%,"+$20,882",,,,,VRME
+10,,2017-12-22 16:05:13,2017-12-20,VRME,Blickman Laurence J,"Dir, 10%",P - Purchase,$0.13,"+10,000",8598908,0%,"+$1,300",,,,,VRME

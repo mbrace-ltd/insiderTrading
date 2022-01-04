@@ -1,0 +1,41 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,DM,2021-12-16 17:34:06,2021-12-14,LMB,Horowitz Joshua,Dir,P - Purchase,$7.27,"+11,106",250316,+5%,"+$80,712",,,,,LMB
+1,,2021-12-10 16:03:37,2021-12-08,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$7.65,"+3,246",433416,+1%,"+$24,838",,,,,LMB
+2,DM,2021-12-09 17:53:18,2021-12-07,LMB,Horowitz Joshua,Dir,P - Purchase,$7.79,"+37,522",239210,+19%,"+$292,215",,,,,LMB
+3,,2021-12-09 16:08:34,2021-12-07,LMB,Krzeminski Laurel J,Dir,P - Purchase,$7.60,"+1,500",7899,+23%,"+$11,400",,,,,LMB
+4,DM,2021-06-22 14:45:30,2021-06-21,LMB,Horowitz Joshua,Dir,P - Purchase,$9.08,"+6,507",201688,+3%,"+$59,091",,,,,LMB
+5,DM,2021-06-08 19:50:44,2021-06-04,LMB,Horowitz Joshua,Dir,P - Purchase,$9.31,"+7,320",195181,+4%,"+$68,179",,,,,LMB
+6,,2021-04-01 17:17:04,2021-03-31,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$10.24,"+3,909",430170,+1%,"+$40,010",,,,,LMB
+7,,2020-09-30 17:21:39,2020-09-29,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$9.40,"+5,263",402927,+1%,"+$49,447",,,,,LMB
+8,DM,2020-09-28 14:12:28,2020-09-24,LMB,Horowitz Joshua,Dir,P - Purchase,$8.08,"+33,762",187062,+22%,"+$272,791",,,,,LMB
+9,,2020-09-25 16:43:08,2020-09-25,LMB,1347 Investors LLC,See Remarks,S - Sale,$7.87,-54655,0,-100%,"-$429,993",,,,,LMB
+10,M,2020-09-24 16:26:54,2020-09-22,LMB,1347 Investors LLC,See Remarks,S - Sale,$8.71,-7115,54655,-12%,"-$61,995",,,,,LMB
+11,M,2020-09-11 16:38:57,2020-09-09,LMB,McCann Michael M,COO,P - Purchase,$7.44,"+33,935",45661,+289%,"+$252,413",,,,,LMB
+12,,2020-09-04 17:50:32,2020-09-03,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$6.62,"+12,000",397664,+3%,"+$79,464",,,,,LMB
+13,,2020-09-04 17:41:14,2020-09-03,LMB,Brooks Jayme L.,"EVP, CFO",P - Purchase,$6.53,"+4,595",9595,+92%,"+$30,005",,,,,LMB
+14,M,2020-08-20 12:11:13,2020-08-18,LMB,Kingsway Financial Services Inc,10%,S - Sale,$5.49,-127202,255110,-33%,"-$697,731",,,,,LMB
+15,M,2020-08-18 16:43:29,2020-08-14,LMB,Kingsway Financial Services Inc,10%,S - Sale,$5.26,-180601,382312,-32%,"-$949,499",,,,,LMB
+16,M,2020-08-13 13:44:24,2020-08-11,LMB,Kingsway Financial Services Inc,10%,S - Sale,$4.76,-31837,562913,-5%,"-$151,648",,,,,LMB
+17,,2020-03-31 21:56:00,2020-03-31,LMB,Pratt Brian,10%,P - Purchase,$2.88,"+7,800",1537800,+1%,"+$22,444",,,,,LMB
+18,,2020-03-31 14:47:53,2020-03-27,LMB,Pratt Brian,10%,P - Purchase,$2.87,"+30,000",1530000,+2%,"+$86,091",,,,,LMB
+19,M,2020-03-23 17:30:32,2020-03-18,LMB,Pratt Brian,10%,P - Purchase,$3.69,"+665,377",1500000,+80%,"+$2,455,510",,,,,LMB
+20,,2019-12-12 16:15:37,2019-12-10,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$2.72,"+5,000",362331,+1%,"+$13,599",,,,,LMB
+21,M,2019-12-10 16:17:08,2019-12-06,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$2.75,"+60,000",357331,+20%,"+$165,069",,,,,LMB
+22,,2019-12-10 16:17:08,2019-08-21,LMB,Bacon Charles A. III,"Pres, CEO",S - Sale,$4.75,-7260,357331,-2%,"-$34,485",,,,,LMB
+23,,2019-12-10 16:16:47,2019-08-21,LMB,Jordan John T. Jr.,See Remarks,S - Sale,$4.75,-2244,10896,-17%,"-$10,659",,,,,LMB
+24,,2019-12-10 16:16:29,2019-08-21,LMB,McCann Michael M,COO,S - Sale,$4.75,-576,5226,-10%,"-$2,736",,,,,LMB
+25,,2019-12-10 16:16:07,2019-08-21,LMB,Thorne Kristopher L.,See Remarks,S - Sale,$4.75,-2169,14116,-13%,"-$10,303",,,,,LMB
+26,,2019-12-10 16:15:50,2019-12-06,LMB,Brooks Jayme L.,"EVP, CFO",P - Purchase,$2.80,"+5,000",5000,New,"+$13,998",,,,,LMB
+27,M,2019-11-22 15:05:01,2019-11-20,LMB,McNally Michael F,Dir,P - Purchase,$2.89,"+34,833",36609,>999%,"+$100,632",,,,,LMB
+28,D,2019-05-30 20:33:12,2019-05-30,LMB,1347 Investors LLC,"See Remarks, 10%",S - Sale+OE,$9.00,-200000,1298114,-13%,"-$1,800,200",,,,,LMB
+29,DM,2019-05-28 18:47:51,2019-05-23,LMB,1347 Investors LLC,"See Remarks, 10%",S - Sale+OE,$10.08,-299616,1498114,-17%,"-$3,020,192",,,,,LMB
+30,DM,2019-05-22 19:58:06,2019-05-20,LMB,1347 Investors LLC,"See Remarks, 10%",S - Sale+OE,$10.63,-545785,1797730,-23%,"-$5,799,572",,,,,LMB
+31,M,2019-02-13 17:43:34,2019-02-11,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$5.67,"+14,390",287925,+5%,"+$81,623",,,,,LMB
+32,,2019-02-11 17:18:02,2019-02-08,LMB,Bacon Charles A. III,"Pres, CEO",P - Purchase,$5.78,"+10,610",273535,+4%,"+$61,326",,,,,LMB
+33,A,2019-01-10 20:06:48,2019-01-08,LMB,Jordan John T. Jr.,CFO,S - Sale,$4.55,-746,8974,-8%,"-$3,394",,,,,LMB
+34,A,2019-01-10 20:06:11,2019-01-08,LMB,Thorne Kristopher L.,Chief Operations Officer,S - Sale,$4.55,-1086,12119,-8%,"-$4,941",,,,,LMB
+35,D,2019-01-03 17:00:18,2019-01-01,LMB,Jordan John T. Jr.,CFO,S - Sale+OE,$3.68,-995,0,-100%,"-$3,662",,,,,LMB
+36,D,2019-01-03 16:58:52,2019-01-01,LMB,Thorne Kristopher L.,Chief Operations Officer,S - Sale+OE,$3.68,-1450,11755,-11%,"-$5,336",,,,,LMB
+37,D,2018-08-03 21:04:20,2018-08-01,LMB,Thorne Kristopher L.,Chief Operations Officer,S - Sale+OE,$11.17,-1277,9205,-12%,"-$14,264",,,,,LMB
+38,D,2018-08-03 21:04:00,2018-08-01,LMB,Jordan John T. Jr.,CFO,S - Sale+OE,$11.17,-1321,7054,-16%,"-$14,756",,,,,LMB
+39,D,2018-08-03 21:03:38,2018-08-01,LMB,Bacon Charles A. III,"Pres, CEO",S - Sale+OE,$11.17,-4273,251259,-2%,"-$47,729",,,,,LMB

@@ -1,0 +1,5 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-05-28 17:00:33,2021-05-18,RCAT,Liuzza Nicholas Reyland Jr,Dir,P - Purchase,$2.77,"+12,000",890865,+1%,"+$33,210",,,,,RCAT
+1,M,2021-05-19 12:48:58,2021-05-13,RCAT,Liuzza Nicholas Reyland Jr,Dir,P - Purchase,$3.24,"+11,000",850435,+1%,"+$35,594",,,,,RCAT
+2,,2021-01-05 15:22:00,2020-12-31,RCAT,Thompson Jeffrey M,"COB, CEO, 10%",P - Purchase,$2.66,+420,12167968,0%,"+$1,117",,,,,RCAT
+3,,2018-12-21 19:00:13,2018-12-21,TFVR,Read Jonathan R,CEO,P - Purchase,$10.00,+100,100,New,"+$1,000",,,,,RCAT

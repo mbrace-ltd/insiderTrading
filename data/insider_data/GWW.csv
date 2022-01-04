@@ -1,0 +1,38 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-05-05 17:38:30,2021-05-05,GWW,Thomson Laurie R,"VP, Controller",S - Sale+OE,$459.46,-1994,2052,-49%,"-$916,157",,,,,GWW
+1,D,2021-04-05 21:15:20,2021-04-05,GWW,Macpherson Donald G,"COB, CEO",S - Sale+OE,$407.01,-4276,63985,-6%,"-$1,740,366",,,,,GWW
+2,D,2021-04-05 21:13:50,2021-04-05,GWW,Howard John L,"SVP, GC",S - Sale+OE,$407.21,-2535,39567,-6%,"-$1,032,283",,,,,GWW
+3,D,2020-12-11 19:11:16,2020-12-10,GWW,Howard John L,"SVP, GC",S - Sale+OE,$403.79,-18903,39567,-32%,"-$7,632,749",,,,,GWW
+4,D,2020-09-21 18:30:35,2020-09-17,GWW,Macpherson Donald G,"COB, CEO",S - Sale+OE,$356.06,-14909,54485,-21%,"-$5,308,421",,,,,GWW
+5,D,2020-09-11 15:28:54,2020-09-10,GWW,Okray Thomas B,"SVP, CFO",S - Sale+OE,$355.30,-3572,6231,-36%,"-$1,269,126",,,,,GWW
+6,D,2020-09-03 14:07:01,2020-09-02,GWW,Robbins Paige K,SVP,S - Sale+OE,$367.68,-2790,11193,-20%,"-$1,025,815",,,,,GWW
+7,DM,2020-08-26 18:33:34,2020-08-24,GWW,Williams Susan Slavik,Dir,S - Sale+OE,$349.82,-87000,4726443,-2%,"-$30,434,474",,,,,GWW
+8,D,2020-08-10 15:53:12,2020-08-07,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$346.65,-311,2693,-10%,"-$107,809",,,,,GWW
+9,D,2020-08-04 13:06:48,2020-08-03,GWW,Howard John L,"SVP, GC",S - Sale+OE,$342.98,-2679,39567,-6%,"-$918,830",,,,,GWW
+10,D,2020-05-29 15:38:44,2020-05-28,GWW,Robbins Paige K,SVP,S - Sale+OE,$312.66,-3840,11193,-26%,"-$1,200,622",,,,,GWW
+11,D,2020-02-20 16:52:03,2020-02-19,GWW,Merriwether Deidra C,SVP (See Remarks),S - Sale+OE,$307.03,-588,5092,-10%,"-$180,534",,,,,GWW
+12,D,2020-02-20 16:50:35,2020-02-19,GWW,Macpherson Donald G,"COB, CEO",S - Sale+OE,$306.96,-7814,42546,-16%,"-$2,398,571",,,,,GWW
+13,D,2020-02-20 16:49:22,2020-02-19,GWW,Howard John L,"SVP, GC",S - Sale+OE,$306.95,-2182,43217,-5%,"-$669,765",,,,,GWW
+14,D,2019-11-07 14:15:24,2019-11-07,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$319.53,-865,2411,-26%,"-$276,389",,,,,GWW
+15,D,2019-11-05 14:35:07,2019-11-04,GWW,Robbins Paige K,SVP,S - Sale+OE,$318.32,-340,9574,-3%,"-$108,228",,,,,GWW
+16,D,2019-10-15 07:40:24,2019-10-11,GWW,Howard John L,"SVP, GC",S - Sale+OE,$305.68,-11716,43217,-21%,"-$3,581,291",,,,,GWW
+17,D,2019-06-17 14:16:21,2019-06-14,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$272.58,-180,2411,-7%,"-$49,064",,,,,GWW
+18,D,2019-02-22 10:45:57,2019-02-21,GWW,Merriwether Deidra C,SVP (See Remarks),S - Sale+OE,$310.13,-271,5092,-5%,"-$84,045",,,,,GWW
+19,D,2019-02-22 10:36:58,2019-02-21,GWW,Macpherson Donald G,"COB, CEO",S - Sale+OE,$310.03,-2317,42546,-5%,"-$718,348",,,,,GWW
+20,D,2019-02-22 10:35:59,2019-02-21,GWW,Howard John L,"SVP, GC",S - Sale+OE,$310.09,-1211,43217,-3%,"-$375,515",,,,,GWW
+21,D,2018-08-23 08:35:33,2018-08-22,GWW,Howard John L,"SVP, GC",S - Sale+OE,$368.20,-14990,43217,-26%,"-$5,519,346",,,,,GWW
+22,D,2018-08-16 12:40:30,2018-08-16,GWW,Anderson Brian P,Dir,S - Sale+OE,$360.18,-1000,3340,-23%,"-$360,177",,,,,GWW
+23,D,2018-08-02 16:38:27,2018-08-01,GWW,Macpherson Donald G,"COB, CEO",S - Sale+OE,$342.39,-21448,42546,-34%,"-$7,343,535",,,,,GWW
+24,D,2018-07-31 11:10:02,2018-07-30,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$338.19,-1534,2278,-40%,"-$518,784",,,,,GWW
+25,D,2018-06-15 13:27:08,2018-06-13,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$315.57,-2265,3812,-37%,"-$714,762",,,,,GWW
+26,D,2018-05-04 12:39:18,2018-05-03,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$278.73,-216,3812,-5%,"-$60,207",,,,,GWW
+27,AD,2018-05-02 14:38:47,2018-04-24,GWW,Jadin Ronald L,"SVP, Chief Financial Off",S - Sale+OE,$286.93,-29000,26005,-53%,"-$8,320,890",,,,,GWW
+28,D,2018-04-25 16:03:06,2018-04-24,GWW,Jadin Ronald L,"SVP, Chief Financial Off",S - Sale+OE,$286.93,-29000,26005,-53%,"-$8,320,890",,,,,GWW
+29,D,2018-04-05 16:51:44,2018-04-05,GWW,Howard John L,"SVP, GC",S - Sale+OE,$295.00,-19500,38406,-34%,"-$5,752,500",,,,,GWW
+30,D,2018-02-07 16:59:53,2018-02-05,GWW,Watson Lucas E,Dir,P - Purchase,$256.51,195,195,New,"+$50,020",,,,,GWW
+31,D,2018-02-02 12:40:09,2018-02-01,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$266.06,-100,3563,-3%,"-$26,606",,,,,GWW
+32,D,2018-01-12 14:53:53,2018-01-11,GWW,Brown Laura D,"SVP, Inv Rel, Comm",S - Sale+OE,$232.87,-9158,7735,-54%,"-$2,132,577",,,,,GWW
+33,D,2017-12-01 12:16:36,2017-11-30,GWW,Howard John L,"SVP, GC",S - Sale+OE,$220.56,-21000,38406,-35%,"-$4,631,736",,,,,GWW
+34,D,2017-12-01 12:15:47,2017-11-29,GWW,Macpherson Donald G,"COB, CEO",S - Sale+OE,$212.48,-22836,30611,-43%,"-$4,852,251",,,,,GWW
+35,D,2017-10-30 12:38:52,2017-10-26,GWW,Robbins Paige K,"SVP, Chief Digital Officer",S - Sale+OE,$202.31,-346,8054,-4%,"-$70,000",,,,,GWW
+36,D,2017-10-20 14:18:01,2017-10-20,GWW,Tapia Eric R,"VP, Controller",S - Sale+OE,$208.26,-190,3748,-5%,"-$39,569",,,,,GWW

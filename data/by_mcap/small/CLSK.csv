@@ -1,0 +1,6 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-07-09 12:15:13,2021-06-16,CLSK,McNeill Larry,Dir,S - Sale,$18.86,-15000,148256,-9%,"-$282,830",,,,,CLSK
+1,,2021-07-07 18:55:48,2021-07-02,CLSK,Bradford Zachary,"CEO, Pres",P - Purchase,$0.20,"+83,333",583333,+17%,"+$16,667",,,,,CLSK
+2,,2021-07-07 18:55:08,2021-07-02,CLSK,Schultz S. Matthew,Exec COB,P - Purchase,$0.20,"+83,333",583333,+17%,"+$16,667",,,,,CLSK
+3,,2021-07-07 18:53:59,2021-07-02,CLSK,McNeill Larry,Dir,P - Purchase,$0.20,"+83,333",583333,+17%,"+$16,667",,,,,CLSK
+4,,2018-02-22 17:08:57,2018-02-15,CLSK,Schultz S. Matthew,"CEO, 10%",S - Sale,$0.20,-450000,5984956,-7%,"-$90,000",,,,,CLSK

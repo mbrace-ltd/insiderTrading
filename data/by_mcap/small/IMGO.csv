@@ -1,0 +1,5 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-07-20 18:05:55,2021-07-20,IMGO,"Clarus Lifesciences Iii, L.P.",10%,P - Purchase,$16.00,"+150,000",3375037,+5%,"+$2,400,000",,,,,IMGO
+1,D,2021-07-20 17:54:29,2021-07-20,IMGO,Heron Patrick J,Dir,P - Purchase,$16.00,"+187,500",2312331,+9%,"+$3,000,000",,,,,IMGO
+2,,2021-07-19 19:03:09,2021-07-15,IMGO,"Omega Fund Vi, L.P.",Former 10% Owner,P - Purchase,$16.00,"+250,000",250000,New,"+$4,000,000",,,,,IMGO
+3,D,2021-07-19 16:09:15,2021-07-15,IMGO,Baltera Robert Jr.,Dir,P - Purchase,$16.00,+850,850,New,"+$13,600",,,,,IMGO

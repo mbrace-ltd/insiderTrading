@@ -1,0 +1,16 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2019-12-26 06:09:09,2019-12-23,VERB,Clayborne Jeff,CFO,P - Purchase,$1.39,"+1,500",137833,+1%,"+$2,080",,,,,VERB
+1,,2019-12-23 09:15:11,2019-12-20,VERB,Cragun Kenneth S,Dir,P - Purchase,$1.37,"+1,500",4500,+50%,"+$2,059",,,,,VERB
+2,,2019-12-17 09:00:30,2019-12-16,VERB,Bond Phillip J.,Dir,P - Purchase,$1.24,"+1,500",4500,+50%,"+$1,860",,,,,VERB
+3,,2019-12-09 18:48:38,2019-12-09,VERB,Geiskopf James P,Dir,P - Purchase,$0.86,"+1,500",282100,+1%,"+$1,295",,,,,VERB
+4,,2019-12-06 09:00:12,2019-12-05,VERB,Cutaia Rory J.,"CEO, 10%",P - Purchase,$0.85,"+1,500",3303015,0%,"+$1,280",,,,,VERB
+5,,2019-11-26 09:00:25,2019-11-25,VERB,Clayborne Jeff,CFO,P - Purchase,$0.93,"+1,500",136333,+1%,"+$1,398",,,,,VERB
+6,,2019-11-22 06:10:31,2019-11-21,VERB,Cragun Kenneth S,Dir,P - Purchase,$0.87,"+1,500",3000,+100%,"+$1,312",,,,,VERB
+7,,2019-11-19 06:15:29,2019-11-18,VERB,Bond Phillip J.,Dir,P - Purchase,$0.93,"+1,500",3000,+100%,"+$1,392",,,,,VERB
+8,,2019-11-12 09:00:28,2019-11-11,VERB,Geiskopf James P,Dir,P - Purchase,$0.97,"+1,500",280600,+1%,"+$1,456",,,,,VERB
+9,,2019-11-07 06:15:30,2019-11-06,VERB,Cutaia Rory J.,"CEO, 10%",P - Purchase,$0.90,"+1,500",3301515,0%,"+$1,349",,,,,VERB
+10,,2019-10-30 09:00:18,2019-10-29,VERB,Cragun Kenneth S,Dir,P - Purchase,$1.01,"+1,500",1500,New,"+$1,516",,,,,VERB
+11,,2019-10-23 09:00:19,2019-10-22,VERB,Clayborne Jeff,CFO,P - Purchase,$1.05,"+1,500",134833,+1%,"+$1,570",,,,,VERB
+12,A,2019-10-21 09:00:24,2019-10-08,VERB,Geiskopf James P,Dir,P - Purchase,$1.10,"+1,500",279100,+1%,"+$1,650",,,,,VERB
+13,A,2019-10-21 09:00:20,2019-10-04,VERB,Cutaia Rory J.,"CEO, 10%",P - Purchase,$1.17,"+1,500",3300015,0%,"+$1,758",,,,,VERB
+14,A,2019-10-21 09:00:20,2019-10-17,VERB,Bond Phillip J.,Dir,P - Purchase,$1.06,"+1,500",1500,New,"+$1,597",,,,,VERB

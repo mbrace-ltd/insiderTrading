@@ -1,0 +1,24 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-12-17 18:48:18,2021-12-16,QTNT,El Khoury Mohammad,Chief Commercial Officer,P - Purchase,$2.05,"+50,000",50000,New,"+$102,500",,,,,QTNT
+1,D,2021-11-03 18:04:53,2021-11-01,QTNT,Von Prondzynski Heino,Dir,S - Sale+OE,$0.00,-3713,294099,-1%,-$0,,,,,QTNT
+2,D,2021-11-03 18:00:17,2021-11-01,QTNT,McDonough Brian,Dir,S - Sale+OE,$0.00,-1236,114910,-1%,-$0,,,,,QTNT
+3,D,2021-02-08 16:05:16,2021-02-04,QTNT,Stackawitz Jeremy,Chief Commercial Officer,S - Sale+OE,$5.14,-30000,112926,-21%,"-$154,197",,,,,QTNT
+4,D,2021-02-05 16:20:09,2021-02-03,QTNT,Farrell Edward,COO (+),S - Sale+OE,$5.07,-96000,29757,-76%,"-$487,056",,,,,QTNT
+5,,2020-09-16 08:30:30,2020-09-15,QTNT,Perceptive Advisors LLC,10%,P - Purchase,$4.25,"+2,911,764",16200818,+22%,"+$12,374,997",,,,,QTNT
+6,D,2020-06-01 16:07:30,2020-05-28,QTNT,Stackawitz Jeremy,Chief Commercial Officer,S - Sale+OE,$7.41,-11000,142926,-7%,"-$81,510",,,,,QTNT
+7,D,2020-06-01 16:05:54,2020-05-28,QTNT,Farrell Edward,COO,S - Sale+OE,$7.40,-12811,29013,-31%,"-$94,801",,,,,QTNT
+8,D,2020-03-13 19:48:31,2020-03-13,QTNT,Buhler Peter,CFO,P - Purchase,$4.04,"+10,000",10000,New,"+$40,400",,,,,QTNT
+9,D,2020-03-13 19:46:16,2020-03-13,QTNT,Von Prondzynski Heino,Dir,P - Purchase,$4.00,"+30,000",239922,+14%,"+$120,000",,,,,QTNT
+10,,2019-11-12 10:16:31,2019-11-07,QTNT,Perceptive Advisors LLC,10%,P - Purchase,$7.00,"+2,500,000",13289054,+23%,"+$17,500,000",,,,,QTNT
+11,D,2019-08-21 16:05:33,2019-08-19,QTNT,Boyd Roland,See Remarks,S - Sale+OE,$10.95,-21100,70508,-23%,"-$231,045",,,,,QTNT
+12,D,2019-06-17 16:05:17,2019-06-13,QTNT,Hallsworth Frederick,Dir,P - Purchase,$8.70,"+3,150",77548,+4%,"+$27,405",,,,,QTNT
+13,D,2019-05-31 16:05:26,2019-05-29,QTNT,Farrell Edward,Pres,S - Sale+OE,$9.95,-11000,14566,-43%,"-$109,450",,,,,QTNT
+14,D,2019-05-31 16:05:20,2019-05-29,QTNT,Stackawitz Jeremy,Pres,S - Sale+OE,$9.93,-21495,131939,-14%,"-$213,445",,,,,QTNT
+15,D,2019-05-10 16:05:29,2019-05-08,QTNT,Farrell Edward,Pres,S - Sale+OE,$8.67,-22500,2133,-91%,"-$195,075",,,,,QTNT
+16,D,2019-05-10 16:05:18,2019-05-08,QTNT,Stackawitz Jeremy,Pres,S - Sale+OE,$8.67,-22500,131939,-15%,"-$195,075",,,,,QTNT
+17,D,2018-12-12 18:50:31,2018-12-11,QTNT,Hallsworth Frederick,Dir,P - Purchase,$6.50,"+10,000",65037,+18%,"+$65,000",,,,,QTNT
+18,DM,2018-12-12 18:50:31,2016-03-24,QTNT,Hallsworth Frederick,Dir,S - Sale+OE,$7.05,-76,65037,0%,-$536,,,,,QTNT
+19,,2018-12-10 08:30:29,2018-12-07,QTNT,Perceptive Advisors LLC,10%,P - Purchase,$6.50,"+2,000,000",10789054,+23%,"+$13,000,000",,,,,QTNT
+20,M,2018-05-24 17:11:32,2018-05-22,QTNT,Perceptive Advisors LLC,10%,P - Purchase,$6.45,"+450,000",6483020,+7%,"+$2,903,117",,,,,QTNT
+21,D,2018-02-22 16:30:53,2018-02-21,QTNT,Von Prondzynski Heino,Dir,P - Purchase,$4.28,"+12,000",73229,+20%,"+$51,348",,,,,QTNT
+22,D,2018-02-12 18:21:55,2018-02-08,QTNT,McDonough Brian,Dir,P - Purchase,$3.87,"+10,000",47747,+26%,"+$38,680",,,,,QTNT

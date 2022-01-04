@@ -1,0 +1,16 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2020-12-09 16:01:40,2020-11-26,RYES,Boon Vince,CFO,S - Sale,$0.65,-9607,0,-100%,"-$6,245",,,,,PROF
+1,D,2020-11-20 16:36:05,2020-11-18,RYES,Lepard Lawrence Ward,"Dir, 10%",P - Purchase,$0.75,"+66,667",2256531,+3%,"+$50,000",,,,,PROF
+2,ADM,2020-10-08 20:45:31,2020-10-01,RYES,Lepard Lawrence Ward,"Dir, 10%",P - Purchase,$0.75,"+205,783",2189864,+10%,"+$153,592",,,,,PROF
+3,ADM,2020-10-08 19:43:11,2020-09-29,RYES,Lepard Lawrence Ward,"Dir, 10%",P - Purchase,$0.66,"+193,873",1984081,+11%,"+$128,165",,,,,PROF
+4,DM,2020-10-05 16:30:53,2020-10-01,RYES,Lepard Lawrence Ward,"Dir, 10%",P - Purchase,$0.75,"+205,783",2189964,+10%,"+$153,592",,,,,PROF
+5,DM,2020-10-01 16:19:49,2020-09-29,RYES,Lepard Lawrence Ward,"Dir, 10%",P - Purchase,$0.66,"+193,873",1984181,+11%,"+$128,165",,,,,PROF
+6,D,2020-08-04 20:31:52,2020-07-31,RYES,Mossman Benjamin,"CEO, Pres",P - Purchase,$0.75,"+40,000",202829,+25%,"+$30,000",,,,,PROF
+7,D,2020-08-04 18:57:11,2020-07-31,RYES,Lepard Lawrence Ward,"Dir, 10%",P - Purchase,$0.75,"+133,333",1790208,+8%,"+$100,000",,,,,PROF
+8,D,2020-01-03 17:47:34,2019-12-31,RYESD,Lepard Lawrence Ward,"Dir, 10%",P - Purchase,$0.49,"+298,000",1656875,+22%,"+$146,566",,,,,PROF
+9,D,2019-07-12 16:13:52,2019-07-03,RYES,Mossman Benjamin,"CEO, Pres",P - Purchase,$0.07,"+714,286",1628286,+78%,"+$50,000",,,,,PROF
+10,D,2019-03-05 18:07:14,2019-03-01,RYES,Mossman Benjamin,"CEO, Pres",P - Purchase,$0.10,"+200,000",914000,+28%,"+$20,000",,,,,PROF
+11,D,2018-11-07 13:59:11,2018-11-05,RYES,Southern Arc Minerals Inc,10%,P - Purchase,$0.08,"+7,500,000",27500000,+38%,"+$600,000",,,,,PROF
+12,D,2018-03-01 17:46:45,2018-03-01,RYES,Mossman Benjamin,"CEO, Pres",P - Purchase,$0.13,"+50,000",714000,+8%,"+$6,250",,,,,PROF
+13,D,2018-02-28 14:43:42,2018-02-27,RYES,Mossman Benjamin,"CEO, Pres",P - Purchase,$0.11,"+64,000",664000,+11%,"+$6,912",,,,,PROF
+14,D,2018-01-16 16:41:57,2018-01-04,RYES,Mossman Benjamin,CEO,P - Purchase,$0.19,"+50,000",450000,+13%,"+$9,250",,,,,PROF

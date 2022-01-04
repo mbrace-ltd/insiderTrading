@@ -1,0 +1,57 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-05-03 17:22:27,2021-04-29,AMP,Smyth Gerard P.,"EVP Technology, CIO",S - Sale+OE,$259.64,-970,10605,-8%,"-$251,853",,,,,AMP
+1,D,2021-05-03 17:22:03,2021-04-29,AMP,Woerner John Robert,"Pres Ins, Chief Strat Officer",S - Sale+OE,$258.76,-13956,27557,-34%,"-$3,611,300",,,,,AMP
+2,,2021-05-03 16:52:40,2021-04-29,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale,$259.85,-1560,11903,-12%,"-$405,366",,,,,AMP
+3,D,2021-02-19 16:35:30,2021-02-17,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale+OE,$219.21,-2055,13463,-13%,"-$450,465",,,,,AMP
+4,D,2021-02-16 17:02:09,2021-02-11,AMP,Sweeney Joseph Edward,"Pres-AWM Products, Services",S - Sale+OE,$215.22,-9500,17007,-36%,"-$2,044,550",,,,,AMP
+5,,2021-02-12 16:33:19,2021-02-10,AMP,Hutt John R.,"Sr Vice Pres, Controller",S - Sale,$216.07,-77,2259,-3%,"-$16,637",,,,,AMP
+6,,2021-02-12 16:31:19,2021-02-10,AMP,Cracchiolo James M,"COB, CEO",S - Sale,$215.26,-52197,173499,-23%,"-$11,235,945",,,,,AMP
+7,,2021-02-09 17:43:58,2021-02-09,AMP,Berman Walter Stanley,"EVP, CFO",S - Sale,$212.09,-19000,15685,-55%,"-$4,029,721",,,,,AMP
+8,D,2021-02-03 17:05:06,2021-02-03,AMP,Moore Colin,"EVP, Global CIO",S - Sale+OE,$202.60,-44068,57775,-43%,"-$8,928,040",,,,,AMP
+9,D,2021-02-03 17:04:57,2021-02-03,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale+OE,$204.94,-1307,14323,-8%,"-$267,850",,,,,AMP
+10,D,2021-02-03 17:04:38,2021-02-03,AMP,Truscott William F,"CEO, Global Asset Management",S - Sale+OE,$203.61,-12002,46662,-20%,"-$2,443,754",,,,,AMP
+11,,2020-12-07 16:32:18,2020-12-03,AMP,Hutt John R.,"Sr Vice Pres, Controller",S - Sale,$196.12,-302,1978,-13%,"-$59,229",,,,,AMP
+12,D,2020-12-07 16:31:37,2020-12-03,AMP,Sweeney Joseph Edward,"Pres-AWM Products, Services",S - Sale+OE,$195.30,-6974,18287,-28%,"-$1,362,017",,,,,AMP
+13,D,2020-12-02 16:47:08,2020-11-30,AMP,Berman Walter Stanley,"EVP, CFO",S - Sale+OE,$186.69,-6633,18102,-27%,"-$1,238,316",,,,,AMP
+14,,2020-12-02 16:46:43,2020-11-30,AMP,Truscott William F,"CEO, Global Asset Management",S - Sale,$188.00,-21005,43739,-32%,"-$3,948,940",,,,,AMP
+15,,2020-12-01 15:16:45,2020-11-25,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale,$189.66,-1132,13277,-8%,"-$214,689",,,,,AMP
+16,,2020-11-13 16:00:42,2020-11-11,AMP,Moore Colin,"EVP, Global CIO",S - Sale,$181.86,-12322,55051,-18%,"-$2,240,846",,,,,AMP
+17,D,2020-11-12 18:14:20,2020-11-09,AMP,Cracchiolo James M,"COB, CEO",S - Sale+OE,$184.39,-52402,181557,-22%,"-$9,662,526",,,,,AMP
+18,D,2020-11-12 18:13:54,2020-11-09,AMP,Berman Walter Stanley,"EVP, CFO",S - Sale+OE,$182.95,-15514,18103,-46%,"-$2,838,305",,,,,AMP
+19,DM,2020-11-06 16:18:32,2020-11-04,AMP,Cracchiolo James M,"COB, CEO",S - Sale+OE,$172.20,-74539,206673,-27%,"-$12,835,822",,,,,AMP
+20,D,2020-11-05 16:38:50,2020-11-03,AMP,Sweeney Joseph Edward,"Pres-AWM Products, Services",S - Sale+OE,$167.73,-10927,20386,-35%,"-$1,832,777",,,,,AMP
+21,,2020-11-04 16:16:36,2020-11-02,AMP,Sharpe Robert Francis Jr,Dir,S - Sale,$164.55,-1000,5180,-16%,"-$164,545",,,,,AMP
+22,,2020-11-03 17:36:19,2020-10-30,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale,$159.22,-620,14408,-4%,"-$98,716",,,,,AMP
+23,D,2020-08-13 16:32:42,2020-08-11,AMP,Woerner John Robert,"Pres Ins, Chief Strat Officer",S - Sale+OE,$163.83,-9873,27653,-26%,"-$1,617,461",,,,,AMP
+24,,2020-05-27 17:02:28,2020-05-26,AMP,Sharpe Robert Francis Jr,Dir,S - Sale,$141.03,-1000,6180,-14%,"-$141,030",,,,,AMP
+25,,2020-02-24 16:22:13,2020-02-20,AMP,Kupper Randy,"EVP Technology, CIO",S - Sale,$179.56,-6862,19249,-26%,"-$1,232,104",,,,,AMP
+26,D,2020-02-19 17:02:36,2020-02-18,AMP,Berman Walter Stanley,"EVP, CFO",S - Sale+OE,$177.43,-52160,18100,-74%,"-$9,254,974",,,,,AMP
+27,D,2020-02-19 17:02:04,2020-02-18,AMP,Truscott William F,"CEO, Global Asset Management",S - Sale+OE,$177.88,-11998,75486,-14%,"-$2,134,229",,,,,AMP
+28,DM,2020-02-19 16:59:57,2020-02-14,AMP,Cracchiolo James M,"COB, CEO",S - Sale+OE,$177.93,-141618,235172,-38%,"-$25,198,093",,,,,AMP
+29,D,2020-02-10 17:27:36,2020-02-10,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale+OE,$175.72,-530,15026,-3%,"-$93,132",,,,,AMP
+30,D,2020-02-10 17:26:21,2020-02-07,AMP,Kupper Randy,"EVP Technology, CIO",S - Sale+OE,$175.42,-7115,22934,-24%,"-$1,248,120",,,,,AMP
+31,D,2020-02-04 16:48:02,2020-01-31,AMP,Woerner John Robert,"Pres Ins, Chief Strat Officer",S - Sale+OE,$166.15,-7598,29742,-20%,"-$1,262,423",,,,,AMP
+32,,2019-12-20 16:11:22,2019-12-18,AMP,Sweeney Joseph Edward,"Pres-AWM Products, Services",S - Sale,$167.50,-8100,19945,-29%,"-$1,356,726",,,,,AMP
+33,D,2019-11-12 17:29:39,2019-11-08,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale+OE,$158.67,-303,11870,-2%,"-$48,077",,,,,AMP
+34,,2019-10-31 17:34:12,2019-10-29,AMP,Woerner John Robert,"Pres Ins, Chief Strat Officer",S - Sale,$154.14,-6477,27433,-19%,"-$998,330",,,,,AMP
+35,,2019-06-11 16:15:21,2019-06-07,AMP,Kupper Randy,"EVP Technology, CIO",S - Sale,$150.38,-5160,23702,-18%,"-$775,937",,,,,AMP
+36,,2019-02-27 17:18:50,2019-02-25,AMP,Moore Colin,"EVP, Global CIO",S - Sale,$133.64,-24032,56447,-30%,"-$3,211,579",,,,,AMP
+37,,2018-05-10 18:21:01,2018-05-10,AMP,Cracchiolo James M,"COB, CEO",P - Purchase,$136.04,7400,243961,+3%,"+$1,006,678",,,,,AMP
+38,,2018-05-03 17:32:25,2018-05-02,AMP,Berman Walter Stanley,"EVP, CFO",P - Purchase,$134.12,3728,25400,+17%,"+$500,004",,,,,AMP
+39,,2018-02-27 17:00:58,2018-02-23,AMP,Kupper Randy,"EVP Technology, CIO",S - Sale,$159.61,-4381,21653,-17%,"-$699,256",,,,,AMP
+40,D,2018-01-30 16:24:27,2018-01-26,AMP,McGraw Deirdre Davey,"EVP Corp Comm, Cmnity Rltns",S - Sale+OE,$174.04,-5500,10839,-34%,"-$957,220",,,,,AMP
+41,D,2018-01-30 16:23:30,2018-01-26,AMP,Truscott William F,"CEO, Global Asset Management",S - Sale+OE,$173.64,-31379,46525,-40%,"-$5,448,706",,,,,AMP
+42,D,2017-12-27 16:07:45,2017-12-22,AMP,Stewart David Kent,"Sr Vice Pres, Controller",S - Sale+OE,$171.51,-4817,18110,-21%,"-$826,140",,,,,AMP
+43,D,2017-12-12 16:10:17,2017-12-08,AMP,Sweeney Joseph Edward,"Pres-AWM Products, Services",S - Sale+OE,$169.47,-7329,14092,-34%,"-$1,242,034",,,,,AMP
+44,D,2017-11-29 18:42:26,2017-11-27,AMP,Stewart David Kent,"Sr Vice Pres, Controller",S - Sale+OE,$160.72,-603,18111,-3%,"-$96,912",,,,,AMP
+45,M,2017-11-09 17:44:15,2017-11-07,AMP,Cracchiolo James M,"COB, CEO",S - Sale,$159.33,-42228,203736,-17%,"-$6,728,164",,,,,AMP
+46,,2017-10-31 17:24:51,2017-10-27,AMP,Sweeney Joseph Edward,"Pres-AWM Products, Services",S - Sale,$161.58,-1904,14091,-12%,"-$307,648",,,,,AMP
+47,D,2017-10-31 17:24:39,2017-10-27,AMP,Maglaque Charles Neal,"Pres Advice, Wealth Mgt, COO",S - Sale+OE,$161.01,-1754,11703,-13%,"-$282,412",,,,,AMP
+48,D,2017-10-31 17:24:13,2017-10-27,AMP,Kupper Randy,"EVP Technology, CIO",S - Sale+OE,$161.06,-2460,21742,-10%,"-$396,205",,,,,AMP
+49,D,2017-10-30 16:34:03,2017-10-26,AMP,Woerner John Robert,"Pres Ins, Chief Strat Officer",S - Sale+OE,$160.91,-9022,20490,-31%,"-$1,451,730",,,,,AMP
+50,,2017-10-30 16:33:06,2017-10-26,AMP,McGraw Deirdre Davey,"EVP Corp Comm, Cmnity Rltns",S - Sale,$160.77,-1000,14124,-7%,"-$160,772",,,,,AMP
+51,D,2017-10-30 16:32:11,2017-10-26,AMP,Moore Colin,"EVP, Global CIO",S - Sale+OE,$161.09,-4285,55314,-7%,"-$690,271",,,,,AMP
+52,M,2017-08-16 17:08:37,2017-08-14,AMP,Cracchiolo James M,"COB, CEO",S - Sale,$144.50,-39450,245951,-14%,"-$5,700,612",,,,,AMP
+53,D,2017-08-14 16:45:40,2017-08-10,AMP,Thissen Karen Wilson,"EVP, GC",S - Sale+OE,$145.15,-425,6931,-6%,"-$61,690",,,,,AMP
+54,,2017-08-14 16:44:01,2017-08-10,AMP,Berman Walter Stanley,"EVP, CFO",S - Sale,$145.80,-37917,10700,-78%,"-$5,528,262",,,,,AMP
+55,,2017-08-14 16:43:22,2017-08-10,AMP,McGraw Deirdre Davey,"EVP Corp Comm, Cmnity Rltns",S - Sale,$145.06,-1200,14173,-8%,"-$174,072",,,,,AMP

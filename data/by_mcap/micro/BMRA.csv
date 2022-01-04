@@ -1,0 +1,7 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2020-10-27 18:34:49,2020-10-26,BMRA,Coste Catherine,Dir,P - Purchase,$5.45,"+9,100",9100,New,"+$49,595",,,,,BMRA
+1,DM,2020-04-21 16:57:21,2020-04-17,BMRA,Sirgo Mark A,Dir,S - Sale+OE,$8.09,-10000,27400,-27%,"-$80,878",,,,,BMRA
+2,D,2018-02-09 16:16:59,2018-02-09,BMRA,Irani Zackary S.,"CEO, 10%",P - Purchase,$3.83,+500,860539,0%,"+$1,915",,,,,BMRA
+3,D,2018-02-05 17:24:29,2018-02-02,BMRA,Irani Zackary S.,"CEO, 10%",P - Purchase,$3.96,"+1,000",860039,0%,"+$3,960",,,,,BMRA
+4,DM,2018-01-25 18:13:41,2018-01-23,BMRA,Irani Zackary S.,"CEO, 10%",P - Purchase,$3.99,"+2,539",859039,0%,"+$10,134",,,,,BMRA
+5,DM,2018-01-25 17:05:58,2018-01-24,BMRA,Cano Francis,Dir,P - Purchase,$4.18,"+11,800",139636,+9%,"+$49,324",,,,,BMRA

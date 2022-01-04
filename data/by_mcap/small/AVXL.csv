@@ -1,0 +1,11 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-07-01 21:48:40,2021-06-29,AVXL,Missling Christopher U,"Pres, CEO",S - Sale+OE,$26.00,-51620,1018210,-5%,"-$1,342,120",,,,,AVXL
+1,D,2021-07-01 21:45:55,2021-06-29,AVXL,Boenisch Sandra,"PFO, Treasurer",S - Sale+OE,$26.53,-166696,22963,-88%,"-$4,422,445",,,,,AVXL
+2,D,2021-05-25 21:30:48,2021-05-21,AVXL,Favus Elliot,Dir,S - Sale+OE,$11.70,-145000,0,-100%,"-$1,696,283",,,,,AVXL
+3,,2021-05-19 08:47:25,2021-05-17,AVXL,Donhauser Peter D.O.,Dir,P - Purchase,$10.93,"+1,000",2165,+86%,"+$10,930",,,,,AVXL
+4,D,2021-02-26 21:31:59,2021-02-24,AVXL,Favus Elliot,Dir,S - Sale+OE,$12.66,-145500,0,-100%,"-$1,841,855",,,,,AVXL
+5,,2021-02-23 13:22:55,2021-02-19,AVXL,Donhauser Peter D.O.,Dir,P - Purchase,$12.67,"+1,165",1165,New,"+$14,760",,,,,AVXL
+6,,2018-03-09 15:16:09,2018-03-07,AVXL,Missling Christopher U,"Pres, CEO",P - Purchase,$2.92,"+1,360",1018210,0%,"+$3,971",,,,,AVXL
+7,,2018-03-07 11:01:11,2018-03-06,AVXL,Missling Christopher U,"Pres, CEO",P - Purchase,$2.73,"+1,450",1016850,0%,"+$3,959",,,,,AVXL
+8,,2018-03-06 14:06:33,2018-03-05,AVXL,Missling Christopher U,"Pres, CEO",P - Purchase,$2.63,"+1,500",1015400,0%,"+$3,945",,,,,AVXL
+9,,2018-03-05 08:56:05,2018-03-02,AVXL,Missling Christopher U,"Dir, Pres, CEO",P - Purchase,$2.41,"+1,650",1013900,0%,"+$3,977",,,,,AVXL

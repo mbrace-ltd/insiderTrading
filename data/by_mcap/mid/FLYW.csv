@@ -1,0 +1,13 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-12-17 19:12:27,2021-12-15,FLYW,Natauri Jo,Dir,S - Sale,$36.11,-65439,2969134,-2%,"-$2,363,265",,,,,FLYW
+1,M,2021-12-17 19:11:40,2021-12-15,FLYW,Goldman Sachs Group Inc,Dir,S - Sale,$36.11,-65439,2969134,-2%,"-$2,363,265",,,,,FLYW
+2,M,2021-12-15 19:42:07,2021-12-13,FLYW,Natauri Jo,Dir,S - Sale,$37.57,-153752,2902908,-5%,"-$5,776,854",,,,,FLYW
+3,M,2021-12-15 19:40:11,2021-12-13,FLYW,Goldman Sachs Group Inc,Dir,S - Sale,$37.57,-153752,2902908,-5%,"-$5,776,854",,,,,FLYW
+4,M,2021-12-13 21:56:14,2021-12-09,FLYW,Goldman Sachs Group Inc,Dir,S - Sale,$40.15,-165114,2974904,-5%,"-$6,629,280",,,,,FLYW
+5,M,2021-12-13 21:48:10,2021-12-09,FLYW,Natauri Jo,Dir,S - Sale,$40.15,-165114,2974904,-5%,"-$6,629,280",,,,,FLYW
+6,M,2021-12-09 17:32:09,2021-12-07,FLYW,Massaro Michael,CEO,S - Sale,$41.68,-24200,1447090,-2%,"-$1,008,735",,,,,FLYW
+7,EM,2021-12-01 17:42:57,2021-11-29,FLYW,Massaro Michael,CEO,S - Sale,$43.03,-24240,1501290,-2%,"-$1,043,111",,,,,FLYW
+8,D,2021-11-23 20:12:18,2021-11-22,FLYW,Orgel Rob,"Pres, COO",S - Sale+OE,$38.18,-30000,75000,-29%,"-$1,145,254",,,,,FLYW
+9,D,2021-11-19 18:47:07,2021-11-17,FLYW,Ellis Michael G,CFO,S - Sale+OE,$43.38,-12500,97500,-11%,"-$542,282",,,,,FLYW
+10,D,2021-11-19 17:24:20,2021-11-17,FLYW,Butterfield Peter,"GC, CCO",S - Sale+OE,$43.47,-8000,0,-100%,"-$347,757",,,,,FLYW
+11,,2021-11-19 17:20:42,2021-11-17,FLYW,King David R.,CTO,S - Sale,$43.62,-42886,986354,-4%,"-$1,870,484",,,,,FLYW

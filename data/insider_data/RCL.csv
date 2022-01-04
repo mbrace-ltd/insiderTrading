@@ -1,0 +1,56 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-06-09 18:06:37,2021-06-07,RCL,Wilhelmsen Arne Alexander,Dir,S - Sale,$94.97,-721614,22499407,-3%,"-$68,528,135",,,,,RCL
+1,,2021-05-27 16:34:05,2021-05-25,RCL,Holtz Naftali,"SVP, Finance",S - Sale,$88.88,-5465,22385,-20%,"-$485,683",,,,,RCL
+2,,2021-04-13 16:20:22,2021-04-12,RCL,Liberty Jason T,"EVP, CFO",S - Sale,$88.77,-3000,93789,-3%,"-$266,310",,,,,RCL
+3,,2021-04-08 16:18:53,2021-04-07,RCL,Pujol Henry L,"SVP, Chief Accounting Officer",S - Sale,$95.00,-15208,39544,-28%,"-$1,444,760",,,,,RCL
+4,,2021-04-07 16:37:21,2021-04-06,RCL,Stein Bradley H,"SVP, GC, ChiefComplianceOff",S - Sale,$89.29,-6700,19698,-25%,"-$598,230",,,,,RCL
+5,,2021-04-07 16:34:09,2021-04-06,RCL,Pujol Henry L,"SVP, Chief Accounting Officer",S - Sale,$89.27,-5069,54752,-8%,"-$452,528",,,,,RCL
+6,,2021-04-06 18:06:07,2021-04-05,RCL,Lutoff-Perlo Lisa,"Pres, CEO, Celebrity Cruises",S - Sale,$90.00,-23702,73391,-24%,"-$2,133,180",,,,,RCL
+7,,2021-04-06 18:03:59,2021-04-05,RCL,Liberty Jason T,"EVP, CFO",S - Sale,$90.17,-34778,96789,-26%,"-$3,135,808",,,,,RCL
+8,,2021-04-06 18:01:19,2021-04-05,RCL,Bayley Michael W,"Pres,CEO,Royal Caribbean Intl",S - Sale,$90.17,-56823,126676,-31%,"-$5,123,648",,,,,RCL
+9,A,2021-03-29 16:44:46,2019-06-03,RCL,Montiel Maritza Gomez,Dir,P - Purchase,$120.52,400,7654,+6%,"+$48,208",,,,,RCL
+10,M,2020-08-26 17:55:07,2020-08-24,RCL,Wilhelmsen Arne Alexander,Dir,S - Sale,$63.45,-2000000,23146663,-8%,"-$126,908,778",,,,,RCL
+11,M,2020-08-26 17:52:50,2020-08-24,RCL,A Wilhelmsen A S,10%,S - Sale,$63.45,-2000000,23134512,-8%,"-$126,908,778",,,,,RCL
+12,,2020-05-27 16:35:20,2020-05-26,RCL,Thompson Donald,Dir,P - Purchase,$48.63,20000,29023,+222%,"+$972,518",,,,,RCL
+13,,2020-02-07 16:36:08,2020-02-06,RCL,Pimentel Lawrence R,"Pres, CEO, Azamara Club Cruise",S - Sale,$120.00,-16000,31963,-33%,"-$1,920,000",,,,,RCL
+14,,2020-02-06 16:35:08,2020-02-05,RCL,Fain Richard D,"COB, CEO",S - Sale,$119.69,-20000,1000757,-2%,"-$2,393,756",,,,,RCL
+15,,2020-01-07 18:32:46,2020-01-06,RCL,Fain Richard D,"COB, CEO",S - Sale,$131.07,-20000,1020757,-2%,"-$2,621,485",,,,,RCL
+16,,2019-12-06 16:45:25,2019-12-05,RCL,Fain Richard D,"COB, CEO",S - Sale,$120.55,-20000,1040757,-2%,"-$2,410,908",,,,,RCL
+17,D,2019-11-27 16:30:58,2019-11-26,RCL,Pimentel Lawrence R,"Pres, CEO, Azamara Club Cruise",S - Sale+OE,$120.00,-10928,48132,-19%,"-$1,311,360",,,,,RCL
+18,,2019-11-06 16:40:56,2019-11-05,RCL,Fain Richard D,"COB, CEO",S - Sale,$113.13,-20000,1060757,-2%,"-$2,262,681",,,,,RCL
+19,,2019-10-15 16:52:07,2019-10-11,RCL,Fain Richard D,"COB, CEO",S - Sale,$105.00,-20000,1080757,-2%,"-$2,100,000",,,,,RCL
+20,,2019-09-06 16:33:05,2019-09-05,RCL,Fain Richard D,"COB, CEO",S - Sale,$105.66,-20000,1100757,-2%,"-$2,113,168",,,,,RCL
+21,D,2019-08-23 17:35:05,2019-08-21,RCL,Pimentel Lawrence R,"Pres, CEO, Azamara Club Cruise",S - Sale+OE,$108.25,-10518,48384,-18%,"-$1,138,598",,,,,RCL
+22,D,2019-08-07 16:33:39,2019-08-05,RCL,Fain Richard D,"COB, CEO",S - Sale+OE,$108.46,-20000,1120757,-2%,"-$2,169,109",,,,,RCL
+23,D,2019-07-12 16:32:28,2019-07-11,RCL,Fain Richard D,"COB, CEO",S - Sale+OE,$110.22,-20000,1125745,-2%,"-$2,204,349",,,,,RCL
+24,,2019-05-03 16:36:20,2019-05-02,RCL,Pujol Henry L,"SVP, Chief Accounting Officer",S - Sale,$128.20,-4134,45342,-8%,"-$529,979",,,,,RCL
+25,,2019-05-03 16:33:09,2019-05-02,RVL,Montiel Maritza Gomez,Dir,S - Sale,$126.49,-2700,3081,-47%,"-$341,523",,,,,RCL
+26,,2019-03-06 16:31:26,2019-03-05,RCL,Howe Stephen R. Jr.,Dir,P - Purchase,$119.50,420,1944,+28%,"+$50,190",,,,,RCL
+27,,2019-03-06 16:25:38,2019-03-05,RCL,Stein Bradley H,"SVP, GC, ChiefComplianceOff",S - Sale,$119.27,-5909,15574,-28%,"-$704,777",,,,,RCL
+28,,2019-03-01 17:29:56,2019-03-01,RCL,Montiel Maritza Gomez,Dir,S - Sale,$118.77,-510,5781,-8%,"-$60,574",,,,,RCL
+29,,2019-02-19 18:32:35,2019-02-15,RCL,Kulovaara Harri U,"EVP, Maritime",S - Sale,$117.90,-8642,26048,-25%,"-$1,018,892",,,,,RCL
+30,,2019-02-19 18:30:37,2019-02-15,RCL,Bayley Michael W,"Pres,CEO,Royal Caribbean Intl",S - Sale,$117.72,-20084,62018,-24%,"-$2,364,288",,,,,RCL
+31,,2019-02-07 11:01:32,2019-02-05,RCL,Wilhelmsen Arne Alexander,"Dir, 10%",S - Sale,$115.57,-4800000,25143324,-16%,"-$554,736,000",,,,,RCL
+32,,2019-02-07 11:00:30,2019-02-05,RCL,A Wilhelmsen A S,10%,S - Sale,$115.57,-4800000,25134512,-16%,"-$554,736,000",,,,,RCL
+33,,2018-12-13 16:16:47,2018-12-13,RCL,Fain Richard D,"COB, CEO",P - Purchase,$105.60,18900,1077643,+2%,"+$1,995,808",,,,,RCL
+34,,2018-11-20 16:31:16,2018-11-19,RCL,Reitan Bernt,Dir,S - Sale,$106.58,-1578,7680,-17%,"-$168,179",,,,,RCL
+35,,2018-09-14 17:00:43,2018-09-13,RCL,Kulovaara Harri U,"EVP, Maritime",S - Sale,$125.55,-6600,26165,-20%,"-$828,652",,,,,RCL
+36,,2018-06-15 16:39:07,2018-06-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$108.22,-20000,1058743,-2%,"-$2,164,489",,,,,RCL
+37,,2018-05-16 16:31:50,2018-05-14,RCL,Fain Richard D,"COB, CEO",S - Sale,$106.61,-20000,1078743,-2%,"-$2,132,121",,,,,RCL
+38,,2018-04-16 16:35:45,2018-04-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$114.84,-20000,1098743,-2%,"-$2,296,821",,,,,RCL
+39,,2018-03-15 16:32:02,2018-03-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$126.33,-20000,1118743,-2%,"-$2,526,673",,,,,RCL
+40,,2018-02-23 17:04:56,2018-02-21,RCL,Liberty Jason T,"EVP, CFO",S - Sale,$132.04,-10844,44089,-20%,"-$1,431,842",,,,,RCL
+41,,2018-02-22 16:46:13,2018-02-20,RCL,Lutoff-Perlo Lisa,"Pres, CEO, Celebrity Cruises",S - Sale,$132.35,-10483,33302,-24%,"-$1,387,384",,,,,RCL
+42,,2018-02-22 16:43:40,2018-02-20,RCL,Bayley Michael W,"Pres,CEO,Royal Caribbean Intl",S - Sale,$131.39,-19060,60470,-24%,"-$2,504,333",,,,,RCL
+43,,2018-02-14 17:54:43,2018-02-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$128.60,-20000,1138743,-2%,"-$2,572,038",,,,,RCL
+44,M,2018-02-12 17:37:52,2018-02-09,RCL,Stein Bradley H,"SVP, GC, ChiefComplianceOff",S - Sale,$124.64,-9071,16431,-36%,"-$1,130,575",,,,,RCL
+45,,2018-01-29 17:12:31,2018-01-29,RCL,Lutoff-Perlo Lisa,"Pres, CEO, Celebrity Cruises",S - Sale,$134.55,-7404,33979,-18%,"-$996,208",,,,,RCL
+46,,2018-01-29 16:54:57,2018-01-25,RCL,Liberty Jason T,"EVP, CFO",S - Sale,$131.19,-5892,43972,-12%,"-$772,942",,,,,RCL
+47,,2018-01-17 16:52:05,2018-01-16,RCL,Fain Richard D,"COB, CEO",S - Sale,$128.10,-20000,1023947,-2%,"-$2,562,042",,,,,RCL
+48,,2017-12-18 16:35:00,2017-12-14,RCL,Bayley Michael W,"Pres,CEO,Royal Caribbean Intl",S - Sale,$122.15,-14808,62781,-19%,"-$1,808,755",,,,,RCL
+49,,2017-12-14 18:26:38,2017-12-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$123.00,-20000,1043947,-2%,"-$2,460,063",,,,,RCL
+50,,2017-11-14 17:15:57,2017-11-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$123.76,-20000,1103947,-2%,"-$2,475,206",,,,,RCL
+51,,2017-10-16 17:40:34,2017-10-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$125.70,-20000,1123947,-2%,"-$2,514,000",,,,,RCL
+52,,2017-09-13 16:30:48,2017-09-13,RCL,Fain Richard D,"COB, CEO",S - Sale,$121.29,-20000,1143947,-2%,"-$2,425,758",,,,,RCL
+53,,2017-08-16 16:53:42,2017-08-14,RCL,Fain Richard D,"COB, CEO",S - Sale,$118.95,-20000,1163947,-2%,"-$2,379,000",,,,,RCL
+54,D,2017-08-16 16:52:04,2017-08-14,RCL,Kulovaara Harri U,"EVP, Maritime",S - Sale+OE,$119.61,-7580,15913,-32%,"-$906,644",,,,,RCL

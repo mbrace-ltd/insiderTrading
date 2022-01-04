@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-05-18 19:50:17,2021-05-17,TPR,Dunn Sarah,Global HR Officer,S - Sale+OE,$47.00,-14759,99841,-13%,"-$693,673",,,,,TPR
+1,D,2021-03-11 19:56:52,2021-03-09,TPR,Menezes Ivan,Dir,S - Sale+OE,$43.04,-5438,52282,-9%,"-$234,058",,,,,TPR
+2,D,2021-03-11 19:56:45,2021-03-10,TPR,Long Annabelle Yu,Dir,S - Sale+OE,$44.07,-5304,0,-100%,"-$233,741",,,,,TPR
+3,D,2021-02-25 19:27:44,2021-02-24,TPR,Dadlani Manesh,"VP, Controller, PAO",S - Sale+OE,$41.47,-164,18417,-1%,"-$6,801",,,,,TPR
+4,,2021-02-12 18:01:07,2021-02-11,TPR,Kahn Todd,"Int. CEO Coach; Pres, CAO, TPR",S - Sale,$40.06,-20000,206460,-9%,"-$801,200",,,,,TPR
+5,,2020-08-20 17:34:22,2020-08-19,TPR,Bilbrey John P,Dir,P - Purchase,$15.27,12980,33756,+62%,"+$198,205",,,,,TPR
+6,,2020-06-12 16:08:14,2020-06-11,TPR,Bilbrey John P,Dir,P - Purchase,$14.12,7100,20776,+52%,"+$100,252",,,,,TPR
+7,,2020-06-10 16:44:12,2020-06-09,TPR,Bilbrey John P,Dir,P - Purchase,$17.02,8800,13676,+180%,"+$149,776",,,,,TPR
+8,,2019-12-02 18:32:45,2019-11-29,TPR,Dunn Sarah,Global HR Officer,S - Sale,$26.78,-32000,62131,-34%,"-$856,960",,,,,TPR
+9,,2019-06-13 18:29:54,2019-06-12,TPR,Long Annabelle Yu,Dir,S - Sale,$28.93,-3229,0,-100%,"-$93,415",,,,,TPR
+10,,2019-05-30 16:31:00,2019-05-28,TPR,Cavens Darrell,Dir,P - Purchase,$30.01,7000,10826,+183%,"+$210,050",,,,,TPR
+11,D,2018-09-13 17:38:18,2018-09-11,TPR,Satenstein Brian,"VP,Controller, PAO",S - Sale+OE,$50.00,-463,11944,-4%,"-$23,150",,,,,TPR
+12,D,2018-09-04 19:22:32,2018-08-31,TPR,Menezes Ivan,Dir,S - Sale+OE,$50.70,-2068,43721,-5%,"-$104,848",,,,,TPR
+13,D,2018-08-21 17:36:52,2018-08-20,TPR,Bickley Ian,Pres Global Busines Dev.,S - Sale+OE,$52.13,-48071,66952,-42%,"-$2,506,000",,,,,TPR
+14,DM,2018-02-12 20:29:43,2018-02-08,TPR,Kahn Todd,"Pres, CAO, Secretary",S - Sale+OE,$49.13,-4357,69190,-6%,"-$214,068",,,,,TPR
+15,D,2018-02-12 20:29:39,2018-02-09,TPR,Bickley Ian,Pres Global Busines Dev.,S - Sale+OE,$48.90,-36747,107546,-25%,"-$1,796,928",,,,,TPR
+16,D,2018-02-09 18:21:15,2018-02-08,TPR,Dunn Sarah,Global HR Officer,S - Sale+OE,$48.23,-6229,63213,-9%,"-$300,425",,,,,TPR
+17,,2017-09-14 16:30:30,2017-09-12,COH,Brown Melinda,"SVP, Controller, PAO",S - Sale,$41.28,-8250,42884,-16%,"-$340,560",,,,,TPR
+18,,2017-08-25 16:55:26,2017-08-23,COH,Kahn Todd,"Pres, CAO, Secretary",S - Sale,$40.85,-4586,72412,-6%,"-$187,338",,,,,TPR

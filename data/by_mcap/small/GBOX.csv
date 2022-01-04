@@ -1,0 +1,12 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-12-15 13:18:19,2021-04-27,GBOX,Laniado Ezra,Dir,P - Purchase,$6.62,"+4,550",6749,+207%,"+$30,107",,,,,GBOX
+1,M,2021-12-10 14:23:40,2021-07-26,GBOX,Haller Kenneth,Pres of Payments,S - Sale,$8.82,-289011,4951830,-6%,"-$2,547,731",,,,,GBOX
+2,DM,2021-12-10 14:21:31,2021-04-05,GBOX,Haller Kenneth,Pres of Payments,S - Sale+OE,$12.41,-801540,5666269,-12%,"-$9,945,922",,,,,GBOX
+3,M,2021-11-12 16:30:52,2021-10-08,GBOX,Lee Lindsey,VP of Legal Affairs,S - Sale,$7.76,-8565,37936,-18%,"-$66,422",,,,,GBOX
+4,M,2021-08-04 19:59:23,2020-12-22,GBOX,Nisan Fredi,CEO,S - Sale,$0.70,-94689,20575222,0%,"-$66,282",,,,,GBOX
+5,,2021-08-04 19:58:19,2021-02-12,GBOX,Errez Ben,COB of Dirs,S - Sale,$1.30,-192000,20607041,-1%,"-$249,600",,,,,GBOX
+6,ADM,2021-08-04 19:57:07,2020-11-13,GBOX,Nisan Fredi,CEO,S - Sale+OE,$0.65,-2050000,248565648,-1%,"-$1,335,000",,,,,GBOX
+7,ADM,2021-08-04 19:55:27,2020-11-25,GBOX,Errez Ben,COB of Dirs,S - Sale+OE,$0.69,-1852083,248961482,-1%,"-$1,285,000",,,,,GBOX
+8,,2020-12-28 19:43:34,2020-12-18,GBRX,Nisan Fredi,"CEO, 10%",S - Sale,$0.70,-1800000,122935244,-1%,"-$1,260,000",,,,,GBOX
+9,,2020-12-28 19:40:47,2020-12-18,GBRX,Errez Ben,"EVP, 10%",S - Sale,$0.70,-1800000,122935244,-1%,"-$1,260,000",,,,,GBOX
+10,,2020-12-28 19:39:06,2020-12-18,GBRX,Greenbox Pos LLC,10%,S - Sale,$0.70,-1800000,122935244,-1%,"-$1,260,000",,,,,GBOX

@@ -1,0 +1,8 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-09-30 14:31:27,2021-09-28,FRHC,Cherdabayev Boris,Dir,S - Sale,$62.51,-6074,0,-100%,"-$379,686",,,,,FRHC
+1,,2021-07-28 16:16:23,2021-07-26,FRHC,Cherdabayev Boris,Dir,S - Sale,$64.85,-12400,6074,-67%,"-$804,140",,,,,FRHC
+2,M,2020-12-17 09:19:34,2020-12-14,FRHC,Ler Evgeny,CFO,S - Sale,$43.03,-18755,20000,-48%,"-$806,995",,,,,FRHC
+3,,2020-08-14 17:46:10,2020-08-13,FRHC,Ler Evgeny,CFO,S - Sale,$20.82,-8845,38755,-19%,"-$184,153",,,,,FRHC
+4,,2020-03-16 15:38:31,2020-03-16,FRHC,Tashtitov Askar,Pres,P - Purchase,$13.23,"+30,000",77200,+64%,"+$396,900",,,,,FRHC
+5,M,2019-12-20 10:58:40,2019-12-18,FRHC,Ler Evgeny,CFO,S - Sale,$14.75,-30000,47600,-39%,"-$442,588",,,,,FRHC
+6,,2018-03-06 15:31:38,2018-03-02,FRHC,Tashtitov Askar,Dir,P - Purchase,$5.50,"+28,000",47200,+146%,"+$154,000",,,,,FRHC

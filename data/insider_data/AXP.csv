@@ -1,0 +1,63 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-04 18:03:35,2021-08-02,AXP,Campbell Jeffrey C,"Vice COB, CFO",S - Sale+OE,$170.48,-74677,86125,-46%,"-$12,731,019",,,,,AXP
+1,D,2021-06-21 15:04:59,2021-06-17,AXP,Seeger Laureen,GC,S - Sale+OE,$165.44,-20625,47408,-30%,"-$3,412,248",,,,,AXP
+2,D,2021-06-11 15:33:56,2021-06-09,AXP,Joabar Raymond,"Grp. Pres, GMNS",S - Sale+OE,$164.03,-10000,15292,-40%,"-$1,640,300",,,,,AXP
+3,,2021-05-11 14:40:45,2021-05-07,AXP,Pickett Denise,"Pres, GSG, TLS",S - Sale,$157.53,-2460,17035,-13%,"-$387,524",,,,,AXP
+4,D,2021-05-04 17:06:24,2021-04-30,AXP,Pickett Denise,"Pres, GSG, TLS",S - Sale+OE,$153.11,-5260,19495,-21%,"-$805,359",,,,,AXP
+5,D,2021-03-11 14:05:14,2021-03-09,AXP,Buckminster Douglas E.,"Grp Pres, Glb Consumer Svcs",S - Sale+OE,$146.08,-32833,78074,-30%,"-$4,796,344",,,,,AXP
+6,D,2021-03-09 17:27:22,2021-03-05,AXP,Williams Anre D,"Group Pres, GMNS",S - Sale+OE,$145.88,-59352,93480,-39%,"-$8,658,270",,,,,AXP
+7,D,2021-03-02 15:32:12,2021-02-26,AXP,Squeri Stephen J,"COB, CEO",S - Sale+OE,$135.58,-69635,207285,-25%,"-$9,440,877",,,,,AXP
+8,D,2021-02-09 13:39:24,2021-02-05,AXP,Gordon Marc D,CIO,S - Sale+OE,$126.00,-33445,28128,-54%,"-$4,214,070",,,,,AXP
+9,D,2021-02-04 16:15:37,2021-02-02,AXP,Pickett Denise,"Pres, Glbl Services Group",S - Sale+OE,$119.09,-29292,17011,-63%,"-$3,488,384",,,,,AXP
+10,,2020-11-12 14:06:15,2020-11-10,AXP,Marrs Anna,"Pres, Global Comm. Services",S - Sale,$119.56,-2064,0,-100%,"-$246,772",,,,,AXP
+11,D,2020-11-10 15:03:40,2020-11-06,AXP,Buckminster Douglas E.,"Grp Pres, Glb Consumer Svcs",S - Sale+OE,$96.85,-14827,95730,-13%,"-$1,435,995",,,,,AXP
+12,,2020-08-20 16:21:12,2020-08-18,AXP,Pickett Denise,"Pres, Glbl Services Group",S - Sale,$96.62,-2864,11577,-20%,"-$276,720",,,,,AXP
+13,,2020-02-13 15:37:50,2020-02-11,AXP,Pike Lynn Ann,Dir,P - Purchase,$132.87,1000,1065,>999%,"+$132,870",,,,,AXP
+14,,2020-02-10 17:04:25,2020-02-07,AXP,Joabar Raymond,"CRO, Pres, GRBC",S - Sale,$132.29,-4531,8596,-35%,"-$599,406",,,,,AXP
+15,,2020-02-03 17:23:07,2020-01-30,AXP,Leonsis Theodore,Dir,S - Sale,$132.61,-7575,4005,-65%,"-$1,004,521",,,,,AXP
+16,D,2020-01-30 18:11:40,2020-01-29,AXP,Seeger Laureen,GC,S - Sale+OE,$132.05,-20918,35951,-37%,"-$2,762,167",,,,,AXP
+17,,2020-01-30 18:07:30,2020-01-29,AXP,Petrino Richard,EVP - Corporate Controller,S - Sale,$131.83,-3500,7115,-33%,"-$461,405",,,,,AXP
+18,D,2020-01-29 17:19:34,2020-01-27,AXP,Joabar Raymond,"CRO, Pres, GRBC",S - Sale+OE,$131.21,-17544,8596,-67%,"-$2,301,948",,,,,AXP
+19,D,2020-01-28 17:30:32,2020-01-24,AXP,Seeger Laureen,GC,S - Sale+OE,$136.04,-27571,26168,-51%,"-$3,750,799",,,,,AXP
+20,,2019-12-04 17:32:54,2019-12-02,AXP,Squeri Stephen J,"COB, CEO",S - Sale,$117.96,-15000,180417,-8%,"-$1,769,382",,,,,AXP
+21,,2019-10-29 10:08:39,2019-10-25,AXP,Pickett Denise,"Pres, Glbl Services Group",S - Sale,$118.39,-2400,8770,-21%,"-$284,136",,,,,AXP
+22,,2019-10-25 14:20:31,2019-10-23,AXP,Leonsis Theodore,Dir,S - Sale,$116.44,-8420,11580,-42%,"-$980,425",,,,,AXP
+23,,2019-09-05 17:00:24,2019-09-03,AXP,Squeri Stephen J,"COB, CEO",S - Sale,$118.33,-15000,195417,-7%,"-$1,774,919",,,,,AXP
+24,,2019-08-02 11:52:04,2019-08-01,AXP,Campbell Jeffrey C,CFO,S - Sale,$124.91,-7045,55934,-11%,"-$879,964",,,,,AXP
+25,D,2019-07-26 10:30:53,2019-07-25,AXP,Fabara Paul D,"Pres, Global Services Group",S - Sale+OE,$127.06,-15455,31494,-33%,"-$1,963,712",,,,,AXP
+26,,2019-06-12 13:01:30,2019-06-10,AXP,Campbell Jeffrey C,CFO,S - Sale,$122.93,-6500,62979,-9%,"-$799,032",,,,,AXP
+27,,2019-06-05 13:06:42,2019-06-03,AXP,Squeri Stephen J,"COB, CEO",S - Sale,$114.69,-15000,210416,-7%,"-$1,720,295",,,,,AXP
+28,D,2019-05-30 15:09:52,2019-05-28,AXP,Seeger Laureen,GC,S - Sale+OE,$119.25,-44584,35791,-55%,"-$5,316,707",,,,,AXP
+29,D,2019-05-21 14:33:32,2019-05-20,AXP,Squeri Stephen J,"COB, CEO",S - Sale+OE,$119.95,-101964,225416,-31%,"-$12,230,582",,,,,AXP
+30,D,2019-04-29 17:24:44,2019-04-25,AXP,Pickett Denise,"Pres, GRBC, CRO",S - Sale+OE,$116.21,-17964,13689,-57%,"-$2,087,596",,,,,AXP
+31,D,2019-04-26 17:35:38,2019-04-24,AXP,Buckminster Douglas E.,"Grp Pres, Glb Consumer Svcs",S - Sale+OE,$113.95,-94488,92382,-51%,"-$10,766,908",,,,,AXP
+32,D,2019-04-25 17:10:36,2019-04-24,AXP,O'Neill Michael John,Chief Corp. Affairs Officer,S - Sale+OE,$113.94,-15749,55249,-22%,"-$1,794,441",,,,,AXP
+33,,2019-02-19 16:37:43,2019-02-14,AXP,Petrino Richard,EVP - Corporate Controller,S - Sale,$107.11,-2444,7934,-24%,"-$261,777",,,,,AXP
+34,,2019-02-05 14:47:00,2019-02-01,AXP,Squeri Stephen J,"COB, CEO",S - Sale,$103.02,-12500,225416,-5%,"-$1,287,794",,,,,AXP
+35,,2018-11-05 17:25:40,2018-11-01,AXP,Squeri Stephen J,"COB, CEO",S - Sale,$103.84,-12500,207136,-6%,"-$1,298,014",,,,,AXP
+36,D,2018-09-14 16:28:51,2018-09-12,AXP,Gordon Marc D,CIO,S - Sale+OE,$107.83,-25948,19743,-57%,"-$2,797,973",,,,,AXP
+37,,2018-09-06 16:24:01,2018-09-04,AXP,Campbell Jeffrey C,CFO,S - Sale,$106.77,-9000,50768,-15%,"-$960,959",,,,,AXP
+38,,2018-08-03 14:13:17,2018-08-01,AXP,Squeri Stephen J,CEO,S - Sale,$99.73,-12500,188890,-6%,"-$1,246,589",,,,,AXP
+39,,2018-08-01 18:36:18,2018-08-01,AXP,Campbell Jeffrey C,"EVP, CFO",S - Sale,$99.73,-9000,59768,-13%,"-$897,552",,,,,AXP
+40,,2018-06-05 13:11:53,2018-06-01,AXP,Campbell Jeffrey C,"EVP, CFO",S - Sale,$98.79,-9000,68768,-12%,"-$889,103",,,,,AXP
+41,,2018-06-01 13:57:56,2018-05-30,AXP,Buckminster Douglas E.,"Pres, Glb Consumer Svcs Grp",S - Sale,$99.03,-3804,80173,-5%,"-$376,710",,,,,AXP
+42,D,2018-05-24 16:36:42,2018-05-22,AXP,Petrino Richard,EVP - Corporate Controller,S - Sale+OE,$102.89,-9880,6658,-60%,"-$1,016,571",,,,,AXP
+43,,2018-05-03 10:37:57,2018-05-01,AXP,Squeri Stephen J,Vice COB,S - Sale,$98.05,-12500,201390,-6%,"-$1,225,608",,,,,AXP
+44,,2018-05-03 10:33:54,2018-05-01,AXP,Campbell Jeffrey C,"EVP, CFO",S - Sale,$98.05,-9000,77768,-10%,"-$882,406",,,,,AXP
+45,DM,2018-04-23 17:35:48,2018-04-19,AXP,Cox L Kevin,CHRO,S - Sale+OE,$100.67,-50412,40333,-56%,"-$5,074,925",,,,,AXP
+46,D,2018-02-05 17:19:29,2018-02-01,AXP,Bush James Peter,Senior Advisor to the CEO,S - Sale+OE,$98.65,-13356,102348,-12%,"-$1,317,503",,,,,AXP
+47,D,2018-01-04 16:23:54,2018-01-02,AXP,Bush James Peter,"Pres, GNICS",S - Sale+OE,$99.45,-12789,94629,-12%,"-$1,271,833",,,,,AXP
+48,D,2017-12-18 15:22:34,2017-12-14,AXP,Chenault Kenneth I,"COB, CEO",S - Sale+OE,$97.30,-96440,1261593,-7%,"-$9,383,612",,,,,AXP
+49,D,2017-12-14 10:22:54,2017-12-12,AXP,Gupta Ashwini,"Pres, Crdt Risk, Glbl Info Mgt",S - Sale+OE,$99.31,-56680,264885,-18%,"-$5,628,656",,,,,AXP
+50,D,2017-12-13 19:14:52,2017-12-11,AXP,O'Neill Michael John,"EVP, Corp Affairs, Comm",S - Sale+OE,$98.85,-43741,44083,-50%,"-$4,323,798",,,,,AXP
+51,D,2017-12-13 19:13:26,2017-12-11,AXP,Buckminster Douglas E.,"Pres, Glb Consumer Svcs Grp",S - Sale+OE,$98.87,-88930,76784,-54%,"-$8,792,509",,,,,AXP
+52,D,2017-12-04 17:40:09,2017-12-01,AXP,Bush James Peter,"Pres, GNICS",S - Sale+OE,$97.60,-13548,91400,-13%,"-$1,322,319",,,,,AXP
+53,D,2017-11-30 15:33:56,2017-11-28,AXP,Gupta Ashwini,"Pres, Crdt Risk, Glbl Info Mgt",S - Sale+OE,$95.04,-57306,232032,-20%,"-$5,446,362",,,,,AXP
+54,,2017-11-13 08:15:46,2017-11-09,AXP,Sobbott Susan,"Pres, Glbl Commercial Pymnts",S - Sale,$94.34,-5500,32011,-15%,"-$518,870",,,,,AXP
+55,D,2017-11-03 13:09:35,2017-11-01,AXP,Bush James Peter,"Pres, GNICS",S - Sale+OE,$96.19,-13575,88948,-13%,"-$1,305,779",,,,,AXP
+56,D,2017-11-01 16:47:41,2017-10-31,AXP,Gupta Ashwini,"Pres, Crdt Risk, Glbl Info Mgt",S - Sale+OE,$94.71,-90658,199338,-31%,"-$8,586,219",,,,,AXP
+57,,2017-10-31 15:25:42,2017-10-27,AXP,Zukauckas Linda,"EVP, Corporate Comptroller",S - Sale,$95.42,-3196,0,-100%,"-$304,956",,,,,AXP
+58,D,2017-10-30 17:41:07,2017-10-26,AXP,Bush James Peter,"Pres, GNICS",S - Sale+OE,$95.00,-3391,86523,-4%,"-$322,145",,,,,AXP
+59,,2017-10-27 12:24:42,2017-10-25,AXP,Williams Anre D,"Pres, Glb Mrch Srv, Loylt Grp",S - Sale,$93.41,-30761,28730,-52%,"-$2,873,385",,,,,AXP
+60,D,2017-10-04 17:58:28,2017-10-02,AXP,Bush James Peter,"Pres, GNICS",S - Sale+OE,$90.55,-10230,85914,-11%,"-$926,361",,,,,AXP
+61,,2017-09-11 14:01:05,2017-09-07,AXP,Sobbott Susan,"Pres, Glbl Commercial Pymnts",S - Sale,$84.39,-6000,37511,-14%,"-$506,340",,,,,AXP

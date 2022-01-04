@@ -1,0 +1,23 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-23 13:01:26,2021-08-20,NEPH,Lobo Wesley S.,CMO,P - Purchase,$7.92,"+1,000",41557,+2%,"+$7,920",,,,,NEPH
+1,D,2021-08-19 21:04:35,2021-08-18,NEPH,Gwydir Tom,Dir,P - Purchase,$7.64,"+5,000",11031,+83%,"+$38,200",,,,,NEPH
+2,DM,2021-08-18 18:08:02,2021-08-17,NEPH,Astor Andrew,"Pres, CEO",P - Purchase,$7.72,"+5,000",77958,+7%,"+$38,605",,,,,NEPH
+3,D,2020-11-20 16:28:43,2020-11-18,NEPH,Spandow Oliver J.,Dir,P - Purchase,$5.83,"+1,500",15734,+11%,"+$8,749",,,,,NEPH
+4,D,2020-11-19 18:17:34,2020-11-19,NEPH,Astor Andrew,"Pres, CEO",P - Purchase,$5.87,"+1,000",72958,+1%,"+$5,867",,,,,NEPH
+5,D,2020-08-19 18:22:45,2020-08-19,NEPH,Astor Andrew,"COO, CFO",P - Purchase,$7.40,+950,71958,+1%,"+$7,030",,,,,NEPH
+6,D,2020-05-29 18:08:31,2020-05-28,NEPH,Astor Andrew,"CFO, COO",P - Purchase,$6.96,"+1,000",71008,+1%,"+$6,960",,,,,NEPH
+7,D,2020-03-12 17:02:08,2020-03-12,NEPH,Evans Daron,"Pres, CEO",P - Purchase,$6.65,"+2,500",158194,+2%,"+$16,625",,,,,NEPH
+8,D,2020-03-12 16:50:33,2020-03-12,NEPH,Astor Andrew,"CFO, COO",P - Purchase,$6.70,"+1,000",70008,+1%,"+$6,700",,,,,NEPH
+9,D,2020-03-05 17:18:04,2020-03-05,NEPH,Evans Daron,"Pres, CEO",P - Purchase,$8.44,"+2,500",155694,+2%,"+$21,109",,,,,NEPH
+10,D,2020-03-05 17:10:10,2020-03-05,NEPH,Astor Andrew,"CFO, COO",P - Purchase,$8.46,+700,69008,+1%,"+$5,920",,,,,NEPH
+11,D,2019-11-26 16:25:26,2019-11-25,NEPH,Spandow Oliver J.,Dir,P - Purchase,$8.17,"+1,000",10786,+10%,"+$8,170",,,,,NEPH
+12,D,2019-11-18 12:13:18,2019-11-18,NEPH,Astor Andrew,"CFO, COO",P - Purchase,$8.38,+750,61460,+1%,"+$6,282",,,,,NEPH
+13,D,2019-11-18 12:12:32,2019-11-18,NEPH,Evans Daron,"Pres, CEO",P - Purchase,$8.35,"+1,000",143912,+1%,"+$8,350",,,,,NEPH
+14,D,2019-09-13 16:32:52,2019-09-11,NEPH,Lask Alisa,Dir,P - Purchase,$6.45,+250,250,New,"+$1,613",,,,,NEPH
+15,D,2019-08-22 16:37:04,2019-08-22,NEPH,Astor Andrew,"CFO, COO",P - Purchase,$6.97,"+1,500",60710,+3%,"+$10,455",,,,,NEPH
+16,D,2019-08-22 16:09:38,2019-08-22,NEPH,Evans Daron,"Pres, CEO",P - Purchase,$6.92,"+2,000",142912,+1%,"+$13,845",,,,,NEPH
+17,D,2019-06-14 12:35:01,2019-06-14,NEPH,Astor Andrew,"CFO, COO",P - Purchase,$0.64,"+35,000",532903,+7%,"+$22,400",,,,,NEPH
+18,D,2019-06-14 12:34:13,2019-06-14,NEPH,Evans Daron,"Pres, CEO",P - Purchase,$0.60,"+43,172",1268258,+4%,"+$25,761",,,,,NEPH
+19,D,2018-04-12 16:12:50,2018-04-10,NEPH,Evans Daron,"Pres, CEO",P - Purchase,$0.45,"+79,000",1076790,+8%,"+$35,550",,,,,NEPH
+20,D,2018-04-12 16:11:29,2018-04-10,NEPH,Astor Andrew,CFO,P - Purchase,$0.45,"+80,000",420459,+23%,"+$36,000",,,,,NEPH
+21,D,2018-03-13 16:08:56,2018-03-09,NEPH,Astor Andrew,CFO,P - Purchase,$0.48,"+5,000",340459,+1%,"+$2,375",,,,,NEPH

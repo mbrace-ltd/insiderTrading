@@ -1,0 +1,66 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-10-06 18:30:23,2021-10-04,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$3.61,"+853,242",13438503,+7%,"+$3,077,726",,,,,PFMT
+1,,2021-09-08 16:05:18,2021-09-03,PFMT,"Parthenon Dcs Holdings, LLC",No longer 10% owner,S - Sale,$5.01,-19228,6054724,0%,"-$96,421",,,,,PFMT
+2,,2021-09-08 16:05:14,2021-09-03,PFMT,"Pcp Managers Gp, LLC",No longer 10% owner,S - Sale,$5.01,-19228,6054724,0%,"-$96,421",,,,,PFMT
+3,,2021-09-07 16:05:31,2021-09-02,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.92,-257917,6073952,-4%,"-$1,269,055",,,,,PFMT
+4,,2021-09-07 16:05:16,2021-09-02,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.92,-257917,6073952,-4%,"-$1,269,055",,,,,PFMT
+5,,2021-08-19 13:52:09,2021-08-19,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$3.70,"+40,000",12585261,0%,"+$148,000",,,,,PFMT
+6,,2021-08-13 16:05:42,2021-08-11,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$5.00,-15668,6331869,0%,"-$78,351",,,,,PFMT
+7,,2021-08-13 16:05:24,2021-08-11,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$5.00,-15668,6331869,0%,"-$78,351",,,,,PFMT
+8,M,2021-08-11 16:06:15,2021-08-09,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$5.05,-461340,6347537,-7%,"-$2,328,345",,,,,PFMT
+9,M,2021-08-11 16:05:54,2021-08-09,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$5.05,-461340,6347537,-7%,"-$2,328,345",,,,,PFMT
+10,,2021-08-09 16:05:45,2021-08-05,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.90,-8278,6808877,0%,"-$40,583",,,,,PFMT
+11,,2021-08-09 16:05:37,2021-08-05,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.90,-8278,6808877,0%,"-$40,583",,,,,PFMT
+12,,2021-08-05 16:06:06,2021-08-03,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.91,-35552,6817155,-1%,"-$174,496",,,,,PFMT
+13,,2021-08-05 16:05:40,2021-08-03,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.91,-35552,6817155,-1%,"-$174,496",,,,,PFMT
+14,M,2021-08-03 16:06:27,2021-07-30,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.98,-117338,6852707,-2%,"-$584,482",,,,,PFMT
+15,M,2021-08-03 16:05:28,2021-07-30,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.98,-117338,6852707,-2%,"-$584,482",,,,,PFMT
+16,M,2021-07-30 16:05:21,2021-07-28,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$5.16,-573164,6970045,-8%,"-$2,955,545",,,,,PFMT
+17,M,2021-07-30 16:05:19,2021-07-28,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$5.16,-573164,6970045,-8%,"-$2,955,545",,,,,PFMT
+18,,2021-07-28 16:05:16,2021-07-26,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.79,-155862,7543209,-2%,"-$747,109",,,,,PFMT
+19,,2021-07-28 16:05:14,2021-07-26,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.79,-155862,7543209,-2%,"-$747,109",,,,,PFMT
+20,,2021-07-26 16:05:29,2021-07-22,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.71,-11484,7699071,0%,"-$54,057",,,,,PFMT
+21,,2021-07-26 16:05:14,2021-07-22,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.71,-11484,7699071,0%,"-$54,057",,,,,PFMT
+22,M,2021-07-22 16:06:14,2021-07-20,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.71,-264619,7710555,-3%,"-$1,247,270",,,,,PFMT
+23,M,2021-07-22 16:05:57,2021-07-20,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.71,-264619,7710555,-3%,"-$1,247,270",,,,,PFMT
+24,,2021-07-20 16:05:44,2021-07-16,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.74,-76881,7975174,-1%,"-$364,270",,,,,PFMT
+25,,2021-07-20 16:05:32,2021-07-16,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.74,-76881,7975174,-1%,"-$364,270",,,,,PFMT
+26,,2021-07-15 16:06:04,2021-07-13,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$4.57,-1496088,8052055,-16%,"-$6,843,705",,,,,PFMT
+27,,2021-07-15 16:05:39,2021-07-13,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$4.57,-1496088,8052055,-16%,"-$6,843,705",,,,,PFMT
+28,M,2021-07-13 16:30:58,2021-07-09,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.90,-206071,9548143,-2%,"-$802,883",,,,,PFMT
+29,M,2021-07-13 16:30:55,2021-07-09,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$3.90,-206071,9548143,-2%,"-$802,883",,,,,PFMT
+30,,2021-07-09 16:30:25,2021-07-07,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$3.74,-106886,9754214,-1%,"-$399,657",,,,,PFMT
+31,,2021-07-09 16:30:14,2021-07-07,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.74,-106886,9754214,-1%,"-$399,657",,,,,PFMT
+32,,2021-07-06 16:54:57,2021-07-01,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$3.70,-1994784,9861100,-17%,"-$7,380,701",,,,,PFMT
+33,,2021-07-06 16:51:47,2021-07-01,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.70,-1994784,9861100,-17%,"-$7,380,701",,,,,PFMT
+34,M,2021-07-01 16:38:06,2021-06-29,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$3.70,-319973,11855884,-3%,"-$1,184,910",,,,,PFMT
+35,M,2021-07-01 16:30:05,2021-06-29,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.70,-319973,11855884,-3%,"-$1,184,910",,,,,PFMT
+36,,2021-06-29 16:26:35,2021-06-25,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.74,-44098,12175857,0%,"-$164,997",,,,,PFMT
+37,,2021-06-29 16:24:53,2021-06-25,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$3.74,-44098,12175857,0%,"-$164,997",,,,,PFMT
+38,M,2021-06-23 16:42:54,2021-06-21,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$3.30,-141099,12219955,-1%,"-$466,286",,,,,PFMT
+39,M,2021-06-23 16:41:23,2021-06-21,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.30,-141099,12219955,-1%,"-$466,286",,,,,PFMT
+40,M,2021-06-21 19:35:04,2021-04-26,PFMT,"Pcp Managers Gp, LLC",10%,S - Sale,$2.54,-1139824,12361054,-8%,"-$2,895,917",,,,,PFMT
+41,,2021-06-17 16:30:49,2021-06-15,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.71,-28155,12361054,0%,"-$104,393",,,,,PFMT
+42,M,2021-06-15 16:30:32,2021-06-11,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$3.76,-114277,12389209,-1%,"-$429,401",,,,,PFMT
+43,M,2021-06-08 20:28:02,2021-06-04,PFMT,Yanagi Eric,Dir,S - Sale,$4.84,-217940,3492090,-6%,"-$1,054,661",,,,,PFMT
+44,,2021-05-03 16:50:28,2021-04-26,PFMT,"Parthenon Dcs Holdings, LLC",10%,S - Sale,$2.37,-997392,12503486,-7%,"-$2,362,123",,,,,PFMT
+45,,2020-03-26 14:19:16,2020-03-24,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$0.72,"+3,258,424",12545261,+35%,"+$2,346,065",,,,,PFMT
+46,,2020-03-16 13:24:35,2020-03-12,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$0.87,"+987,604",9286837,+12%,"+$859,215",,,,,PFMT
+47,,2020-01-31 16:25:23,2020-01-29,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$0.89,"+9,639",8299233,0%,"+$8,582",,,,,PFMT
+48,,2020-01-03 16:38:52,2019-12-31,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$0.99,"+3,524",8289594,0%,"+$3,501",,,,,PFMT
+49,M,2019-11-15 19:23:39,2019-11-13,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$0.91,"+11,103",8286070,0%,"+$10,137",,,,,PFMT
+50,,2019-10-25 15:40:17,2019-10-23,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$1.01,"+7,815",8274967,0%,"+$7,893",,,,,PFMT
+51,M,2019-10-15 17:26:12,2019-10-11,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$1.02,"+404,492",8267152,+5%,"+$412,422",,,,,PFMT
+52,M,2019-10-10 17:33:15,2019-10-09,PFMT,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,$1.00,"+514,481",7862660,+7%,"+$514,260",,,,,PFMT
+53,M,2019-02-15 18:26:30,2019-02-14,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-4365,27422,-14%,"-$9,603",,,,,PFMT
+54,M,2019-02-12 17:36:49,2019-02-08,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-2943,33213,-8%,"-$6,475",,,,,PFMT
+55,M,2019-02-08 18:05:03,2019-02-06,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-308,36156,-1%,-$678,,,,,PFMT
+56,M,2019-02-05 14:36:20,2019-02-01,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-5758,36464,-14%,"-$12,668",,,,,PFMT
+57,,2018-10-01 19:03:07,2018-09-27,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-200,42222,0%,-$440,,,,,PFMT
+58,,2018-08-28 16:18:07,2018-08-27,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-1458,42422,-3%,"-$3,208",,,,,PFMT
+59,,2018-08-27 19:17:06,2018-08-24,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-1034,43880,-2%,"-$2,275",,,,,PFMT
+60,,2018-08-13 18:50:24,2018-08-09,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-508,42550,-1%,"-$1,118",,,,,PFMT
+61,M,2018-07-11 19:58:52,2018-07-09,PFMT,Kohl Simeon,VP of Healthcare,S - Sale,$2.20,-3000,43058,-7%,"-$6,600",,,,,PFMT
+62,D,2018-01-16 21:41:10,2018-01-12,PFMT,Im Lisa,CEO,S - Sale+OE,$2.88,-150000,1416434,-10%,"-$432,330",,,,,PFMT
+63,D,2018-01-16 21:39:06,2018-01-11,PFMT,Im Lisa,CEO,S - Sale+OE,$2.01,-11800,1416434,-1%,"-$23,683",,,,,PFMT
+64,D,2018-01-10 18:18:33,2018-01-08,PFMT,Im Lisa,CEO,S - Sale+OE,$1.60,-40450,1416434,-3%,"-$64,716",,,,,PFMT

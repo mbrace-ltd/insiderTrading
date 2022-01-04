@@ -1,0 +1,4 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2020-11-04 16:05:12,2020-11-03,AVIR,Rock Springs Capital Management LP,10%,P - Purchase,$24.00,"+250,000",289695,+630%,"+$6,000,000",,,,,AVIR
+1,D,2020-11-03 21:36:19,2020-11-03,AVIR,Hack Andrew A. F.,Dir,P - Purchase,$24.00,"+250,000",5615659,+5%,"+$6,000,000",,,,,AVIR
+2,D,2020-11-03 20:09:17,2020-11-03,AVIR,Berger Franklin M,Dir,P - Purchase,$24.00,"+41,666",820019,+5%,"+$999,984",,,,,AVIR

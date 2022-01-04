@@ -1,0 +1,41 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-10-01 09:50:24,2021-09-30,TCX,Noss Elliot,CEO,S - Sale,$77.46,-10000,646635,-2%,"-$774,600",,,,,TCX
+1,,2021-09-10 13:33:11,2021-09-10,TCX,Woroch David John,EVP Domains,S - Sale,$76.33,-4250,114856,-4%,"-$324,385",,,,,TCX
+2,M,2021-08-11 14:50:41,2021-08-10,TCX,Fausett Bret,"GC, VP",P - Purchase,$74.51,"+2,223",30000,+8%,"+$165,645",,,,,TCX
+3,M,2021-06-30 14:35:39,2021-06-29,TCX,Johannson Jessica Sybil-Lynne,Chief People Officer,S - Sale,$78.08,-255,0,-100%,"-$19,911",,,,,TCX
+4,,2021-06-29 11:16:37,2021-06-25,TCX,Johannson Jessica Sybil-Lynne,Chief People Officer,S - Sale,$79.04,-800,255,-76%,"-$63,232",,,,,TCX
+5,,2021-06-09 13:27:30,2021-06-09,TCX,Woroch David John,EVP Domains,S - Sale,$78.84,-4000,119106,-3%,"-$315,362",,,,,TCX
+6,,2021-03-09 09:49:43,2021-03-08,TCX,Woroch David John,EVP Wholesale,S - Sale,$81.38,-4000,123106,-3%,"-$325,518",,,,,TCX
+7,,2021-02-19 08:13:12,2021-02-18,TCX,Johannson Jessica Sybil-Lynne,VP HR,S - Sale,$81.06,-1410,0,-100%,"-$114,295",,,,,TCX
+8,D,2021-02-16 08:47:54,2021-02-12,TCX,Reilly Justin,CPO,S - Sale+OE,$82.03,-1719,0,-100%,"-$141,010",,,,,TCX
+9,,2021-02-02 11:36:55,2021-02-01,TCX,Noss Elliot,CEO,S - Sale,$79.42,-5000,664791,-1%,"-$397,100",,,,,TCX
+10,D,2020-12-15 07:43:05,2020-12-14,TCX,Woroch David John,EVP Wholesale,S - Sale+OE,$76.34,-4000,127106,-3%,"-$305,348",,,,,TCX
+11,M,2020-11-30 09:46:54,2020-11-25,TCX,Johannson Jessica Sybil-Lynne,VP HR,S - Sale,$72.30,-1410,1410,-50%,"-$101,937",,,,,TCX
+12,,2020-11-03 08:31:05,2020-11-02,TCX,Noss Elliot,CEO,S - Sale,$74.29,-5000,670301,-1%,"-$371,450",,,,,TCX
+13,,2020-08-20 14:39:16,2020-08-20,TCX,Schwartz Jeffrey Nathan,Dir,S - Sale,$66.00,-1872,8625,-18%,"-$123,552",,,,,TCX
+14,,2020-08-06 17:10:12,2020-08-04,TCX,Noss Elliot,CEO,S - Sale,$69.35,-5000,669676,-1%,"-$346,750",,,,,TCX
+15,,2020-05-06 13:46:14,2020-05-05,TCX,Noss Elliot,CEO,S - Sale,$52.90,-2000,674676,0%,"-$105,800",,,,,TCX
+16,,2020-05-05 10:00:14,2020-05-04,TCX,Noss Elliot,CEO,S - Sale,$52.03,-3000,676676,0%,"-$156,080",,,,,TCX
+17,,2020-04-01 11:16:26,2020-04-01,TCX,Noss Elliot,CEO,S - Sale,$46.06,-1500,679676,0%,"-$69,090",,,,,TCX
+18,,2020-03-13 08:21:51,2020-03-12,TCX,Fausett Bret,"GC, VP",P - Purchase,$45.00,"+27,777",27777,New,"+$1,249,965",,,,,TCX
+19,,2020-02-27 08:44:18,2020-02-26,TCX,Goldstein Michael,VP Marketing,P - Purchase,$50.05,+200,3418,+6%,"+$10,010",,,,,TCX
+20,,2020-01-09 08:34:24,2020-01-08,TCX,Noss Elliot,CEO,S - Sale,$61.79,-1500,683676,0%,"-$92,685",,,,,TCX
+21,,2019-10-08 11:34:50,2019-10-07,TCX,Noss Elliot,CEO,S - Sale,$51.24,-1500,679775,0%,"-$76,860",,,,,TCX
+22,,2019-07-16 08:36:05,2019-07-15,TCX,Noss Elliot,CEO,S - Sale,$49.13,-1500,682650,0%,"-$73,690",,,,,TCX
+23,,2019-06-17 09:26:29,2019-06-14,TCX,Woroch David John,EVP Wholesale,S - Sale,$60.68,-6000,118606,-5%,"-$364,065",,,,,TCX
+24,,2019-04-02 08:52:00,2019-04-01,TCX,Noss Elliot,CEO,S - Sale,$79.52,-1500,740277,0%,"-$119,280",,,,,TCX
+25,,2019-04-01 09:06:20,2019-03-28,TCX,Schwartz Jeffrey Nathan,Dir,S - Sale,$79.50,-4000,8625,-32%,"-$318,000",,,,,TCX
+26,,2019-03-26 09:46:55,2019-03-22,TCX,Schwartz Jeffrey Nathan,Dir,S - Sale,$80.50,-3000,12625,-19%,"-$241,500",,,,,TCX
+27,,2019-03-14 12:11:43,2019-03-13,TCX,Woroch David John,EVP Wholesale,S - Sale,$76.54,-5500,117106,-4%,"-$420,980",,,,,TCX
+28,M,2019-03-01 19:14:07,2019-02-28,TCX,Ralls Rawleigh Hazen IV,Dir,S - Sale,$77.85,-5000,2261,-69%,"-$389,245",,,,,TCX
+29,,2019-01-11 09:35:58,2019-01-10,TCX,Noss Elliot,CEO,S - Sale,$62.75,-1500,739902,0%,"-$94,125",,,,,TCX
+30,,2018-12-17 11:11:07,2018-12-14,TCX,Karp Allen,Dir,S - Sale,$63.94,-7000,13578,-34%,"-$447,600",,,,,TCX
+31,,2018-12-13 12:39:31,2018-12-12,TCX,Woroch David John,EVP Wholesale,S - Sale,$64.61,-5500,122606,-4%,"-$355,351",,,,,TCX
+32,,2018-11-09 08:58:53,2018-11-08,TCX,Noss Elliot,CEO,S - Sale,$54.63,-1500,741402,0%,"-$81,945",,,,,TCX
+33,,2018-09-18 16:18:03,2018-09-17,TCX,Ralls Rawleigh Hazen IV,Dir,S - Sale,$55.52,-2500,689,-78%,"-$138,790",,,,,TCX
+34,,2018-09-14 09:39:44,2018-09-13,TCX,Woroch David John,EVP Wholesale,S - Sale,$55.58,-5500,128106,-4%,"-$305,670",,,,,TCX
+35,,2018-08-31 10:49:20,2018-08-29,TCX,Goldstein Michael,VP Marketing,P - Purchase,$54.52,+200,3218,+7%,"+$10,904",,,,,TCX
+36,,2018-06-18 09:10:56,2018-06-15,TCX,Stocks Jody,VP Engineering,S - Sale,$66.02,-500,12958,-4%,"-$33,012",,,,,TCX
+37,,2018-06-07 08:15:55,2018-06-06,TCX,Woroch David John,EVP Wholesale,S - Sale,$65.15,-6666,133606,-5%,"-$434,297",,,,,TCX
+38,M,2018-06-01 10:11:40,2018-05-30,TCX,Schwartz Jeffrey Nathan,Dir,S - Sale,$62.44,-15000,15625,-49%,"-$936,650",,,,,TCX
+39,,2018-03-22 11:35:48,2018-03-22,TCX,Woroch David John,EVP Wholesale,S - Sale,$56.55,-2000,140272,-1%,"-$113,108",,,,,TCX

@@ -1,0 +1,16 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-12-10 14:34:05,2021-12-08,COFS,Potes Kelly,CEO,P - Purchase,$25.56,"+3,000",37447,+9%,"+$76,668",,,,,COFS
+1,,2021-09-16 09:27:18,2021-09-14,COFS,Batistoni Peter,S.VP - ChoiceOne Bank (Sub.),P - Purchase,$24.75,+200,1268,+19%,"+$4,950",,,,,COFS
+2,,2021-05-10 13:33:07,2021-05-07,COFS,Greenland Adom,Secretary,P - Purchase,$24.92,"+1,000",10896,+10%,"+$24,920",,,,,COFS
+3,,2021-04-29 10:44:33,2021-04-27,COFS,Potes Kelly,CEO,P - Purchase,$24.25,+343,33751,+1%,"+$8,318",,,,,COFS
+4,,2021-04-29 10:42:20,2021-04-27,COFS,Johnson Paul L,Dir,P - Purchase,$24.05,"+1,000",58112,+2%,"+$24,050",,,,,COFS
+5,M,2021-02-26 14:40:09,2021-02-12,COFS,Bush David,Dir,P - Purchase,$25.95,"+2,000",126372,+2%,"+$51,906",,,,,COFS
+6,,2020-06-15 14:05:56,2020-06-12,COFS,Bosserd James A,Dir,S - Sale,$30.10,-300,21609,-1%,"-$9,030",,,,,COFS
+7,,2020-06-11 10:27:53,2020-06-10,COFS,Bosserd James A,Dir,S - Sale,$31.00,-800,21909,-4%,"-$24,800",,,,,COFS
+8,,2020-06-10 12:04:26,2020-06-08,COFS,McConnell Gregory A,Dir,S - Sale,$30.00,-6943,20000,-26%,"-$208,290",,,,,COFS
+9,,2020-06-09 14:49:29,2020-06-05,COFS,Bosserd James A,Dir,S - Sale,$29.25,-409,22709,-2%,"-$11,963",,,,,COFS
+10,,2020-06-05 11:26:58,2020-06-04,COFS,Bosserd James A,Dir,S - Sale,$29.25,-591,23118,-2%,"-$17,287",,,,,COFS
+11,,2020-06-03 09:06:42,2020-06-02,COFS,Bosserd James A,Dir,S - Sale,$29.10,-1000,23709,-4%,"-$29,100",,,,,COFS
+12,,2020-03-13 15:58:58,2020-03-11,COFS,Bush David,Dir,P - Purchase,$29.99,"+1,000",123625,+1%,"+$29,990",,,,,COFS
+13,,2020-03-06 13:31:10,2020-03-04,COFS,Henion Bradley,S.VP - ChoiceOne Bank (Sub.),S - Sale,$32.03,-1000,1686,-37%,"-$32,030",,,,,COFS
+14,,2020-02-12 15:20:37,2020-02-11,COFS,Cady Bruce,Dir,P - Purchase,$32.50,+560,6623,+9%,"+$18,200",,,,,COFS

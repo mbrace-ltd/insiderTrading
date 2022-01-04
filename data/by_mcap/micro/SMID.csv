@@ -1,0 +1,14 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-09-09 09:40:13,2021-09-08,SMID,Smith Ashley B,CEO,P - Purchase,$17.75,"+1,100",192929,+1%,"+$19,525",,,,,SMID
+1,,2021-09-01 16:32:56,2021-08-30,SMID,Smith Rodney I,"Dir, 10%",S - Sale,$19.10,-300,589207,0%,"-$5,730",,,,,SMID
+2,M,2021-08-27 16:26:25,2021-08-25,SMID,Smith Rodney I,"Dir, 10%",S - Sale,$19.09,-8003,589507,-1%,"-$152,781",,,,,SMID
+3,M,2021-08-24 16:19:22,2021-08-20,SMID,Smith Rodney I,"Dir, 10%",S - Sale,$19.08,-3300,597510,-1%,"-$62,967",,,,,SMID
+4,M,2021-08-19 16:25:59,2021-08-17,SMID,Smith Rodney I,"Dir, 10%",S - Sale,$19.02,-31559,600810,-5%,"-$600,150",,,,,SMID
+5,,2021-08-17 16:35:20,2021-08-13,SMID,Smith Rodney I,"Dir, 10%",S - Sale,$19.03,-200,632369,0%,"-$3,805",,,,,SMID
+6,,2021-07-23 16:34:11,2021-07-21,SMID,Smith Rodney I,"Dir, 10%",S - Sale,$19.08,-3900,632569,-1%,"-$74,412",,,,,SMID
+7,,2020-06-09 16:19:16,2020-06-08,SMID,Smith Ashley B,CEO,P - Purchase,$4.79,"+4,200",180242,+2%,"+$20,118",,,,,SMID
+8,M,2019-12-13 15:24:58,2019-12-12,SMID,Krick Adam Jay,CFO,P - Purchase,$6.10,+155,3545,+5%,+$946,,,,,SMID
+9,M,2019-12-12 15:17:41,2019-12-10,SMID,Bruner James Russell,Dir,P - Purchase,$6.25,"+6,000",6000,New,"+$37,500",,,,,SMID
+10,,2019-12-10 08:03:25,2019-12-06,SMID,Smith Ashley B,CEO,P - Purchase,$6.61,"+3,000",176042,+2%,"+$19,830",,,,,SMID
+11,,2018-12-11 08:14:28,2018-12-10,SMID,Krick Adam Jay,CFO,P - Purchase,$7.69,+390,3390,+13%,"+$2,999",,,,,SMID
+12,,2018-12-11 08:06:52,2018-12-07,SMID,Smith Ashley B,CEO,P - Purchase,$7.69,"+1,275",173042,+1%,"+$9,805",,,,,SMID

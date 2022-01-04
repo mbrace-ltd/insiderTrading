@@ -1,0 +1,20 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-30 09:08:53,2021-08-27,IMVT,Hughes Douglas J.,Dir,P - Purchase,$8.24,"+18,247",58447,+45%,"+$150,355",,,,,IMVT
+1,,2021-08-20 18:14:10,2021-08-20,IMVT,Migausky George V,Dir,P - Purchase,$7.65,"+7,000",67200,+12%,"+$53,550",,,,,IMVT
+2,,2021-08-16 17:29:22,2021-08-13,IMVT,Pande Atul,Dir,P - Purchase,$7.98,"+5,000",45200,+12%,"+$39,900",,,,,IMVT
+3,,2021-08-11 14:12:40,2021-08-10,IMVT,Fromkin Andrew J.,Dir,P - Purchase,$7.90,"+5,500",45700,+14%,"+$43,450",,,,,IMVT
+4,,2020-09-15 17:09:29,2020-09-11,IMVT,Butchko Julia G.,"Chief Dev., Tech. Officer",P - Purchase,$38.17,"+5,000",5000,New,"+$190,850",,,,,IMVT
+5,,2020-09-04 17:29:28,2020-09-04,IMVT,Roivant Sciences Ltd.,10%,P - Purchase,$33.00,"+380,000",47593419,+1%,"+$12,540,000",,,,,IMVT
+6,,2020-04-17 17:28:16,2020-04-16,IMVT,Roivant Sciences Ltd.,10%,P - Purchase,$14.50,"+1,034,483",38439450,+3%,"+$15,000,004",,,,,IMVT
+7,,2019-12-13 18:00:11,2019-12-11,HSAC,Wong Roderick,CEO,P - Purchase,$10.92,"+31,500",902498,+4%,"+$344,024",,,,,IMVT
+8,,2019-12-10 18:22:48,2019-12-10,HSAC,Wong Roderick,CEO,P - Purchase,$10.38,"+25,971",870998,+3%,"+$269,517",,,,,IMVT
+9,,2019-12-09 17:01:13,2019-12-06,HSAC,Wong Roderick,CEO,P - Purchase,$10.20,"+50,000",845027,+6%,"+$510,125",,,,,IMVT
+10,,2019-12-09 07:31:38,2019-12-06,HSAC,Wong Roderick,CEO,P - Purchase,$10.25,"+400,000",795027,+101%,"+$4,100,000",,,,,IMVT
+11,,2019-12-05 18:07:20,2019-12-05,HSAC,Wong Roderick,CEO,P - Purchase,$10.15,"+20,000",395027,+5%,"+$203,000",,,,,IMVT
+12,,2019-12-04 18:33:29,2019-12-04,HSAC,Wong Roderick,CEO,P - Purchase,$10.15,"+20,000",375027,+6%,"+$203,000",,,,,IMVT
+13,M,2019-12-03 17:42:25,2019-11-29,HSAC,Wong Roderick,CEO,P - Purchase,$10.36,"+66,918",355027,+23%,"+$693,493",,,,,IMVT
+14,M,2019-11-29 13:00:25,2019-11-25,HSAC,Wong Roderick,CEO,P - Purchase,$10.49,"+12,000",288109,+4%,"+$125,864",,,,,IMVT
+15,M,2019-11-22 17:42:37,2019-11-20,HSAC,Wong Roderick,CEO,P - Purchase,$10.40,"+46,999",276109,+21%,"+$488,960",,,,,IMVT
+16,M,2019-11-19 18:06:26,2019-11-15,HSAC,Wong Roderick,CEO,P - Purchase,$10.26,"+72,610",229110,+46%,"+$744,802",,,,,IMVT
+17,M,2019-11-14 17:51:26,2019-11-12,HSAC,Wong Roderick,CEO,P - Purchase,$10.17,"+126,000",156500,+413%,"+$1,281,420",,,,,IMVT
+18,M,2019-11-12 06:59:19,2019-11-07,HSAC,Wong Roderick,CEO,P - Purchase,$10.18,"+30,500",30500,New,"+$310,490",,,,,IMVT

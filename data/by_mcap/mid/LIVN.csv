@@ -1,0 +1,65 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-15 16:02:30,2021-12-13,LIVN,McDonald Damien,CEO,S - Sale,$81.50,-2784,75353,-4%,"-$226,896",,,,,LIVN
+1,,2021-12-03 09:13:52,2021-12-01,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$81.73,-1000,28630,-3%,"-$81,734",,,,,LIVN
+2,M,2021-11-12 17:50:27,2021-11-10,LIVN,Novak Alfred J,Dir,S - Sale,$89.52,-2981,11368,-21%,"-$266,850",,,,,LIVN
+3,,2021-11-12 17:46:22,2021-11-10,LIVN,Kozy William A,Dir,P - Purchase,$90.43,"+1,000",6320,+19%,"+$90,428",,,,,LIVN
+4,,2021-11-05 08:45:58,2021-11-03,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$85.25,-1000,29630,-3%,"-$85,250",,,,,LIVN
+5,,2021-10-05 12:16:26,2021-10-01,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$80.00,-1000,30630,-3%,"-$80,000",,,,,LIVN
+6,,2021-09-03 11:04:43,2021-09-01,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$82.40,-1000,31630,-3%,"-$82,402",,,,,LIVN
+7,,2021-08-04 07:52:45,2021-08-02,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$86.39,-1000,32630,-3%,"-$86,389",,,,,LIVN
+8,D,2021-07-01 18:53:59,2021-06-29,LIVN,Moore Daniel Jeffrey,Dir,S - Sale+OE,$84.20,-1000,33630,-3%,"-$84,200",,,,,LIVN
+9,D,2021-05-20 20:01:52,2021-05-18,LIVN,Dolci Marco,"SVP Global Operations, R, D",S - Sale+OE,$82.91,-8278,0,-100%,"-$686,327",,,,,LIVN
+10,,2020-06-16 17:12:08,2020-06-16,LIVN,Novak Alfred J,Dir,P - Purchase,$46.71,"+1,000",10570,+10%,"+$46,713",,,,,LIVN
+11,,2020-02-05 12:44:36,2020-02-03,LIVN,McDonald Damien,CEO,S - Sale,$68.00,-1000,64016,-2%,"-$68,000",,,,,LIVN
+12,,2020-01-03 13:04:22,2020-01-02,LIVN,McDonald Damien,CEO,S - Sale,$75.68,-1000,65016,-2%,"-$75,680",,,,,LIVN
+13,,2019-12-04 20:59:23,2019-12-02,LIVN,McDonald Damien,CEO,S - Sale,$83.71,-1000,66016,-1%,"-$83,710",,,,,LIVN
+14,,2019-11-26 09:27:10,2019-11-22,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$80.00,-3000,30938,-9%,"-$240,000",,,,,LIVN
+15,D,2019-11-05 16:46:17,2019-11-01,LIVN,McDonald Damien,CEO,S - Sale+OE,$74.40,-1000,67016,-1%,"-$74,400",,,,,LIVN
+16,,2019-10-03 14:57:14,2019-10-01,LIVN,McDonald Damien,CEO,S - Sale,$73.82,-1000,59774,-2%,"-$73,820",,,,,LIVN
+17,,2019-09-18 18:46:27,2019-09-16,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$84.56,-1500,33938,-4%,"-$126,845",,,,,LIVN
+18,,2019-09-05 11:13:36,2019-09-03,LIVN,McDonald Damien,CEO,S - Sale,$77.00,-1000,60774,-2%,"-$77,000",,,,,LIVN
+19,,2019-08-21 12:07:18,2019-08-19,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$80.25,-1500,35438,-4%,"-$120,375",,,,,LIVN
+20,,2019-08-14 16:02:05,2019-08-12,LIVN,Huston Thad Allen,CFO,S - Sale,$81.49,-2000,16169,-11%,"-$162,980",,,,,LIVN
+21,,2019-08-05 18:21:19,2019-08-01,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$80.00,-6000,36938,-14%,"-$480,000",,,,,LIVN
+22,,2019-08-05 18:18:44,2019-08-01,LIVN,McDonald Damien,CEO,S - Sale,$77.53,-1000,61774,-2%,"-$77,530",,,,,LIVN
+23,,2019-07-02 16:34:40,2019-07-01,LIVN,McDonald Damien,CEO,S - Sale,$72.60,-1000,62774,-2%,"-$72,600",,,,,LIVN
+24,,2019-06-24 16:53:54,2019-06-20,LIVN,Huston Thad Allen,CFO,S - Sale,$75.00,-2000,18169,-10%,"-$150,000",,,,,LIVN
+25,,2019-06-07 12:00:52,2019-06-05,LIVN,McDonald Damien,CEO,S - Sale,$73.58,-1000,63774,-2%,"-$73,580",,,,,LIVN
+26,,2019-05-10 12:34:06,2019-05-09,LIVN,Novak Alfred J,Dir,S - Sale,$70.63,-1300,8994,-13%,"-$91,822",,,,,LIVN
+27,,2019-05-06 08:36:13,2019-05-02,LIVN,Kozy William A,Dir,P - Purchase,$72.81,"+1,000",1000,New,"+$72,806",,,,,LIVN
+28,,2019-02-19 07:48:32,2019-02-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$100.44,-1500,43469,-3%,"-$150,660",,,,,LIVN
+29,,2019-01-17 16:03:40,2019-01-15,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$90.91,-1500,27929,-5%,"-$136,367",,,,,LIVN
+30,,2019-01-17 16:00:56,2019-01-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$90.80,-1500,44969,-3%,"-$136,200",,,,,LIVN
+31,,2019-01-14 17:16:27,2019-01-10,LIVN,Simpson Alistair,"GM, CS",S - Sale,$90.10,-450,382,-54%,"-$40,545",,,,,LIVN
+32,D,2018-12-18 18:11:22,2018-12-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale+OE,$91.85,-1000,46469,-2%,"-$91,846",,,,,LIVN
+33,,2018-12-18 17:23:39,2018-12-17,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$92.12,-1500,29429,-5%,"-$138,180",,,,,LIVN
+34,,2018-12-13 18:47:35,2018-12-11,LIVN,Novak Alfred J,Dir,S - Sale,$97.16,-500,9350,-5%,"-$48,580",,,,,LIVN
+35,,2018-11-19 13:32:12,2018-11-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$116.68,-1000,45882,-2%,"-$116,675",,,,,LIVN
+36,,2018-11-19 13:30:59,2018-11-15,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$119.24,-1500,30929,-5%,"-$178,852",,,,,LIVN
+37,,2018-11-06 17:01:34,2018-11-05,LIVN,Morrison Hugh M,Dir,S - Sale,$115.65,-1000,0,-100%,"-$115,650",,,,,LIVN
+38,,2018-10-17 17:25:40,2018-10-15,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$112.83,-1500,32429,-4%,"-$169,250",,,,,LIVN
+39,,2018-10-17 17:23:08,2018-10-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$113.30,-1000,46882,-2%,"-$113,298",,,,,LIVN
+40,,2018-09-19 17:15:55,2018-09-17,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$123.43,-1500,33929,-4%,"-$185,150",,,,,LIVN
+41,,2018-09-19 17:13:15,2018-09-17,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$123.49,-1000,45296,-2%,"-$123,488",,,,,LIVN
+42,,2018-08-17 14:20:01,2018-08-15,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$121.62,-1500,35429,-4%,"-$182,436",,,,,LIVN
+43,D,2018-08-17 14:17:27,2018-08-15,LIVN,Manko Douglas John,Chief Accounting Officer,S - Sale+OE,$121.61,-2058,988,-68%,"-$250,277",,,,,LIVN
+44,,2018-08-17 14:01:09,2018-08-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$121.58,-1000,46296,-2%,"-$121,579",,,,,LIVN
+45,,2018-07-18 15:30:37,2018-07-16,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$102.04,-1500,36929,-4%,"-$153,063",,,,,LIVN
+46,,2018-07-18 15:27:44,2018-07-16,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$102.19,-1000,47296,-2%,"-$102,191",,,,,LIVN
+47,D,2018-06-19 16:30:08,2018-06-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale+OE,$104.95,-1000,48296,-2%,"-$104,950",,,,,LIVN
+48,,2018-06-19 16:16:57,2018-06-15,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$104.47,-1500,38429,-4%,"-$156,697",,,,,LIVN
+49,D,2018-06-18 17:13:13,2018-06-14,LIVN,Novak Alfred J,Dir,S - Sale+OE,$104.43,-1000,9850,-9%,"-$104,431",,,,,LIVN
+50,,2018-06-12 16:21:07,2018-06-08,LIVN,Morrison Hugh M,Dir,S - Sale,$97.01,-1000,1000,-50%,"-$97,013",,,,,LIVN
+51,D,2018-06-12 16:18:07,2018-06-08,LIVN,McDonald Damien,CEO,S - Sale+OE,$96.51,-15742,39682,-28%,"-$1,519,221",,,,,LIVN
+52,,2018-06-04 16:47:43,2018-05-31,LIVN,McDonald Damien,CEO,S - Sale,$89.90,-11136,11867,-48%,"-$1,001,126",,,,,LIVN
+53,,2018-05-25 14:46:09,2018-05-23,LIVN,Bianchi Francesco,Dir,S - Sale,$83.81,-1830,0,-100%,"-$153,378",,,,,LIVN
+54,,2018-05-17 12:41:16,2018-05-15,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$84.48,-1500,39929,-4%,"-$126,718",,,,,LIVN
+55,,2018-05-17 12:38:08,2018-05-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$84.66,-1000,49296,-2%,"-$84,660",,,,,LIVN
+56,,2018-05-11 10:07:29,2018-05-09,LIVN,Novak Alfred J,Dir,S - Sale,$84.02,-1000,10850,-8%,"-$84,016",,,,,LIVN
+57,,2018-04-17 21:51:00,2018-04-16,LIVN,Wise David S,Chief Administrative Officer,S - Sale,$86.81,-1500,40822,-4%,"-$130,222",,,,,LIVN
+58,,2018-04-17 21:48:57,2018-04-16,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$86.24,-1000,52882,-2%,"-$86,240",,,,,LIVN
+59,,2018-03-19 16:44:38,2018-03-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$88.31,-1000,53882,-2%,"-$88,308",,,,,LIVN
+60,D,2018-03-19 16:39:48,2018-03-15,LIVN,Wise David S,Chief Administrative Officer,S - Sale+OE,$88.17,-1500,42322,-3%,"-$132,248",,,,,LIVN
+61,,2018-02-16 15:57:58,2018-02-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$83.32,-1000,54882,-2%,"-$83,323",,,,,LIVN
+62,,2018-01-17 18:08:33,2018-01-16,LIVN,Moore Daniel Jeffrey,Dir,S - Sale,$82.15,-1000,55882,-2%,"-$82,150",,,,,LIVN
+63,D,2017-12-19 16:46:39,2017-12-15,LIVN,Moore Daniel Jeffrey,Dir,S - Sale+OE,$80.80,-1000,56882,-2%,"-$80,800",,,,,LIVN

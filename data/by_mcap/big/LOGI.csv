@@ -1,0 +1,42 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,M,2021-06-17 20:24:46,2021-05-20,LOGI,Olmstead Nathan,CFO,S - Sale,$117.23,-10407,65100,-14%,"-$1,219,970",,,,,LOGI
+1,D,2021-03-02 20:44:28,2021-03-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$107.77,-41670,765513,-5%,"-$4,490,924",,,,,LOGI
+2,D,2021-02-02 19:59:17,2021-02-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$105.64,-41666,765513,-5%,"-$4,401,504",,,,,LOGI
+3,,2021-01-22 18:30:51,2021-01-21,LOGI,Hirsch Didier,Dir,S - Sale,$102.50,-2679,6880,-28%,"-$274,598",,,,,LOGI
+4,D,2021-01-05 18:22:42,2021-01-04,LOGI,Arunkundrum Prakash,Head of Global Operations,S - Sale+OE,$100.00,-5000,57262,-8%,"-$500,000",,,,,LOGI
+5,D,2021-01-05 18:21:53,2021-01-04,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$98.46,-41666,765172,-5%,"-$4,102,501",,,,,LOGI
+6,,2020-12-04 16:20:16,2020-12-03,LOGI,Montgomery Neela,Dir,S - Sale,$87.03,-3500,8776,-29%,"-$304,597",,,,,LOGI
+7,D,2020-12-02 19:00:09,2020-12-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$87.67,-41666,765172,-5%,"-$3,652,987",,,,,LOGI
+8,,2020-11-30 17:32:12,2020-11-30,LOGI,Hirsch Didier,Dir,S - Sale,$88.97,-3506,9559,-27%,"-$311,929",,,,,LOGI
+9,D,2020-11-03 20:36:47,2020-11-02,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$84.66,-41666,765172,-5%,"-$3,527,395",,,,,LOGI
+10,D,2020-10-23 17:58:45,2020-10-21,LOGI,Arunkundrum Prakash,Head of Global Operations,S - Sale+OE,$95.00,-5000,57262,-8%,"-$475,000",,,,,LOGI
+11,D,2020-10-02 20:52:45,2020-10-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$78.17,-41666,765172,-5%,"-$3,257,019",,,,,LOGI
+12,DM,2020-08-05 18:03:33,2020-08-03,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$73.61,-120650,765172,-14%,"-$8,881,028",,,,,LOGI
+13,DM,2020-07-02 21:21:00,2020-07-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$64.66,-166889,765172,-18%,"-$10,791,381",,,,,LOGI
+14,DM,2020-06-03 19:21:38,2020-06-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$58.02,-324197,765172,-30%,"-$18,808,899",,,,,LOGI
+15,,2020-05-29 21:32:55,2020-05-29,LOGI,Arunkundrum Prakash,Head of Global Operations,S - Sale,$59.26,-10059,57744,-15%,"-$596,125",,,,,LOGI
+16,,2020-05-29 18:38:21,2020-05-29,LOGI,Hirsch Didier,Dir,S - Sale,$59.44,-12786,11167,-53%,"-$760,000",,,,,LOGI
+17,DM,2020-05-05 21:14:00,2020-05-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$47.76,-198873,694643,-22%,"-$9,498,461",,,,,LOGI
+18,D,2020-04-08 20:26:03,2020-04-06,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$45.06,-28562,723907,-4%,"-$1,286,958",,,,,LOGI
+19,DM,2020-04-03 17:32:07,2020-04-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$42.73,-70850,723907,-9%,"-$3,027,639",,,,,LOGI
+20,D,2020-03-04 17:11:17,2020-03-02,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$39.45,-70850,723907,-9%,"-$2,795,111",,,,,LOGI
+21,DM,2020-02-05 18:51:18,2020-02-03,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$45.38,-85921,723907,-11%,"-$3,899,438",,,,,LOGI
+22,,2020-01-22 20:36:45,2020-01-22,LOGI,Hirsch Didier,Dir,S - Sale,$48.34,-13844,23953,-37%,"-$669,281",,,,,LOGI
+23,DM,2020-01-06 20:05:27,2020-01-02,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$47.27,-99808,723297,-12%,"-$4,717,438",,,,,LOGI
+24,DM,2019-12-04 20:39:28,2019-12-02,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$43.10,-70850,723927,-9%,"-$3,053,617",,,,,LOGI
+25,DM,2019-11-05 19:36:31,2019-11-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$41.25,-70850,723297,-9%,"-$2,922,336",,,,,LOGI
+26,,2019-10-25 18:43:30,2019-10-25,LOGI,Hirsch Didier,Dir,S - Sale,$41.79,-25230,37797,-40%,"-$1,054,417",,,,,LOGI
+27,DM,2019-10-03 19:22:37,2019-10-01,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$39.97,-70850,723297,-9%,"-$2,832,031",,,,,LOGI
+28,DM,2019-09-18 18:45:44,2019-09-16,LOGI,Darrell Bracken,"Pres, CEO",S - Sale+OE,$41.89,-70850,723297,-9%,"-$2,967,826",,,,,LOGI
+29,,2019-05-03 19:39:29,2019-05-03,LOGI,Pilette Vincent,CFO,S - Sale,$40.36,-109181,194380,-36%,"-$4,406,545",,,,,LOGI
+30,M,2018-08-03 17:55:26,2018-08-02,LOGI,Darrell Bracken,"Pres, CEO",S - Sale,$45.66,-100000,628329,-14%,"-$4,565,887",,,,,LOGI
+31,,2018-05-08 21:30:57,2018-05-07,LOGI,Stolk Marcel,"Chair, Logitech Eur; SVP, C, P",S - Sale,$40.08,-60381,70928,-46%,"-$2,420,070",,,,,LOGI
+32,,2018-05-04 20:14:40,2018-05-04,LOGI,Pilette Vincent,CFO,S - Sale,$39.61,-115000,302019,-28%,"-$4,555,150",,,,,LOGI
+33,,2018-05-04 20:13:53,2018-05-04,LOGI,Darrell Bracken,"Pres, CEO",S - Sale,$39.58,-179720,728329,-20%,"-$7,113,318",,,,,LOGI
+34,,2018-02-08 18:20:59,2018-02-06,LOGI,Stolk Marcel,"Chair, Logitech Eur; SVP, C, P",S - Sale,$39.48,-20000,87117,-19%,"-$789,600",,,,,LOGI
+35,,2018-02-02 18:54:32,2018-02-02,LOGI,Sullivan L Joseph,"SVP, Worldwide Operations",S - Sale,$41.55,-40000,79028,-34%,"-$1,661,892",,,,,LOGI
+36,,2018-02-02 18:53:22,2018-02-01,LOGI,Pilette Vincent,CFO,S - Sale,$42.28,-17330,321929,-5%,"-$732,712",,,,,LOGI
+37,,2018-01-29 20:51:11,2018-01-29,LOGI,Davis Sally,Dir,S - Sale,$42.98,-23041,87470,-21%,"-$990,302",,,,,LOGI
+38,,2018-01-26 19:02:14,2018-01-26,LOGI,Darrell Bracken,"Pres, CEO",S - Sale,$43.20,-96000,783427,-11%,"-$4,147,008",,,,,LOGI
+39,,2018-01-25 19:15:49,2018-01-24,LOGI,Pilette Vincent,CFO,S - Sale,$42.35,-81302,339259,-19%,"-$3,443,140",,,,,LOGI
+40,D,2018-01-25 19:15:12,2018-01-23,LOGI,De Luca Guerrino,Exec COB,S - Sale+OE,$40.75,-15000,306204,-5%,"-$611,250",,,,,LOGI

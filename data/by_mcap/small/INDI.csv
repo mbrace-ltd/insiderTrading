@@ -1,0 +1,8 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-12-16 20:05:16,2021-12-14,INDI,Aoki Ichiro,Pres,S - Sale+OE,$11.61,-401210,5334982,-7%,"-$4,658,048",,,,,INDI
+1,DM,2021-12-16 20:04:05,2021-12-14,INDI,McClymont Donald,CEO,S - Sale+OE,$11.36,-200000,5947126,-3%,"-$2,271,500",,,,,INDI
+2,,2021-12-16 20:02:50,2021-12-15,INDI,Schiller Thomas,"CFO, EVP of Strategy",S - Sale,$11.85,-200000,1636922,-11%,"-$2,370,000",,,,,INDI
+3,M,2021-12-14 20:12:59,2021-12-10,INDI,Schiller Thomas,"CFO, EVP of Strategy",S - Sale,$12.06,-248097,1836922,-12%,"-$2,993,190",,,,,INDI
+4,DM,2021-12-14 20:12:10,2021-12-10,INDI,McClymont Donald,CEO,S - Sale+OE,$12.00,-187856,6160679,-3%,"-$2,254,133",,,,,INDI
+5,DM,2021-12-14 20:11:13,2021-12-10,INDI,Aoki Ichiro,Pres,S - Sale+OE,$12.07,-598790,5736192,-9%,"-$7,225,003",,,,,INDI
+6,DM,2021-12-14 20:10:12,2021-12-10,INDI,Kee Scott David,CTO,S - Sale+OE,$12.02,-600000,5734982,-9%,"-$7,210,851",,,,,INDI

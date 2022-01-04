@@ -1,0 +1,15 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-14 20:44:01,2021-12-13,OCUP,Pepose Jay,Dir,P - Purchase,$3.65,"+8,250",22994,+56%,"+$30,113",,,,,OCUP
+1,,2021-11-22 16:01:42,2021-11-18,OCUP,Manuso James S J,Dir,P - Purchase,$3.50,"+2,000",16570,+14%,"+$7,000",,,,,OCUP
+2,,2021-09-15 08:00:31,2021-09-13,OCUP,Pepose Jay,Dir,P - Purchase,$4.75,"+12,631",14744,+598%,"+$59,997",,,,,OCUP
+3,,2021-09-03 16:02:30,2021-09-02,OCUP,Benton Susan,Dir,P - Purchase,$4.57,"+20,000",23976,+503%,"+$91,400",,,,,OCUP
+4,D,2020-11-25 20:13:45,2020-11-19,OCUP,Manuso James S J,Dir,P - Purchase,$0.00,"+4,434",14570,+44%,+$0,,,,,OCUP
+5,D,2020-11-25 20:12:38,2020-11-19,OCUP,Rodgers Richard J,Dir,P - Purchase,$0.00,"+17,730",23640,+300%,+$0,,,,,OCUP
+6,D,2020-11-25 20:11:56,2020-11-19,OCUP,Gallagher Cam,Dir,P - Purchase,$0.00,"+8,865",23354,+61%,+$0,,,,,OCUP
+7,D,2020-11-25 19:42:10,2020-11-19,OCUP,Meyer Alan R,Dir,P - Purchase,$0.00,"+1,771",487029,0%,+$0,,,,,OCUP
+8,D,2020-11-25 19:27:07,2020-11-19,OCUP,Ainsworth Sean,Dir,P - Purchase,$0.00,"+8,865",44665,+25%,+$0,,,,,OCUP
+9,D,2020-11-25 19:26:07,2020-11-19,OCUP,Sooch Mina,"Pres, CEO",P - Purchase,$0.00,"+11,524",800044,+1%,+$0,,,,,OCUP
+10,,2019-02-04 16:53:49,2019-01-31,RNN,Beever Charles,Dir,P - Purchase,$0.64,"+10,000",11000,>999%,"+$6,380",,,,,OCUP
+11,,2019-01-31 07:56:38,2019-01-29,RNN,Price Ben Gil,Dir,P - Purchase,$0.61,"+15,000",15000,New,"+$9,141",,,,,OCUP
+12,,2019-01-31 07:48:26,2019-01-30,RNN,Nolan Lisa,Chief Business Officer,P - Purchase,$0.65,"+20,000",21625,>999%,"+$12,960",,,,,OCUP
+13,,2019-01-30 07:32:24,2019-01-29,RNN,Swirsky Douglas J,"Pres, CEO",P - Purchase,$0.63,"+50,000",50000,New,"+$31,720",,,,,OCUP

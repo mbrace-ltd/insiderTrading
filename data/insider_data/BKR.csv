@@ -1,0 +1,36 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-04 06:03:33,2021-08-03,BKR,General Electric Co,"Dir, 10%",S - Sale+OE,$23.36,-53720040,214026897,-20%,"-$1,254,900,134",,,,,BKR
+1,,2021-07-29 16:38:30,2021-07-28,BKR,Borras Maria C,"EVP, Oilfield Services",S - Sale,$20.74,-10000,88274,-10%,"-$207,400",,,,,BKR
+2,,2021-07-13 17:21:14,2021-07-12,BKR,Borras Maria C,"EVP, Oilfield Services",S - Sale,$22.37,-10000,98274,-9%,"-$223,700",,,,,BKR
+3,,2021-06-29 16:19:38,2021-06-28,BKR,Borras Maria C,"EVP, Oilfield Services",S - Sale,$23.48,-10000,108274,-8%,"-$234,800",,,,,BKR
+4,,2021-06-11 16:40:34,2021-06-10,BKR,Borras Maria C,"EVP, Oilfield Services",S - Sale,$26.16,-7097,118274,-6%,"-$185,658",,,,,BKR
+5,,2021-06-02 17:20:00,2021-06-01,BKR,Qasem Rami,"EVP, Digital Solutions",S - Sale,$24.98,-9427,16110,-37%,"-$235,486",,,,,BKR
+6,,2021-04-30 08:37:18,2021-04-29,BKR,General Electric Co,"Dir, 10%",S - Sale,$22.23,-43685723,0,-100%,"-$971,133,622",,,,,BKR
+7,,2021-04-13 16:23:51,2021-04-12,BKR,Qasem Rami,"EVP, Digital Solutions",S - Sale,$20.33,-11438,25537,-31%,"-$232,535",,,,,BKR
+8,,2021-01-25 08:23:02,2021-01-22,BKR,General Electric Co,"Dir, 10%",S - Sale,$19.34,-38007041,0,-100%,"-$735,056,173",,,,,BKR
+9,,2020-10-23 08:05:51,2020-10-22,BKR,General Electric Co,"Dir, 10%",S - Sale,$14.91,-27988183,0,-100%,"-$417,303,809",,,,,BKR
+10,,2020-09-02 17:04:01,2020-09-02,BKR,Simonelli Lorenzo,"COB, Pres, CEO",P - Purchase,$14.12,71275,287096,+33%,"+$1,006,104",,,,,BKR
+11,,2020-02-26 16:46:52,2020-02-26,BKR,Beattie William G,Dir,P - Purchase,$17.80,5000,17466,+40%,"+$88,994",,,,,BKR
+12,,2020-02-26 16:43:39,2020-02-26,BKR,Worrell Brian,CFO,P - Purchase,$18.05,3000,66876,+5%,"+$54,151",,,,,BKR
+13,,2020-02-26 16:41:05,2020-02-26,BKR,Simonelli Lorenzo,"COB, Pres, CEO",P - Purchase,$17.74,11254,179100,+7%,"+$199,673",,,,,BKR
+14,,2020-02-24 16:34:46,2020-02-24,BKR,Simonelli Lorenzo,"COB, Pres, CEO",P - Purchase,$19.49,15368,167846,+10%,"+$299,522",,,,,BKR
+15,,2020-02-05 16:43:53,2020-02-04,BKR,Marsh William D,GC,S - Sale,$22.00,-7256,48791,-13%,"-$159,632",,,,,BKR
+16,,2019-11-22 20:56:25,2019-11-22,BKR,Marsh William D,GC,S - Sale,$22.65,-5857,33647,-15%,"-$132,661",,,,,BKR
+17,,2019-11-20 15:03:07,2019-11-19,BKR,Marsh William D,GC,S - Sale,$22.15,-6136,39504,-13%,"-$135,912",,,,,BKR
+18,,2019-11-07 10:56:51,2019-11-05,BKR,Camilleri Kurt,"VP, Controller, Chief Acctg Of",S - Sale,$22.56,-3338,0,-100%,"-$75,305",,,,,BKR
+19,M,2019-10-10 18:13:24,2017-08-15,BHGE,Cazalot Clarence P Jr,Dir,P - Purchase,$28.90,838,49081,+2%,"+$24,222",,,,,BKR
+20,M,2019-10-10 18:13:24,2017-10-17,BHGE,Cazalot Clarence P Jr,Dir,S - Sale,$27.63,-593,49081,-1%,"-$16,382",,,,,BKR
+21,DE,2019-09-16 17:03:54,2019-09-16,BHGE,General Electric Co,"Dir, 10%",S - Sale+OE,$3.72,-132250000,377427884,-26%,"-$492,401,244",,,,,BKR
+22,,2019-08-16 11:30:16,2019-08-16,BHGE,Rice John G,Dir,P - Purchase,$20.75,10000,15000,+200%,"+$207,500",,,,,BKR
+23,,2019-08-16 11:28:13,2019-08-15,BHGE,Ebel Gregory L,Dir,P - Purchase,$20.85,5000,14150,+55%,"+$104,231",,,,,BKR
+24,,2019-08-16 11:24:56,2019-08-15,BHGE,Simonelli Lorenzo,"COB, Pres, CEO",P - Purchase,$20.61,15000,113368,+15%,"+$309,081",,,,,BKR
+25,,2019-08-14 11:53:19,2019-08-12,BHGE,Ukpong Uwem,Chief Global Ops Officer,S - Sale,$23.62,-16686,271,-98%,"-$394,123",,,,,BKR
+26,D,2019-01-29 18:02:32,2019-01-25,BHGE,Marsh William D,GC,S - Sale+OE,$23.31,-1242,37831,-3%,"-$28,951",,,,,BKR
+27,DEM,2018-11-19 17:13:41,2018-11-16,BHGE,General Electric Co,"Dir, 10%",S - Sale+OE,$2.03,-101200000,521543095,-16%,"-$205,183,022",,,,,BKR
+28,,2018-08-07 15:19:57,2018-08-06,BHGE,Heilmann Matthias L,Chief Digital Officer,S - Sale,$34.00,-12000,3743,-76%,"-$408,000",,,,,BKR
+29,,2018-08-07 15:13:41,2018-08-06,BHGE,Camilleri Kurt,"VP, Controller, Chief Acctg Of",S - Sale,$34.00,-2513,0,-100%,"-$85,429",,,,,BKR
+30,D,2018-05-11 16:43:28,2018-05-09,BHGE,Borras Maria C,"Pres, CEO, Oilfield Services",S - Sale+OE,$36.97,-19571,0,-100%,"-$723,618",,,,,BKR
+31,,2018-05-02 13:40:15,2018-05-01,BHGE,Marsh William D,GC,S - Sale,$35.82,-6543,22463,-23%,"-$234,374",,,,,BKR
+32,,2018-01-10 18:07:33,2018-01-09,BHGE,Marsh William D,GC,S - Sale,$35.00,-5000,25190,-17%,"-$175,000",,,,,BKR
+33,,2017-11-02 16:56:08,2017-10-26,BHGE,Heilmann Matthias L,Chief Digital Officer,P - Purchase,$30.04,1500,3500,+75%,"+$45,060",,,,,BKR
+34,,2017-08-18 15:02:51,2017-08-18,BHGE,Simonelli Lorenzo,"Pres, CEO",P - Purchase,$32.99,6100,9139,+201%,"+$201,238",,,,,BKR

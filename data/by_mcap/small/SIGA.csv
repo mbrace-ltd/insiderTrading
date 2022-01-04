@@ -1,0 +1,18 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-10 18:00:32,2021-12-09,SIGA,Antal James,Dir,S - Sale,$7.82,-30000,100875,-23%,"-$234,600",,,,,SIGA
+1,,2020-08-28 16:22:13,2020-08-27,SIGA,Antal James,Dir,S - Sale,$7.10,-30000,115875,-21%,"-$213,000",,,,,SIGA
+2,,2019-12-10 16:40:06,2019-12-09,SIGA,Savas Paul G,Dir,P - Purchase,$4.37,"+20,000",292847,+7%,"+$87,400",,,,,SIGA
+3,,2019-12-10 16:39:58,2019-12-09,SIGA,Kane Julie,Dir,P - Purchase,$4.39,"+2,500",2500,New,"+$10,975",,,,,SIGA
+4,,2019-12-10 16:37:40,2019-12-09,SIGA,Gomez Phillip Louis III,CEO,P - Purchase,$4.42,"+10,000",475782,+2%,"+$44,200",,,,,SIGA
+5,,2019-12-10 16:37:22,2019-12-09,SIGA,Luckshire Daniel J,"EVP, CFO",P - Purchase,$4.39,"+5,000",224943,+2%,"+$21,950",,,,,SIGA
+6,,2019-08-26 08:29:59,2019-08-23,SIGA,Savas Paul G,Dir,P - Purchase,$4.95,"+10,000",272847,+4%,"+$49,500",,,,,SIGA
+7,,2019-08-12 17:22:56,2019-08-09,SIGA,Savas Paul G,Dir,P - Purchase,$5.08,"+10,000",262847,+4%,"+$50,800",,,,,SIGA
+8,,2019-07-02 17:06:54,2019-06-04,SIGA,Bayer Michael J,Dir,P - Purchase,$5.74,"+12,500",132244,+10%,"+$71,750",,,,,SIGA
+9,,2019-07-02 17:06:54,2014-10-16,SIGA,Bayer Michael J,Dir,S - Sale,$1.49,-13960,132244,-10%,"-$20,800",,,,,SIGA
+10,A,2019-07-02 16:59:51,2013-09-17,SIGA,Bayer Michael J,Dir,P - Purchase,$3.59,"+8,284",13960,+146%,"+$29,740",,,,,SIGA
+11,,2019-06-07 18:47:37,2019-06-05,SIGA,Antal James,Dir,S - Sale,$5.70,-30000,130875,-19%,"-$171,000",,,,,SIGA
+12,M,2019-06-07 18:42:30,2019-06-05,SIGA,Hruby Dennis E,"VP, Chief Scientific Officer",S - Sale,$5.61,-50000,147465,-25%,"-$280,530",,,,,SIGA
+13,,2018-11-19 06:01:31,2018-11-16,SIGA,Savas Paul G,Dir,P - Purchase,$5.58,"+5,000",237847,+2%,"+$27,900",,,,,SIGA
+14,M,2018-11-13 19:41:43,2018-11-12,SIGA,Hruby Dennis E,"VP, Chief Scientific Officer",S - Sale,$5.17,-50000,197465,-20%,"-$258,263",,,,,SIGA
+15,,2018-11-13 17:03:21,2018-11-12,SIGA,Gomez Phillip Louis III,CEO,P - Purchase,$5.20,"+15,000",15000,New,"+$78,000",,,,,SIGA
+16,,2018-11-13 06:29:59,2018-11-12,SIGA,Savas Paul G,Dir,P - Purchase,$5.01,"+10,000",232847,+4%,"+$50,100",,,,,SIGA

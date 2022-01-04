@@ -1,0 +1,24 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2020-11-20 16:44:25,2020-11-18,PAGP,Raymond John T,Dir,S - Sale+OE,$8.05,-6220955,250531,-96%,"-$50,078,688",,,,,PAGP
+1,D,2020-11-20 16:38:15,2020-11-18,PAGP,"Emg Investment, LLC",See Remarks,S - Sale+OE,$8.05,-6220955,0,-100%,"-$50,078,688",,,,,PAGP
+2,,2020-09-17 17:57:04,2020-09-16,PAGP,Burk Victor,Dir,S - Sale,$7.37,-3004,7134,-30%,"-$22,139",,,,,PAGP
+3,M,2020-03-18 21:00:04,2020-03-16,PAGP,Sinnott Robert V,Dir,P - Purchase,$4.20,"+125,000",1423008,+10%,"+$525,500",,,,,PAGP
+4,,2020-03-18 18:49:48,2020-03-16,PAGP,Chiang Willie Cw,"COB, CEO",P - Purchase,$5.82,"+41,600",241704,+21%,"+$241,933",,,,,PAGP
+5,,2020-03-18 17:48:57,2020-03-18,PAGP,Armstrong Greg L,Dir,P - Purchase,$3.80,"+100,000",1865812,+6%,"+$380,000",,,,,PAGP
+6,,2020-03-16 18:19:41,2020-03-12,PAGP,Armstrong Greg L,Dir,P - Purchase,$7.25,"+20,000",1765812,+1%,"+$145,000",,,,,PAGP
+7,,2020-03-12 19:19:54,2020-03-12,PAGP,Pefanis Harry N,"Pres, CCO",P - Purchase,$7.36,"+20,000",233653,+9%,"+$147,100",,,,,PAGP
+8,,2020-02-27 17:19:29,2020-02-26,PAGP,Pefanis Harry N,"Pres, CCO",P - Purchase,$14.39,"+30,000",213653,+16%,"+$431,787",,,,,PAGP
+9,M,2020-02-25 18:04:24,2020-02-24,PAGP,Chiang Willie Cw,"COB, CEO",P - Purchase,$15.82,"+65,000",200104,+48%,"+$1,028,482",,,,,PAGP
+10,,2020-02-24 18:38:54,2020-02-24,PAGP,Armstrong Greg L,Dir,P - Purchase,$15.90,"+70,187",1745812,+4%,"+$1,116,303",,,,,PAGP
+11,,2019-11-20 20:29:31,2019-11-20,PAGP,Chiang Willie Cw,CEO,P - Purchase,$17.14,"+60,000",135104,+80%,"+$1,028,160",,,,,PAGP
+12,,2019-11-20 20:25:38,2019-11-20,PAGP,Armstrong Greg L,Dir,P - Purchase,$17.14,"+60,000",1560625,+4%,"+$1,028,634",,,,,PAGP
+13,,2019-11-19 17:52:09,2019-11-18,PAGP,Goyanes Everardo,Dir,P - Purchase,$17.91,"+20,000",57305,+54%,"+$358,294",,,,,PAGP
+14,D,2019-09-25 18:37:41,2019-09-23,PAGP,"Oxy Holding Co (Pipeline), Inc.",See remarks,S - Sale+OE,$21.84,-15000000,0,-100%,"-$327,600,000",,,,,PAGP
+15,D,2019-05-28 21:41:48,2019-05-28,PAGP,Raymond John T,Dir,S - Sale+OE,$23.10,-7328291,245531,-97%,"-$169,283,522",,,,,PAGP
+16,D,2019-05-28 21:41:18,2019-05-28,PAGP,"Emg Investment, LLC",See Remarks,S - Sale+OE,$23.10,-7328291,0,-100%,"-$169,283,522",,,,,PAGP
+17,,2019-05-16 16:21:17,2019-05-15,PAGP,Goyanes Everardo,Dir,S - Sale,$24.60,-20000,32305,-38%,"-$491,994",,,,,PAGP
+18,,2019-01-02 16:10:26,2018-12-28,PAGP,Brown Oscar K,Dir,P - Purchase,$19.82,"+1,000",15000,+7%,"+$19,820",,,,,PAGP
+19,M,2018-12-28 15:43:57,2018-12-26,PAGP,Brown Oscar K,Dir,P - Purchase,$19.54,"+4,400",14000,+46%,"+$85,991",,,,,PAGP
+20,,2018-11-27 17:09:33,2018-11-23,PAGP,Brown Oscar K,Dir,P - Purchase,$20.42,"+2,500",9600,+35%,"+$51,049",,,,,PAGP
+21,,2018-09-27 16:32:04,2018-09-25,PAGP,Raymond John T,Dir,P - Purchase,$23.40,"+25,000",245531,+11%,"+$584,998",,,,,PAGP
+22,,2018-02-16 13:07:52,2018-02-15,PAGP,Brown Oscar K,Dir,P - Purchase,$22.51,"+7,100",7100,New,"+$159,788",,,,,PAGP

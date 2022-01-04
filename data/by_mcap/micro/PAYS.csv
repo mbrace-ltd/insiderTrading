@@ -1,0 +1,17 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-11-02 19:09:51,2021-11-01,PAYS,Strobo Robert,CLO,S - Sale+OE,$2.77,-14261,75791,-16%,"-$39,474",,,,,PAYS
+1,DEM,2021-10-04 19:50:06,2021-10-01,PAYS,Newcomer Mark,"CEO, 10%",S - Sale+OE,$2.48,-41290,9381202,0%,"-$102,553",,,,,PAYS
+2,,2021-09-13 19:56:23,2021-09-09,PAYS,Herman Joan M,"EVP, Operations",S - Sale,$2.56,-2943,757668,0%,"-$7,540",,,,,PAYS
+3,,2021-09-08 19:54:28,2021-09-08,PAYS,Herman Joan M,"EVP, Operations",S - Sale,$2.38,-76004,760611,-9%,"-$180,662",,,,,PAYS
+4,M,2021-07-06 19:14:37,2021-07-01,PAYS,Newcomer Mark,"CEO, 10%",S - Sale,$3.13,-39949,9322492,0%,"-$125,134",,,,,PAYS
+5,M,2021-07-06 19:13:36,2021-07-01,PAYS,Lanford Matthew Louis,"COO, Pres",S - Sale,$3.15,-7180,24562,-23%,"-$22,600",,,,,PAYS
+6,A,2021-05-18 16:37:33,2021-05-14,PAYS,Baker Jeffery Bradford,CFO,P - Purchase,$3.13,"+25,000",25000,New,"+$78,250",,,,,PAYS
+7,D,2021-04-01 20:48:41,2021-03-30,PAYS,Attinger Mark Kenneth,Former Officer,S - Sale+OE,$4.12,-80000,26084,-75%,"-$329,680",,,,,PAYS
+8,D,2019-10-30 09:22:55,2019-10-28,PAYS,Williams Quinn P,Dir,S - Sale+OE,$10.94,-15000,35000,-30%,"-$164,100",,,,,PAYS
+9,DM,2019-10-04 21:10:54,2019-10-02,PAYS,Spence Daniel,"CTO, 10%",S - Sale+OE,$11.20,-96219,8590000,-1%,"-$1,077,264",,,,,PAYS
+10,DM,2019-10-04 21:10:04,2019-10-02,PAYS,Henry Daniel R,Dir,S - Sale+OE,$11.40,-132020,0,-100%,"-$1,505,083",,,,,PAYS
+11,DM,2019-09-25 18:35:46,2019-09-23,PAYS,Spence Daniel,"CTO, 10%",S - Sale+OE,$11.01,-23781,8586219,0%,"-$261,860",,,,,PAYS
+12,DM,2019-09-25 17:54:49,2019-09-23,TPNL,Henry Daniel R,Dir,S - Sale+OE,$11.01,-15408,0,-100%,"-$169,664",,,,,PAYS
+13,D,2019-09-20 21:30:09,2019-09-18,PAYS,Henry Daniel R,Dir,S - Sale+OE,$11.21,-2572,0,-100%,"-$28,832",,,,,PAYS
+14,D,2019-09-18 16:49:01,2019-09-16,PAYS,Newcomer Mark,"CEO, 10%",S - Sale+OE,$11.03,-200000,8836844,-2%,"-$2,206,000",,,,,PAYS
+15,,2019-04-18 19:40:50,2019-04-18,TPNL,Newcomer Mark,"CEO, 10%",S - Sale,$8.43,-35000,8975000,0%,"-$295,050",,,,,PAYS

@@ -1,0 +1,25 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-03 17:34:33,2021-12-03,FLUX,Berry Jonathan Andrew,COO,P - Purchase,$4.75,"+1,673",3548,+89%,"+$7,947",,,,,FLUX
+1,,2021-12-02 16:05:52,2021-12-01,FLUX,Dutt Ronald F,"CEO, Pres",P - Purchase,$5.24,"+4,700",26360,+22%,"+$24,628",,,,,FLUX
+2,,2021-12-01 16:01:18,2021-11-30,FLUX,Scheiwe Charles,"CFO, Secretary",P - Purchase,$4.90,"+3,018",8018,+60%,"+$14,791",,,,,FLUX
+3,M,2021-06-10 19:21:45,2021-06-09,FLUX,Johnson Michael,"Dir, 10%",S - Sale,$10.97,-15745,4485954,0%,"-$172,795",,,,,FLUX
+4,M,2021-06-09 20:56:06,2021-06-07,FLUX,Johnson Michael,"Dir, 10%",S - Sale,$10.98,-52083,4501699,-1%,"-$572,078",,,,,FLUX
+5,M,2021-06-03 18:44:55,2021-06-01,FLUX,Johnson Michael,"Dir, 10%",S - Sale,$10.51,-30776,4553782,-1%,"-$323,301",,,,,FLUX
+6,M,2021-06-01 17:25:58,2021-05-27,FLUX,Johnson Michael,"Dir, 10%",S - Sale,$10.55,-38738,4584558,-1%,"-$408,564",,,,,FLUX
+7,M,2021-05-26 20:43:43,2021-05-24,FLUX,Johnson Michael,"Dir, 10%",S - Sale,$10.82,-12658,4623296,0%,"-$136,948",,,,,FLUX
+8,M,2021-03-12 19:23:53,2021-03-10,FLUX,Johnson Michael,"Dir, 10%",S - Sale,$11.60,-25000,4384821,-1%,"-$290,008",,,,,FLUX
+9,M,2021-03-03 18:55:57,2021-03-01,FLUX,Johnson Michael,"Dir, 10%",S - Sale,$13.15,-43936,4409821,-1%,"-$577,915",,,,,FLUX
+10,A,2021-02-23 18:40:20,2020-08-14,FLUX,Scheiwe Charles,"CFO, Secretary",P - Purchase,$4.00,"+5,000",5000,New,"+$20,000",,,,,FLUX
+11,A,2021-02-23 18:37:33,2020-08-14,FLUX,Johnson Michael,"Dir, 10%",P - Purchase,$4.00,"+150,000",4453757,+3%,"+$600,000",,,,,FLUX
+12,A,2021-02-23 18:33:20,2020-08-14,FLUX,Dutt Ronald F,"CEO, Pres",P - Purchase,$4.00,"+8,750",21660,+68%,"+$35,000",,,,,FLUX
+13,A,2021-02-23 18:29:47,2020-08-14,FLUX,Cosentino John A Jr,Dir,P - Purchase,$4.00,"+25,000",87500,+40%,"+$100,000",,,,,FLUX
+14,A,2021-02-23 18:25:26,2020-08-14,FLUX,Berry Jonathan Andrew,COO,P - Purchase,$4.00,"+1,875",1875,New,"+$7,500",,,,,FLUX
+15,,2021-02-19 16:05:35,2021-02-17,FLUX,Cosentino John A Jr,Dir,S - Sale,$15.90,-13830,62670,-18%,"-$219,907",,,,,FLUX
+16,,2020-08-18 18:09:34,2020-08-18,FLUX,Berry Jonathan Andrew,COO,P - Purchase,$4.00,"+1,875",1875,New,"+$7,500",,,,,FLUX
+17,,2020-08-18 18:09:09,2020-08-18,FLUX,Scheiwe Charles,"CFO, Secretary",P - Purchase,$4.00,"+5,000",5000,New,"+$20,000",,,,,FLUX
+18,,2020-08-18 18:06:58,2020-08-18,FLUX,Cosentino John A Jr,Dir,P - Purchase,$4.00,"+25,000",87500,+40%,"+$100,000",,,,,FLUX
+19,,2020-08-18 18:06:49,2020-08-18,FLUX,Johnson Michael,"Dir, 10%",P - Purchase,$4.00,"+150,000",4453757,+3%,"+$600,000",,,,,FLUX
+20,,2020-08-18 18:06:46,2020-08-18,FLUX,Dutt Ronald F,"CEO, Pres",P - Purchase,$4.00,"+8,750",21660,+68%,"+$35,000",,,,,FLUX
+21,,2020-07-24 14:32:43,2020-07-24,FLUX,Cosentino John A Jr,Dir,P - Purchase,$4.00,"+62,500",62500,New,"+$250,000",,,,,FLUX
+22,,2019-01-31 16:17:52,2019-01-29,FLUX,"Cleveland Capital Management, L.L.C.",10%,P - Purchase,$1.10,"+497,100",5656200,+10%,"+$546,810",,,,,FLUX
+23,,2019-01-22 18:47:52,2018-12-26,FLUX,"Cleveland Capital Management, L.L.C.",10%,P - Purchase,$1.10,"+2,450,000",5159100,+90%,"+$2,695,000",,,,,FLUX

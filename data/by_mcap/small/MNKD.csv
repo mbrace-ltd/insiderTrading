@@ -1,0 +1,46 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-08-27 21:01:17,2021-08-27,MNKD,Thomson David,"EVP Genl Counsel, Secretary",S - Sale,$4.64,-4100,553214,-1%,"-$19,024",,,,,MNKD
+1,,2021-08-02 20:00:43,2021-07-30,MNKD,Binder Steven B.,CFO,P - Purchase,$2.99,+748,547644,0%,"+$2,237",,,,,MNKD
+2,,2021-08-02 20:00:32,2021-07-30,MNKD,Tross Stuart A,"Chief People, Workpl Officer",P - Purchase,$2.99,"+4,476",634708,+1%,"+$13,383",,,,,MNKD
+3,,2021-08-02 20:00:22,2021-07-30,MNKD,Galindo Alejandro,Chief Commercial Officer,P - Purchase,$2.99,"+5,000",547602,+1%,"+$14,950",,,,,MNKD
+4,,2021-08-02 20:00:15,2021-07-30,MNKD,Castagna Michael,CEO,P - Purchase,$2.99,"+5,000",1538652,0%,"+$14,950",,,,,MNKD
+5,,2021-03-08 17:00:40,2021-03-05,MNKD,Castagna Michael,CEO,P - Purchase,$3.38,"+3,000",3000,New,"+$10,140",,,,,MNKD
+6,,2021-02-02 18:18:35,2021-01-31,MNKD,Binder Steven B.,CFO,P - Purchase,$1.33,"+1,557",398822,0%,"+$2,071",,,,,MNKD
+7,,2021-02-02 18:18:07,2021-01-31,MNKD,Tross Stuart A,"Chief People, Workpl Officer",P - Purchase,$1.33,"+5,000",481991,+1%,"+$6,650",,,,,MNKD
+8,,2021-02-02 18:18:06,2021-01-31,MNKD,Castagna Michael,CEO,P - Purchase,$1.33,"+5,000",1117560,0%,"+$6,650",,,,,MNKD
+9,A,2020-12-10 18:57:47,2020-12-08,MNKD,Galindo Alejandro,Chief Commercial Officer,P - Purchase,$2.89,"+34,602",398602,+10%,"+$100,000",,,,,MNKD
+10,,2020-12-10 17:07:11,2018-11-14,MNKD,Galindo Alejandro,Chief Commercial Officer,P - Purchase,$2.89,"+34,602",398602,+10%,"+$100,000",,,,,MNKD
+11,,2020-08-04 18:45:02,2020-07-31,MNKD,Binder Steven B.,CFO,P - Purchase,$1.25,"+1,522",33265,+5%,"+$1,903",,,,,MNKD
+12,,2020-08-04 18:41:21,2020-07-31,MNKD,Tross Stuart A,"Chief People, Workpl Officer",P - Purchase,$1.25,"+5,000",114720,+5%,"+$6,250",,,,,MNKD
+13,,2020-08-04 18:39:28,2020-07-31,MNKD,Kendall David M,Chief Medical Officer,P - Purchase,$1.25,"+4,041",41059,+11%,"+$5,051",,,,,MNKD
+14,,2020-08-04 18:38:15,2020-07-31,MNKD,Castagna Michael,CEO,P - Purchase,$1.25,"+5,000",203560,+3%,"+$6,250",,,,,MNKD
+15,M,2020-06-16 17:36:41,2020-06-15,MNKD,Castagna Michael,CEO,P - Purchase,$1.47,"+40,431",208853,+24%,"+$59,434",,,,,MNKD
+16,,2020-02-03 21:17:53,2020-01-31,MNKD,Tross Stuart A,"Chief People, Workpl Officer",P - Purchase,$0.95,"+5,000",124741,+4%,"+$4,750",,,,,MNKD
+17,,2020-02-03 21:16:48,2020-01-31,MNKD,McCauley Patrick,Chief Commercial Officer,P - Purchase,$0.95,"+5,000",100433,+5%,"+$4,750",,,,,MNKD
+18,,2020-02-03 21:15:51,2020-01-31,MNKD,Kendall David M,Chief Medical Officer,P - Purchase,$0.95,"+2,304",52154,+5%,"+$2,189",,,,,MNKD
+19,,2020-02-03 21:14:55,2020-01-31,MNKD,Castagna Michael,CEO,P - Purchase,$0.95,"+5,000",168560,+3%,"+$4,750",,,,,MNKD
+20,,2020-02-03 21:14:03,2020-01-31,MNKD,Binder Steven B.,CFO,P - Purchase,$0.95,"+2,168",48204,+5%,"+$2,060",,,,,MNKD
+21,,2019-07-31 20:47:53,2019-07-31,MNKD,Tross Stuart A,"Chief People, Workpl Officer",P - Purchase,$0.95,"+5,000",121785,+4%,"+$4,750",,,,,MNKD
+22,,2019-07-31 20:44:38,2019-07-31,MNKD,McCauley Patrick,Chief Commercial Officer,P - Purchase,$0.95,"+5,000",95433,+6%,"+$4,750",,,,,MNKD
+23,,2019-07-31 20:44:03,2019-07-31,MNKD,Kendall David M,Chief Medical Officer,P - Purchase,$0.95,"+5,000",49850,+11%,"+$4,750",,,,,MNKD
+24,,2019-07-31 20:43:16,2019-07-31,MNKD,Barton Courtney,"Chief Compl, Privacy Officer",P - Purchase,$0.95,"+4,011",29584,+16%,"+$3,810",,,,,MNKD
+25,,2019-07-31 20:41:41,2019-07-31,MNKD,Castagna Michael,CEO,P - Purchase,$0.95,"+5,000",163560,+3%,"+$4,750",,,,,MNKD
+26,,2019-07-31 20:40:57,2019-07-31,MNKD,Binder Steven B.,CFO,P - Purchase,$0.95,"+2,139",46036,+5%,"+$2,032",,,,,MNKD
+27,A,2019-03-13 12:21:14,2018-11-14,MNKD,Tross Stuart A,"EVP, Chief People Officer",P - Purchase,$1.77,"+14,124",77084,+22%,"+$24,999",,,,,MNKD
+28,A,2019-03-13 12:20:31,2018-11-14,MNKD,Kendall David M,Chief Medical Officer,P - Purchase,$1.77,"+2,824",2824,New,"+$4,998",,,,,MNKD
+29,A,2019-03-13 12:19:45,2018-11-14,MNKD,McCauley Patrick,Chief Commercial Officer,P - Purchase,$1.77,"+14,124",45165,+46%,"+$24,999",,,,,MNKD
+30,A,2019-03-13 12:18:56,2018-11-14,MNKD,Castagna Michael,CEO,P - Purchase,$1.77,"+25,000",93157,+37%,"+$44,250",,,,,MNKD
+31,,2019-01-31 18:19:39,2019-01-31,MNKD,Binder Steven B.,CFO,P - Purchase,$1.07,"+1,860",3620,+106%,"+$1,990",,,,,MNKD
+32,,2019-01-31 18:15:49,2019-01-31,MNKD,Tross Stuart A,"Corp VP, Chief People Officer",P - Purchase,$1.07,"+5,000",155080,+3%,"+$5,350",,,,,MNKD
+33,,2019-01-31 18:14:07,2019-01-31,MNKD,McCauley Patrick,Chief Commercial Officer,P - Purchase,$1.07,"+5,000",50165,+11%,"+$5,350",,,,,MNKD
+34,,2019-01-31 18:12:35,2019-01-31,MNKD,Kendall David M,Chief Medical Officer,P - Purchase,$1.07,"+5,000",7824,+177%,"+$5,350",,,,,MNKD
+35,,2019-01-31 18:11:20,2019-01-31,MNKD,Ingram Elizabeth Garrett,CMO,P - Purchase,$1.07,"+5,000",31141,+19%,"+$5,350",,,,,MNKD
+36,,2019-01-31 18:05:15,2019-01-31,MNKD,Barton Courtney,Chief Compliance Officer,P - Purchase,$1.07,"+5,000",12000,+71%,"+$5,350",,,,,MNKD
+37,,2019-01-31 18:03:30,2019-01-31,MNKD,Castagna Michael,CEO,P - Purchase,$1.07,"+5,000",98157,+5%,"+$5,350",,,,,MNKD
+38,D,2018-08-06 19:21:30,2018-08-02,MNKD,Tross Stuart A,"Corp VP, Chief People Officer",P - Purchase,$1.31,"+5,000",62960,+9%,"+$6,550",,,,,MNKD
+39,D,2018-08-06 19:19:52,2018-08-02,MNKD,McCauley Patrick,Chief Commercial Officer,P - Purchase,$1.31,"+5,000",31041,+19%,"+$6,550",,,,,MNKD
+40,D,2018-08-06 19:17:47,2018-08-02,MNKD,Barton Courtney,Chief Compliance Officer,P - Purchase,$1.31,"+5,000",7000,+250%,"+$6,550",,,,,MNKD
+41,D,2018-08-06 19:17:09,2018-08-02,MNKD,Binder Steven B.,CFO,P - Purchase,$1.31,"+1,760",1760,New,"+$2,306",,,,,MNKD
+42,D,2018-08-06 19:16:30,2018-08-02,MNKD,Castagna Michael,CEO,P - Purchase,$1.31,"+5,000",68157,+8%,"+$6,550",,,,,MNKD
+43,,2017-12-21 21:36:07,2017-12-21,MNKD,Tross Stuart A,"Corp VP, Chief People Officer",P - Purchase,$2.52,"+39,840",59840,+199%,"+$100,397",,,,,MNKD
+44,,2017-12-20 16:53:47,2017-12-20,MNKD,Castagna Michael,CEO,P - Purchase,$2.29,"+8,000",37032,+28%,"+$18,291",,,,,MNKD

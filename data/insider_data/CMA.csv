@@ -1,0 +1,40 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-05-06 16:18:00,2021-05-04,CMA,Ortiz Mauricio A,"SVP, Chief Accounting Officer",S - Sale+OE,$73.42,-800,6072,-12%,"-$58,732",,,,,CMA
+1,D,2021-05-05 16:16:34,2021-05-03,CMA,Oberg Jay K.,EVP - Chief Risk Officer,S - Sale+OE,$74.61,-4000,37831,-10%,"-$298,440",,,,,CMA
+2,,2021-05-04 16:17:37,2021-04-30,CMA,Humrichouse Ximena G,Dir,S - Sale,$75.52,-660,30870,-2%,"-$49,843",,,,,CMA
+3,D,2021-05-03 16:16:09,2021-04-29,CMA,Weber James Harry,EVP,S - Sale+OE,$75.00,-3800,15266,-20%,"-$285,000",,,,,CMA
+4,D,2021-03-01 16:17:07,2021-02-25,CMA,Burkhart Megan D,EVP - CHRO,S - Sale+OE,$70.64,-2278,36103,-6%,"-$160,918",,,,,CMA
+5,D,2021-02-25 16:26:59,2021-02-23,CMA,Moore Christine M,"EVP, General Auditor",S - Sale+OE,$68.67,-3000,18231,-14%,"-$206,011",,,,,CMA
+6,D,2021-02-08 16:38:49,2021-02-04,CMA,McKinney Cassandra M.,EVP,S - Sale+OE,$62.23,-4643,5658,-45%,"-$288,934",,,,,CMA
+7,D,2020-11-25 16:16:59,2020-11-24,CMA,Oberg Jay K.,EVP - Chief Risk Officer,S - Sale+OE,$53.69,-1500,32708,-4%,"-$80,535",,,,,CMA
+8,D,2020-08-31 16:18:51,2020-08-27,CMA,Ortiz Mauricio A,"SVP, Chief Accounting Officer",S - Sale+OE,$39.97,-900,4593,-16%,"-$35,973",,,,,CMA
+9,D,2020-03-03 16:19:31,2020-02-28,CMA,Burkhart Megan D,EVP - CHRO,S - Sale+OE,$51.27,-4084,26454,-13%,"-$209,403",,,,,CMA
+10,D,2020-02-06 16:17:02,2020-02-04,CMA,Weber James Harry,EVP,S - Sale+OE,$63.54,-6500,13404,-33%,"-$413,027",,,,,CMA
+11,D,2019-11-13 16:17:13,2019-11-08,CMA,Guilfoile Peter William,EVP,S - Sale+OE,$71.45,-6959,13647,-34%,"-$497,208",,,,,CMA
+12,D,2019-11-13 16:16:01,2019-11-08,CMA,Obermeyer Paul R,EVP,S - Sale+OE,$71.88,-6920,10412,-40%,"-$497,419",,,,,CMA
+13,,2019-10-30 16:15:40,2019-10-28,CMA,Turner Reginald M Jr,Dir,S - Sale,$66.66,-2495,31025,-7%,"-$166,305",,,,,CMA
+14,D,2019-05-22 16:46:37,2019-05-20,CMA,Moore Christine M,"EVP, General Auditor",S - Sale+OE,$73.49,-3200,13763,-19%,"-$235,158",,,,,CMA
+15,D,2019-03-04 16:29:32,2019-03-01,CMA,Obermeyer Paul R,EVP,S - Sale+OE,$86.75,-8200,17100,-32%,"-$711,367",,,,,CMA
+16,D,2019-02-28 16:19:27,2019-02-27,CMA,Burkhart Megan D,EVP - CHRO,S - Sale+OE,$87.55,-7443,24863,-23%,"-$651,647",,,,,CMA
+17,D,2019-01-31 16:15:22,2019-01-29,CMA,Guilfoile Peter William,EVP,S - Sale+OE,$82.26,-2922,11500,-20%,"-$240,364",,,,,CMA
+18,D,2018-08-06 16:29:13,2018-08-02,CMA,Moore Christine M,"EVP, General Auditor",S - Sale+OE,$98.41,-4800,13931,-26%,"-$472,387",,,,,CMA
+19,D,2018-05-17 16:20:48,2018-05-15,CMA,Guilfoile Peter William,EVP,S - Sale+OE,$98.67,-1100,13997,-7%,"-$108,533",,,,,CMA
+20,D,2018-05-17 16:19:07,2018-05-15,CMA,Babb Ralph W Jr,"COB, CEO",S - Sale+OE,$98.56,-21400,642265,-3%,"-$2,109,270",,,,,CMA
+21,D,2018-05-15 16:15:27,2018-05-11,CMA,Babb Ralph W Jr,"COB, CEO",S - Sale+OE,$98.12,-50000,642265,-7%,"-$4,906,100",,,,,CMA
+22,D,2018-03-01 17:07:25,2018-02-28,CMA,Burkhart Megan D,EVP - CHRO,S - Sale+OE,$99.20,-4670,25282,-16%,"-$463,258",,,,,CMA
+23,D,2018-02-28 18:24:02,2018-02-26,CMA,Ritchie Michael T,EVP,S - Sale+OE,$99.45,-4000,15436,-21%,"-$397,808",,,,,CMA
+24,D,2018-02-28 18:19:02,2018-02-26,CMA,Carr Muneera S,"EVP, CFO",S - Sale+OE,$99.34,-2321,15798,-13%,"-$230,560",,,,,CMA
+25,D,2018-02-23 16:33:35,2018-02-21,CMA,Babb Ralph W Jr,"COB, CEO",S - Sale+OE,$99.30,-50000,603110,-8%,"-$4,964,950",,,,,CMA
+26,D,2018-02-06 16:17:20,2018-02-02,CMA,Guilfoile Peter William,EVP,S - Sale+OE,$97.00,-1052,13334,-7%,"-$102,044",,,,,CMA
+27,D,2018-02-06 16:16:03,2018-02-02,CMA,Babb Ralph W Jr,"COB, CEO",S - Sale+OE,$97.61,-65300,603110,-10%,"-$6,374,194",,,,,CMA
+28,D,2018-01-30 17:39:52,2018-01-29,CMA,Farmer Curtis C,Pres,S - Sale+OE,$96.08,-18870,75273,-20%,"-$1,812,986",,,,,CMA
+29,D,2018-01-30 17:38:38,2018-01-29,CMA,Duprey David E,EVP,S - Sale+OE,$95.30,-11293,90935,-11%,"-$1,076,229",,,,,CMA
+30,D,2018-01-30 17:12:00,2018-01-26,CMA,Buchanan John D,"EVP, Corporate Secretary",S - Sale+OE,$94.87,-2571,21096,-11%,"-$243,919",,,,,CMA
+31,D,2018-01-29 16:16:07,2018-01-25,CMA,Burkhart Megan D,EVP - CHRO,S - Sale+OE,$94.80,-3000,26104,-10%,"-$284,412",,,,,CMA
+32,D,2018-01-25 16:18:31,2018-01-24,CMA,Babb Ralph W Jr,"COB, CEO",S - Sale+OE,$95.25,-50000,605621,-8%,"-$4,762,400",,,,,CMA
+33,D,2018-01-22 16:56:10,2018-01-18,CMA,Babb Ralph W Jr,"COB, CEO",S - Sale+OE,$94.02,-61500,595409,-9%,"-$5,781,923",,,,,CMA
+34,D,2017-11-14 16:52:08,2017-11-10,CMA,Ritchie Michael T,EVP,S - Sale+OE,$75.08,-4596,19500,-19%,"-$345,090",,,,,CMA
+35,D,2017-11-14 16:44:27,2017-11-10,CMA,Moore Christine M,"EVP, General Auditor",S - Sale+OE,$75.07,-3200,14109,-18%,"-$240,208",,,,,CMA
+36,D,2017-08-30 16:22:56,2017-08-28,CMA,Guilfoile Peter William,EVP,S - Sale+OE,$69.50,-2928,13584,-18%,"-$203,508",,,,,CMA
+37,D,2017-08-25 17:05:56,2017-08-23,CMA,Obermeyer Paul R,EVP,S - Sale+OE,$70.24,-20321,12789,-61%,"-$1,427,440",,,,,CMA
+38,D,2017-08-24 17:29:57,2017-08-22,CMA,Love Judith S,EVP,S - Sale+OE,$69.74,-21000,22992,-48%,"-$1,464,636",,,,,CMA

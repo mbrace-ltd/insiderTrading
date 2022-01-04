@@ -1,0 +1,46 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-07-26 15:47:29,2021-07-23,SPG,Stewart Marta R,Dir,P - Purchase,$123.87,85,7727,+1%,"+$10,529",,,,,SPG
+1,,2021-07-26 15:47:13,2021-07-23,SPG,Smith J Albert Jr,Dir,P - Purchase,$123.87,412,54449,+1%,"+$51,034",,,,,SPG
+2,,2021-07-26 15:46:56,2021-07-23,SPG,Smith Daniel C.,Dir,P - Purchase,$123.87,203,21215,+1%,"+$25,146",,,,,SPG
+3,,2021-07-26 15:46:42,2021-07-23,SPG,Selig Stefan M,Dir,P - Purchase,$123.87,93,23348,0%,"+$11,520",,,,,SPG
+4,,2021-07-26 15:43:06,2021-07-23,SPG,Rodkin Gary M,Dir,P - Purchase,$123.87,115,10325,+1%,"+$14,245",,,,,SPG
+5,,2021-07-26 15:42:50,2021-07-23,SPG,Leibowitz Reuben S,Dir,P - Purchase,$123.87,297,56102,+1%,"+$36,789",,,,,SPG
+6,,2021-07-26 15:42:38,2021-07-23,SPG,Hubbard Allan B,Dir,P - Purchase,$123.87,238,24977,+1%,"+$29,481",,,,,SPG
+7,,2021-07-26 15:42:28,2021-07-23,SPG,Horn Karen N,Dir,P - Purchase,$123.87,327,29300,+1%,"+$40,505",,,,,SPG
+8,,2021-07-26 15:39:43,2021-07-23,SPG,Glasscock Larry C,Dir,P - Purchase,$123.87,207,31312,+1%,"+$25,641",,,,,SPG
+9,,2021-07-26 15:39:30,2021-07-23,SPG,Aeppel Glyn,Dir,P - Purchase,$123.87,105,10413,+1%,"+$13,006",,,,,SPG
+10,,2021-04-26 16:22:23,2021-04-23,SPG,Stewart Marta R,Dir,P - Purchase,$116.37,67,6121,+1%,"+$7,797",,,,,SPG
+11,,2021-04-26 16:21:46,2021-04-23,SPG,Smith J Albert Jr,Dir,P - Purchase,$116.37,385,52370,+1%,"+$44,802",,,,,SPG
+12,,2021-04-26 16:21:15,2021-04-23,SPG,Smith Daniel C.,Dir,P - Purchase,$116.37,182,19491,+1%,"+$21,179",,,,,SPG
+13,,2021-04-26 16:20:34,2021-04-23,SPG,Selig Stefan M,Dir,P - Purchase,$116.37,73,21671,0%,"+$8,495",,,,,SPG
+14,,2021-04-26 16:20:06,2021-04-23,SPG,Rodkin Gary M,Dir,P - Purchase,$116.37,96,8709,+1%,"+$11,171",,,,,SPG
+15,,2021-04-26 16:19:28,2021-04-23,SPG,Leibowitz Reuben S,Dir,P - Purchase,$116.37,272,54138,+1%,"+$31,652",,,,,SPG
+16,,2021-04-26 16:18:52,2021-04-23,SPG,Hubbard Allan B,Dir,P - Purchase,$116.37,215,23176,+1%,"+$25,019",,,,,SPG
+17,,2021-04-26 16:18:21,2021-04-23,SPG,Horn Karen N,Dir,P - Purchase,$116.37,302,27410,+1%,"+$35,143",,,,,SPG
+18,,2021-04-26 16:17:52,2021-04-23,SPG,Glasscock Larry C,Dir,P - Purchase,$116.37,183,29334,+1%,"+$21,296",,,,,SPG
+19,,2021-04-26 16:17:20,2021-04-23,SPG,Aeppel Glyn,Dir,P - Purchase,$116.37,86,8807,+1%,"+$10,008",,,,,SPG
+20,M,2021-03-22 18:39:48,2020-07-24,SPG,Smith Daniel C.,Dir,P - Purchase,$71.88,857,19309,+5%,"+$61,599",,,,,SPG
+21,M,2021-03-22 17:31:53,2020-07-24,SPG,Stewart Marta R,Dir,P - Purchase,$71.89,314,6054,+5%,"+$22,572",,,,,SPG
+22,M,2021-03-22 17:31:25,2020-07-24,SPG,Smith J Albert Jr,Dir,P - Purchase,$71.89,1809,51985,+4%,"+$130,051",,,,,SPG
+23,M,2021-03-22 17:30:59,2020-07-24,SPG,Selig Stefan M,Dir,P - Purchase,$71.90,344,21598,+2%,"+$24,733",,,,,SPG
+24,M,2021-03-22 17:30:39,2020-07-24,SPG,Rodkin Gary M,Dir,P - Purchase,$71.88,451,8613,+6%,"+$32,417",,,,,SPG
+25,M,2021-03-22 17:30:27,2020-07-24,SPG,Leibowitz Reuben S,Dir,P - Purchase,$71.90,1282,53866,+2%,"+$92,172",,,,,SPG
+26,M,2021-03-22 17:29:40,2020-07-24,SPG,Hubbard Allan B,Dir,P - Purchase,$71.88,1012,22961,+5%,"+$72,741",,,,,SPG
+27,M,2021-03-22 17:29:19,2020-07-24,SPG,Horn Karen N,Dir,P - Purchase,$71.90,1418,27108,+6%,"+$101,950",,,,,SPG
+28,M,2021-03-22 17:28:21,2020-07-24,SPG,Glasscock Larry C,Dir,P - Purchase,$71.88,861,29151,+3%,"+$61,885",,,,,SPG
+29,M,2021-03-22 17:27:46,2020-07-24,SPG,Aeppel Glyn,Dir,P - Purchase,$71.90,404,8721,+5%,"+$29,049",,,,,SPG
+30,,2020-05-18 12:15:18,2020-05-15,SPG,Aeppel Glyn,Dir,P - Purchase,$50.50,1000,8317,+14%,"+$50,500",,,,,SPG
+31,,2020-03-19 18:17:18,2020-03-19,SPG,Glasscock Larry C,Dir,P - Purchase,$58.98,10000,24661,+68%,"+$589,788",,,,,SPG
+32,,2020-03-18 16:05:10,2020-03-18,SPG,Selig Stefan M,Dir,P - Purchase,$46.18,15000,18010,+498%,"+$692,625",,,,,SPG
+33,,2020-03-18 16:03:39,2020-03-18,SPG,Leibowitz Reuben S,Dir,P - Purchase,$50.15,1000,49169,+2%,"+$50,145",,,,,SPG
+34,,2020-03-18 16:01:24,2020-03-18,SPG,Hubbard Allan B,Dir,P - Purchase,$54.81,3615,18747,+24%,"+$198,138",,,,,SPG
+35,,2020-03-18 16:00:11,2020-03-18,SPG,Simon Herbert,Chairman Emeritus of the Board,P - Purchase,$52.68,188572,190925,>999%,"+$9,933,030",,,,,SPG
+36,,2020-03-18 15:58:57,2020-03-18,SPG,Smith Daniel C.,Dir,P - Purchase,$53.14,921,15006,+7%,"+$48,946",,,,,SPG
+37,,2020-03-18 15:57:25,2020-03-18,SPG,Smith J Albert Jr,Dir,P - Purchase,$52.03,1750,46761,+4%,"+$91,053",,,,,SPG
+38,,2020-03-17 19:01:39,2020-03-17,SPG,Leibowitz Reuben S,Dir,P - Purchase,$64.88,1500,48169,+3%,"+$97,325",,,,,SPG
+39,,2020-03-17 18:59:25,2020-03-17,SPG,Simon David,"CEO, COB, Pres",P - Purchase,$60.83,150000,953924,+19%,"+$9,124,050",,,,,SPG
+40,,2019-05-17 10:52:42,2019-05-16,SPG,Rulli John,"Pres Malls, Chief Admin Offcr",S - Sale,$176.17,-9160,33915,-21%,"-$1,613,717",,,,,SPG
+41,,2018-10-31 15:42:04,2018-10-30,SPG,Rulli John,"Pres Malls, Chief Admin Offcr",S - Sale,$186.52,-6000,43046,-12%,"-$1,119,120",,,,,SPG
+42,,2018-08-08 16:49:33,2018-08-06,SPG,Rulli John,"Pres Malls, Chief Admin Offcr",S - Sale,$177.05,-1330,49031,-3%,"-$235,477",,,,,SPG
+43,,2018-07-03 15:31:04,2018-06-29,SPG,Broadwater Steven K.,"SVP, Chief Accounting Officer",S - Sale,$170.28,-859,1847,-32%,"-$146,271",,,,,SPG
+44,,2018-01-02 14:36:30,2017-12-29,SPG,Broadwater Steven K.,"SVP, Chief Accounting Officer",S - Sale,$171.95,-621,2400,-21%,"-$106,781",,,,,SPG

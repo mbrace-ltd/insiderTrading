@@ -1,0 +1,86 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-07-28 16:56:51,2021-07-26,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale+OE,$149.22,-12000,6000,-67%,"-$1,790,680",,,,,TRV
+1,D,2021-05-17 16:41:55,2021-05-13,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale+OE,$156.41,-10000,5990,-63%,"-$1,564,060",,,,,TRV
+2,D,2021-05-12 16:04:24,2021-05-10,TRV,Heyman William H,Vice COB,S - Sale+OE,$161.95,-6000,249331,-2%,"-$971,678",,,,,TRV
+3,DM,2021-05-10 16:14:50,2021-05-06,TRV,Heyman William H,Vice COB,S - Sale+OE,$160.42,-6000,249331,-2%,"-$962,500",,,,,TRV
+4,D,2021-05-07 16:08:27,2021-05-06,TRV,Olivo Maria,"EVP, Strat Dev, Pres Intl",S - Sale+OE,$160.29,-9900,95371,-9%,"-$1,586,911",,,,,TRV
+5,,2021-05-06 16:08:03,2021-05-05,TRV,Russell Douglas K,"SVP, Corp Contr, Treasurer",S - Sale,$159.35,-2461,17911,-12%,"-$392,170",,,,,TRV
+6,DM,2021-05-06 16:06:31,2021-05-04,TRV,Heyman William H,Vice COB,S - Sale+OE,$158.96,-5500,249331,-2%,"-$874,250",,,,,TRV
+7,D,2021-05-05 16:17:19,2021-05-04,TRV,Toczydlowski Gregory C,"EVP, Pres, Business Ins.",S - Sale+OE,$157.80,-38013,13480,-74%,"-$5,998,261",,,,,TRV
+8,DM,2021-04-26 16:56:37,2021-04-22,TRV,Heyman William H,Vice COB,S - Sale+OE,$157.30,-23500,249331,-9%,"-$3,696,560",,,,,TRV
+9,,2021-04-23 16:15:31,2021-04-22,TRV,Frey Daniel S.,"EVP, CFO",S - Sale,$154.90,-1485,846,-64%,"-$230,032",,,,,TRV
+10,D,2021-04-23 16:12:00,2021-04-22,TRV,Schnitzer Alan D,"COB, CEO",S - Sale+OE,$155.00,-60979,192740,-24%,"-$9,451,881",,,,,TRV
+11,,2021-02-26 16:06:40,2021-02-25,TRV,Bessette Andy F,"EVP, Chief Admin Officer",S - Sale,$149.58,-2000,13459,-13%,"-$299,160",,,,,TRV
+12,DM,2021-02-25 16:39:56,2021-02-23,TRV,Heyman William H,Vice COB,S - Sale+OE,$150.07,-7500,249323,-3%,"-$1,125,555",,,,,TRV
+13,D,2021-02-25 16:28:08,2021-02-24,TRV,Olivo Maria,"EVP, Strat Dev, Pres Intl",S - Sale+OE,$150.63,-10000,95370,-9%,"-$1,506,270",,,,,TRV
+14,D,2021-02-24 16:22:22,2021-02-23,TRV,Toczydlowski Gregory C,"EVP, Pres, Business Ins.",S - Sale+OE,$148.86,-11536,13478,-46%,"-$1,717,274",,,,,TRV
+15,D,2021-02-19 16:11:04,2021-02-17,TRV,Heyman William H,Vice COB,S - Sale+OE,$148.25,-3000,249323,-1%,"-$444,750",,,,,TRV
+16,D,2021-02-11 16:08:57,2021-02-10,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale+OE,$146.25,-23230,1706,-93%,"-$3,397,388",,,,,TRV
+17,D,2021-01-27 16:23:35,2021-01-25,TRV,Schnitzer Alan D,"COB, CEO",S - Sale+OE,$146.10,-53246,173897,-23%,"-$7,779,347",,,,,TRV
+18,DM,2021-01-27 16:18:43,2021-01-25,TRV,Heyman William H,Vice COB,S - Sale+OE,$146.68,-7000,243808,-3%,"-$1,026,750",,,,,TRV
+19,D,2020-11-20 16:08:03,2020-11-18,TRV,Heyman William H,Vice COB,S - Sale+OE,$137.00,-2500,243799,-1%,"-$342,500",,,,,TRV
+20,D,2020-11-18 16:38:38,2020-11-16,TRV,Heyman William H,Vice COB,S - Sale+OE,$136.21,-5000,243799,-2%,"-$681,056",,,,,TRV
+21,D,2020-11-13 16:15:18,2020-11-11,TRV,Olivo Maria,"EVP, Strat Dev, Pres Intl",S - Sale+OE,$136.09,-26284,92835,-22%,"-$3,576,990",,,,,TRV
+22,,2020-08-12 16:06:21,2020-08-11,TRV,Ruegger Philip T III,Dir,P - Purchase,$121.06,825,34885,+2%,"+$99,876",,,,,TRV
+23,,2020-03-02 16:15:01,2020-02-28,TRV,Ruegger Philip T III,Dir,P - Purchase,$118.54,670,33881,+2%,"+$79,422",,,,,TRV
+24,,2020-02-25 16:35:17,2020-02-24,TRV,Toczydlowski Gregory C,"EVP, Pres, Business Ins.",S - Sale,$134.67,-5365,13471,-28%,"-$722,510",,,,,TRV
+25,,2020-02-25 16:29:05,2020-02-24,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale,$134.68,-4983,1658,-75%,"-$671,096",,,,,TRV
+26,,2020-02-25 16:26:25,2020-02-21,TRV,Heyman William H,Vice COB,S - Sale,$135.20,-7041,243764,-3%,"-$951,943",,,,,TRV
+27,D,2019-12-02 12:40:44,2019-11-27,TRV,Heyman William H,Vice COB,S - Sale+OE,$137.08,-1000,243754,0%,"-$137,080",,,,,TRV
+28,D,2019-11-27 13:40:30,2019-11-26,TRV,Heyman William H,Vice COB,S - Sale+OE,$136.20,-2185,243754,-1%,"-$297,601",,,,,TRV
+29,D,2019-08-26 16:29:01,2019-08-23,TRV,Benet Jay S,Vice COB,S - Sale+OE,$146.59,-21972,102944,-18%,"-$3,220,907",,,,,TRV
+30,D,2019-08-21 16:30:45,2019-08-20,TRV,Bessette Andy F,"EVP, Chief Admin Officer",S - Sale+OE,$146.85,-11650,11119,-51%,"-$1,710,837",,,,,TRV
+31,,2019-08-19 16:10:49,2019-08-19,TRV,Ruegger Philip T III,Dir,P - Purchase,$147.49,700,31644,+2%,"+$103,243",,,,,TRV
+32,,2019-08-13 17:27:09,2019-08-12,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale,$147.41,-3545,1638,-68%,"-$522,628",,,,,TRV
+33,D,2019-08-05 15:37:04,2019-08-01,TRV,Bengston Diane D.,"EVP, CHRO",S - Sale+OE,$147.53,-6899,4847,-59%,"-$1,017,803",,,,,TRV
+34,D,2019-07-31 16:05:16,2019-07-29,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$150.75,-5000,243745,-2%,"-$753,750",,,,,TRV
+35,DM,2019-07-29 16:10:07,2019-07-25,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$149.50,-7500,243745,-3%,"-$1,121,250",,,,,TRV
+36,DM,2019-05-20 16:53:04,2019-05-16,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$147.75,-10000,243738,-4%,"-$1,477,500",,,,,TRV
+37,DM,2019-05-16 16:37:54,2019-05-14,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$145.50,-12500,243738,-5%,"-$1,818,750",,,,,TRV
+38,D,2019-05-08 16:16:02,2019-05-07,TRV,Toczydlowski Gregory C,"EVP, Pres, Business Ins.",S - Sale+OE,$143.02,-25000,13466,-65%,"-$3,575,400",,,,,TRV
+39,D,2019-05-07 16:09:50,2019-05-03,TRV,Benet Jay S,Vice COB,S - Sale+OE,$143.50,-57800,102940,-36%,"-$8,294,358",,,,,TRV
+40,D,2019-05-07 16:08:41,2019-05-03,TRV,Bessette Andy F,"EVP, Chief Admin Officer",S - Sale+OE,$142.46,-16550,11111,-60%,"-$2,357,763",,,,,TRV
+41,DM,2019-05-02 16:17:12,2019-04-30,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$143.00,-12500,243738,-5%,"-$1,787,500",,,,,TRV
+42,,2019-05-02 16:12:38,2019-04-30,TRV,Russell Douglas K,"SVP, Corp Contr, Treasurer",S - Sale,$142.51,-2040,17893,-10%,"-$290,714",,,,,TRV
+43,DM,2019-04-30 16:24:04,2019-04-26,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$140.79,-9500,243738,-4%,"-$1,337,500",,,,,TRV
+44,,2019-04-29 16:40:03,2019-04-26,TRV,Russell Douglas K,"SVP, Corp Contr, Treasurer",S - Sale,$140.00,-2991,19933,-13%,"-$418,740",,,,,TRV
+45,D,2019-04-25 16:10:30,2019-04-24,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$139.25,-4000,243738,-2%,"-$557,000",,,,,TRV
+46,D,2019-04-24 16:15:00,2019-04-23,TRV,Benet Jay S,Vice COB,S - Sale+OE,$137.46,-60979,102940,-37%,"-$8,382,417",,,,,TRV
+47,D,2019-02-27 16:40:33,2019-02-25,TRV,Schnitzer Alan D,"COB, CEO",S - Sale+OE,$132.22,-66228,148685,-31%,"-$8,756,799",,,,,TRV
+48,D,2019-02-27 16:39:24,2019-02-26,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$133.55,-3500,243730,-1%,"-$467,418",,,,,TRV
+49,,2019-02-27 16:38:13,2019-02-26,TRV,Toczydlowski Gregory C,"EVP, Pres, Business Ins.",S - Sale,$132.57,-4450,13465,-25%,"-$589,950",,,,,TRV
+50,,2019-02-25 14:03:19,2019-02-22,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale,$131.26,-4850,5167,-48%,"-$636,621",,,,,TRV
+51,,2019-02-25 13:58:03,2019-02-22,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale,$130.57,-8138,243730,-3%,"-$1,062,579",,,,,TRV
+52,D,2019-02-19 14:14:31,2019-02-15,TRV,Toczydlowski Gregory C,"EVP, Pres, Business Ins.",S - Sale+OE,$128.52,-23405,12604,-65%,"-$3,007,964",,,,,TRV
+53,,2019-01-29 13:43:28,2019-01-25,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale,$125.54,-8323,243730,-3%,"-$1,044,869",,,,,TRV
+54,,2018-11-15 16:21:27,2018-11-14,TRV,Bessette Andy F,"EVP, Chief Admin Officer",S - Sale,$126.17,-1666,8276,-17%,"-$210,199",,,,,TRV
+55,D,2018-08-22 11:49:58,2018-08-21,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$132.00,-8876,94121,-9%,"-$1,171,632",,,,,TRV
+56,D,2018-08-21 10:45:16,2018-08-17,TRV,Bessette Andy F,"EVP, Chief Admin Officer",S - Sale+OE,$130.78,-8892,10528,-46%,"-$1,162,870",,,,,TRV
+57,D,2018-05-24 13:46:16,2018-05-22,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$132.00,-6854,94116,-7%,"-$904,728",,,,,TRV
+58,D,2018-05-15 12:17:00,2018-05-11,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$132.01,-6457,94116,-6%,"-$852,370",,,,,TRV
+59,D,2018-04-12 13:50:41,2018-04-11,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$136.02,-4437,94111,-5%,"-$603,499",,,,,TRV
+60,D,2018-04-05 14:50:37,2018-04-04,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$134.90,-4437,94111,-5%,"-$598,529",,,,,TRV
+61,D,2018-03-29 13:57:43,2018-03-28,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$136.94,-4437,94111,-5%,"-$607,594",,,,,TRV
+62,D,2018-03-22 12:07:38,2018-03-21,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$141.20,-4437,94111,-5%,"-$626,487",,,,,TRV
+63,D,2018-03-15 16:02:37,2018-03-14,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$141.03,-4437,94111,-5%,"-$625,748",,,,,TRV
+64,D,2018-03-09 11:22:26,2018-03-07,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$140.13,-4437,94111,-5%,"-$621,748",,,,,TRV
+65,D,2018-03-01 14:44:44,2018-02-28,TRV,Benet Jay S,"Vice COB, CFO",S - Sale+OE,$141.72,-4437,94111,-5%,"-$628,790",,,,,TRV
+66,D,2018-02-27 16:15:44,2018-02-26,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$142.75,-2500,252018,-1%,"-$356,875",,,,,TRV
+67,D,2018-02-27 14:35:04,2018-02-26,TRV,Bessette Andy F,"EVP, Chief Admin Officer",S - Sale+OE,$142.42,-17000,12787,-57%,"-$2,421,174",,,,,TRV
+68,,2018-02-23 16:23:08,2018-02-22,TRV,Spence Kenneth Franklin III,"EVP, GC",S - Sale,$138.68,-2970,26580,-10%,"-$411,880",,,,,TRV
+69,D,2018-02-20 12:16:02,2018-02-16,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale+OE,$140.72,-21064,3125,-87%,"-$2,964,210",,,,,TRV
+70,D,2018-02-20 12:07:52,2018-02-15,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$141.96,-2500,243694,-1%,"-$354,900",,,,,TRV
+71,D,2018-02-16 16:15:00,2018-02-14,TRV,Schnitzer Alan D,"COB, CEO",S - Sale+OE,$140.49,-69575,126759,-35%,"-$9,774,522",,,,,TRV
+72,D,2018-02-15 16:37:19,2018-02-14,TRV,Heyman William H,"Vice COB, Chief Inv Off",S - Sale+OE,$140.37,-2022,243694,-1%,"-$283,828",,,,,TRV
+73,,2018-02-12 16:14:13,2018-02-12,TRV,Ruegger Philip T III,Dir,P - Purchase,$136.44,1600,28277,+6%,"+$218,296",,,,,TRV
+74,,2018-02-05 18:33:22,2017-12-07,TRV,Schermerhorn Todd C,Dir,P - Purchase,$134.21,1120,3065,+58%,"+$150,315",,,,,TRV
+75,,2018-02-05 18:33:22,2018-01-26,TRV,Schermerhorn Todd C,Dir,S - Sale,$149.08,-1120,3065,-27%,"-$166,970",,,,,TRV
+76,D,2018-01-31 13:51:48,2018-01-30,TRV,Toczydlowski Gregory C,"EVP, Pres, Business Ins.",S - Sale+OE,$148.56,-28975,7165,-80%,"-$4,304,468",,,,,TRV
+77,D,2018-01-29 16:09:44,2018-01-26,TRV,Maclean Brian W,"Pres, COO",S - Sale+OE,$149.29,-88607,123336,-42%,"-$13,228,366",,,,,TRV
+78,D,2018-01-29 16:05:57,2018-01-26,TRV,Kunkel Thomas M,"EVP, Pres, Bond, Spec. Ins.",S - Sale+OE,$150.09,-9595,19361,-33%,"-$1,440,142",,,,,TRV
+79,D,2017-11-30 16:23:01,2017-11-29,TRV,Olivo Maria,EVP-Treasurer,S - Sale+OE,$134.18,-33225,80797,-29%,"-$4,458,155",,,,,TRV
+80,D,2017-11-22 09:59:22,2017-11-21,TRV,Klein Michael Frederick,"EVP, Pres, Personal Ins.",S - Sale+OE,$130.68,-20077,3117,-87%,"-$2,623,582",,,,,TRV
+81,,2017-11-15 17:00:44,2017-11-14,TRV,Bessette Andy F,"EVP, Chief Admin Officer",S - Sale,$132.98,-2000,9072,-18%,"-$265,966",,,,,TRV
+82,,2017-08-15 12:13:34,2017-08-14,TRV,Spence Kenneth Franklin III,"EVP, GC",S - Sale,$128.73,-4800,26580,-15%,"-$617,904",,,,,TRV
+83,D,2017-08-11 12:14:40,2017-08-10,TRV,Kunkel Thomas M,"EVP, Pres, Bond, Spec. Ins.",S - Sale+OE,$129.36,-19849,19361,-51%,"-$2,567,746",,,,,TRV
+84,,2017-08-11 12:11:18,2017-08-10,TRV,Clifford John P Jr,"EVP, CHRO",S - Sale,$129.85,-3525,13001,-21%,"-$457,704",,,,,TRV

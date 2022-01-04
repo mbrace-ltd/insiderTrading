@@ -1,0 +1,31 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,,2021-12-02 10:01:46,2021-12-01,ALTM,Bretches D. Clay,CEO,P - Purchase,$63.51,+200,24570,+1%,"+$12,702",,,,,ALTM
+1,,2021-11-02 17:06:39,2021-11-01,ALTM,Bretches D. Clay,CEO,P - Purchase,$62.41,+200,24370,+1%,"+$12,482",,,,,ALTM
+2,,2021-10-04 15:35:20,2021-10-01,ALTM,Bretches D. Clay,CEO,P - Purchase,$69.25,+200,24170,+1%,"+$13,850",,,,,ALTM
+3,,2021-09-02 14:23:57,2021-09-01,ALTM,Bretches D. Clay,CEO,P - Purchase,$65.18,+200,23970,+1%,"+$13,036",,,,,ALTM
+4,,2021-08-03 10:44:21,2021-08-02,ALTM,Bretches D. Clay,CEO,P - Purchase,$63.54,+200,23770,+1%,"+$12,708",,,,,ALTM
+5,,2021-07-02 11:23:35,2021-07-01,ALTM,Bretches D. Clay,CEO,P - Purchase,$68.24,+200,23570,+1%,"+$13,648",,,,,ALTM
+6,,2021-06-02 12:56:58,2021-06-01,ALTM,Bretches D. Clay,CEO,P - Purchase,$63.93,+200,23370,+1%,"+$12,786",,,,,ALTM
+7,,2021-05-14 12:05:12,2021-05-13,ALTM,Bretches D. Clay,CEO,P - Purchase,$63.75,+200,23170,+1%,"+$12,750",,,,,ALTM
+8,,2020-10-08 16:41:31,2020-10-08,ALTM,Bretches D. Clay,CEO,P - Purchase,$10.62,"+2,185",22970,+11%,"+$23,205",,,,,ALTM
+9,,2020-10-06 10:06:39,2020-10-05,ALTM,Bretches D. Clay,CEO,P - Purchase,$10.85,"+2,620",20785,+14%,"+$28,427",,,,,ALTM
+10,,2020-10-05 14:14:02,2020-10-02,ALTM,Bretches D. Clay,CEO,P - Purchase,$10.80,+51,18165,0%,+$551,,,,,ALTM
+11,,2020-09-28 16:38:14,2020-09-24,ALTM,Bretches D. Clay,CEO,P - Purchase,$11.01,+114,18114,+1%,"+$1,255",,,,,ALTM
+12,,2020-05-14 15:27:58,2020-05-13,ALTM,Bretches D. Clay,CEO,P - Purchase,$0.56,"+100,000",360000,+38%,"+$55,500",,,,,ALTM
+13,,2020-03-13 10:46:03,2020-03-11,ALTM,Bretches D. Clay,CEO,P - Purchase,$1.06,"+50,000",260000,+24%,"+$53,000",,,,,ALTM
+14,,2020-03-11 10:00:22,2020-03-10,ALTM,Bretches D. Clay,CEO,P - Purchase,$1.08,"+10,000",210000,+5%,"+$10,800",,,,,ALTM
+15,,2020-03-02 15:31:04,2020-03-02,ALTM,Bretches D. Clay,CEO,P - Purchase,$1.40,"+40,000",200000,+25%,"+$56,000",,,,,ALTM
+16,,2019-11-20 11:52:14,2019-11-19,ALTM,Bretches D. Clay,CEO,P - Purchase,$1.69,"+20,000",160000,+14%,"+$33,800",,,,,ALTM
+17,,2019-11-06 17:37:18,2019-11-04,ALTM,Lannie P Anthony,"EVP, GC",S - Sale,$2.40,-25000,0,-100%,"-$60,036",,,,,ALTM
+18,,2019-11-06 17:34:15,2019-11-06,ALTM,Bretches D. Clay,CEO,P - Purchase,$2.19,"+20,000",140000,+17%,"+$43,800",,,,,ALTM
+19,,2019-08-26 17:17:38,2019-08-26,ALTM,Bretches D. Clay,CEO,P - Purchase,$2.36,"+20,000",120000,+20%,"+$47,200",,,,,ALTM
+20,,2019-08-15 15:26:29,2019-08-14,ALTM,Bretches D. Clay,CEO,P - Purchase,$2.58,"+25,000",100000,+33%,"+$64,576",,,,,ALTM
+21,,2019-06-28 15:24:32,2019-06-27,ALTM,Bretches D. Clay,CEO,P - Purchase,$3.65,"+20,000",75000,+36%,"+$73,000",,,,,ALTM
+22,,2019-06-27 13:35:50,2019-06-27,ALTM,Bretches D. Clay,CEO,P - Purchase,$3.64,"+15,000",55000,+38%,"+$54,600",,,,,ALTM
+23,,2019-06-17 11:00:12,2019-06-14,ALTM,Bretches D. Clay,CEO,P - Purchase,$4.22,"+20,000",40000,+100%,"+$84,300",,,,,ALTM
+24,M,2019-05-23 17:08:32,2019-05-16,ALTM,Bretches D. Clay,CEO,P - Purchase,$5.20,"+20,000",20000,New,"+$104,000",,,,,ALTM
+25,M,2019-03-27 15:15:34,2019-03-26,ALTM,Kayne Anderson Capital Advisors LP,10%,S - Sale,$6.03,-221600,13781686,-2%,"-$1,336,734",,,,,ALTM
+26,M,2019-03-13 14:40:22,2019-03-11,ALTM,Kayne Anderson Capital Advisors LP,10%,S - Sale,$6.13,-223600,14003286,-2%,"-$1,370,746",,,,,ALTM
+27,AM,2019-03-04 14:59:21,2018-12-28,ALTM,Kayne Anderson Capital Advisors LP,10%,P - Purchase,$7.79,"+16,000",14226886,0%,"+$124,700",,,,,ALTM
+28,AM,2019-03-04 14:59:21,2019-02-12,ALTM,Kayne Anderson Capital Advisors LP,10%,S - Sale,$7.09,-107114,14226886,-1%,"-$759,375",,,,,ALTM
+29,,2018-11-14 15:32:33,2018-11-09,KAAC,Kayne Anderson Capital Advisors LP,10%,P - Purchase,$10.00,"+14,518,000",32836000,+79%,"+$145,180,000",,,,,ALTM

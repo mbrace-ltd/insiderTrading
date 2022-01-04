@@ -1,0 +1,33 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,company
+0,D,2021-08-19 17:49:39,2021-08-17,PTGX,Liu David Y,Chief Scientific Officer,S - Sale+OE,$47.56,-14779,58254,-20%,"-$702,889",,,,,PTGX
+1,DM,2021-02-12 18:36:55,2021-02-10,PTGX,Noonberg Sarah B.,Dir,S - Sale+OE,$25.30,-8400,0,-100%,"-$212,555",,,,,PTGX
+2,D,2021-01-20 20:20:13,2021-01-19,PTGX,Patel Dinesh V Ph D,"Pres, CEO",S - Sale+OE,$24.60,-24846,426144,-6%,"-$611,105",,,,,PTGX
+3,D,2020-08-12 17:38:37,2020-08-11,PTGX,Khosla Chaitan Phd,Dir,S - Sale+OE,$17.19,-2499,0,-100%,"-$42,952",,,,,PTGX
+4,,2020-03-12 19:26:50,2020-03-12,PTGX,Selick Harold E,Dir,P - Purchase,$6.70,"+12,000",15310,+363%,"+$80,400",,,,,PTGX
+5,,2019-12-03 18:46:06,2019-12-03,PTGX,Giraudo Bryan,Dir,P - Purchase,$5.70,"+8,000",18000,+80%,"+$45,620",,,,,PTGX
+6,,2019-12-03 18:32:31,2019-12-03,PTGX,Gupta Suneel,EVP Clinical Operations,P - Purchase,$5.13,"+30,000",49500,+154%,"+$153,900",,,,,PTGX
+7,,2019-12-03 18:11:32,2019-12-03,PTGX,Kalkofen Donald A.,CFO,P - Purchase,$5.10,"+1,175",1175,New,"+$5,987",,,,,PTGX
+8,,2019-12-03 18:10:33,2019-12-03,PTGX,Patel Dinesh V Ph D,"Pres, CEO",P - Purchase,$5.62,"+30,000",409824,+8%,"+$168,500",,,,,PTGX
+9,,2019-08-08 18:17:23,2019-08-06,PTGX,Liu David Y,Chief Scientific Officer,S - Sale,$8.85,-3395,49802,-6%,"-$30,044",,,,,PTGX
+10,,2019-08-08 18:15:35,2019-08-06,PTGX,Patel Dinesh V Ph D,"Pres, CEO",S - Sale,$8.85,-10792,374792,-3%,"-$95,535",,,,,PTGX
+11,D,2019-03-04 18:35:51,2019-03-01,PTGX,Liu David Y,Chief Scientific Officer,S - Sale+OE,$8.03,-810,51197,-2%,"-$6,504",,,,,PTGX
+12,D,2019-03-04 18:33:51,2019-03-01,PTGX,Patel Dinesh V Ph D,"Pres, CEO",S - Sale+OE,$8.03,-2183,383831,-1%,"-$17,529",,,,,PTGX
+13,D,2019-03-04 18:29:44,2019-03-01,PTGX,Shames Richard S.,Chief Medical Officer,S - Sale+OE,$8.03,-657,32021,-2%,"-$5,276",,,,,PTGX
+14,,2019-02-08 17:37:50,2019-02-06,PTGX,Patel Dinesh V Ph D,"Pres, CEO",S - Sale,$7.74,-10909,357264,-3%,"-$84,410",,,,,PTGX
+15,,2019-02-08 17:30:02,2019-02-06,PTGX,Liu David Y,Chief Scientific Officer,S - Sale,$7.74,-3821,37007,-9%,"-$29,562",,,,,PTGX
+16,,2019-02-08 17:27:41,2019-02-06,PTGX,Shames Richard S.,Chief Medical Officer,S - Sale,$7.74,-2778,24178,-10%,"-$21,506",,,,,PTGX
+17,,2018-05-21 16:34:24,2018-05-17,PTGX,Canaan X L.P.,10%,S - Sale,$6.09,-38968,2116552,-2%,"-$237,358",,,,,PTGX
+18,D,2018-05-17 17:48:14,2017-05-16,PTGX,Giraudo Bryan,Dir,P - Purchase,$6.46,"+10,000",10000,New,"+$64,566",,,,,PTGX
+19,M,2018-05-16 17:16:44,2018-05-14,PTGX,Canaan X L.P.,10%,S - Sale,$6.42,-164747,2155520,-7%,"-$1,058,375",,,,,PTGX
+20,,2018-03-26 16:25:19,2018-03-23,PTGX,Canaan X L.P.,10%,S - Sale,$20.71,-59950,2320267,-3%,"-$1,241,325",,,,,PTGX
+21,M,2018-03-22 17:33:28,2018-03-20,PTGX,Canaan X L.P.,10%,S - Sale,$20.61,-39518,2380217,-2%,"-$814,398",,,,,PTGX
+22,M,2018-03-19 17:22:23,2018-03-16,PTGX,Canaan X L.P.,10%,S - Sale,$20.55,-20365,2419735,-1%,"-$418,508",,,,,PTGX
+23,M,2018-03-15 16:55:57,2018-03-13,PTGX,Canaan X L.P.,10%,S - Sale,$20.66,-13155,2440100,-1%,"-$271,768",,,,,PTGX
+24,D,2018-03-13 16:48:52,2018-03-12,PTGX,Liu David Y,Chief Scientific Officer,S - Sale+OE,$21.29,-3500,15028,-19%,"-$74,500",,,,,PTGX
+25,D,2018-03-02 19:17:22,2018-03-02,PTGX,Liu David Y,Chief Scientific Officer,S - Sale+OE,$20.00,-875,13322,-6%,"-$17,500",,,,,PTGX
+26,D,2018-01-17 16:34:26,2018-01-16,PTGX,Liu David Y,Chief Scientific Officer,S - Sale+OE,$20.00,-875,3822,-19%,"-$17,500",,,,,PTGX
+27,D,2017-12-27 14:07:02,2017-12-22,PTGX,Shames Richard S.,Chief Medical Officer,S - Sale+OE,$20.50,-3529,0,-100%,"-$72,345",,,,,PTGX
+28,D,2017-12-21 19:54:35,2017-12-21,PTGX,Patel Dinesh V Ph D,"Pres, CEO",S - Sale+OE,$19.56,-8210,190437,-4%,"-$160,570",,,,,PTGX
+29,D,2017-12-20 21:28:46,2017-12-20,PTGX,Patel Dinesh V Ph D,"Pres, CEO",S - Sale+OE,$19.55,-1790,190437,-1%,"-$34,987",,,,,PTGX
+30,D,2017-12-20 21:13:25,2017-12-18,PTGX,Liu David Y,Chief Scientific Officer,S - Sale+OE,$20.00,-875,3822,-19%,"-$17,500",,,,,PTGX
+31,D,2017-12-20 21:08:57,2017-12-18,PTGX,O'Neil Thomas P.,CFO,S - Sale+OE,$20.00,-8000,8000,-50%,"-$160,000",,,,,PTGX
