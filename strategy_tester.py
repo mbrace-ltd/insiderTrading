@@ -182,9 +182,8 @@ def test_ticker(file, current_dir):
 
 
 if __name__ == '__main__':
-    test_ticker("AMZN", "mega")
+    
     for current_dir in os.listdir("by_mcap"):
-        pass
         print(current_dir+"\n\n\n")
         d = len(os.listdir("by_mcap//"+current_dir))
         df = pd.read_csv("data//nasdaq_tickers.csv")
