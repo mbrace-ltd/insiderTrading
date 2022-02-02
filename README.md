@@ -1,6 +1,8 @@
 # Insider Trading
 ## Background
+Since 1934 the US Security and Exchange Commission requires all company personnel having ownership of more than 10% of the company equity to file a report within 48 hours of selling/buying company stocks. This data is online and publicly available in the SEC database.
 
+This project aims to explore the possible strategies that can be built upon acquiring this information.
 
 ## Project Description
 This project is meant to explore possible trading strategies built on insider trading information from SEC Form 4s.
@@ -39,4 +41,6 @@ The project directory consists of the following:
 ### Individual Best/Worst performing tickers:
 ![image](https://user-images.githubusercontent.com/96435975/152239884-0f65dadf-551a-481f-9ef7-741b2d1f53ca.png)
 
+## Limitations
 
+Given that executive compensation packages usually consist of stock options in the company, it is fair to assume that much of the "insider trading" is not done due to speculation or insider information. Managers can get short on cash as anyone else. Unfortunately, the intentions of the managers cannot be accounted for. Secondly, one can argue that given how easily accessible the trading information is, in the age of high-frequency trading all these transactions are "priced in" in an ideal market.
