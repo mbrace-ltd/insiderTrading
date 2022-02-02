@@ -1,4 +1,7 @@
 # Insider Trading
+
+Documentation for the project is available at <a href="https://www.mbrace.ltd/projects/insider_trading"> Mbrace - Insider Trading</a>
+
 ## Background
 Since 1934 the US Security and Exchange Commission requires all company personnel having ownership of more than 10% of the company equity to file a report within 48 hours of selling/buying company stocks. This data is online and publicly available in the SEC database.
 
@@ -10,7 +13,6 @@ Insider trading data for 3700 NASDAQ-listed companies was scraped from <a href="
 Historical stock prices for the same companies was scraped from YahooFinance via yfinance. 
 The generated strategies were backtested via Backtrader.
 
-Documentation for the project is available at <a href="https://www.mbrace.ltd/projects/insider_trading"> Mbrace - Insider Trading</a>
 
 
 
